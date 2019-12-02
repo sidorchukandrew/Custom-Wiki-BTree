@@ -1,0 +1,1008 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Publishing - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Publishing","wgTitle":"Publishing","wgCurRevisionId":923050964,"wgRevisionId":923050964,"wgArticleId":68761,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","CS1 errors: markup","CS1 maint: multiple names: authors list","Articles with short description","Wikipedia indefinitely move-protected pages","Articles lacking in-text citations from July 2009","All articles lacking in-text citations","Use dmy dates from March 2017","All articles with unsourced statements","Articles with unsourced statements from September 2018","Articles with unsourced statements from March 2011","Wikipedia articles with GND identifiers","Wikipedia articles with NARA identifiers",
+"Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Publishing","Media industry"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Publishing","wgRelevantArticleId":68761,"wgRequestId":"XbXAQwpAADsAAIqNS-YAAAAE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"
+},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3972943","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup",
+"mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg/1200px-The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Publishing"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Publishing&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Publishing&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Publishing"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Publishing rootpage-Publishing skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Publishing</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Process of production and dissemination of literature, music, or information
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       "Publisher" redirects here. For other uses, see 
+       <a href="/wiki/Publisher_(disambiguation)" class="mw-disambig" title="Publisher (disambiguation)">Publisher (disambiguation)</a>.
+      </div> 
+      <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article includes a 
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but 
+           <b>its sources remain unclear</b> because it has 
+           <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.
+           <span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> 
+           <small class="date-container"><i>(<span class="date">July 2009</span>)</i></small>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p class="mw-empty-elt"> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg/220px-The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg" decoding="async" width="220" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg/330px-The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg/440px-The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg 2x" data-file-width="1924" data-file-height="1160"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg" class="internal" title="Enlarge"></a>
+         </div>Printer working an early 
+         <a href="/wiki/Gutenberg_letter_press" class="mw-redirect" title="Gutenberg letter press">Gutenberg letterpress</a> from the 15th century. (engraving date unknown)
+        </div>
+       </div>
+      </div> 
+      <p><b>Publishing</b> is the <a href="/wiki/Dissemination" title="Dissemination">dissemination</a> of <a href="/wiki/Literature" title="Literature">literature</a>, <a href="/wiki/Music" title="Music">music</a>, or <a href="/wiki/Information" title="Information">information</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is the activity of making information available to the general public. In some cases, authors may be their own publishers, meaning originators and developers of <a href="/wiki/Content_(media_and_publishing)" class="mw-redirect" title="Content (media and publishing)">content</a> also provide <a href="/wiki/Media_(communication)" title="Media (communication)">media</a> to deliver and display their content. "<b>Publisher</b>" can refer both to an individual who leads a publishing company or an <a href="/wiki/Imprint_(trade_name)" title="Imprint (trade name)">imprint</a> and to an individual who owns/heads a magazine. </p>
+      <p>Traditionally, the term refers to the distribution of printed works, such as books (the "book trade") and <a href="/wiki/Newspaper" title="Newspaper">newspapers</a>. With the advent of digital information systems and the <a href="/wiki/Internet" title="Internet">Internet</a>, the scope of publishing has expanded to include electronic resources such as the electronic versions of books and periodicals, as well as <a href="/wiki/Micropublishing" title="Micropublishing">micropublishing</a>, <a href="/wiki/Electronic_publishing" title="Electronic publishing">websites</a>, <a href="/wiki/Blog" title="Blog">blogs</a>, <a href="/wiki/Video_game_publisher" title="Video game publisher">video game publishers</a>, and the like. </p>
+      <p>Publishing includes the following stages of development: acquisition, <a href="/wiki/Copy_editing" title="Copy editing">copy editing</a>, production, <a href="/wiki/Printing" title="Printing">printing</a> (and its <a href="/wiki/Electronic_publishing" title="Electronic publishing">electronic equivalents</a>), <a href="/wiki/Marketing" title="Marketing">marketing</a>, and <a href="/wiki/Distribution_(business)" class="mw-redirect" title="Distribution (business)">distribution</a>. </p>
+      <p><a href="/wiki/Publication" title="Publication">Publication</a> is also important as a <a href="/wiki/Law" title="Law">legal concept</a>: </p> 
+      <ol>
+       <li>As the process of giving formal notice to the world of a significant intention, for example, to <a href="/wiki/Marry" class="mw-redirect" title="Marry">marry</a> or enter <a href="/wiki/Bankruptcy" title="Bankruptcy">bankruptcy</a></li> 
+       <li>As the essential precondition of being able to claim <a href="/wiki/Defamation" title="Defamation">defamation</a>; that is, the alleged <a href="/wiki/Libel" class="mw-redirect" title="Libel">libel</a> must have been published</li> 
+       <li>For <a href="/wiki/Copyright" title="Copyright">copyright</a> purposes, where there is a difference in the protection of <a href="/wiki/Edition_(book)" title="Edition (book)">published</a> and unpublished works</li>
+      </ol> 
+      <p>There are two basic <a href="/wiki/Business_model" title="Business model">business models</a> in book publishing: </p> 
+      <ol>
+       <li>Traditional or commercial publishers: Do not charge authors at all to publish their books, for certain rights to publish the work and paying a royalty on books sold.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li> 
+       <li>Self-publishing: The author has to meet the total expense to get the book published. The author should retain full rights,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> also known as <a href="/wiki/Vanity_press" title="Vanity press">vanity publishing</a>.</li>
+      </ol> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#The_process_of_publishing"><span class="tocnumber">2</span> <span class="toctext">The process of publishing</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Acceptance_and_negotiation"><span class="tocnumber">2.1</span> <span class="toctext">Acceptance and negotiation</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Pre-production_stages"><span class="tocnumber">2.2</span> <span class="toctext">Pre-production stages</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-5"><a href="#Editorial_stage"><span class="tocnumber">2.2.1</span> <span class="toctext">Editorial stage</span></a></li> 
+            <li class="toclevel-3 tocsection-6"><a href="#Design_stage"><span class="tocnumber">2.2.2</span> <span class="toctext">Design stage</span></a></li> 
+            <li class="toclevel-3 tocsection-7"><a href="#Sales_and_marketing_stage"><span class="tocnumber">2.2.3</span> <span class="toctext">Sales and marketing stage</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Printing"><span class="tocnumber">2.3</span> <span class="toctext">Printing</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Binding"><span class="tocnumber">2.4</span> <span class="toctext">Binding</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#Distribution"><span class="tocnumber">2.5</span> <span class="toctext">Distribution</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Publishing_as_a_business"><span class="tocnumber">3</span> <span class="toctext">Publishing as a business</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Industry_sub-divisions"><span class="tocnumber">4</span> <span class="toctext">Industry sub-divisions</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-13"><a href="#Newspaper_publishing"><span class="tocnumber">4.1</span> <span class="toctext">Newspaper publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-14"><a href="#Periodical_publishing"><span class="tocnumber">4.2</span> <span class="toctext">Periodical publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-15"><a href="#Book_publishing"><span class="tocnumber">4.3</span> <span class="toctext">Book publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#Directory_publishing"><span class="tocnumber">4.4</span> <span class="toctext">Directory publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-17"><a href="#Academic_publishing"><span class="tocnumber">4.5</span> <span class="toctext">Academic publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-18"><a href="#Tie-in_publishing"><span class="tocnumber">4.6</span> <span class="toctext">Tie-in publishing</span></a></li> 
+          <li class="toclevel-2 tocsection-19"><a href="#Independent_publishing_alternatives"><span class="tocnumber">4.7</span> <span class="toctext">Independent publishing alternatives</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-20"><a href="#Recent_developments"><span class="tocnumber">5</span> <span class="toctext">Recent developments</span></a></li> 
+        <li class="toclevel-1 tocsection-21"><a href="#Standardization"><span class="tocnumber">6</span> <span class="toctext">Standardization</span></a></li> 
+        <li class="toclevel-1 tocsection-22"><a href="#Legal_issues"><span class="tocnumber">7</span> <span class="toctext">Legal issues</span></a></li> 
+        <li class="toclevel-1 tocsection-23"><a href="#Privishing"><span class="tocnumber">8</span> <span class="toctext">Privishing</span></a></li> 
+        <li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-25"><a href="#Notes_and_references"><span class="tocnumber">10</span> <span class="toctext">Notes and references</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-26"><a href="#Footnotes"><span class="tocnumber">10.1</span> <span class="toctext">Footnotes</span></a></li> 
+          <li class="toclevel-2 tocsection-27"><a href="#References"><span class="tocnumber">10.2</span> <span class="toctext">References</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Publishing became possible with the <a href="/wiki/History_of_writing" title="History of writing">invention of writing</a>, and became more practical upon the <a href="/wiki/History_of_printing" title="History of printing">introduction of printing</a>. Prior to printing, distributed works were copied manually, by <a href="/wiki/Scribe" title="Scribe">scribes</a>. Due to printing, publishing progressed hand-in-hand with the <a href="/wiki/History_of_books" title="History of books">development of books</a>. </p>
+      <p>The Chinese inventor <a href="/wiki/Bi_Sheng" title="Bi Sheng">Bi Sheng</a> made <a href="/wiki/Movable_type" title="Movable type">movable type</a> of earthenware circa 1045, but there are no known surviving examples of his printing. Around 1450, in what is commonly regarded as an independent invention, <a href="/wiki/Johannes_Gutenberg" title="Johannes Gutenberg">Johannes Gutenberg</a> invented movable type in Europe, along with innovations in casting the type based on a matrix and <a href="/wiki/Hand_mould" title="Hand mould">hand mould</a>. This invention gradually made books less expensive to produce and more widely available. </p>
+      <p>Early printed books, single sheets and images which were created before 1501 in Europe are known as <a href="/wiki/Incunable" title="Incunable">incunables</a> or <i>incunabula</i>. "A man born in 1453, the year of the fall of Constantinople, could look back from his fiftieth year on a lifetime in which about eight million books had been printed, more perhaps than all the scribes of Europe had produced since Constantine founded his city in A.D. 330."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p>Eventually, printing enabled other forms of publishing besides books. The <a href="/wiki/History_of_newspaper_publishing" title="History of newspaper publishing">history of modern newspaper publishing</a> started in Germany in 1609, with <a href="/wiki/Magazine#History" title="Magazine">publishing of magazines</a> following in 1663. </p>
+      <p>Historically, publishing has been handled by <a href="#Publishing_as_a_business">publishers</a>, with the history of <a href="/wiki/Self-publishing" title="Self-publishing">self-publishing</a> progressing slowly until the advent of computers brought us <a href="/wiki/Electronic_publishing" title="Electronic publishing">electronic publishing</a>, which has been made evermore ubiquitous from the moment the world went online with the <a href="/wiki/Internet" title="Internet">Internet</a>. The <a href="/wiki/History_of_the_World_Wide_Web" title="History of the World Wide Web">establishment of the World Wide Web</a> in 1989 soon propelled the <a href="/wiki/Website" title="Website">website</a> into a dominant medium of publishing, as websites are easily created by almost anyone with Internet access. The <a href="/wiki/History_of_wikis" title="History of wikis">history of wikis</a> started shortly thereafter, followed closely by the <a href="/wiki/History_of_blogging" title="History of blogging">history of blogging</a>. Commercial publishing also progressed, as previously printed forms developed into online forms of publishing, distributing <a href="/wiki/Online_book" title="Online book">online books</a>, <a href="/wiki/Online_newspaper#History" title="Online newspaper">online newspapers</a>, and <a href="/wiki/Online_magazine" title="Online magazine">online magazines</a>. </p>
+      <p>Since its start, the World Wide Web has been facilitating the <a href="/wiki/Technological_convergence" title="Technological convergence">technological convergence</a> of commercial and self-published content, as well as the convergence of publishing and producing into <a href="/wiki/Online_producer" title="Online producer">online production</a> through the development of <a href="/wiki/Multimedia" title="Multimedia">multimedia</a> content. </p> 
+      <h2><span class="mw-headline" id="The_process_of_publishing">The process of publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=2" title="Edit section: The process of publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Book and magazine publishers spend a lot of their time buying or commissioning copy; newspaper publishers, by contrast, usually hire their staff to produce copy, although they may also employ freelance journalists, called <a href="/wiki/Stringer_(journalism)" title="Stringer (journalism)">stringers</a>. At a small press, it is possible to survive by relying entirely on commissioned material. But as activity increases, the need for works may outstrip the publisher's established circle of writers. </p>
+      <p>For works written independently of the publisher, writers often first submit a query letter or proposal directly to a <a href="/wiki/Literary_agent" title="Literary agent">literary agent</a> or to a publisher. Submissions sent directly to a publisher are referred to as unsolicited submissions, and the majority come from previously unpublished authors. If the publisher accepts unsolicited <a href="/wiki/Manuscript_(publishing)" title="Manuscript (publishing)">manuscripts</a>, then the manuscript is placed in the <a href="/wiki/Slush_pile" title="Slush pile">slush pile</a>, which <a href="/wiki/Publisher%27s_reader" title="Publisher's reader">publisher's readers</a> sift through to identify manuscripts of sufficient quality or revenue potential to be referred to acquisitions editors for review. The acquisitions editors send their choices to the editorial staff. The time and number of people involved in the process are dependent on the size of the publishing company, with larger companies having more degrees of assessment between unsolicited submission and publication. Unsolicited submissions have a very low rate of acceptance, with some sources estimating that publishers ultimately choose about three out of every ten thousand unsolicited manuscripts they receive.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>Many book publishers around the world maintain a strict "no unsolicited submissions" policy and will only accept submissions via a literary agent. This policy shifts the burden of assessing and developing writers out of the publisher and onto the literary agents. At these publishers, unsolicited manuscripts are thrown out, or sometimes returned, if the author has provided pre-paid postage. </p>
+      <p>Established authors may be represented by a <a href="/wiki/Literary_agent" title="Literary agent">literary agent</a> to market their work to publishers and negotiate contracts. Literary agents take a percentage of author earnings (varying between 10 and 15 percent) to pay for their services. </p>
+      <p>Some writers follow a non-standard route to publication. For example, this may include bloggers who have attracted large readerships producing a book based on their websites, books based on <a href="/wiki/Internet_memes" class="mw-redirect" title="Internet memes">Internet memes</a>, instant "celebrities" such as <a href="/wiki/Joe_the_Plumber" title="Joe the Plumber">Joe the Plumber</a>, retiring sports figures and in general anyone a publisher feels could produce a marketable book. Such books often employ the services of a <a href="/wiki/Ghostwriter" title="Ghostwriter">ghostwriter</a>. </p>
+      <p>For a submission to reach publication, it must be championed by an editor or publisher who must work to convince other staff of the need to publish a particular title. An editor who discovers or champions a book that subsequently becomes a best-seller may find their reputation enhanced as a result of their success. </p> 
+      <h3><span class="mw-headline" id="Acceptance_and_negotiation">Acceptance and negotiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=3" title="Edit section: Acceptance and negotiation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Once a work is accepted, <a href="/wiki/Commissioning_editor" title="Commissioning editor">commissioning editors</a> negotiate the purchase of <a href="/wiki/Intellectual_property" title="Intellectual property">intellectual property</a> rights and agree on <a href="/wiki/Royalties" class="mw-redirect" title="Royalties">royalty</a> rates. </p>
+      <p>The authors of traditional printed materials typically sell exclusive territorial intellectual property rights that match the list of countries in which distribution is proposed (i.e. the rights match the legal systems under which copyright protections can be enforced). In the case of books, the publisher and writer must also agree on the intended formats of publication —<a href="/wiki/Mass-market_paperback" class="mw-redirect" title="Mass-market paperback">mass-market paperback</a>, "trade" <a href="/wiki/Paperback" title="Paperback">paperback</a> and <a href="/wiki/Hardback" class="mw-redirect" title="Hardback">hardback</a> are the most common options. </p>
+      <p>The situation is slightly more complex if electronic formatting is to be used. Where distribution is to be by <a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a> or other physical media, there is no reason to treat this form differently from a paper format, and national copyright is an acceptable approach. But the possibility of Internet download without the ability to restrict physical distribution within national boundaries presents legal problems that are usually solved by selling language or translation rights rather than national rights. Thus, Internet access across the <a href="/wiki/European_Union" title="European Union">European Union</a> is relatively open because of the laws forbidding discrimination based on nationality, but the fact of publication in, say, France, limits the target market to those who read <a href="/wiki/French_language" title="French language">French</a>. </p>
+      <p>Having agreed on the scope of the publication and the formats, the parties in a book agreement must then agree on <a href="/wiki/Royalty_rate" class="mw-redirect" title="Royalty rate">royalty rates</a>, the percentage of the gross retail price that will be paid to the author, and the <a href="/wiki/Advance_payment" title="Advance payment">advance payment</a>. The publisher must estimate the potential sales in each market and balance projected revenue against production costs. Royalties usually range between 10–12% of recommended retail price. An advance is usually 1/3 of the first print run total royalties. For example, if a book has a print run of 5000 copies and will be sold at $14.95 and the author is to receive 10% royalties, the total sum payable to the author if all copies are sold is $7475 (10% x $14.95 x 5000). The advance in this instance would roughly be $2490. Advances vary greatly between books, with established authors commanding larger advances. </p> 
+      <h3><span class="mw-headline" id="Pre-production_stages">Pre-production stages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=4" title="Edit section: Pre-production stages">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Although listed as distinct stages, parts of these occur concurrently. As editing of text progresses, front cover design and initial layout takes place, and sales and marketing of the book begins. </p> 
+      <h4><span class="mw-headline" id="Editorial_stage">Editorial stage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=5" title="Edit section: Editorial stage">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>A decision is taken to publish a work, and the technical legal issues resolved, the author may be asked to improve the quality of the work through rewriting or smaller changes and the staff will <a href="/wiki/Editing" title="Editing">edit</a> the work. Publishers may maintain a <a href="/wiki/Style_guide" title="Style guide">house style</a>, and staff will <a href="/wiki/Copy_edit" class="mw-redirect" title="Copy edit">copy edit</a> to ensure that the work matches the style and grammatical requirements of each market. Editors often choose or refine titles and headlines. Editing may also involve structural changes and requests for more information. Some publishers employ <a href="/wiki/Fact_checker" class="mw-redirect" title="Fact checker">fact checkers</a>, particularly regarding non-fiction works. </p> 
+      <h4><span class="mw-headline" id="Design_stage">Design stage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=6" title="Edit section: Design stage">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>When a final text is agreed upon, the next phase is <a href="/wiki/Design" title="Design">design</a>. This may include <a href="/wiki/Visual_arts" title="Visual arts">artwork</a> being commissioned or confirmation of layout. In publishing, the word "art" also indicates photographs. Depending on the number of photographs required by the work, photographs may also be licensed from <a href="/wiki/Stock_photography" title="Stock photography">photo libraries</a>. For those works that are particularly rich in illustrations, the publisher may contract a picture researcher to find and license the photographs required for the work. The design process prepares the work for <a href="/wiki/Printing" title="Printing">printing</a> through processes such as <a href="/wiki/Typesetting" title="Typesetting">typesetting</a>, dust jacket composition, specification of paper quality, binding method and casing. </p>
+      <p>The type of book being produced determines the amount of design required. For standard fiction titles, the design is usually restricted to typography and cover design. For books containing illustrations or images, design takes on a much larger role in laying out how the page looks, how chapters begin and end, colours, typography, cover design and ancillary materials such as posters, catalogue images, and other sales materials. Non-fiction illustrated titles are the most design intensive books, requiring extensive use of images and illustrations, captions, typography and a deep involvement and consideration of the reader experience. </p>
+      <p>The activities of typesetting, page layout, the production of negatives, plates from the negatives and, for hardbacks, the preparation of brasses for the spine legend and <a href="/wiki/Imprint_(bibliography)" class="mw-redirect" title="Imprint (bibliography)">Imprint</a> are now all computerized. Prepress computerization evolved mainly in about the last twenty years of the 20th century. If the work is to be distributed electronically, the final files are saved in formats appropriate to the target operating systems of the hardware used for reading. These may include <a href="/wiki/PDF" title="PDF">PDF</a> files. </p> 
+      <h4><span class="mw-headline" id="Sales_and_marketing_stage">Sales and marketing stage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=7" title="Edit section: Sales and marketing stage">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>The sales and marketing stage is closely intertwined with the editorial process. As front cover images are produced, or chapters are edited, sales people may start talking about the book with their customers to build early interest. Publishing companies often produce advanced information sheets that may be sent to customers or overseas publishers to gauge possible sales. As early interest is measured, this information feeds back through the editorial process and may affect the formatting of the book and the strategy employed to sell it. For example, if interest from foreign publishers is high, co-publishing deals may be established whereby publishers share printing costs in producing large print runs thereby lowering the per-unit cost of the books. Conversely, if initial feedback is not strong, the print-run of the book may be reduced, the marketing budget cut or, in some cases, the book is dropped from publication altogether. </p> 
+      <h3><span class="mw-headline" id="Printing">Printing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=8" title="Edit section: Printing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>After the end of editing and design work, the printing phase begins. The first step involves the production of a <a href="/wiki/Pre-press_proof" class="mw-redirect" title="Pre-press proof">pre-press proof</a>, which the printers send for final checking and sign-off by the publisher. This proof shows the book precisely as it will appear once printed and represents the final opportunity for the publisher to find and correct any errors. Some printing companies use electronic proofs rather than printed proofs. Once the publisher has approved the proofs, printing – the physical production of the printed work – begins. </p>
+      <p>Recently new printing process have emerged, such as <a href="/wiki/Printing_on_demand" class="mw-redirect" title="Printing on demand">printing on demand</a> (POD) and <a href="/wiki/Web-to-print" title="Web-to-print">web-to-print</a>. The book is written, edited, and designed as usual, but it is not printed until the publisher receives an order for the book from a customer. This procedure ensures low costs for storage and reduces the likelihood of printing more books than will be sold. Web-to-print enables a more streamlined way of connecting customers to printing through an online medium. </p> 
+      <h3><span class="mw-headline" id="Binding">Binding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=9" title="Edit section: Binding">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Bibliopegy" class="mw-redirect" title="Bibliopegy">Bibliopegy</a>
+      </div> 
+      <p>In the case of books, binding follows upon the printing process. It involves folding the printed sheets, "securing them together, affixing boards or sides to it, and covering the whole with leather or other materials".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=10" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The final stage in publication involves making the product available to the public, usually by offering it for sale. In previous centuries, authors frequently also acted as their own editor, printer, and bookseller, but these functions have become separated. Once a book, newspaper, or another publication is printed, the publisher may use a variety of channels to distribute it. Books are most commonly sold through <a href="/wiki/Bookselling" title="Bookselling">booksellers</a> and through other retailers. Newspapers and magazines are typically sold in advance directly by the publisher to <a href="/wiki/Subscriber" class="mw-redirect" title="Subscriber">subscribers</a>, and then distributed either through the postal system or by <a href="/wiki/Newspaper_carrier" class="mw-redirect" title="Newspaper carrier">newspaper carriers</a>. Periodicals are also frequently sold through <a href="/wiki/Newsagent" class="mw-redirect" title="Newsagent">newsagents</a> and vending machines. </p>
+      <p>Within the book industry, printers often fly some copies of the finished book to publishers as sample copies to aid sales or to be sent out for pre-release reviews. The remaining books often travel from the printing facility via sea freight. Accordingly, the delay between the approval of the pre-press proof and the arrival of books in a warehouse, much less in a retail store, can take some months. For books that tie into movie release-dates (particularly for <a href="/wiki/Children%27s_films" class="mw-redirect" title="Children's films">children's films</a>), publishers will arrange books to arrive in store up to two months prior to the movie release to build interest in the movie. </p> 
+      <h2><span class="mw-headline" id="Publishing_as_a_business">Publishing as a business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=11" title="Edit section: Publishing as a business">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:ChungyoEslite_fullsize.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ChungyoEslite_fullsize.png/220px-ChungyoEslite_fullsize.png" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ChungyoEslite_fullsize.png/330px-ChungyoEslite_fullsize.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ChungyoEslite_fullsize.png/440px-ChungyoEslite_fullsize.png 2x" data-file-width="1600" data-file-height="1200"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:ChungyoEslite_fullsize.png" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/Eslite_Bookstore" title="Eslite Bookstore">Eslite Bookstore</a> in 
+         <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>.
+        </div>
+       </div>
+      </div> 
+      <p>Derided in the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> as "a purely commercial affair" that cared more about profits than about literary quality,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> publishing is fundamentally a business, with a need for the expenses of creating, producing, and distributing a book or other publication not to exceed the income derived from its sale. Publishing is now a major industry with the largest companies <a href="/wiki/Reed_Elsevier" class="mw-redirect" title="Reed Elsevier">Reed Elsevier</a> and <a href="/wiki/Pearson_PLC" class="mw-redirect" title="Pearson PLC">Pearson PLC</a> having global publishing operations. </p>
+      <p>The publisher usually controls the <a href="/wiki/Advertising" title="Advertising">advertising</a> and other <a href="/wiki/Marketing" title="Marketing">marketing</a> tasks, but may <a href="/wiki/Subcontract" class="mw-redirect" title="Subcontract">subcontract</a> various aspects of the process to specialist publisher marketing agencies. In many companies, editing, proofreading, layout, design, and other aspects of the production process are done by <a href="/wiki/Freelancer" title="Freelancer">freelancers</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>Dedicated in-house salespeople are sometimes replaced by companies who specialize in sales to bookshops, wholesalers, and chain stores for a fee. This trend is accelerating as retail book chains and supermarkets have centralized their buying. </p>
+      <p>If the entire process up to the stage of printing is handled by an outside company or individuals, and then sold to the publishing company, it is known as <i><a href="/wiki/Book_packaging" title="Book packaging">book packaging</a></i>. This is a common strategy between smaller publishers in different territorial markets where the company that first buys the intellectual property rights then sells a package to other publishers and gains an immediate return on capital invested. The first publisher will often print sufficient copies for all markets and thereby get the maximum quantity efficiency on the print run for all. </p>
+      <p>Some businesses maximize their profit margins through <a href="/wiki/Vertical_integration" title="Vertical integration">vertical integration</a>; book publishing is not one of them. Although newspaper and magazine companies still often own printing presses and binderies, book publishers rarely do. Similarly, the trade usually sells the finished products through a <a href="/wiki/Distribution_(business)" class="mw-redirect" title="Distribution (business)">distributor</a> who stores and distributes the publisher's wares for a percentage fee or sells on a sale or return basis. </p>
+      <p>The advent of the Internet has provided the electronic way of book distribution without the need of physical printing, physical delivery and storage of books. This, therefore, poses an interesting question that challenges publishers, distributors, and retailers. The question pertains to the role and importance the publishing houses have in the overall publishing process. It is a common practice that the author, the original creator of the work, signs the contract awarding him or her only around 10% of the proceeds of the book.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Such contract leaves 90% of the book proceeds to the publishing houses, distribution companies, marketers, and retailers. One example (rearranged) of the distribution of proceeds from the sale of a book was given as follows:<sup id="cite_ref-ireaderreview.com_11-0" class="reference"><a href="#cite_note-ireaderreview.com-11">[11]</a></sup> </p> 
+      <ul>
+       <li>45% to the retailer</li> 
+       <li>10% to the wholesaler</li> 
+       <li>10.125% to the publisher for printing (this is usually subcontracted out)</li> 
+       <li>7.15% to the publisher for marketing</li> 
+       <li>12.7% to the publisher for pre-production</li> 
+       <li>15% to the author (royalties)</li>
+      </ul> 
+      <p>There is a common misconception that publishing houses make large profits and that authors are the lowest paid in the publishing chain. However, most publishers make little profit from individual titles, with 75% of books not breaking even. Approximately 80% of the cost of a book is taken up by the expenses of preparing, distributing, and printing (with printing being one of the lowest costs of all). On successful titles, publishing companies will usually make around 10% profit, with the author(s) receiving 8–15% of the retail price. However, given that authors are usually individuals, are often paid advances irrespective of whether the book turns a profit and do not normally have to split profits with others, it makes them the highest paid individuals in the publishing process. </p>
+      <p>Within the electronic book path, the publishing house's role remains almost identical. The process of preparing a book for e-book publication is exactly the same as print publication, with only minor variations in the process to account for the different mediums of publishing. While some costs, such as the discount given to retailers (normally around 45%)<sup id="cite_ref-ireaderreview.com_11-1" class="reference"><a href="#cite_note-ireaderreview.com-11">[11]</a></sup> are eliminated, additional costs connected to ebooks apply (especially in the conversion process), raising the production costs to a similar level.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2018)">citation needed</span></a></i>]</sup> </p>
+      <p><a href="/wiki/Print_on_demand" title="Print on demand">Print on demand</a> is rapidly becoming an established alternative to traditional publishing. In 2005, <a href="/wiki/Amazon.com" class="mw-redirect" title="Amazon.com">Amazon.com</a> announced its purchase of Booksurge and selfsanepublishing, a major "print on demand" operation. CreateSpace is the Amazon subsidiary that facilitates publishing by small presses and individual authors. Books published via CreateSpace are sold on Amazon and other outlets, with Amazon extracting a very high percentage of the sales proceeds for the services of publishing. printing and distributing. One of the largest bookseller chains, Barnes &amp; Noble, already runs its successful imprint with both new titles and classics — hardback editions of out-of-print former best sellers. Similarly, Ingram Industries, the parent company of Ingram Book Group (a leading US book wholesaler), now includes its print-on-demand division called Lightning Source. In 2013, Ingram launched a small press and self-publishing arm called Ingram Spark.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Payment terms are much closer to those of Amazon and less favorable than those they offer to more established publishers via Lightning Source. </p>
+      <p>Book clubs are almost entirely direct-to-retail, and niche publishers pursue a mixed strategy to sell through all available outlets — their output is insignificant to the major booksellers, so lost revenue poses no threat to the traditional symbiotic relationships between the four activities of printing, publishing, distribution, and retail. </p> 
+      <h2><span class="mw-headline" id="Industry_sub-divisions">Industry sub-divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=12" title="Edit section: Industry sub-divisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Newspaper_publishing">Newspaper publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=13" title="Edit section: Newspaper publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Newspaper" title="Newspaper">Newspaper</a>
+      </div> 
+      <p>Newspapers are regularly scheduled publications that present recent news, typically on a type of inexpensive paper called <a href="/wiki/Newsprint" title="Newsprint">newsprint</a>. Most newspapers are primarily sold to <a href="/wiki/Subscriber" class="mw-redirect" title="Subscriber">subscribers</a>, through retail newsstands or are distributed as advertising-supported <a href="/wiki/Free_newspaper" title="Free newspaper">free newspapers</a>. About one-third of publishers in the United States are newspaper publishers.<sup id="cite_ref-DOL_13-0" class="reference"><a href="#cite_note-DOL-13">[13]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Periodical_publishing">Periodical publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=14" title="Edit section: Periodical publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Periodical_publication" class="mw-redirect" title="Periodical publication">Periodical publication</a>
+      </div> 
+      <p>Nominally, periodical publishing involves publications that appear in a new edition on a regular schedule. Newspapers and magazines are both periodicals, but within the industry, the periodical publishing is frequently considered a separate branch that includes magazines and even <a href="/wiki/Academic_journal" title="Academic journal">academic journals</a>, but not newspapers.<sup id="cite_ref-DOL_13-1" class="reference"><a href="#cite_note-DOL-13">[13]</a></sup> About one-third of publishers in the United States publish periodicals (not including newspapers).<sup id="cite_ref-DOL_13-2" class="reference"><a href="#cite_note-DOL-13">[13]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Book_publishing">Book publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=15" title="Edit section: Book publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: 
+       <a href="/wiki/History_of_books" title="History of books">History of books</a>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       "Book publishing company" redirects here. For the publisher named Book Publishing Company, see 
+       <a href="/wiki/The_Farm_(Tennessee)" title="The Farm (Tennessee)">The Farm (Tennessee)</a>.
+      </div> 
+      <p>The global book publishing industry accounts for over $100 billion of annual revenue, or about 15% of the total media industry.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p>
+      <p>Book publishers represent less than a sixth of the publishers in the United States.<sup id="cite_ref-DOL_13-3" class="reference"><a href="#cite_note-DOL-13">[13]</a></sup> Most books are published by a small number of very large book publishers, but thousands of smaller book publishers exist. Many small- and medium-sized book publishers specialize in a specific area. Additionally, thousands of authors have created publishing companies and self-published their own works. </p>
+      <p>Within the book publishing, the <b>publisher of record</b> for a book is the entity in whose name the book's <a href="/wiki/ISBN" class="mw-redirect" title="ISBN">ISBN</a> is registered. The publisher of record may or may not be the actual publisher. </p>
+      <p>Approximately 60%<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> of English-language books are produced through the "Big Five" publishing houses: <a href="/wiki/Penguin_Random_House" title="Penguin Random House">Penguin Random House</a>, <a href="/wiki/Hachette_Book_Group_USA" class="mw-redirect" title="Hachette Book Group USA">Hachette</a>, <a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a> and <a href="/wiki/Macmillan_Publishers" title="Macmillan Publishers">Macmillan</a>. (See also: <a href="/wiki/List_of_English-language_book_publishing_companies" title="List of English-language book publishing companies">List of English-language book publishing companies</a>.) </p> 
+      <h3><span class="mw-headline" id="Directory_publishing">Directory publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=16" title="Edit section: Directory publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Directory publishing is a specialized genre within the publishing industry. These publishers produce mailing lists, <a href="/wiki/Telephone_book" class="mw-redirect" title="Telephone book">telephone books</a>, and other types of directories.<sup id="cite_ref-DOL_13-4" class="reference"><a href="#cite_note-DOL-13">[13]</a></sup> With the advent of the Internet, many of these directories are now online. </p> 
+      <h3><span class="mw-headline" id="Academic_publishing">Academic publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=17" title="Edit section: Academic publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Academic_publishing" title="Academic publishing">Academic publishing</a>
+      </div> 
+      <p>Academic publishers are typically either book or periodical publishers that have specialized in academic subjects. Some, like <a href="/wiki/University_presses" class="mw-redirect" title="University presses">university presses</a>, are owned by scholarly institutions. Others are commercial businesses that focus on academic subjects. </p>
+      <p>The development of the <a href="/wiki/Printing_press" title="Printing press">printing press</a> represented a revolution for communicating the latest hypotheses and research results to the academic community and supplemented what a scholar could do personally. But this improvement in the <a href="/w/index.php?title=Communication_efficiency&amp;action=edit&amp;redlink=1" class="new" title="Communication efficiency (page does not exist)">efficiency of communication</a> created a challenge for libraries, which have had to accommodate the weight and volume of literature. </p>
+      <p>One of the key functions that academic publishers provide is to manage the process of <a href="/wiki/Peer_review" title="Peer review">peer review</a>. Their role is to facilitate the impartial assessment of research and this vital role is not one that has yet been usurped, even with the advent of social networking and online document sharing. </p>
+      <p>Today, publishing academic journals and textbooks is a large part of an international industry. Critics claim that standardised accounting and profit-oriented policies have displaced the publishing ideal of providing access to all. In contrast to the commercial model, there is <a href="/wiki/Non-profit" class="mw-redirect" title="Non-profit">non-profit</a> publishing, where the publishing organization is either organised specifically for the purpose of publishing, such as a <a href="/wiki/University_press" title="University press">university press</a>, or is one of the functions of an organisation such as a medical charity, founded to achieve specific practical goals. An alternative approach to the corporate model is <a href="/wiki/Open_access_(publishing)" class="mw-redirect" title="Open access (publishing)">open access</a>, the online distribution of individual articles and academic journals without charge to readers and libraries. The pioneers of Open Access journals are <a href="/wiki/BioMed_Central" title="BioMed Central">BioMed Central</a> and the Public Library of Science (<a href="/wiki/PLoS" class="mw-redirect" title="PLoS">PLoS</a>). Many commercial publishers are experimenting with hybrid models where certain articles or government funded articles are made free due to authors' payment of processing charges, and other articles are available as part of a subscription or individual article purchase. </p> 
+      <h3><span class="mw-headline" id="Tie-in_publishing">Tie-in publishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=18" title="Edit section: Tie-in publishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Tie-in" title="Tie-in">Tie-in</a>
+      </div> 
+      <p>Technically, radio, television, cinemas, VCDs and DVDs, music systems, games, computer hardware and mobile telephony publish information to their audiences. Indeed, the marketing of a major film often includes a <a href="/wiki/Novelization" title="Novelization">novelization</a>, a graphic novel or comic version, the soundtrack album, a game, model, toys and endless promotional publications. </p>
+      <p>Some of the major publishers have entire divisions devoted to a single franchise, e.g. Ballantine Del Rey Lucasbooks has the exclusive rights to <i>Star Wars</i> in the United States; Random House UK (Bertelsmann)/Century LucasBooks holds the same rights in the United Kingdom. The game industry self-publishes through BL Publishing/<a href="/wiki/Black_Library" title="Black Library">Black Library</a> (<a href="/wiki/Warhammer_Fantasy_(setting)" title="Warhammer Fantasy (setting)">Warhammer</a>) and Wizards of the Coast (<a href="/wiki/Dragonlance" title="Dragonlance">Dragonlance</a>, <a href="/wiki/Forgotten_Realms" title="Forgotten Realms">Forgotten Realms</a>, etc.). The BBC has its publishing division that does very well with long-running series such as <a href="/wiki/Doctor_Who" title="Doctor Who">Doctor Who</a>. These multimedia works are cross-marketed aggressively and sales frequently outperform the average stand-alone published work, making them a focus of corporate interest.<sup id="cite_ref-cave_16-0" class="reference"><a href="#cite_note-cave-16">[16]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Independent_publishing_alternatives">Independent publishing alternatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=19" title="Edit section: Independent publishing alternatives">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: 
+       <a href="/wiki/Alternative_media" title="Alternative media">Alternative media</a>
+      </div> 
+      <p>Writers in a specialized field or with a narrower appeal have found smaller alternatives to the mass market in the form of <a href="/wiki/Small_press" title="Small press">small presses</a> and <a href="/wiki/Self-publishing" title="Self-publishing">self-publishing</a>. More recently, these options include <a href="/wiki/Print_on_demand" title="Print on demand">print on demand</a> and <a href="/wiki/Ebook" class="mw-redirect" title="Ebook">ebook</a> format. These publishing alternatives provide an avenue for authors who believe that mainstream publishing will not meet their needs or who are in a position to make more money from direct sales than they could from <a href="/wiki/Bookstore" class="mw-redirect" title="Bookstore">bookstore</a> sales, such as popular speakers who sell books after speeches. Authors are more readily published by this means due to the much lower costs involved. </p> 
+      <h2><span class="mw-headline" id="Recent_developments">Recent developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=20" title="Edit section: Recent developments">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The 21st century has brought some new technological changes to the publishing industry. These changes include <a href="/wiki/E-books" class="mw-redirect" title="E-books">e-books</a>, <a href="/wiki/Print_on_demand" title="Print on demand">print on demand</a>, and <a href="/wiki/Accessible_publishing" title="Accessible publishing">accessible publishing</a>. E-books have been quickly growing in availability in major publishing markets such as the US and the UK since 2005. <a href="/wiki/Google" title="Google">Google</a>, <a href="/wiki/Amazon.com" class="mw-redirect" title="Amazon.com">Amazon.com</a>, and <a href="/wiki/Sony" title="Sony">Sony</a> have been leaders in working with publishers and libraries to digitize books. As of early 2011, Amazon's <a href="/wiki/Amazon_Kindle" title="Amazon Kindle">Kindle</a> reading device is a significant force in the market, along with the <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> <a href="/wiki/IPad" title="IPad">iPad</a> and the <a href="/wiki/Barnes_%26_Noble_Nook" title="Barnes &amp; Noble Nook">Nook</a> from <a href="/wiki/Barnes_%26_Noble" title="Barnes &amp; Noble">Barnes &amp; Noble</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>]</sup> Along with the growing popularity of e-books, some companies like <a href="/wiki/Oyster_(company)" title="Oyster (company)">Oyster</a> and <a href="/wiki/Scribd" title="Scribd">Scribd</a> have pursued the subscription model, providing members unlimited access to a content library on a variety of digital reading devices. </p>
+      <p>The ability to quickly and cost-effectively print on demand has meant that publishers no longer have to store books at warehouses, if the book is in low or unknown demand. This is a huge advantage to small publishers who can now operate without large overheads and large publishers who can now cost-effectively sell their backlisted items. </p>
+      <p><a href="/wiki/Accessible_publishing" title="Accessible publishing">Accessible publishing</a> uses the digitization of books to mark up books into <a href="/wiki/XML" title="XML">XML</a> and then produces multiple formats from this to sell to consumers, often targeting those with difficulty reading. Formats include a variety larger print sizes, specialized print formats for <a href="/wiki/Dyslexia" title="Dyslexia">dyslexia</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> eye tracking problems and <a href="/wiki/Macular_degeneration" title="Macular degeneration">macular degeneration</a>, as well as <a href="/wiki/Braille" title="Braille">Braille</a>, <a href="/wiki/DAISY" title="DAISY">DAISY</a>, <a href="/wiki/Audiobook" title="Audiobook">audiobooks</a> and <a href="/wiki/E-books" class="mw-redirect" title="E-books">e-books</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </p>
+      <p>Green publishing means adapting the publishing process to minimise environmental impact. One example of this is the concept of on-demand printing, using digital or print-on-demand technology. This cuts down the need to ship books since they are manufactured close to the customer on a just-in-time basis.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </p>
+      <p>A further development is the growth of on-line publishing where no physical books are produced. The ebook is created by the author and uploaded to a website from where it can be downloaded and read by anyone. </p>
+      <p>An increasing number of authors are using <a href="/wiki/Niche_marketing" class="mw-redirect" title="Niche marketing">niche marketing</a> online to sell more books by engaging with their readers online.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> These authors can use free services such as <a href="/wiki/Smashwords" title="Smashwords">Smashwords</a> or Amazon's <a href="/wiki/CreateSpace" title="CreateSpace">CreateSpace</a> to have their book available for worldwide sale. There is an obvious attraction for first time authors who have been repeatedly rejected by the existing agent/publisher model to explore this opportunity. However, a consequence of this change in the mechanics of book distribution is that there is now no mandatory check on author skill or even their ability to spell, and any person with an internet connection can publish whatever they choose, regardless of the literary merit or even basic readability of their writing. </p> 
+      <h2><span class="mw-headline" id="Standardization">Standardization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=21" title="Edit section: Standardization">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Refer to the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> divisions of ICS 01.140.40 and 35.240.30 for further information.<sup id="cite_ref-pub_21-0" class="reference"><a href="#cite_note-pub-21">[21]</a></sup><sup id="cite_ref-itpub_22-0" class="reference"><a href="#cite_note-itpub-22">[22]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Legal_issues">Legal issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=22" title="Edit section: Legal issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:World_Intellectual_Property_Organization_Geneva.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/World_Intellectual_Property_Organization_Geneva.jpg/200px-World_Intellectual_Property_Organization_Geneva.jpg" decoding="async" width="200" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/World_Intellectual_Property_Organization_Geneva.jpg/300px-World_Intellectual_Property_Organization_Geneva.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/World_Intellectual_Property_Organization_Geneva.jpg/400px-World_Intellectual_Property_Organization_Geneva.jpg 2x" data-file-width="960" data-file-height="1280"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:World_Intellectual_Property_Organization_Geneva.jpg" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/World_Intellectual_Property_Organization" title="World Intellectual Property Organization">World Intellectual Property Organization</a>, 
+         <a href="/wiki/Geneva" title="Geneva">Geneva</a>
+        </div>
+       </div>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: 
+       <a href="/wiki/Publication" title="Publication">Publication</a>
+      </div> 
+      <p>Publication is the distribution of copies or <a href="/wiki/Content_(media_and_publishing)" class="mw-redirect" title="Content (media and publishing)">content</a> to the <a href="/wiki/General_public" class="mw-redirect" title="General public">public</a>.<sup id="cite_ref-bc_23-0" class="reference"><a href="#cite_note-bc-23">[23]</a></sup><sup id="cite_ref-ucc_24-0" class="reference"><a href="#cite_note-ucc-24">[24]</a></sup> The <a href="/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works" class="mw-redirect" title="Berne Convention for the Protection of Literary and Artistic Works">Berne Convention</a> requires that this can only be done with the consent of the copyright holder, which is initially always the author.<sup id="cite_ref-bc_23-1" class="reference"><a href="#cite_note-bc-23">[23]</a></sup> In the <a href="/wiki/Universal_Copyright_Convention" title="Universal Copyright Convention">Universal Copyright Convention</a>, "publication" is defined in article VI as "the reproduction in tangible form and the general distribution to the public of copies of a work from which it can be read or otherwise visually perceived."<sup id="cite_ref-ucc_24-1" class="reference"><a href="#cite_note-ucc-24">[24]</a></sup> </p>
+      <p>In providing a work to the general public, the publisher takes responsibility for the publication in a way that a mere printer or a shopkeeper does not. For example, publishers may face charges of <a href="/wiki/Defamation" title="Defamation">defamation</a>, if they produce and distribute libelous material to the public, even if the libel was written by another person. </p> 
+      <h2><span class="mw-headline" id="Privishing">Privishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=23" title="Edit section: Privishing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><b>Privishing</b> (<i>priv</i>ate publ<i>ishing</i>) is a modern term for publishing a book but printing so few copies or with such lack of marketing, advertising or sales support that it effectively does not reach the public.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The book, while nominally published, is almost impossible to obtain through normal channels such as bookshops, often cannot be ordered specially and has a notable lack of support from its publisher, including refusal to reprint the title. A book that is privished may be referred to as "killed". Depending on the motivation, privishing may constitute <a href="/wiki/Breach_of_contract" title="Breach of contract">breach of contract</a>, <a href="/wiki/Censorship" title="Censorship">censorship</a>,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> or good business practice (e.g., not printing more books than the publisher believes will sell in a reasonable length of time). </p> 
+      <div style="clear:both;"></div> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div> 
+       <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+        <tbody>
+         <tr> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> <p><b>General:</b> </p> 
+           <ul>
+            <li><a href="/wiki/Accessible_publishing" title="Accessible publishing">Accessible publishing</a></li> 
+            <li><a href="/wiki/Concentration_of_media_ownership" title="Concentration of media ownership">Concentration of media ownership</a></li> 
+            <li><a href="/wiki/Edition_(book)" title="Edition (book)">Editions</a></li> 
+            <li><a href="/wiki/Lists_of_publishing_companies" title="Lists of publishing companies">Lists of publishing companies</a></li> 
+            <li><a href="/wiki/List_of_book_distributors" title="List of book distributors">List of book distributors</a></li> 
+            <li><a href="/wiki/Mass_media" title="Mass media">Mass media</a></li> 
+            <li><a href="/wiki/Media_proprietor" title="Media proprietor">Media proprietor</a></li> 
+            <li><a href="/wiki/Open_access_publishing" class="mw-redirect" title="Open access publishing">Open access publishing</a></li> 
+            <li><a href="/wiki/Open_publishing" title="Open publishing">Open publishing</a></li> 
+            <li><a href="/wiki/Publication" title="Publication">Publication</a></li> 
+            <li><a href="/wiki/Self-publishing" title="Self-publishing">Self-publishing</a></li> 
+            <li><a href="/wiki/Serials,_periodicals_and_journals" class="mw-redirect" title="Serials, periodicals and journals">Serials, periodicals and journals</a></li> 
+            <li><a href="/wiki/Small_press" title="Small press">Small press</a></li> 
+            <li><a href="/wiki/Writing" title="Writing">Writing</a></li> 
+            <li><a href="/wiki/Zines" class="mw-redirect" title="Zines">Zines</a></li>
+           </ul> <p> </p> </td> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> <p><b>Publishing on specific contexts:</b> </p> 
+           <ul>
+            <li><a href="/wiki/Academic_publishing" title="Academic publishing">Academic publishing</a></li> 
+            <li><a href="/wiki/Books_published_per_country_per_year" title="Books published per country per year">Books published per country per year</a></li> 
+            <li><a href="/wiki/List_of_best-selling_books" title="List of best-selling books">List of best-selling books</a></li> 
+            <li><a href="/wiki/Document_management_system" title="Document management system">Document management system</a></li> 
+            <li><a href="/wiki/Scientific_literature" title="Scientific literature">Scientific literature</a></li> 
+            <li><a href="/wiki/Writing_circles" class="mw-redirect" title="Writing circles">Writing circles</a></li>
+           </ul> <p> </p> </td> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> 
+           <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px"> 
+            <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold"> 
+             <li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/28px-Newspaper_nicu_buculei_01.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/42px-Newspaper_nicu_buculei_01.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Newspaper_nicu_buculei_01.svg/56px-Newspaper_nicu_buculei_01.svg.png 2x" data-file-width="160" data-file-height="160"></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Journalism" title="Portal:Journalism">Journalism portal</a></span></li>
+            </ul>
+           </div> <p><b>Publishing tools:</b> </p> 
+           <ul>
+            <li><a href="/wiki/Desktop_publishing" title="Desktop publishing">Desktop publishing</a></li> 
+            <li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li> 
+            <li><a href="/wiki/Mobile_publishing" class="mw-redirect" title="Mobile publishing">Mobile publishing</a></li> 
+            <li><a href="/wiki/Web_template_system" title="Web template system">Web publishing tools</a></li>
+           </ul> <p> </p> </td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=25" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=26" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/publishing">"Definition of PUBLISHING"</a>. <i>www.merriam-webster.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.merriam-webster.com&amp;rft.atitle=Definition+of+PUBLISHING&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fpublishing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Steven, Daniel. <a rel="nofollow" class="external text" href="http://publishlawyer.com/publishing-faq/#Q_What_is_self-publishing">"Self-publishing – In traditional royalty publishing"</a>. <i>publishlawyer.com</i>. Daniel N. Steven, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=publishlawyer.com&amp;rft.atitle=Self-publishing+%E2%80%93+In+traditional+royalty+publishing&amp;rft.aulast=Steven&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fpublishlawyer.com%2Fpublishing-faq%2F%23Q_What_is_self-publishing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Steven, Daniel. <a rel="nofollow" class="external text" href="http://publishlawyer.com/publishing-faq/#Q_What_is_self-publishing">"What is self-publishing"</a>. <i>publishlawyer.com</i>. Daniel N. Steven, LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">1 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=publishlawyer.com&amp;rft.atitle=What+is+self-publishing&amp;rft.aulast=Steven&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fpublishlawyer.com%2Fpublishing-faq%2F%23Q_What_is_self-publishing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Michael_Clapham_(industrialist)" title="Michael Clapham (industrialist)">Clapham, Michael</a>, "Printing" in <i>A History of Technology</i>, Vol 2. <i>From the Renaissance to the Industrial Revolution</i>, edd. Charles Singer <i>et al.</i> (Oxford 1957), p. 377. Cited from <a href="/wiki/Elizabeth_L._Eisenstein" class="mw-redirect" title="Elizabeth L. Eisenstein">Elizabeth L. Eisenstein</a>, <i>The Printing Press as an Agent of Change</i> (Cambridge University, 1980).</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Tara K. Harper (2004). <a rel="nofollow" class="external text" href="http://www.tarakharper.com/faq_pub.htm">"On Publishers and Getting Published"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=On+Publishers+and+Getting+Published&amp;rft.date=2004&amp;rft.au=Tara+K.+Harper&amp;rft_id=http%3A%2F%2Fwww.tarakharper.com%2Ffaq_pub.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"> <cite class="citation book">Hannett, John (2010) [1836]. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6O0YcnwsR-MC"><i>Bibliopegia: Or the Art of Bookbinding, in All Its Branches</i></a>. Cambridge Library Collection: Printing and Publishing History (2 ed.). Cambridge University Press. p.&nbsp;3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-108-02144-9" title="Special:BookSources/978-1-108-02144-9"><bdi>978-1-108-02144-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2013</span>. <q>Binding is the art of folding the sheets of a book, securing them together, affixing boards or sides thereto, and covering the whole with leather or other materials</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bibliopegia%3A+Or+the+Art+of+Bookbinding%2C+in+All+Its+Branches&amp;rft.series=Cambridge+Library+Collection%3A+Printing+and+Publishing+History&amp;rft.pages=3&amp;rft.edition=2&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.isbn=978-1-108-02144-9&amp;rft.aulast=Hannett&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6O0YcnwsR-MC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). <span class="cs1-ws-icon" title="s:1911 Encyclopædia Britannica/Publishing"><a class="external text" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Publishing">"Publishing"&nbsp;</a></span>. <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Publishing&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.randomhouse.com/about/faq/index.php?ToDo=view&amp;questId=144&amp;catId=11">"Jobs and Careers – Help"</a>. Random House, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jobs+and+Careers+%E2%80%93+Help&amp;rft.pub=Random+House%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.randomhouse.com%2Fabout%2Ffaq%2Findex.php%3FToDo%3Dview%26questId%3D144%26catId%3D11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080906215646/http://gs12.globalsuccessor.com/fe/tpl_penguin01.asp?newms=info03#para2">"Jobs with Penguin"</a>. Penguin Books Ltd. Archived from <a rel="nofollow" class="external text" href="http://gs12.globalsuccessor.com/fe/tpl_penguin01.asp?newms=info03#para2">the original</a> on 6 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jobs+with+Penguin&amp;rft.pub=Penguin+Books+Ltd&amp;rft_id=http%3A%2F%2Fgs12.globalsuccessor.com%2Ffe%2Ftpl_penguin01.asp%3Fnewms%3Dinfo03%23para2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.indexbooks.net/publishingcontract.htm">"Sample Publishing Contract"</a>. Indexbooks.net<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sample+Publishing+Contract&amp;rft.pub=Indexbooks.net&amp;rft_id=http%3A%2F%2Fwww.indexbooks.net%2Fpublishingcontract.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-ireaderreview.com-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-ireaderreview.com_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ireaderreview.com_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ireaderreview.com/2009/05/03/book-cost-analysis-cost-of-physical-book-publishing/">"Book Cost Analysis – Cost of Physical Book Publishing - Kindle Review – Kindle Phone Review, Kindle Fire HD Review"</a>. <i>Kindle Review</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Kindle+Review&amp;rft.atitle=Book+Cost+Analysis+%E2%80%93+Cost+of+Physical+Book+Publishing+-+Kindle+Review+%E2%80%93+Kindle+Phone+Review%2C+Kindle+Fire+HD+Review&amp;rft_id=http%3A%2F%2Fireaderreview.com%2F2009%2F05%2F03%2Fbook-cost-analysis-cost-of-physical-book-publishing%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131224105052/https://www1.ingramspark.com/Portal">"How to Publish a Book – eBook Publishing"</a>. <i>ingramspark.com</i>. Archived from <a rel="nofollow" class="external text" href="https://www1.ingramspark.com/Portal">the original</a> on 24 December 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ingramspark.com&amp;rft.atitle=How+to+Publish+a+Book+%E2%80%93+eBook+Publishing&amp;rft_id=https%3A%2F%2Fwww1.ingramspark.com%2FPortal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-DOL-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-DOL_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DOL_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DOL_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DOL_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DOL_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bureau of Labor Statistics (17 December 2009). <a rel="nofollow" class="external text" href="http://www.bls.gov/oco/cg/cgs013.htm">"Career Guide to Industries, 2010–11 Edition: Publishing, Except Software"</a>. U.S. Department of Labor<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Career+Guide+to+Industries%2C+2010%E2%80%9311+Edition%3A++Publishing%2C+Except+Software&amp;rft.pub=U.S.+Department+of+Labor&amp;rft.date=2009-12-17&amp;rft.au=Bureau+of+Labor+Statistics&amp;rft_id=http%3A%2F%2Fwww.bls.gov%2Foco%2Fcg%2Fcgs013.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">IPA Global. <a rel="nofollow" class="external text" href="http://www.internationalpublishers.org/images/data-statistics/2012/ipa-global-publishing-statistics-2.pdf"><i>Publishing Statistics</i></a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Publishing+Statistics&amp;rft.au=IPA+Global&amp;rft_id=http%3A%2F%2Fwww.internationalpublishers.org%2Fimages%2Fdata-statistics%2F2012%2Fipa-global-publishing-statistics-2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Losowsky, Andrew (20 February 2013). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2013/02/20/drm-lawsuit-independent-bookstores-amazon_n_2727519.html">"Indie Bookstores File Lawsuit Against Amazon"</a>. <i>Huffington Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huffington+Post&amp;rft.atitle=Indie+Bookstores+File+Lawsuit+Against+Amazon&amp;rft.date=2013-02-20&amp;rft.aulast=Losowsky&amp;rft.aufirst=Andrew&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2013%2F02%2F20%2Fdrm-lawsuit-independent-bookstores-amazon_n_2727519.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-cave-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-cave_16-0">^</a></b></span> <span class="reference-text">Shelagh Vainker in Anne Farrer (ed.), "Caves of the Thousand Buddhas", 1990, British Museum publications, 
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7141-1447-2" title="Special:BookSources/0-7141-1447-2">0-7141-1447-2</a>.</span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Dwight Garner (20 May 2008). <a rel="nofollow" class="external text" href="http://papercuts.blogs.nytimes.com/2008/05/20/making-reading-easier/">"Making Reading Easier – Paper Cuts Blog"</a>. <i>NYTimes.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=NYTimes.com&amp;rft.atitle=Making+Reading+Easier+%E2%80%93+Paper+Cuts+Blog&amp;rft.date=2008-05-20&amp;rft.au=Dwight+Garner&amp;rft_id=http%3A%2F%2Fpapercuts.blogs.nytimes.com%2F2008%2F05%2F20%2Fmaking-reading-easier%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.readhowyouwant.com/Technology/overview.aspx">"Overview of the Technology- Awards, Cost Savings"</a>. Radhowyouwant.com<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Overview+of+the+Technology-+Awards%2C+Cost+Savings&amp;rft.pub=Radhowyouwant.com&amp;rft_id=http%3A%2F%2Fwww.readhowyouwant.com%2FTechnology%2Foverview.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Kanter, James (2 December 2008). <a rel="nofollow" class="external text" href="http://greeninc.blogs.nytimes.com/2008/12/02/reading-green-on-demand/?scp=1&amp;sq=green%20publishing%20toby&amp;st=cse">"Reading Green On Demand"</a>. Green blogs, New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reading+Green+On+Demand&amp;rft.date=2008-12-02&amp;rft.aulast=Kanter&amp;rft.aufirst=James&amp;rft_id=http%3A%2F%2Fgreeninc.blogs.nytimes.com%2F2008%2F12%2F02%2Freading-green-on-demand%2F%3Fscp%3D1%26sq%3Dgreen%2520publishing%2520toby%26st%3Dcse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Italic or bold markup not allowed in: <code class="cs1-code">|publisher=</code> (<a href="/wiki/Help:CS1_errors#apostrophe_markup" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Rinzler, Alan (29 July 2010). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/booked/2010/07/29/the-magic-of-niche-marketing-for-authors/">"The Magic of Niche Marketing for Authors"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=The+Magic+of+Niche+Marketing+for+Authors&amp;rft.date=2010-07-29&amp;rft.aulast=Rinzler&amp;rft.aufirst=Alan&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbooked%2F2010%2F07%2F29%2Fthe-magic-of-niche-marketing-for-authors%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-pub-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-pub_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web">International Organization for Standardization. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/products/standards/catalogue_ics_browse.htm?ICS1=01&amp;ICS2=140&amp;ICS3=40&amp;">"01.140.40: Publishing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=01.140.40%3A+Publishing&amp;rft.au=International+Organization+for+Standardization&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fproducts%2Fstandards%2Fcatalogue_ics_browse.htm%3FICS1%3D01%26ICS2%3D140%26ICS3%3D40%26&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-itpub-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-itpub_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web">International Organization for Standardization. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/catalogue_ics_browse?ICS1=35&amp;ICS2=240&amp;ICS3=30&amp;">"35.240.30: IT applications in information, documentation and publishing"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=35.240.30%3A+IT+applications+in+information%2C+documentation+and+publishing&amp;rft.au=International+Organization+for+Standardization&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fcatalogue_ics_browse%3FICS1%3D35%26ICS2%3D240%26ICS3%3D30%26&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-bc-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-bc_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bc_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">WIPO. <a rel="nofollow" class="external text" href="http://www.wipo.int/treaties/en/ip/berne/trtdocs_wo001.html#P98_14701">"Berne Convention for the Protection of Literary and Artistic Works"</a>. Wipo.int<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Berne+Convention+for+the+Protection+of+Literary+and+Artistic+Works&amp;rft.pub=Wipo.int&amp;rft.au=WIPO&amp;rft_id=http%3A%2F%2Fwww.wipo.int%2Ftreaties%2Fen%2Fip%2Fberne%2Ftrtdocs_wo001.html%23P98_14701&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-ucc-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-ucc_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ucc_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121125161930/http://ipmall.info/hosted_resources/lipa/copyrights/The%20Universal%20Copyright%20Convention%20_Geneva%20Text--September.pdf">"Microsoft Word – The Universal Copyright Convention _Geneva Text—September"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://ipmall.info/hosted_resources/lipa/copyrights/The%20Universal%20Copyright%20Convention%20_Geneva%20Text--September.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 25 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft+Word+%E2%80%93+The+Universal+Copyright+Convention+_Geneva+Text%E2%80%94September&amp;rft_id=http%3A%2F%2Fipmall.info%2Fhosted_resources%2Flipa%2Fcopyrights%2FThe%2520Universal%2520Copyright%2520Convention%2520_Geneva%2520Text--September.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Winkler, David (11 July 2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070804080018/http://www.commondreams.org/views02/0711-05.htm">"Journalists Thrown 'Into the Buzzsaw<span class="cs1-kern-right">'</span>"</a>. CommonDreams.org. Archived from <a rel="nofollow" class="external text" href="http://www.commondreams.org/views02/0711-05.htm">the original</a> on 4 August 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Journalists+Thrown+%27Into+the+Buzzsaw%27&amp;rft.pub=CommonDreams.org&amp;rft.date=2002-07-11&amp;rft.aulast=Winkler&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.commondreams.org%2Fviews02%2F0711-05.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sue Curry Jansen of <a href="/wiki/Muhlenberg_College" title="Muhlenberg College">Muhlenberg College</a>, Pennsylvania and <a href="/wiki/Brian_Martin_(social_scientist)" title="Brian Martin (social scientist)">Brian Martin</a> of <a href="/wiki/University_of_Wollongong" title="University of Wollongong">University of Wollongong</a>, Australia (July 2003). <a rel="nofollow" class="external text" href="http://www.uow.edu.au/~bmartin/pubs/03counterpoise.html">"Making censorship backfire"</a>. <i><a href="/wiki/Counterpoise" title="Counterpoise">Counterpoise</a></i>. <b>7</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Counterpoise&amp;rft.atitle=Making+censorship+backfire&amp;rft.volume=7&amp;rft.date=2003-07&amp;rft.au=Sue+Curry+Jansen+of+Muhlenberg+College%2C+Pennsylvania+and+Brian+Martin+of+University+of+Wollongong%2C+Australia&amp;rft_id=http%3A%2F%2Fwww.uow.edu.au%2F~bmartin%2Fpubs%2F03counterpoise.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublishing" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style>
+      <div class="refbegin" style=""> 
+       <ul>
+        <li><a href="/wiki/Jason_Epstein" title="Jason Epstein">Epstein, Jason</a>. <i>Book Business: Publishing Past, Present, and Future</i>.</li> 
+        <li><a href="/wiki/Andr%C3%A9_Schiffrin" title="André Schiffrin">Schiffrin, André</a> (2000). <i>The Business of Books: How the International Conglomerates Took Over Publishing and Changed the Way We Read</i>.</li> 
+        <li><a href="/wiki/Dubravka_Ugre%C5%A1i%C4%87" title="Dubravka Ugrešić">Ugrešić, Dubravka</a> (2003). <i>Thank You for Not Reading</i>.</li> 
+        <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050702082114/http://mitworld.mit.edu/video/270/">Abelson <i>et al.</i> </a> (2005). <i>Open Networks and Open Society: The Relationship between Freedom, Law, and Technology</i>.</li> 
+        <li>Leonard Shatzkin (1982). <i>In Cold Type: Overcoming the Book Crisis</i>. Boston, Mass.: Houghton-Mifflin. 
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-395-32160-3" title="Special:BookSources/0-395-32160-3">0-395-32160-3</a>.</li>
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Publishing&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks sistersitebox plainlist mbox-small" style="border:1px solid #aaa; padding:0; background:#f9f9f9;">
+       <div style="padding: 0.75em 0; text-align: center;">
+        <b style="display:block;">Publishing</b>at Wikipedia's 
+        <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a>
+       </div>
+       <ul style="border-top:1px solid #aaa; padding: 0.75em 0; width:217px; margin:0 auto;">
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" decoding="async" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/publishing" class="extiw" title="wikt:publishing">Definitions</a> from Wiktionary</span> </li>
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/category:Publishing" class="extiw" title="c:category:Publishing">Media</a> from Wikimedia Commons</span> </li>
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" decoding="async" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/Publishing" class="extiw" title="q:Special:Search/Publishing">Quotations</a> from Wikiquote</span> </li>
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" decoding="async" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Portal:Book_industries_and_trade" class="extiw" title="s:Portal:Book industries and trade">Texts</a> from Wikisource</span> </li>
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" decoding="async" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Open_publishing" class="extiw" title="v:Open publishing">Resources</a> from Wikiversity</span> </li>
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/27px-Wikidata-logo.svg.png" decoding="async" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/54px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590"></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://www.wikidata.org/wiki/Q3972943" class="extiw" title="d:Q3972943">Data</a> from Wikidata</span> </li>
+       </ul> 
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r886046874">@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}</style>
+      <div class="mw-stack stack-container stack-right mobile-float-reset">
+       <div style="overflow: hidden; margin: 1px;">
+        <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;text-align:left;">
+         <tbody>
+          <tr>
+           <td style="padding-top:0.4em;line-height:1.2em"><a href="/wiki/Wikipedia:The_Wikipedia_Library" title="Wikipedia:The Wikipedia Library">Library resources</a> about <br> <b>Publishing</b> 
+            <hr></td>
+          </tr>
+          <tr>
+           <td class="plainlist" style="padding:0 0.1em 0.4em"> 
+            <ul>
+             <li><a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=Publishing">Resources in your library</a></li>
+            </ul></td> 
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.internationalpublishers.org/">International Publishers' organisation</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="The_book_publishing_process" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Book_publishing_process" title="Template:Book publishing process"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Book_publishing_process" title="Template talk:Book publishing process"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Book_publishing_process&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="The_book_publishing_process" style="font-size:114%;margin:0 4em">
+            The 
+            <a href="/wiki/Book" title="Book">book</a> 
+            <a class="mw-selflink selflink">publishing</a> process
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Copy_(written)" title="Copy (written)">Copy</a> preparation</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <dl>
+             <dt>
+              Submission
+             </dt> 
+             <dd>
+              <a href="/wiki/Author" title="Author">author</a> or 
+              <a href="/wiki/Literary_agent" title="Literary agent">literary agent</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/Publisher%27s_reader" title="Publisher's reader">Publisher's reader</a>
+             </dd>
+            </dl> 
+            <dl>
+             <dt>
+              Contract negotiation
+             </dt> 
+             <dd>
+              <a href="/wiki/Intellectual_property" title="Intellectual property">intellectual property</a> rights
+             </dd> 
+             <dd>
+              <a href="/wiki/Royalties" class="mw-redirect" title="Royalties">royalty</a> rates, format, etc
+             </dd>
+            </dl> 
+            <dl>
+             <dd>
+              <a href="/wiki/Editing" title="Editing">Editing</a>
+             </dd>
+            </dl> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Prepress</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Literary_editor" title="Literary editor">Literary editor</a></li> 
+             <li><a href="/wiki/Commissioning_editor" title="Commissioning editor">Commissioning editor</a></li> 
+             <li><a href="/wiki/Developmental_editor" class="mw-redirect" title="Developmental editor">Developmental editor</a></li> 
+             <li><a href="/wiki/Authors%27_editor" class="mw-redirect" title="Authors' editor">Authors' editor</a></li> 
+             <li><a href="/wiki/Book_editor" class="mw-redirect" title="Book editor">Book editor</a></li> 
+             <li><a href="/wiki/Book_design" title="Book design">Design</a></li> 
+             <li><a href="/wiki/Typesetting" title="Typesetting">Typesetting</a></li> 
+             <li><a href="/wiki/Proofreading" title="Proofreading">Proof-reading</a></li> 
+             <li><a href="/wiki/List_of_proofreader%27s_marks" title="List of proofreader's marks">List of Proofreader's Marks</a></li> 
+             <li><a href="/wiki/Imprint_(trade_name)" title="Imprint (trade name)">Imprint</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Book production</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Printing" title="Printing">Printing</a></li> 
+             <li><a href="/wiki/Book_folding" title="Book folding">Folding</a></li> 
+             <li><a href="/wiki/Bookbinding" title="Bookbinding">Binding</a></li> 
+             <li><a href="/wiki/Book_trimming" title="Book trimming">Trimming</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Academic_publishing" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Academic_publishing" title="Template:Academic publishing"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Academic_publishing" title="Template talk:Academic publishing"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Academic_publishing&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Academic_publishing" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Academic_publishing" title="Academic publishing">Academic publishing</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Journals</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Academic_journal" title="Academic journal">Academic journal</a></li> 
+             <li><a href="/wiki/Scientific_journal" title="Scientific journal">Scientific journal</a></li> 
+             <li><a href="/wiki/Open-access_journal" class="mw-redirect" title="Open-access journal">Open-access journal</a></li> 
+             <li><a href="/wiki/Public_health_journal" title="Public health journal">Public health journal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Papers</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Academic_publishing#Scholarly_paper" title="Academic publishing">Scholarly paper</a></li> 
+             <li><a href="/wiki/Review_article" title="Review article">Review article</a></li> 
+             <li><a href="/wiki/Position_paper" title="Position paper">Position paper</a></li> 
+             <li><a href="/wiki/Working_paper" title="Working paper">Working paper</a></li> 
+             <li><a href="/wiki/Literature_review" title="Literature review">Literature review</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other types of publication</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Thesis" title="Thesis">Thesis</a> (<a href="/wiki/Collection_of_articles" title="Collection of articles">Collection of articles</a>, <a href="/wiki/Monograph" title="Monograph">Monograph</a>)</li> 
+             <li>Specialized <a href="/wiki/Patent" title="Patent">patent</a> (<a href="/wiki/Biological_patent" title="Biological patent">biological</a>, <a href="/wiki/Chemical_patent" title="Chemical patent">chemical</a>)</li> 
+             <li><a href="/wiki/Book" title="Book">Book</a></li> 
+             <li><a href="/wiki/Chapter_(books)" title="Chapter (books)">Book chapter</a></li> 
+             <li><a href="/wiki/Technical_report" title="Technical report">Technical report</a></li> 
+             <li><a href="/wiki/Pamphlet" title="Pamphlet">Pamphlet</a></li> 
+             <li><a href="/wiki/Essay" title="Essay">Essay</a></li> 
+             <li><a href="/wiki/White_paper" title="White paper">White paper</a></li> 
+             <li><a href="/wiki/Preprint" title="Preprint">Preprint</a></li> 
+             <li><a href="/wiki/Poster_session" title="Poster session">Poster session</a></li> 
+             <li><a href="/wiki/Open-notebook_science" title="Open-notebook science">Lab notes</a></li> 
+             <li><a href="/wiki/Abstract_(summary)" title="Abstract (summary)">Abstract</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Impact and ranking</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Altmetrics" title="Altmetrics">Altmetrics</a></li> 
+             <li><a href="/wiki/Article-level_metrics" title="Article-level metrics">Article-level metrics</a></li> 
+             <li><a href="/wiki/Bibliometrics" title="Bibliometrics">Bibliometrics</a></li> 
+             <li><a href="/wiki/Citation_impact" title="Citation impact">Citation impact</a></li> 
+             <li><a href="/wiki/Citation_index" title="Citation index">Citation index</a></li> 
+             <li><a href="/wiki/Journal_ranking" title="Journal ranking">Journal ranking</a></li> 
+             <li><a href="/wiki/Eigenfactor" title="Eigenfactor">Eigenfactor</a></li> 
+             <li><a href="/wiki/H-index" title="H-index">h-index</a></li> 
+             <li><a href="/wiki/Impact_factor" title="Impact factor">Impact factor</a></li> 
+             <li><a href="/wiki/SCImago_Journal_Rank" title="SCImago Journal Rank">SCImago Journal Rank</a></li> 
+             <li><a href="/wiki/Scientometrics" title="Scientometrics">Scientometrics</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Reform</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Academic_journal_publishing_reform" title="Academic journal publishing reform">Academic journal publishing reform</a></li> 
+             <li><a href="/wiki/FUTON_bias" title="FUTON bias">Full-text-on-the-Net bias</a> (FUTON bias)</li> 
+             <li><a href="/wiki/Open_access" title="Open access">Open access</a></li> 
+             <li><a href="/wiki/Serials_crisis" title="Serials crisis">Serials crisis</a></li> 
+             <li><a href="/wiki/Sci-Hub" title="Sci-Hub">Sci-Hub</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_academic_databases_and_search_engines" title="List of academic databases and search engines">Indexes and search engines</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a></li> 
+             <li><a href="/wiki/PubMed" title="PubMed">PubMed</a></li> 
+             <li><a href="/wiki/PubMed_Central" title="PubMed Central">PubMed Central</a></li> 
+             <li><a href="/wiki/Scopus" title="Scopus">Scopus</a></li> 
+             <li><a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a></li> 
+             <li><a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a></li> 
+             <li><a href="/wiki/Scirus" title="Scirus">Scirus</a> (defunct)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Imprint_(trade_name)" title="Imprint (trade name)">Imprint</a></li> 
+             <li><a href="/wiki/Scientific_writing" title="Scientific writing">Scientific writing</a></li> 
+             <li><a href="/wiki/Peer_review" title="Peer review">Peer review</a></li> 
+             <li><a href="/wiki/Proceedings" title="Proceedings">Proceedings</a></li> 
+             <li><a href="/wiki/Grey_literature" title="Grey literature">Grey literature</a></li> 
+             <li><a href="/wiki/Scientific_literature" title="Scientific literature">Scientific literature</a></li> 
+             <li><a href="/wiki/Learned_society" title="Learned society">Learned society</a></li> 
+             <li><a href="/wiki/Open_research" title="Open research">Open research</a></li> 
+             <li><a href="/wiki/Open_science_data" title="Open science data">Open science data</a></li> 
+             <li><a href="/wiki/ORCID" title="ORCID">ORCID</a></li> 
+             <li><a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a></li> 
+             <li><a href="/wiki/Ingelfinger_rule" title="Ingelfinger rule">Ingelfinger rule</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Lists</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Lists_of_academic_journals" title="Lists of academic journals">Academic journals</a></li> 
+             <li><a href="/wiki/List_of_scientific_journals" title="List of scientific journals">Scientific journals</a></li> 
+             <li><a href="/wiki/List_of_open-access_journals" title="List of open-access journals">Open-access journals</a></li> 
+             <li><a href="/wiki/List_of_academic_databases_and_search_engines" title="List of academic databases and search engines">Academic databases and search engines</a></li> 
+             <li><a href="/wiki/List_of_university_presses" title="List of university presses">University presses</a></li> 
+             <li><a href="/wiki/List_of_style_guides#Academic" title="List of style guides">Style/formatting guides</a></li> 
+             <li><a href="/wiki/Category:Academic_publishing" title="Category:Academic publishing">Category:Academic publishing</a></li> 
+             <li><a href="/wiki/Category:Scientific_documents" title="Category:Scientific documents">Category:Scientific documents</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            <img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> Portal
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3972943&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3972943&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q3972943" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4132033-5">4132033-5</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10641759">10641759</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00572431">00572431</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph120092&amp;CON_LNG=ENG">ph120092</a></span></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20191027154328
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.996 seconds
+Real time usage: 1.661 seconds
+Preprocessor visited node count: 2921/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89750/2097152 bytes
+Template argument size: 3892/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 77669/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.430/10.000 seconds
+Lua memory usage: 6.46 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1380.029      1 -total
+ 37.20%  513.356      1 Template:Reflist
+ 18.13%  250.167     16 Template:Cite_web
+ 12.11%  167.168      1 Template:Short_description
+ 11.58%  159.780      1 Template:Pagetype
+  6.12%   84.389      2 Template:Citation_needed
+  5.73%   79.033      1 Template:Authority_control
+  5.63%   77.683      2 Template:Redirect
+  5.20%   71.774      1 Template:More_footnotes
+  4.70%   64.819      2 Template:Fix
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:68761-0!canonical and timestamp 20191027154327 and revision id 923050964
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Publishing&amp;oldid=923050964">https://en.wikipedia.org/w/index.php?title=Publishing&amp;oldid=923050964</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Publishing" title="Category:Publishing">Publishing</a></li>
+       <li><a href="/wiki/Category:Media_industry" title="Category:Media industry">Media industry</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_markup" title="Category:CS1 errors: markup">CS1 errors: markup</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2009" title="Category:Articles lacking in-text citations from July 2009">Articles lacking in-text citations from July 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_March_2017" title="Category:Use dmy dates from March 2017">Use dmy dates from March 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2018" title="Category:Articles with unsourced statements from September 2018">Articles with unsourced statements from September 2018</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">Articles with unsourced statements from March 2011</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Publishing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Publishing" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Publishing" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Publishing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Publishing">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Publishing&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Publishing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Publishing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Publishing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Publishing&amp;oldid=923050964" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Publishing&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3972943" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Publishing&amp;id=923050964" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Publishing" hreflang="en">Wikimedia Commons</a></li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Publishing" hreflang="en">Wikiquote</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Publishing">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Publishing&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Publishing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Edition" title="Edition – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B4%D8%B1" title="نشر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Edici%C3%B3n_de_llibros" title="Edición de llibros – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/M%C9%99tb%C9%99%C9%99" title="Mətbəə – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A6%A8%E0%A6%BE" title="প্রকাশনা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Chhut-p%C3%A1n" title="Chhut-pán – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%8B%D0%B4%D0%B0%D0%B2%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" title="Выдавецкая справа – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%8B%D0%B4%D0%B0%D0%B2%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" title="Выдавецкая справа – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D0%B4%D0%B5%D0%B9%D0%BD%D0%BE%D1%81%D1%82" title="Издателска дейност – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Edici%C3%B3" title="Edició – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Vydavatelstv%C3%AD" title="Vydavatelství – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cyhoeddi" title="Cyhoeddi – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Edition" title="Edition – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kirjastamine" title="Kirjastamine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Edici%C3%B3n_de_libros" title="Edición de libros – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Edizio" title="Edizio – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%B1" title="نشر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89dition_(activit%C3%A9)" title="Édition (activité) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Foilsitheoireacht" title="Foilsitheoireacht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Editorial" title="Editorial – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B6%9C%ED%8C%90" title="출판 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D6%80%D5%A1%D5%BF%D5%A1%D6%80%D5%A1%D5%AF%D5%B9%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Հրատարակչություն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%A8" title="प्रकाशन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Izdanje" title="Izdanje – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Penerbit" title="Penerbit – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/%C3%9Atg%C3%A1fufyrirt%C3%A6ki" title="Útgáfufyrirtæki – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Editoria" title="Editoria – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%A6%D7%90%D7%94_%D7%9C%D7%90%D7%95%D7%A8" title="הוצאה לאור – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BF%D0%B0_%D1%96%D1%81%D1%96" title="Баспа ісі – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BC%D0%B0_%D0%B8%D1%88%D0%B8" title="Басма иши – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Editio" title="Editio – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kiad%C3%A1s" title="Kiadás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%88%D1%82%D0%B2%D0%BE" title="Издаваштво – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Penerbit" title="Penerbit – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E7%89%88" title="出版 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Noshirlik" title="Noshirlik – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Poblishin" title="Poblishin – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Editora%C3%A7%C3%A3o" title="Editoração – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE" title="Издательское дело – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Publishin" title="Publishin – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Botuesi" title="Botuesi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Pubbricazzioni" title="Pubbricazzioni – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Publishing" title="Publishing – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D8%B4%D8%A7%D8%B9%D8%AA" title="اشاعت – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%DA%B5%D8%A7%D9%88%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95" title="بڵاوکردنەوە – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Izdava%C5%A1tvo" title="Izdavaštvo – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kustannustoimi" title="Kustannustoimi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%AE%E0%AF%8D" title="பதிப்பகம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B1%D0%B0%D0%B0" title="Матбаа – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yay%C4%B1mc%C4%B1l%C4%B1k" title="Yayımcılık – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B0%D0%B2%D0%BD%D0%B8%D1%87%D0%B0_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" title="Видавнича справа – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Xu%E1%BA%A5t_b%E1%BA%A3n" title="Xuất bản – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%88%8A%E8%A1%8C" title="刊行 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%87%BA%E7%89%88" title="出版 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%87%BA%E7%89%88" title="出版 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3972943#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 26 October 2019, at 01:18<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Publishing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.996","walltime":"1.661","ppvisitednodes":{"value":2921,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89750,"limit":2097152},"templateargumentsize":{"value":3892,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77669,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1380.029      1 -total"," 37.20%  513.356      1 Template:Reflist"," 18.13%  250.167     16 Template:Cite_web"," 12.11%  167.168      1 Template:Short_description"," 11.58%  159.780      1 Template:Pagetype","  6.12%   84.389      2 Template:Citation_needed","  5.73%   79.033      1 Template:Authority_control","  5.63%   77.683      2 Template:Redirect","  5.20%   71.774      1 Template:More_footnotes","  4.70%   64.819      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.430","limit":"10.000"},"limitreport-memusage":{"value":6773462,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20191027154328","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Publishing","url":"https:\/\/en.wikipedia.org\/wiki\/Publishing","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3972943","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3972943","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-07T10:42:38Z","dateModified":"2019-10-26T01:18:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen.jpg","headline":"process of production and dissemination of literature, music, or information"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1264"});});</script>   
+ </body>
+</html>

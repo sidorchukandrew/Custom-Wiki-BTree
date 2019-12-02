@@ -1,0 +1,1928 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Arthur Greenwood - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Arthur_Greenwood","wgTitle":"Arthur Greenwood","wgCurRevisionId":909753369,"wgRevisionId":909753369,"wgArticleId":476605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2012","Use British English from August 2012","Articles with Project Gutenberg links","Articles with Internet Archive links","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers",
+"Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1880 births","1954 deaths","Members of the Privy Council of the United Kingdom","Lords Privy Seal","Labour Party (UK) MPs for English constituencies","Members of the Order of the Companions of Honour","Politics of Wakefield","United Kingdom Paymasters General","UK MPs 1931–1935","UK MPs 1935–1945","UK MPs 1945–1950","UK MPs 1950–1951","UK MPs 1951–1955","Chairs of the Labour Party (UK)","Alumni of the University of Leeds","Freemasons of the United Grand Lodge of England","Participants in the Norway Debate"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["",
+"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arthur_Greenwood","wgRelevantArticleId":476605,"wgRequestId":"XbnvtwpAAEQAAGGYZSEAAACY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q333174","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready"
+,"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/ba/ArthurGreenwood2.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arthur_Greenwood"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arthur_Greenwood&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Arthur_Greenwood&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Arthur_Greenwood"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Arthur_Greenwood rootpage-Arthur_Greenwood skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Arthur Greenwood</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       For the U.S. congressional representative from Indiana, see 
+       <a href="/wiki/Arthur_H._Greenwood" title="Arthur H. Greenwood">Arthur H. Greenwood</a>.
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vcard" style="width:22em">
+       <tbody>
+        <tr>
+         <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%;">
+          <div class="honorific-prefix" style="display:inline; font-weight: normal;">
+           <a href="/wiki/The_Right_Honourable" title="The Right Honourable">The Right Honourable</a>
+          </div><br>
+          <div style="display:inline-block; font-size:130%;" class="fn">
+           Arthur Greenwood
+          </div><br>
+          <div class="honorific-suffix" style="display:inline; font-weight: normal;">
+           <span class="noexcerpt" style="font-size:100;"><a href="/wiki/Companion_of_Honour" class="mw-redirect" title="Companion of Honour">CH</a> <a href="/wiki/Member_of_the_British_House_of_Commons" class="mw-redirect" title="Member of the British House of Commons">MP</a></span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:ArthurGreenwood2.jpg" class="image"><img alt="ArthurGreenwood2.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/ArthurGreenwood2.jpg/220px-ArthurGreenwood2.jpg" decoding="async" width="220" height="291" srcset="//upload.wikimedia.org/wikipedia/en/b/ba/ArthurGreenwood2.jpg 1.5x" data-file-width="274" data-file-height="363"></a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Paymaster_General" title="Paymaster General">Paymaster General</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>9 July 1946&nbsp;– 5 March 1947</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Frederick_Lindemann,_1st_Viscount_Cherwell" title="Frederick Lindemann, 1st Viscount Cherwell">Frederick Lindemann</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Hilary_Marquand" title="Hilary Marquand">Hilary Marquand</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Lord_Privy_Seal" title="Lord Privy Seal">Lord Privy Seal</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>27 July 1945&nbsp;– 17 April 1947</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Max_Aitken,_1st_Baron_Beaverbrook" title="Max Aitken, 1st Baron Beaverbrook">Max Aitken</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Philip_Inman,_1st_Baron_Inman" title="Philip Inman, 1st Baron Inman">Philip Inman</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Minister_without_Portfolio#United_Kingdom" class="mw-redirect" title="Minister without Portfolio">Minister without Portfolio</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>17 April 1947&nbsp;– 29 September 1947</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough" title="A. V. Alexander, 1st Earl Alexander of Hillsborough">A. V. Alexander</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Geoffrey_FitzClarence,_5th_Earl_of_Munster" title="Geoffrey FitzClarence, 5th Earl of Munster">Geoffrey FitzClarence</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>11 May 1940&nbsp;– 22 February 1942</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Maurice_Hankey,_1st_Baron_Hankey" title="Maurice Hankey, 1st Baron Hankey">Maurice Hankey</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/William_Jowitt,_1st_Earl_Jowitt" title="William Jowitt, 1st Earl Jowitt">William Jowitt</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Leader_of_the_Opposition" title="Leader of the Opposition">Leader of the Opposition</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>February 1942&nbsp;– 23 May 1945</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Frederick_Pethick-Lawrence,_1st_Baron_Pethick-Lawrence" title="Frederick Pethick-Lawrence, 1st Baron Pethick-Lawrence">Frederick Pethick-Lawrence</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Deputy_Leader_of_the_Labour_Party_(UK)" title="Deputy Leader of the Labour Party (UK)">Deputy Leader of the Labour Party</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>26 November 1935&nbsp;– 25 May 1945</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left">Leader</th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Minister_of_Health" class="mw-redirect" title="Minister of Health">Minister of Health</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>7 June 1929&nbsp;– 24 August 1931</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+         <td><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">Ramsay MacDonald</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Member_of_Parliament_(United_Kingdom)" title="Member of Parliament (United Kingdom)">Member of Parliament</a> <br> for <a href="/wiki/Wakefield_(UK_Parliament_constituency)" title="Wakefield (UK Parliament constituency)">Wakefield</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>21 April 1932&nbsp;– 9 June 1954</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/George_Brown_Hillman" class="mw-redirect" title="George Brown Hillman">George Brown Hillman</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Arthur_Creech_Jones" title="Arthur Creech Jones">Arthur Creech Jones</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Member_of_Parliament_(United_Kingdom)" title="Member of Parliament (United Kingdom)">Member of Parliament</a> <br> for <a href="/wiki/Nelson_and_Colne_(UK_Parliament_constituency)" title="Nelson and Colne (UK Parliament constituency)">Nelson and Colne</a></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br>15 November 1922&nbsp;– 27 October 1931</td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+         <td><a href="/wiki/Robinson_Graham" title="Robinson Graham">Robinson Graham</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+         <td><a href="/wiki/Linton_Thorp" title="Linton Thorp">Linton Thorp</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+        </tr>
+        <tr>
+         <th scope="row">Born</th>
+         <td>8 February 1880<span style="display:none">&nbsp;(<span class="dtstart bday">1880-02-08</span>)</span><br><a href="/wiki/Hunslet" title="Hunslet">Hunslet</a>, <a href="/wiki/Leeds" title="Leeds">Leeds</a>, <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Died</th>
+         <td>9 June 1954<span style="display:none">(1954-06-09)</span> (aged&nbsp;74)<br><a href="/wiki/London" title="London">London</a>, England, United Kingdom</td>
+        </tr>
+        <tr>
+         <th scope="row">Nationality</th>
+         <td><a href="/wiki/British_people" title="British people">British</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Political party</th>
+         <td><a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Spouse(s)</th>
+         <td>Catherine Ainsworth</td>
+        </tr>
+        <tr>
+         <th scope="row">Children</th>
+         <td><a href="/wiki/Tony_Greenwood,_Baron_Greenwood_of_Rossendale" title="Tony Greenwood, Baron Greenwood of Rossendale">Tony Greenwood</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Arthur Greenwood</b>, <span class="noexcerpt" style="font-size:100;"><a href="/wiki/Companion_of_Honour" class="mw-redirect" title="Companion of Honour">CH</a></span> (8 February 1880 – 9 June 1954) was a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> politician. A prominent member of the <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour Party</a> from the 1920s until the late 1940s, Greenwood rose to prominence within the party as secretary of its research department from 1920 and served as <a href="/wiki/Parliamentary_Secretary_to_the_Ministry_of_Health" title="Parliamentary Secretary to the Ministry of Health">Parliamentary Secretary to the Ministry of Health</a> in the short-lived <a href="/wiki/First_MacDonald_ministry" title="First MacDonald ministry">Labour government</a> of 1924. In 1940, he was instrumental in resolving that Britain would continue fighting <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a> in <a href="/wiki/World_War_II" title="World War II">World War II</a>. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Political_career"><span class="tocnumber">2</span> <span class="toctext">Political career</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Family"><span class="tocnumber">4</span> <span class="toctext">Family</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Greenwood was born in <a href="/wiki/Hunslet" title="Hunslet">Hunslet</a>, <a href="/wiki/Leeds" title="Leeds">Leeds</a>, the son of a painter and decorator. He was educated at the Yorkshire College (which later became the <a href="/wiki/University_of_Leeds" title="University of Leeds">University of Leeds</a>), where he took a <a href="/wiki/B.Sc." class="mw-redirect" title="B.Sc.">B.Sc.</a> </p> 
+      <h2><span class="mw-headline" id="Political_career">Political career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=2" title="Edit section: Political career">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Greenwood was first elected to the <a href="/wiki/House_of_Commons_(United_Kingdom)" class="mw-redirect" title="House of Commons (United Kingdom)">House of Commons</a> at the <a href="/wiki/1922_United_Kingdom_general_election" title="1922 United Kingdom general election">1922 general election</a> for the constituency of <a href="/wiki/Nelson_and_Colne_(UK_Parliament_constituency)" title="Nelson and Colne (UK Parliament constituency)">Nelson and Colne</a> in <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a>. He held the seat until being defeated at the <a href="/wiki/1931_United_Kingdom_general_election" title="1931 United Kingdom general election">1931 election</a>, but returned to Parliament the following year, winning <a href="/wiki/1932_Wakefield_by-election" title="1932 Wakefield by-election">a by-election</a> in the <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> constituency of <a href="/wiki/Wakefield_(UK_Parliament_constituency)" title="Wakefield (UK Parliament constituency)">Wakefield</a>. Greenwood continued to represent Wakefield until his death in 1954. Greenwood was an active <a href="/wiki/Freemason" class="mw-redirect" title="Freemason">freemason</a>, associated with the <a href="/wiki/New_Welcome_Lodge" title="New Welcome Lodge">New Welcome Lodge</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p>
+      <p>In 1929, Greenwood was appointed <a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Minister of Health</a> and sworn into the <a href="/wiki/Privy_Council_of_the_United_Kingdom" title="Privy Council of the United Kingdom">Privy Council</a>, a position he held until the collapse of the Labour government in August 1931. During his time at the Ministry of Health, Greenwood raised widows' pensions and through the <a href="/wiki/Housing_Act_1930" title="Housing Act 1930">Housing Act 1930</a> enacted large-scale <a href="/wiki/Slum_clearance" title="Slum clearance">slum clearance</a>. </p>
+      <p>Greenwood became <a href="/wiki/Deputy_Leader_of_the_Labour_Party_(UK)" title="Deputy Leader of the Labour Party (UK)">Deputy Leader of the Labour Party</a> under <a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a>. Undoubtedly his most famous moment came on 2 September 1939 when, acting for an absent Attlee, he was called to respond to <a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a>'s ambivalent speech on whether Britain would aid Poland. Preparing to respond, he was interrupted by an angry Conservative backbencher and former <a href="/wiki/First_Lord_of_the_Admiralty" title="First Lord of the Admiralty">First Lord of the Admiralty</a>, <a href="/wiki/Leo_Amery" title="Leo Amery">Leo Amery</a>, who exclaimed "Speak for England, Arthur!"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p>
+      <p>A flustered Greenwood proceeded to denounce Chamberlain's remarks, to the applause of his colleagues. When the wartime coalition government was formed, <a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a> appointed him to the <a href="/wiki/War_Cabinet" class="mw-redirect" title="War Cabinet">War Cabinet</a> as <a href="/wiki/Minister_without_Portfolio" class="mw-redirect" title="Minister without Portfolio">Minister without Portfolio</a> in 1940. He was generally seen as ineffectual, but in May 1940 he emerged as Churchill's strongest and most vocal supporter in <a href="/wiki/May_1940_War_Cabinet_Crisis" class="mw-redirect" title="May 1940 War Cabinet Crisis">the lengthy War Cabinet debates</a> on whether to accept or reject a peace offer from Germany.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Without the vote in favour of fighting on by Greenwood and Clement Attlee, Churchill would not have had the slim majority he needed to do so.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p>After that his position declined and he resigned in 1943. The same year, he was elected as <a href="/wiki/Treasurer_of_the_Labour_Party" title="Treasurer of the Labour Party">Treasurer of the Labour Party</a>, beating <a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a> in a close contest.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>Until the end of <a href="/wiki/World_War_II" title="World War II">World War II</a>, Greenwood also performed the function of <a href="/wiki/Leader_of_the_Opposition_(United_Kingdom)" title="Leader of the Opposition (United Kingdom)">Leader of the Opposition</a>, though he did not receive the salary. </p>
+      <p>During the <a href="/wiki/Attlee_ministry" title="Attlee ministry">Attlee government</a>, he served successively as <a href="/wiki/Lord_Privy_Seal" title="Lord Privy Seal">Lord Privy Seal</a> and <a href="/wiki/Paymaster-General" class="mw-redirect" title="Paymaster-General">Paymaster-General</a>. </p> 
+      <h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=3" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Greenwood was cremated at <a href="/wiki/Golders_Green_Crematorium" title="Golders Green Crematorium">Golders Green Crematorium</a> on 14 June 1954. His ashes and memorial lie in Bay 17 of the East Boundary Wall.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=4" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Greenwood's son <a href="/wiki/Anthony_Greenwood,_Baron_Greenwood_of_Rossendale" class="mw-redirect" title="Anthony Greenwood, Baron Greenwood of Rossendale">Anthony Greenwood</a> (later Lord Greenwood) (1911–1982) was an MP from 1946 until 1970, first for <a href="/wiki/Heywood_and_Radcliffe_(UK_Parliament_constituency)" title="Heywood and Radcliffe (UK Parliament constituency)">Heywood and Radcliffe</a> and later for <a href="/wiki/Rossendale_(UK_Parliament_constituency)" title="Rossendale (UK Parliament constituency)">Rossendale</a>, and a member of <a href="/wiki/Harold_Wilson" title="Harold Wilson">Harold Wilson</a>'s governments. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> <cite class="citation news"><a rel="nofollow" class="external text" href="http://online.liverpooluniversitypress.co.uk/doi/abs/10.1179/174581806X103862?journalCode=lhr">"<span class="cs1-kern-left">'</span>The Masons' Candidate': New Welcome Lodge No. 5139 and the Parliamentary Labour Party"</a>. <i>Labour History Review</i>. 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Labour+History+Review&amp;rft.atitle=%27The+Masons%27+Candidate%27%3A+New+Welcome+Lodge+No.+5139+and+the+Parliamentary+Labour+Party&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fonline.liverpooluniversitypress.co.uk%2Fdoi%2Fabs%2F10.1179%2F174581806X103862%3FjournalCode%3Dlhr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArthur+Greenwood" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Olson, Lynne. <i>Troublesome Young Men: The Rebels Who Brought Churchill To Power and Helped Save England</i> (Toronto, Anchor Canada, 2008)</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Roy_Jenkins" title="Roy Jenkins">Jenkins, Roy</a>, <i>Churchill: A Biography</i> (<a href="/wiki/London" title="London">London</a>, <a href="/wiki/Macmillan_Publishers" title="Macmillan Publishers">Macmillan</a>, 2001), page 601</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Marr, Andrew: <i>A History of Modern Britain</i> (2009 paperback), page xvii</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"Greenwood, Arthur", <i><a href="/wiki/Oxford_Dictionary_of_National_Biography" class="mw-redirect" title="Oxford Dictionary of National Biography">Oxford Dictionary of National Biography</a></i></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Golders Green Crematorium guide notes</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.gutenberg.org/author/Greenwood,+Arthur">Works by Arthur Greenwood</a> at <a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://archive.org/search.php?query=%28%28subject%3A%22Greenwood%2C%20Arthur%22%20OR%20subject%3A%22Arthur%20Greenwood%22%20OR%20creator%3A%22Greenwood%2C%20Arthur%22%20OR%20creator%3A%22Arthur%20Greenwood%22%20OR%20creator%3A%22Greenwood%2C%20A%2E%22%20OR%20title%3A%22Arthur%20Greenwood%22%20OR%20description%3A%22Greenwood%2C%20Arthur%22%20OR%20description%3A%22Arthur%20Greenwood%22%29%20OR%20%28%221880-1954%22%20AND%20Greenwood%29%29%20AND%20%28-mediatype:software%29">Works by or about Arthur Greenwood</a> at <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li> 
+       <li>Hansard 1803–2005: <a rel="nofollow" class="external text" href="https://api.parliament.uk/historic-hansard/people/mr-arthur-greenwood">contributions in Parliament by Arthur Greenwood</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://purl.org/pressemappe20/folder/pe/006484">Newspaper clippings about Arthur Greenwood</a> in the <a href="/wiki/20th_Century_Press_Archives" title="20th Century Press Archives">20th Century Press Archives</a> of the <a href="/wiki/German_National_Library_of_Economics" title="German National Library of Economics">ZBW</a></li>
+      </ul> 
+      <table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;"> 
+       <tbody>
+        <tr> 
+         <th colspan="3" style="border-top: 5px solid #cccccc"><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a> </th>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Robinson_Graham" title="Robinson Graham">Robinson Graham</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> for <a href="/wiki/Nelson_and_Colne_(UK_Parliament_constituency)" title="Nelson and Colne (UK Parliament constituency)">Nelson and Colne</a></b><br><a href="/wiki/1922_United_Kingdom_general_election" title="1922 United Kingdom general election">1922</a>–<a href="/wiki/1931_United_Kingdom_general_election" title="1931 United Kingdom general election">1931</a> </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold">Linton Thorpe</span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/George_Hillman" title="George Hillman">George Hillman</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> for <a href="/wiki/Wakefield_(UK_Parliament_constituency)" title="Wakefield (UK Parliament constituency)">Wakefield</a></b><br><a href="/wiki/1932_Wakefield_by-election" title="1932 Wakefield by-election">1932</a>–<a href="/wiki/1954_Wakefield_by-election" title="1954 Wakefield by-election">1954</a> </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Arthur_Creech_Jones" title="Arthur Creech Jones">Arthur Creech Jones</a></span> </td>
+        </tr> 
+        <tr> 
+         <th colspan="3" style="border-top: 5px solid #ccccff;">Political offices </th>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Minister of Health</a></b><br>1929–1931 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Maurice_Hankey,_1st_Baron_Hankey" title="Maurice Hankey, 1st Baron Hankey">The Lord Hankey</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Minister_without_Portfolio#United_Kingdom" class="mw-redirect" title="Minister without Portfolio">Minister without Portfolio</a></b><br>1940–1942 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/William_Jowitt,_1st_Earl_Jowitt" title="William Jowitt, 1st Earl Jowitt">Sir William Jowitt</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Frederick_Pethick-Lawrence" class="mw-redirect" title="Frederick Pethick-Lawrence">Frederick Pethick-Lawrence</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Leader_of_the_Opposition_(UK)" class="mw-redirect" title="Leader of the Opposition (UK)">Leader of the Opposition</a></b><br>1942–1945 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Max_Aitken,_Lord_Beaverbrook" class="mw-redirect" title="Max Aitken, Lord Beaverbrook">The Lord Beaverbrook</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Lord_Privy_Seal" title="Lord Privy Seal">Lord Privy Seal</a></b><br>1945–1947 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Philip_Inman,_1st_Baron_Inman" title="Philip Inman, 1st Baron Inman">The Lord Inman</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold">Vacant</span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Paymaster-General" class="mw-redirect" title="Paymaster-General">Paymaster-General</a></b><br>1946–1947 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Hilary_Marquand" title="Hilary Marquand">Hilary Marquand</a></span> </td>
+        </tr> 
+        <tr> 
+         <th colspan="3" style="border-top: 5px solid #FFBF00;">Party political offices </th>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Deputy_Leader_of_the_British_Labour_Party" class="mw-redirect" title="Deputy Leader of the British Labour Party">Deputy Leader of the Labour Party</a></b><br>1935–1945 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/George_Lathan" title="George Lathan">George Lathan</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Treasurer_of_the_Labour_Party" title="Treasurer of the Labour Party">Treasurer of the Labour Party</a></b><br>1943–1954 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Hugh Gaitskell</a></span> </td>
+        </tr> 
+        <tr style="text-align:center;"> 
+         <td style="width:30%;" rowspan="1">Preceded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Harry_Earnshaw_(trade_unionist)" title="Harry Earnshaw (trade unionist)">Harry Earnshaw</a></span> </td> 
+         <td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Chair_of_the_Labour_Party" class="mw-redirect" title="Chair of the Labour Party">Chair of the Labour Party</a></b><br>1952–1953 </td> 
+         <td style="width: 30%; text-align: center;" rowspan="1">Succeeded&nbsp;by<br><span style="font-weight: bold"><a href="/wiki/Wilfrid_Burke" title="Wilfrid Burke">Wilfrid Burke</a></span> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="Leaders_of_the_Opposition_of_the_United_Kingdom" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Leaders_of_the_Opposition_UK" title="Template:Leaders of the Opposition UK"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Leaders_of_the_Opposition_UK" title="Template talk:Leaders of the Opposition UK"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Leaders_of_the_Opposition_UK&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Leaders_of_the_Opposition_of_the_United_Kingdom" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Leader_of_the_Opposition_(United_Kingdom)" title="Leader of the Opposition (United Kingdom)">Leaders of the Opposition of the United Kingdom</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;text-align:center;"><a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom">House of Commons</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Charles_James_Fox" title="Charles James Fox">Fox</a></li> 
+             <li><a href="/wiki/Charles_Grey,_2nd_Earl_Grey" title="Charles Grey, 2nd Earl Grey">Howick</a></li> 
+             <li><a href="/wiki/George_Ponsonby" title="George Ponsonby">Ponsonby</a></li> 
+             <li><a href="/wiki/George_Tierney" title="George Tierney">Tierney</a></li> 
+             <li><a href="/wiki/Robert_Peel" title="Robert Peel">Peel</a></li> 
+             <li><a href="/wiki/John_Spencer,_Viscount_Althorp" class="mw-redirect" title="John Spencer, Viscount Althorp">Althorp</a></li> 
+             <li><a href="/wiki/Robert_Peel" title="Robert Peel">Peel</a></li> 
+             <li><a href="/wiki/John_Russell,_1st_Earl_Russell" title="John Russell, 1st Earl Russell">Russell</a></li> 
+             <li><a href="/wiki/Robert_Peel" title="Robert Peel">Peel</a></li> 
+             <li><a href="/wiki/John_Russell,_1st_Earl_Russell" title="John Russell, 1st Earl Russell">Russell</a></li> 
+             <li><a href="/wiki/Lord_George_Bentinck" title="Lord George Bentinck">Bentinck</a></li> 
+             <li><a href="/wiki/Charles_Manners,_6th_Duke_of_Rutland" title="Charles Manners, 6th Duke of Rutland">Granby</a></li> 
+             <li><a href="/wiki/Charles_Manners,_6th_Duke_of_Rutland" title="Charles Manners, 6th Duke of Rutland">Granby</a>/<a href="/wiki/John_Charles_Herries" title="John Charles Herries">Herries</a>/<a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Disraeli</a></li> 
+             <li><a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Disraeli</a></li> 
+             <li><a href="/wiki/John_Russell,_1st_Earl_Russell" title="John Russell, 1st Earl Russell">Russell</a></li> 
+             <li><a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Disraeli</a></li> 
+             <li><a href="/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston" title="Henry John Temple, 3rd Viscount Palmerston">Palmerston</a></li> 
+             <li><a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Disraeli</a></li> 
+             <li><a href="/wiki/William_Ewart_Gladstone" title="William Ewart Gladstone">Gladstone</a></li> 
+             <li><a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Disraeli</a></li> 
+             <li><a href="/wiki/William_Ewart_Gladstone" title="William Ewart Gladstone">Gladstone</a></li> 
+             <li><a href="/wiki/Spencer_Cavendish,_8th_Duke_of_Devonshire" title="Spencer Cavendish, 8th Duke of Devonshire">Hartington</a></li> 
+             <li><a href="/wiki/Stafford_Northcote,_1st_Earl_of_Iddesleigh" title="Stafford Northcote, 1st Earl of Iddesleigh">Northcote</a></li> 
+             <li><a href="/wiki/William_Ewart_Gladstone" title="William Ewart Gladstone">Gladstone</a></li> 
+             <li><a href="/wiki/Michael_Hicks_Beach,_1st_Earl_St_Aldwyn" title="Michael Hicks Beach, 1st Earl St Aldwyn">Hicks Beach</a></li> 
+             <li><a href="/wiki/William_Ewart_Gladstone" title="William Ewart Gladstone">Gladstone</a></li> 
+             <li><a href="/wiki/Arthur_Balfour" title="Arthur Balfour">Balfour</a></li> 
+             <li><a href="/wiki/William_Harcourt_(politician)" title="William Harcourt (politician)">Harcourt</a></li> 
+             <li><a href="/wiki/Henry_Campbell-Bannerman" title="Henry Campbell-Bannerman">Campbell-Bannerman</a></li> 
+             <li><a href="/wiki/Arthur_Balfour" title="Arthur Balfour">Balfour</a></li> 
+             <li><a href="/wiki/Joseph_Chamberlain" title="Joseph Chamberlain">Chamberlain</a></li> 
+             <li><a href="/wiki/Arthur_Balfour" title="Arthur Balfour">Balfour</a></li> 
+             <li><a href="/wiki/Bonar_Law" title="Bonar Law">Law</a></li> 
+             <li>Vacant</li> 
+             <li><a href="/wiki/Edward_Carson" title="Edward Carson">Carson</a></li> 
+             <li><a href="/wiki/H._H._Asquith" title="H. H. Asquith">Asquith</a></li> 
+             <li><a href="/wiki/Donald_Maclean_(British_politician)" title="Donald Maclean (British politician)">Maclean</a></li> 
+             <li><a href="/wiki/H._H._Asquith" title="H. H. Asquith">Asquith</a></li> 
+             <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+             <li><a href="/wiki/Stanley_Baldwin" title="Stanley Baldwin">Baldwin</a></li> 
+             <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+             <li><a href="/wiki/Stanley_Baldwin" title="Stanley Baldwin">Baldwin</a></li> 
+             <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+             <li><a href="/wiki/George_Lansbury" title="George Lansbury">Lansbury</a></li> 
+             <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+             <li><a href="/wiki/Hastings_Lees-Smith" title="Hastings Lees-Smith">Lees-Smith</a></li> 
+             <li><a href="/wiki/Frederick_Pethick-Lawrence,_1st_Baron_Pethick-Lawrence" title="Frederick Pethick-Lawrence, 1st Baron Pethick-Lawrence">Pethick-Lawrence</a></li> 
+             <li><a class="mw-selflink selflink">Greenwood</a></li> 
+             <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+             <li><a href="/wiki/Winston_Churchill" title="Winston Churchill">Churchill</a></li> 
+             <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+             <li><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Morrison</a></li> 
+             <li><a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Gaitskell</a></li> 
+             <li><a href="/wiki/George_Brown,_Baron_George-Brown" title="George Brown, Baron George-Brown">Brown</a></li> 
+             <li><a href="/wiki/Harold_Wilson" title="Harold Wilson">Wilson</a></li> 
+             <li><a href="/wiki/Alec_Douglas-Home" title="Alec Douglas-Home">Douglas-Home</a></li> 
+             <li><a href="/wiki/Edward_Heath" title="Edward Heath">Heath</a></li> 
+             <li><a href="/wiki/Harold_Wilson" title="Harold Wilson">Wilson</a></li> 
+             <li><a href="/wiki/Edward_Heath" title="Edward Heath">Heath</a></li> 
+             <li><a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">Thatcher</a></li> 
+             <li><a href="/wiki/James_Callaghan" title="James Callaghan">Callaghan</a></li> 
+             <li><a href="/wiki/Michael_Foot" title="Michael Foot">Foot</a></li> 
+             <li><a href="/wiki/Neil_Kinnock" title="Neil Kinnock">Kinnock</a></li> 
+             <li><a href="/wiki/John_Smith_(Labour_Party_leader)" title="John Smith (Labour Party leader)">Smith</a></li> 
+             <li><a href="/wiki/Margaret_Beckett" title="Margaret Beckett">Beckett</a></li> 
+             <li><a href="/wiki/Tony_Blair" title="Tony Blair">Blair</a></li> 
+             <li><a href="/wiki/John_Major" title="John Major">Major</a></li> 
+             <li><a href="/wiki/William_Hague" title="William Hague">Hague</a></li> 
+             <li><a href="/wiki/Iain_Duncan_Smith" title="Iain Duncan Smith">Duncan Smith</a></li> 
+             <li><a href="/wiki/Michael_Howard" title="Michael Howard">Howard</a></li> 
+             <li><a href="/wiki/David_Cameron" title="David Cameron">Cameron</a></li> 
+             <li><a href="/wiki/Harriet_Harman" title="Harriet Harman">Harman</a></li> 
+             <li><a href="/wiki/Ed_Miliband" title="Ed Miliband">Miliband</a></li> 
+             <li><a href="/wiki/Harriet_Harman" title="Harriet Harman">Harman</a></li> 
+             <li><a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Corbyn</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;text-align:center;"><a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/William_Grenville,_1st_Baron_Grenville" title="William Grenville, 1st Baron Grenville">Grenville</a></li> 
+             <li><a href="/wiki/Charles_Grey,_2nd_Earl_Grey" title="Charles Grey, 2nd Earl Grey">Grey</a></li> 
+             <li><a href="/wiki/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne" title="Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne">3rd Marquess of Lansdowne</a></li> 
+             <li><a href="/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" title="Arthur Wellesley, 1st Duke of Wellington">Wellington</a></li> 
+             <li><a href="/wiki/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne" title="Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne">3rd Marquess of Lansdowne</a></li> 
+             <li><a href="/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" title="Arthur Wellesley, 1st Duke of Wellington">Wellington</a></li> 
+             <li><a href="/wiki/William_Lamb,_2nd_Viscount_Melbourne" title="William Lamb, 2nd Viscount Melbourne">Melbourne</a></li> 
+             <li><a href="/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington" title="Arthur Wellesley, 1st Duke of Wellington">Wellington</a></li> 
+             <li><a href="/wiki/William_Lamb,_2nd_Viscount_Melbourne" title="William Lamb, 2nd Viscount Melbourne">Melbourne</a></li> 
+             <li><a href="/wiki/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne" title="Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne">3rd Marquess of Lansdowne</a></li> 
+             <li><a href="/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby" title="Edward Smith-Stanley, 14th Earl of Derby">Stanley</a></li> 
+             <li><a href="/wiki/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne" title="Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne">3rd Marquess of Lansdowne</a></li> 
+             <li><a href="/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby" title="Edward Smith-Stanley, 14th Earl of Derby">Derby (Stanley)</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby" title="Edward Smith-Stanley, 14th Earl of Derby">Derby</a></li> 
+             <li><a href="/wiki/John_Russell,_1st_Earl_Russell" title="John Russell, 1st Earl Russell">Russell</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/James_Harris,_3rd_Earl_of_Malmesbury" title="James Harris, 3rd Earl of Malmesbury">Malmesbury</a></li> 
+             <li><a href="/wiki/Hugh_Cairns,_1st_Earl_Cairns" title="Hugh Cairns, 1st Earl Cairns">Cairns</a></li> 
+             <li><a href="/wiki/Charles_Gordon-Lennox,_6th_Duke_of_Richmond" title="Charles Gordon-Lennox, 6th Duke of Richmond">Richmond</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Beaconsfield</a></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 3rd Marquess of Salisbury">3rd Marquess of Salisbury</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 3rd Marquess of Salisbury">3rd Marquess of Salisbury</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/John_Wodehouse,_1st_Earl_of_Kimberley" title="John Wodehouse, 1st Earl of Kimberley">Kimberley</a></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 3rd Marquess of Salisbury">3rd Marquess of Salisbury</a></li> 
+             <li><a href="/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery" title="Archibald Primrose, 5th Earl of Rosebery">Rosebery</a></li> 
+             <li><a href="/wiki/John_Wodehouse,_1st_Earl_of_Kimberley" title="John Wodehouse, 1st Earl of Kimberley">Kimberley</a></li> 
+             <li><a href="/wiki/John_Spencer,_5th_Earl_Spencer" title="John Spencer, 5th Earl Spencer">Spencer</a></li> 
+             <li><a href="/wiki/George_Robinson,_1st_Marquess_of_Ripon" title="George Robinson, 1st Marquess of Ripon">Ripon</a></li> 
+             <li><a href="/wiki/Henry_Petty-Fitzmaurice,_5th_Marquess_of_Lansdowne" title="Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne">5th Marquess of Lansdowne</a></li> 
+             <li><a href="/wiki/Robert_Crewe-Milnes,_1st_Marquess_of_Crewe" title="Robert Crewe-Milnes, 1st Marquess of Crewe">Crewe</a></li> 
+             <li><a href="/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston" title="George Curzon, 1st Marquess Curzon of Kedleston">Curzon of Kedleston</a></li> 
+             <li><a href="/wiki/Richard_Haldane,_1st_Viscount_Haldane" title="Richard Haldane, 1st Viscount Haldane">Haldane</a></li> 
+             <li><a href="/wiki/Charles_Cripps,_1st_Baron_Parmoor" title="Charles Cripps, 1st Baron Parmoor">Parmoor</a></li> 
+             <li><a href="/wiki/James_Gascoyne-Cecil,_4th_Marquess_of_Salisbury" title="James Gascoyne-Cecil, 4th Marquess of Salisbury">4th Marquess of Salisbury</a></li> 
+             <li><a href="/wiki/Douglas_Hogg,_1st_Viscount_Hailsham" title="Douglas Hogg, 1st Viscount Hailsham">Hailsham</a></li> 
+             <li><a href="/wiki/Charles_Cripps,_1st_Baron_Parmoor" title="Charles Cripps, 1st Baron Parmoor">Parmoor</a></li> 
+             <li><a href="/wiki/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede" title="Arthur Ponsonby, 1st Baron Ponsonby of Shulbrede">Ponsonby of Shulbrede</a></li> 
+             <li><a href="/wiki/Harry_Snell,_1st_Baron_Snell" title="Harry Snell, 1st Baron Snell">Snell</a></li> 
+             <li><a href="/wiki/Christopher_Addison,_1st_Viscount_Addison" title="Christopher Addison, 1st Viscount Addison">Addison</a></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 5th Marquess of Salisbury">5th Marquess of Salisbury</a></li> 
+             <li><a href="/wiki/Christopher_Addison,_1st_Viscount_Addison" title="Christopher Addison, 1st Viscount Addison">Addison</a></li> 
+             <li><a href="/wiki/William_Jowitt,_1st_Earl_Jowitt" title="William Jowitt, 1st Earl Jowitt">Jowitt</a></li> 
+             <li><a href="/wiki/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough" title="A. V. Alexander, 1st Earl Alexander of Hillsborough">Alexander of Hillsborough</a></li> 
+             <li><a href="/wiki/Peter_Carington,_6th_Baron_Carrington" title="Peter Carington, 6th Baron Carrington">Carrington</a></li> 
+             <li><a href="/wiki/Edward_Shackleton,_Baron_Shackleton" title="Edward Shackleton, Baron Shackleton">Shackleton</a></li> 
+             <li><a href="/wiki/Peter_Carington,_6th_Baron_Carrington" title="Peter Carington, 6th Baron Carrington">Carrington</a></li> 
+             <li><a href="/wiki/Fred_Peart,_Baron_Peart" title="Fred Peart, Baron Peart">Peart</a></li> 
+             <li><a href="/wiki/Cledwyn_Hughes,_Baron_Cledwyn_of_Penrhos" title="Cledwyn Hughes, Baron Cledwyn of Penrhos">Cledwyn of Penrhos</a></li> 
+             <li><a href="/wiki/Ivor_Richard,_Baron_Richard" title="Ivor Richard, Baron Richard">Richard</a></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_7th_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 7th Marquess of Salisbury">Cranborne</a></li> 
+             <li><a href="/wiki/Thomas_Galbraith,_2nd_Baron_Strathclyde" title="Thomas Galbraith, 2nd Baron Strathclyde">Strathclyde</a></li> 
+             <li><a href="/wiki/Janet_Royall,_Baroness_Royall_of_Blaisdon" title="Janet Royall, Baroness Royall of Blaisdon">Royall of Blaisdon</a></li> 
+             <li><a href="/wiki/Angela_Smith,_Baroness_Smith_of_Basildon" title="Angela Smith, Baroness Smith of Basildon">Smith of Basildon</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Secretaries_of_State_for_Health" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Secretary_of_State_for_Health" title="Template:Secretary of State for Health"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Secretary_of_State_for_Health" title="Template talk:Secretary of State for Health"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Secretary_of_State_for_Health&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Secretaries_of_State_for_Health" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Secretaries of State for Health</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Ministers of Health</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Christopher_Addison,_1st_Viscount_Addison" title="Christopher Addison, 1st Viscount Addison">Christopher Addison</a></li> 
+             <li><a href="/wiki/Alfred_Mond,_1st_Baron_Melchett" title="Alfred Mond, 1st Baron Melchett">Alfred Mond</a></li> 
+             <li><a href="/wiki/Arthur_Griffith-Boscawen" title="Arthur Griffith-Boscawen">Arthur Griffith-Boscawen</a></li> 
+             <li><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></li> 
+             <li><a href="/wiki/William_Joynson-Hicks,_1st_Viscount_Brentford" title="William Joynson-Hicks, 1st Viscount Brentford">William Joynson-Hicks</a></li> 
+             <li><a href="/wiki/John_Wheatley" title="John Wheatley">John Wheatley</a></li> 
+             <li><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></li> 
+             <li><a class="mw-selflink selflink">Arthur Greenwood</a></li> 
+             <li><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a></li> 
+             <li><a href="/wiki/Hilton_Young,_1st_Baron_Kennet" title="Hilton Young, 1st Baron Kennet">Hilton Young</a></li> 
+             <li><a href="/wiki/Kingsley_Wood" title="Kingsley Wood">Kingsley Wood</a></li> 
+             <li><a href="/wiki/Walter_Elliot_(Scottish_politician)" title="Walter Elliot (Scottish politician)">Walter Elliot</a></li> 
+             <li><a href="/wiki/Malcolm_MacDonald" title="Malcolm MacDonald">Malcolm MacDonald</a></li> 
+             <li><a href="/wiki/Ernest_Brown_(British_politician)" title="Ernest Brown (British politician)">Ernest Brown</a></li> 
+             <li><a href="/wiki/Henry_Willink" title="Henry Willink">Henry Willink</a></li> 
+             <li><a href="/wiki/Aneurin_Bevan" title="Aneurin Bevan">Aneurin Bevan</a></li> 
+             <li><a href="/wiki/Hilary_Marquand" title="Hilary Marquand">Hilary Marquand</a></li> 
+             <li><a href="/wiki/Harry_Crookshank" title="Harry Crookshank">Harry Crookshank</a></li> 
+             <li><a href="/wiki/Iain_Macleod" title="Iain Macleod">Iain Macleod</a></li> 
+             <li><a href="/wiki/Robin_Turton,_Baron_Tranmire" title="Robin Turton, Baron Tranmire">Robin Turton</a></li> 
+             <li><a href="/wiki/Dennis_Vosper,_Baron_Runcorn" title="Dennis Vosper, Baron Runcorn">Dennis Vosper</a></li> 
+             <li><a href="/wiki/Derek_Walker-Smith,_Baron_Broxbourne" title="Derek Walker-Smith, Baron Broxbourne">Derek Walker-Smith</a></li> 
+             <li><a href="/wiki/Enoch_Powell" title="Enoch Powell">Enoch Powell</a></li> 
+             <li><a href="/wiki/Anthony_Barber" title="Anthony Barber">Anthony Barber</a></li> 
+             <li><a href="/wiki/Kenneth_Robinson" title="Kenneth Robinson">Kenneth Robinson</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/100px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png" decoding="async" width="100" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/150px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/200px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png 2x" data-file-width="1530" data-file-height="1256">
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Secretaries of State for Social Services</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Richard_Crossman" title="Richard Crossman">Richard Crossman</a></li> 
+             <li><a href="/wiki/Keith_Joseph" title="Keith Joseph">Sir Keith Joseph</a></li> 
+             <li><a href="/wiki/Barbara_Castle" title="Barbara Castle">Barbara Castle</a></li> 
+             <li><a href="/wiki/David_Ennals,_Baron_Ennals" title="David Ennals, Baron Ennals">David Ennals</a></li> 
+             <li><a href="/wiki/Patrick_Jenkin,_Baron_Jenkin_of_Roding" class="mw-redirect" title="Patrick Jenkin, Baron Jenkin of Roding">Patrick Jenkin</a></li> 
+             <li><a href="/wiki/Norman_Fowler,_Baron_Fowler" title="Norman Fowler, Baron Fowler">Norman Fowler</a></li> 
+             <li><a href="/wiki/John_Moore,_Baron_Moore_of_Lower_Marsh" title="John Moore, Baron Moore of Lower Marsh">John Moore</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Secretaries of State for Health</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Kenneth_Clarke" title="Kenneth Clarke">Kenneth Clarke</a></li> 
+             <li><a href="/wiki/William_Waldegrave,_Baron_Waldegrave_of_North_Hill" title="William Waldegrave, Baron Waldegrave of North Hill">William Waldegrave</a></li> 
+             <li><a href="/wiki/Virginia_Bottomley" title="Virginia Bottomley">Virginia Bottomley</a></li> 
+             <li><a href="/wiki/Stephen_Dorrell" title="Stephen Dorrell">Stephen Dorrell</a></li> 
+             <li><a href="/wiki/Frank_Dobson" title="Frank Dobson">Frank Dobson</a></li> 
+             <li><a href="/wiki/Alan_Milburn" title="Alan Milburn">Alan Milburn</a></li> 
+             <li><a href="/wiki/John_Reid,_Baron_Reid_of_Cardowan" title="John Reid, Baron Reid of Cardowan">John Reid</a></li> 
+             <li><a href="/wiki/Patricia_Hewitt" title="Patricia Hewitt">Patricia Hewitt</a></li> 
+             <li><a href="/wiki/Alan_Johnson" title="Alan Johnson">Alan Johnson</a></li> 
+             <li><a href="/wiki/Andy_Burnham" title="Andy Burnham">Andy Burnham</a></li> 
+             <li><a href="/wiki/Andrew_Lansley" title="Andrew Lansley">Andrew Lansley</a></li> 
+             <li><a href="/wiki/Jeremy_Hunt" title="Jeremy Hunt">Jeremy Hunt</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Health" class="mw-redirect" title="Secretary of State for Health">Secretaries of State for Health and Social Care</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Jeremy_Hunt" title="Jeremy Hunt">Jeremy Hunt</a></li> 
+             <li><a href="/wiki/Matt_Hancock" title="Matt Hancock">Matt Hancock</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Paymasters_General" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Paymaster_General" title="Template:Paymaster General"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Paymaster_General" title="Template talk:Paymaster General"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Paymaster_General&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Paymasters_General" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Paymaster_General" title="Paymaster General">Paymasters General</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Henry_Parnell,_1st_Baron_Congleton" title="Henry Parnell, 1st Baron Congleton">Parnell</a></li> 
+             <li><a href="/wiki/Edward_Stanley,_2nd_Baron_Stanley_of_Alderley" title="Edward Stanley, 2nd Baron Stanley of Alderley">Stanley</a></li> 
+             <li><a href="/wiki/Sir_Edward_Knatchbull,_9th_Baronet" title="Sir Edward Knatchbull, 9th Baronet">Knatchbull</a></li> 
+             <li><a href="/wiki/Bingham_Baring,_2nd_Baron_Ashburton" title="Bingham Baring, 2nd Baron Ashburton">Baring</a></li> 
+             <li><a href="/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay" class="mw-redirect" title="Thomas Babington Macaulay, 1st Baron Macaulay">Macaulay</a></li> 
+             <li><a href="/wiki/Granville_Leveson-Gower,_2nd_Earl_Granville" title="Granville Leveson-Gower, 2nd Earl Granville">Granville</a></li> 
+             <li><a href="/wiki/Edward_Stanley,_2nd_Baron_Stanley_of_Alderley" title="Edward Stanley, 2nd Baron Stanley of Alderley">Stanley</a></li> 
+             <li><a href="/wiki/Charles_Abbot,_2nd_Baron_Colchester" title="Charles Abbot, 2nd Baron Colchester">Colchester</a></li> 
+             <li><a href="/wiki/Edward_Stanley,_2nd_Baron_Stanley_of_Alderley" title="Edward Stanley, 2nd Baron Stanley of Alderley">Stanley</a></li> 
+             <li><a href="/wiki/Edward_Pleydell-Bouverie" title="Edward Pleydell-Bouverie">Pleydell-Bouverie</a></li> 
+             <li><a href="/wiki/Robert_Lowe" title="Robert Lowe">Lowe</a></li> 
+             <li><a href="/wiki/Richard_Hely-Hutchinson,_4th_Earl_of_Donoughmore" title="Richard Hely-Hutchinson, 4th Earl of Donoughmore">Donoughmore</a></li> 
+             <li><a href="/wiki/Algernon_Percy,_6th_Duke_of_Northumberland" title="Algernon Percy, 6th Duke of Northumberland">Lovaine</a></li> 
+             <li><a href="/wiki/James_Wilson_(UK_politician)" class="mw-redirect" title="James Wilson (UK politician)">Wilson</a></li> 
+             <li><a href="/wiki/William_Cowper-Temple,_1st_Baron_Mount_Temple" title="William Cowper-Temple, 1st Baron Mount Temple">Cowper</a></li> 
+             <li><a href="/wiki/William_Hutt_(British_MP)" class="mw-redirect" title="William Hutt (British MP)">Hutt</a></li> 
+             <li><a href="/wiki/George_Goschen,_1st_Viscount_Goschen" title="George Goschen, 1st Viscount Goschen">Goschen</a></li> 
+             <li><a href="/wiki/William_Monsell,_1st_Baron_Emly" title="William Monsell, 1st Baron Emly">Monsell</a></li> 
+             <li><a href="/wiki/Stephen_Cave" title="Stephen Cave">Cave</a></li> 
+             <li><a href="/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava" title="Frederick Hamilton-Temple-Blackwood, 1st Marquess of Dufferin and Ava">Dufferin</a></li> 
+             <li><a href="/wiki/Hugh_Childers" title="Hugh Childers">Childers</a></li> 
+             <li><a href="/wiki/William_Patrick_Adam" title="William Patrick Adam">Adam</a></li> 
+             <li><a href="/wiki/Stephen_Cave" title="Stephen Cave">Cave</a></li> 
+             <li><a href="/wiki/David_Plunket,_1st_Baron_Rathmore" title="David Plunket, 1st Baron Rathmore">Plunket</a></li> 
+             <li><a href="/wiki/George_Glyn,_2nd_Baron_Wolverton" title="George Glyn, 2nd Baron Wolverton">Wolverton</a></li> 
+             <li><a href="/wiki/Frederick_Lygon,_6th_Earl_Beauchamp" title="Frederick Lygon, 6th Earl Beauchamp">Beauchamp</a></li> 
+             <li><a href="/wiki/Thomas_Hovell-Thurlow-Cumming-Bruce,_5th_Baron_Thurlow" title="Thomas Hovell-Thurlow-Cumming-Bruce, 5th Baron Thurlow">Thurlow</a></li> 
+             <li><a href="/wiki/Frederick_Lygon,_6th_Earl_Beauchamp" title="Frederick Lygon, 6th Earl Beauchamp">Beauchamp</a></li> 
+             <li><a href="/wiki/Adelbert_Brownlow-Cust,_3rd_Earl_Brownlow" title="Adelbert Brownlow-Cust, 3rd Earl Brownlow">Brownlow</a></li> 
+             <li><a href="/wiki/Victor_Child_Villiers,_7th_Earl_of_Jersey" title="Victor Child Villiers, 7th Earl of Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Robert_Windsor-Clive,_1st_Earl_of_Plymouth" title="Robert Windsor-Clive, 1st Earl of Plymouth">Windsor</a></li> 
+             <li><a href="/wiki/Charles_Seale-Hayne" title="Charles Seale-Hayne">Seale-Hayne</a></li> 
+             <li><a href="/wiki/John_Hope,_7th_Earl_of_Hopetoun" title="John Hope, 7th Earl of Hopetoun">Hopetoun</a></li> 
+             <li><a href="/wiki/Charles_Spencer-Churchill,_9th_Duke_of_Marlborough" title="Charles Spencer-Churchill, 9th Duke of Marlborough">Marlborough</a></li> 
+             <li><a href="/wiki/Savile_Crossley,_1st_Baron_Somerleyton" title="Savile Crossley, 1st Baron Somerleyton">Crossley</a></li> 
+             <li><a href="/wiki/Richard_Causton,_1st_Baron_Southwark" title="Richard Causton, 1st Baron Southwark">Causton</a></li> 
+             <li><a href="/wiki/Ivor_Guest,_1st_Viscount_Wimborne" title="Ivor Guest, 1st Viscount Wimborne">Ashby</a></li> 
+             <li><a href="/wiki/Edward_Strachey,_1st_Baron_Strachie" title="Edward Strachey, 1st Baron Strachie">Strachie</a></li> 
+             <li><a href="/wiki/Thomas_Legh,_2nd_Baron_Newton" title="Thomas Legh, 2nd Baron Newton">Newton</a></li> 
+             <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+             <li><a href="/wiki/Joseph_Compton-Rickett" title="Joseph Compton-Rickett">Compton-Rickett</a></li> 
+             <li><a href="/wiki/John_Tudor_Walters" class="mw-redirect" title="John Tudor Walters">Walters</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Chamberlain</a></li> 
+             <li><a href="/wiki/William_Joynson-Hicks,_1st_Viscount_Brentford" title="William Joynson-Hicks, 1st Viscount Brentford">Joynson-Hicks</a></li> 
+             <li><a href="/wiki/Archibald_Boyd-Carpenter" title="Archibald Boyd-Carpenter">Boyd-Carpenter</a></li> 
+             <li><a href="/wiki/Harry_Gosling" title="Harry Gosling">Gosling</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/George_Sutherland-Leveson-Gower,_5th_Duke_of_Sutherland" title="George Sutherland-Leveson-Gower, 5th Duke of Sutherland">Sutherland</a></li> 
+             <li><a href="/wiki/Richard_Onslow,_5th_Earl_of_Onslow" title="Richard Onslow, 5th Earl of Onslow">Onslow</a></li> 
+             <li><a href="/wiki/Sydney_Arnold,_1st_Baron_Arnold" title="Sydney Arnold, 1st Baron Arnold">Arnold</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/John_Tudor_Walters" class="mw-redirect" title="John Tudor Walters">Walters</a></li> 
+             <li><a href="/wiki/Ernest_Lamb,_1st_Baron_Rochester" title="Ernest Lamb, 1st Baron Rochester">Rochester</a></li> 
+             <li><a href="/wiki/Robert_Hutchison,_1st_Baron_Hutchison_of_Montrose" title="Robert Hutchison, 1st Baron Hutchison of Montrose">Hutchison</a></li> 
+             <li><a href="/wiki/Geoffrey_FitzClarence,_5th_Earl_of_Munster" title="Geoffrey FitzClarence, 5th Earl of Munster">Munster</a></li> 
+             <li><a href="/wiki/Edward_Turnour,_6th_Earl_Winterton" title="Edward Turnour, 6th Earl Winterton">Winterton</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury" title="Robert Gascoyne-Cecil, 5th Marquess of Salisbury">Cranborne</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/Maurice_Hankey,_1st_Baron_Hankey" title="Maurice Hankey, 1st Baron Hankey">Hankey</a></li> 
+             <li><a href="/wiki/William_Jowitt,_1st_Earl_Jowitt" title="William Jowitt, 1st Earl Jowitt">Jowitt</a></li> 
+             <li><a href="/wiki/Frederick_Lindemann,_1st_Viscount_Cherwell" title="Frederick Lindemann, 1st Viscount Cherwell">Cherwell</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a class="mw-selflink selflink">Greenwood</a></li> 
+             <li><a href="/wiki/Hilary_Marquand" title="Hilary Marquand">Marquand</a></li> 
+             <li><a href="/wiki/Christopher_Addison,_1st_Viscount_Addison" title="Christopher Addison, 1st Viscount Addison">Addison</a></li> 
+             <li><a href="/wiki/Gordon_Macdonald,_1st_Baron_Macdonald_of_Gwaenysgor" title="Gordon Macdonald, 1st Baron Macdonald of Gwaenysgor">Macdonald</a></li> 
+             <li><a href="/wiki/Frederick_Lindemann,_1st_Viscount_Cherwell" title="Frederick Lindemann, 1st Viscount Cherwell">Cherwell</a></li> 
+             <li><a href="/wiki/George_Douglas-Hamilton,_10th_Earl_of_Selkirk" title="George Douglas-Hamilton, 10th Earl of Selkirk">Selkirk</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/Walter_Monckton,_1st_Viscount_Monckton_of_Brenchley" class="mw-redirect" title="Walter Monckton, 1st Viscount Monckton of Brenchley">Monckton</a></li> 
+             <li><a href="/wiki/Reginald_Maudling" title="Reginald Maudling">Maulding</a></li> 
+             <li><a href="/wiki/Percy_Mills,_1st_Viscount_Mills" title="Percy Mills, 1st Viscount Mills">Mills</a></li> 
+             <li><a href="/wiki/Henry_Brooke,_Baron_Brooke_of_Cumnor" title="Henry Brooke, Baron Brooke of Cumnor">H. Brooke</a></li> 
+             <li><a href="/wiki/John_Boyd-Carpenter,_Baron_Boyd-Carpenter" title="John Boyd-Carpenter, Baron Boyd-Carpenter">Boyd-Carpenter</a></li> 
+             <li><a href="/wiki/George_Wigg,_Baron_Wigg" title="George Wigg, Baron Wigg">Wigg</a></li> 
+             <li><i>vacant</i></li> 
+             <li><a href="/wiki/Edward_Shackleton,_Baron_Shackleton" title="Edward Shackleton, Baron Shackleton">Shackleton</a></li> 
+             <li><a href="/wiki/Judith_Hart" title="Judith Hart">Hart</a></li> 
+             <li><a href="/wiki/Harold_Lever,_Baron_Lever_of_Manchester" title="Harold Lever, Baron Lever of Manchester">Lever</a></li> 
+             <li><a href="/wiki/David_Eccles,_1st_Viscount_Eccles" title="David Eccles, 1st Viscount Eccles">Eccles</a></li> 
+             <li><a href="/wiki/Maurice_Macmillan" title="Maurice Macmillan">Macmillan</a></li> 
+             <li><a href="/wiki/Edmund_Dell" title="Edmund Dell">Dell</a></li> 
+             <li><a href="/wiki/Shirley_Williams" title="Shirley Williams">Williams</a></li> 
+             <li><a href="/wiki/Angus_Maude" title="Angus Maude">A. Maude</a></li> 
+             <li><a href="/wiki/Francis_Pym,_Baron_Pym" class="mw-redirect" title="Francis Pym, Baron Pym">Pym</a></li> 
+             <li><a href="/wiki/Cecil_Parkinson" title="Cecil Parkinson">Parkinson</a></li> 
+             <li><a href="/wiki/John_Gummer" title="John Gummer">J. Gummer</a></li> 
+             <li><a href="/wiki/Kenneth_Clarke" title="Kenneth Clarke">Clarke</a></li> 
+             <li><a href="/wiki/Peter_Brooke,_Baron_Brooke_of_Sutton_Mandeville" title="Peter Brooke, Baron Brooke of Sutton Mandeville">P. Brooke</a></li> 
+             <li><a href="/wiki/Malcolm_Sinclair,_20th_Earl_of_Caithness" title="Malcolm Sinclair, 20th Earl of Caithness">Caithness</a></li> 
+             <li><a href="/wiki/Richard_Ryder,_Baron_Ryder_of_Wensum" title="Richard Ryder, Baron Ryder of Wensum">Ryder</a></li> 
+             <li><a href="/wiki/John_Ganzoni,_2nd_Baron_Belstead" title="John Ganzoni, 2nd Baron Belstead">Belstead</a></li> 
+             <li><a href="/wiki/John_Cope,_Baron_Cope_of_Berkeley" title="John Cope, Baron Cope of Berkeley">Cope</a></li> 
+             <li><a href="/wiki/David_Heathcoat-Amory" title="David Heathcoat-Amory">Heathcoat-Amory</a></li> 
+             <li><a href="/wiki/David_Willetts" title="David Willetts">Willetts</a></li> 
+             <li><a href="/wiki/Michael_Bates,_Baron_Bates" title="Michael Bates, Baron Bates">Bates</a></li> 
+             <li><a href="/wiki/Geoffrey_Robinson" title="Geoffrey Robinson">Robinson</a></li> 
+             <li><a href="/wiki/Dawn_Primarolo" title="Dawn Primarolo">Primarolo</a></li> 
+             <li><a href="/wiki/Tessa_Jowell" title="Tessa Jowell">Jowell</a></li> 
+             <li><a href="/wiki/Francis_Maude" title="Francis Maude">F. Maude</a></li> 
+             <li><a href="/wiki/Matthew_Hancock" class="mw-redirect" title="Matthew Hancock">Hancock</a></li> 
+             <li><a href="/wiki/Ben_Gummer" title="Ben Gummer">B. Gummer</a></li> 
+             <li><a href="/wiki/Mel_Stride" title="Mel Stride">Stride</a></li> 
+             <li><a href="/wiki/Jesse_Norman" title="Jesse Norman">Norman</a></li> 
+             <li><a href="/wiki/Oliver_Dowden" title="Oliver Dowden">Dowden</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/100px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png" decoding="async" width="100" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/150px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg/200px-Royal_Coat_of_Arms_of_the_United_Kingdom_%28HM_Government%29.svg.png 2x" data-file-width="1530" data-file-height="1256">
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="War_Cabinet_of_Winston_Churchill" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Churchill_War_Ministry" title="Template:Churchill War Ministry"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Churchill_War_Ministry" title="Template talk:Churchill War Ministry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Churchill_War_Ministry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="War_Cabinet_of_Winston_Churchill" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Churchill_War_Ministry" class="mw-redirect" title="Churchill War Ministry">War Cabinet of</a> 
+            <a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">Prime Minister</a><br><a href="/wiki/Minister_of_Defence_(United_Kingdom)" title="Minister of Defence (United Kingdom)">Minister of Defence</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a> (1940–1945)</li>
+                </ul> 
+               </div></td>
+              <td class="navbox-image" rowspan="16" style="width:1px;padding:0px 0px 0px 2px">
+               <div>
+                <a href="/wiki/File:Sir_Winston_S_Churchill.jpg" class="image" title="Sir Winston Churchill"><img alt="Photograph" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/100px-Sir_Winston_S_Churchill.jpg" decoding="async" width="100" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/150px-Sir_Winston_S_Churchill.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/200px-Sir_Winston_S_Churchill.jpg 2x" data-file-width="2730" data-file-height="3407"></a>
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Deputy_Prime_Minister_of_the_United_Kingdom" title="Deputy Prime Minister of the United Kingdom">Deputy Prime Minister</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a> (1942–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lord_President_of_the_Council" title="Lord President of the Council">Lord President of the Council</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Neville_Chamberlain" title="Neville Chamberlain">Neville Chamberlain</a> (1940)</li> 
+                 <li><a href="/wiki/John_Anderson,_1st_Viscount_Waverley" title="John Anderson, 1st Viscount Waverley">Sir John Anderson</a> (1940–1943)</li> 
+                 <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a> (1943–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lord_Privy_Seal" title="Lord Privy Seal">Lord Privy Seal</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a> (1940–1942)</li> 
+                 <li><a href="/wiki/Stafford_Cripps" title="Stafford Cripps">Sir Stafford Cripps</a> (1942)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chancellor_of_the_Exchequer" title="Chancellor of the Exchequer">Chancellor of the Exchequer</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Kingsley_Wood" title="Kingsley Wood">Sir Kingsley Wood</a> (1940–1942)</li> 
+                 <li><a href="/wiki/John_Anderson,_1st_Viscount_Waverley" title="John Anderson, 1st Viscount Waverley">Sir John Anderson</a> (1943–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs" title="Secretary of State for Foreign and Commonwealth Affairs">Foreign Secretary</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Edward_Wood,_1st_Earl_of_Halifax" title="Edward Wood, 1st Earl of Halifax">Viscount Halifax</a> (1940)</li> 
+                 <li><a href="/wiki/Anthony_Eden" title="Anthony Eden">Anthony Eden</a> (1940–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Home_Secretary" title="Home Secretary">Home Secretary</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a> (1940–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_of_Aircraft_Production" title="Minister of Aircraft Production">Minister of Aircraft Production</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Max_Aitken,_1st_Baron_Beaverbrook" title="Max Aitken, 1st Baron Beaverbrook">Lord Beaverbrook</a> (1940–1941)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Dominion_Affairs" title="Secretary of State for Dominion Affairs">Secretary of State for Dominion Affairs</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a> (1942–1943)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Secretary_of_State_for_Employment" title="Secretary of State for Employment">Minister of Labour and National Service</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ernest_Bevin" title="Ernest Bevin">Ernest Bevin</a> (1940–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/w/index.php?title=Minister_Resident_Middle_East&amp;action=edit&amp;redlink=1" class="new" title="Minister Resident Middle East (page does not exist)">Minister Resident Middle East</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Oliver_Lyttelton,_1st_Viscount_Chandos" title="Oliver Lyttelton, 1st Viscount Chandos">Oliver Lyttelton</a> (1942)</li> 
+                 <li><a href="/wiki/Richard_Casey,_Baron_Casey" title="Richard Casey, Baron Casey">Richard Casey</a> (1942–1944)</li> 
+                 <li><a href="/wiki/Walter_Guinness,_1st_Baron_Moyne" title="Walter Guinness, 1st Baron Moyne">Lord Moyne</a> (1944)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_without_portfolio" title="Minister without portfolio">Minister without Portfolio</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a class="mw-selflink selflink">Arthur Greenwood</a> (1940–1942)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_of_Reconstruction" title="Minister of Reconstruction">Minister of Reconstruction</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Frederick_Marquis,_1st_Earl_of_Woolton" title="Frederick Marquis, 1st Earl of Woolton">Lord Woolton</a> (1943–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_of_State" title="Minister of State">Minister of State</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Max_Aitken,_1st_Baron_Beaverbrook" title="Max Aitken, 1st Baron Beaverbrook">Lord Beaverbrook</a> (1941)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_of_Supply" title="Minister of Supply">Minister of Supply</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Max_Aitken,_1st_Baron_Beaverbrook" title="Max Aitken, 1st Baron Beaverbrook">Lord Beaverbrook</a> (1941–1942)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minister_of_Production" title="Minister of Production">Minister of Production</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Max_Aitken,_1st_Baron_Beaverbrook" title="Max Aitken, 1st Baron Beaverbrook">Lord Beaverbrook</a> (1942)</li> 
+                 <li><a href="/wiki/Oliver_Lyttelton,_1st_Viscount_Chandos" title="Oliver Lyttelton, 1st Viscount Chandos">Oliver Lyttelton</a> (1942–1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Labour_Party" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:UK_Labour_Party" title="Template:UK Labour Party"><abbr title="View this template" style="background:#DC241f;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:UK_Labour_Party" title="Template talk:UK Labour Party"><abbr title="Discuss this template" style="background:#DC241f;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UK_Labour_Party&amp;action=edit"><abbr title="Edit this template" style="background:#DC241f;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Labour_Party" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)"><span style="color:white">Labour Party</span></a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="History" style="font-size:114%;margin:0 4em">
+                History
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;">Main</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><i><a href="/wiki/History_of_the_Labour_Party_(UK)" title="History of the Labour Party (UK)">History of the Labour Party</a></i></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;">Topics</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_Labour_Party_(UK)_general_election_manifestos" title="List of Labour Party (UK) general election manifestos">General election manifestos</a></li> 
+                     <li><a href="/wiki/History_of_the_socialist_movement_in_the_United_Kingdom" title="History of the socialist movement in the United Kingdom">History of the socialist movement in the United Kingdom</a></li> 
+                     <li><a href="/wiki/Scottish_Labour_Party_(1888)" title="Scottish Labour Party (1888)">Scottish Labour Party (1888)</a></li> 
+                     <li><a href="/wiki/Independent_Labour_Party" title="Independent Labour Party">Independent Labour Party</a></li> 
+                     <li><a href="/wiki/Labour_Representation_Committee_(1900)" title="Labour Representation Committee (1900)">Labour Representation Committee</a></li> 
+                     <li><a href="/wiki/Gladstone%E2%80%93MacDonald_pact" title="Gladstone–MacDonald pact">Gladstone–MacDonald pact</a></li> 
+                     <li><a href="/wiki/National_Labour_Organisation" title="National Labour Organisation">National Labour Organisation</a></li> 
+                     <li><a href="/wiki/Lib%E2%80%93Lab_pact" title="Lib–Lab pact">Lib–Lab pact</a></li> 
+                     <li><a href="/wiki/One_more_heave" title="One more heave">One more heave</a></li> 
+                     <li><a href="/wiki/New_Labour" title="New Labour">New Labour</a></li> 
+                     <li><a href="/wiki/Tony%27s_Cronies" title="Tony's Cronies">Tony's Cronies</a></li> 
+                     <li><a href="/wiki/Blue_Labour" title="Blue Labour">Blue Labour</a></li> 
+                     <li><a href="/wiki/One_Nation_Labour" title="One Nation Labour">One Nation Labour</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="Leadership" style="font-size:114%;margin:0 4em">
+                Leadership
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/Leader_of_the_Labour_Party_(UK)" title="Leader of the Labour Party (UK)"><span style="color:white">Leaders</span></a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Keir_Hardie" title="Keir Hardie">Hardie</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/George_Barnes_(British_politician)" title="George Barnes (British politician)">Barnes</a></li> 
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/William_Adamson" title="William Adamson">Adamson</a></li> 
+                     <li><a href="/wiki/J._R._Clynes" title="J. R. Clynes">Clynes</a></li> 
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/George_Lansbury" title="George Lansbury">Lansbury</a></li> 
+                     <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+                     <li><a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Gaitskell</a></li> 
+                     <li><a href="/wiki/Harold_Wilson" title="Harold Wilson">Wilson</a></li> 
+                     <li><a href="/wiki/James_Callaghan" title="James Callaghan">Callaghan</a></li> 
+                     <li><a href="/wiki/Michael_Foot" title="Michael Foot">Foot</a></li> 
+                     <li><a href="/wiki/Neil_Kinnock" title="Neil Kinnock">Kinnock</a></li> 
+                     <li><a href="/wiki/John_Smith_(Labour_Party_leader)" title="John Smith (Labour Party leader)">Smith</a></li> 
+                     <li><a href="/wiki/Tony_Blair" title="Tony Blair">Blair</a></li> 
+                     <li><a href="/wiki/Gordon_Brown" title="Gordon Brown">Brown</a></li> 
+                     <li><a href="/wiki/Ed_Miliband" title="Ed Miliband">Miliband</a></li> 
+                     <li><a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Corbyn</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/Deputy_Leader_of_the_Labour_Party_(UK)" title="Deputy Leader of the Labour Party (UK)"><span style="color:white">Deputy Leaders</span></a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/J._R._Clynes" title="J. R. Clynes">Clynes</a></li> 
+                     <li><a href="/wiki/William_Graham_(Edinburgh_MP)" title="William Graham (Edinburgh MP)">Graham</a></li> 
+                     <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+                     <li><a class="mw-selflink selflink">Greenwood</a></li> 
+                     <li><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Morrison</a></li> 
+                     <li><a href="/wiki/Jim_Griffiths" title="Jim Griffiths">Griffiths</a></li> 
+                     <li><a href="/wiki/Aneurin_Bevan" title="Aneurin Bevan">Bevan</a></li> 
+                     <li><a href="/wiki/George_Brown,_Baron_George-Brown" title="George Brown, Baron George-Brown">Brown</a></li> 
+                     <li><a href="/wiki/Roy_Jenkins" title="Roy Jenkins">Jenkins</a></li> 
+                     <li><a href="/wiki/Edward_Short,_Baron_Glenamara" title="Edward Short, Baron Glenamara">Short</a></li> 
+                     <li><a href="/wiki/Michael_Foot" title="Michael Foot">Foot</a></li> 
+                     <li><a href="/wiki/Denis_Healey" title="Denis Healey">Healey</a></li> 
+                     <li><a href="/wiki/Roy_Hattersley" title="Roy Hattersley">Hattersley</a></li> 
+                     <li><a href="/wiki/Margaret_Beckett" title="Margaret Beckett">Beckett</a></li> 
+                     <li><a href="/wiki/John_Prescott" title="John Prescott">Prescott</a></li> 
+                     <li><a href="/wiki/Harriet_Harman" title="Harriet Harman">Harman</a></li> 
+                     <li><a href="/wiki/Tom_Watson_(Labour_politician)" title="Tom Watson (Labour politician)">Watson</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/General_Secretary_of_the_Labour_Party" title="General Secretary of the Labour Party"><span style="color:white">General Secretaries</span></a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/James_Middleton_(political_organiser)" title="James Middleton (political organiser)">Middleton</a></li> 
+                     <li><a href="/wiki/Morgan_Phillips" title="Morgan Phillips">Phillips</a></li> 
+                     <li><a href="/wiki/Leonard_Williams_(politician)" title="Leonard Williams (politician)">Williams</a></li> 
+                     <li><a href="/wiki/Harry_Nicholas" title="Harry Nicholas">Nicholas</a></li> 
+                     <li><a href="/wiki/Ron_Hayward" title="Ron Hayward">Hayward</a></li> 
+                     <li><a href="/wiki/Jim_Mortimer_(politician)" class="mw-redirect" title="Jim Mortimer (politician)">Mortimer</a></li> 
+                     <li><a href="/wiki/Larry_Whitty,_Baron_Whitty" title="Larry Whitty, Baron Whitty">Whitty</a></li> 
+                     <li><a href="/wiki/Tom_Sawyer,_Baron_Sawyer" title="Tom Sawyer, Baron Sawyer">Sawyer</a></li> 
+                     <li><a href="/wiki/Margaret_McDonagh,_Baroness_McDonagh" title="Margaret McDonagh, Baroness McDonagh">McDonagh</a></li> 
+                     <li><a href="/wiki/David_Triesman,_Baron_Triesman" title="David Triesman, Baron Triesman">Triesman</a></li> 
+                     <li><a href="/wiki/Matt_Carter_(politician)" title="Matt Carter (politician)">Carter</a></li> 
+                     <li><a href="/wiki/Peter_Watt" title="Peter Watt">Watt</a></li> 
+                     <li><a href="/wiki/Ray_Collins,_Baron_Collins_of_Highbury" title="Ray Collins, Baron Collins of Highbury">Collins</a></li> 
+                     <li><a href="/wiki/Iain_McNicol" title="Iain McNicol">McNicol</a></li> 
+                     <li><a href="/wiki/Jennie_Formby" title="Jennie Formby">Formby</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/Treasurer_of_the_Labour_Party" title="Treasurer of the Labour Party"><span style="color:white">Treasurers</span></a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/George_Lathan" title="George Lathan">Lathan</a></li> 
+                     <li><a class="mw-selflink selflink">Greenwood</a></li> 
+                     <li><a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Gaitskell</a></li> 
+                     <li><a href="/wiki/Aneurin_Bevan" title="Aneurin Bevan">Bevan</a></li> 
+                     <li><a href="/wiki/Harry_Nicholas" title="Harry Nicholas">Nicholas</a></li> 
+                     <li><a href="/wiki/Dai_Davies_(trade_unionist)" title="Dai Davies (trade unionist)">Davies</a></li> 
+                     <li><a href="/wiki/James_Callaghan" title="James Callaghan">Callaghan</a></li> 
+                     <li><a href="/wiki/Norman_Atkinson" title="Norman Atkinson">Atkinson</a></li> 
+                     <li><a href="/wiki/Eric_Varley" title="Eric Varley">Varley</a></li> 
+                     <li><a href="/wiki/Albert_Booth" title="Albert Booth">Booth</a></li> 
+                     <li><a href="/wiki/Sam_McCluskie" title="Sam McCluskie">McCluskie</a></li> 
+                     <li><a href="/wiki/Thomas_Burlison,_Baron_Burlison" class="mw-redirect" title="Thomas Burlison, Baron Burlison">Burlison</a></li> 
+                     <li><a href="/wiki/Margaret_Prosser,_Baroness_Prosser" title="Margaret Prosser, Baroness Prosser">Prosser</a></li> 
+                     <li><a href="/wiki/Jimmy_Elsby" title="Jimmy Elsby">Elsby</a></li> 
+                     <li><a href="/wiki/Jack_Dromey" title="Jack Dromey">Dromey</a></li> 
+                     <li><a href="/wiki/Diana_Holland" title="Diana Holland">Holland</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/Leader_of_the_Labour_Party_in_the_House_of_Lords" title="Leader of the Labour Party in the House of Lords"><span style="color:white">Leaders in the Lords</span></a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Richard_Haldane,_1st_Viscount_Haldane" title="Richard Haldane, 1st Viscount Haldane">Haldane</a></li> 
+                     <li><a href="/wiki/Charles_Cripps,_1st_Baron_Parmoor" title="Charles Cripps, 1st Baron Parmoor">Cripps</a></li> 
+                     <li><a href="/wiki/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede" title="Arthur Ponsonby, 1st Baron Ponsonby of Shulbrede">Ponsonby</a></li> 
+                     <li><a href="/wiki/Harry_Snell,_1st_Baron_Snell" title="Harry Snell, 1st Baron Snell">Snell</a></li> 
+                     <li><a href="/wiki/Christopher_Addison,_1st_Viscount_Addison" title="Christopher Addison, 1st Viscount Addison">Addison</a></li> 
+                     <li><a href="/wiki/William_Jowitt,_1st_Earl_Jowitt" title="William Jowitt, 1st Earl Jowitt">Jowitt</a></li> 
+                     <li><a href="/wiki/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough" title="A. V. Alexander, 1st Earl Alexander of Hillsborough">Alexander</a></li> 
+                     <li><a href="/wiki/Frank_Pakenham,_7th_Earl_of_Longford" title="Frank Pakenham, 7th Earl of Longford">Pakenham</a></li> 
+                     <li><a href="/wiki/Edward_Shackleton,_Baron_Shackleton" title="Edward Shackleton, Baron Shackleton">Shackleton</a></li> 
+                     <li><a href="/wiki/Malcolm_Shepherd,_2nd_Baron_Shepherd" title="Malcolm Shepherd, 2nd Baron Shepherd">Shepherd</a></li> 
+                     <li><a href="/wiki/Fred_Peart,_Baron_Peart" title="Fred Peart, Baron Peart">Peart</a></li> 
+                     <li><a href="/wiki/Cledwyn_Hughes,_Baron_Cledwyn_of_Penrhos" title="Cledwyn Hughes, Baron Cledwyn of Penrhos">Hughes</a></li> 
+                     <li><a href="/wiki/Ivor_Richard,_Baron_Richard" title="Ivor Richard, Baron Richard">Richard</a></li> 
+                     <li><a href="/wiki/Margaret_Jay,_Baroness_Jay_of_Paddington" title="Margaret Jay, Baroness Jay of Paddington">Jay</a></li> 
+                     <li><a href="/wiki/Gareth_Williams,_Baron_Williams_of_Mostyn" title="Gareth Williams, Baron Williams of Mostyn">Williams</a></li> 
+                     <li><a href="/wiki/Valerie_Amos,_Baroness_Amos" title="Valerie Amos, Baroness Amos">Amos</a></li> 
+                     <li><a href="/wiki/Catherine_Ashton" title="Catherine Ashton">Ashton</a></li> 
+                     <li><a href="/wiki/Janet_Royall,_Baroness_Royall_of_Blaisdon" title="Janet Royall, Baroness Royall of Blaisdon">Royall</a></li> 
+                     <li><a href="/wiki/Angela_Smith,_Baroness_Smith_of_Basildon" title="Angela Smith, Baroness Smith of Basildon">Smith of Basildon</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;"><a href="/wiki/Parliamentary_Labour_Party" title="Parliamentary Labour Party"><span style="color:white">PLP Chairs</span></a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Keir_Hardie" title="Keir Hardie">Hardie</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/George_Barnes_(British_politician)" title="George Barnes (British politician)">Barnes</a></li> 
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/John_Hodge_(politician)" title="John Hodge (politician)">Hodge</a>*</li> 
+                     <li><a href="/wiki/George_Wardle" title="George Wardle">Wardle</a>*</li> 
+                     <li><a href="/wiki/William_Adamson" title="William Adamson">Adamson</a></li> 
+                     <li><a href="/wiki/J._R._Clynes" title="J. R. Clynes">Clynes</a></li> 
+                     <li><a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">MacDonald</a></li> 
+                     <li><a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Henderson</a></li> 
+                     <li><a href="/wiki/George_Lansbury" title="George Lansbury">Lansbury</a></li> 
+                     <li><a href="/wiki/Clement_Attlee" title="Clement Attlee">Attlee</a></li> 
+                     <li><a href="/wiki/Hastings_Lees-Smith" title="Hastings Lees-Smith">Lees-Smith</a>*</li> 
+                     <li><a href="/wiki/Frederick_Pethick-Lawrence,_1st_Baron_Pethick-Lawrence" title="Frederick Pethick-Lawrence, 1st Baron Pethick-Lawrence">Pethick-Lawrence</a>*</li> 
+                     <li><a class="mw-selflink selflink">Greenwood</a>*</li> 
+                     <li><a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Gaitskell</a></li> 
+                     <li><a href="/wiki/Harold_Wilson" title="Harold Wilson">Wilson</a></li> 
+                     <li><a href="/wiki/Douglas_Houghton,_Baron_Houghton_of_Sowerby" title="Douglas Houghton, Baron Houghton of Sowerby">Houghton</a></li> 
+                     <li><a href="/wiki/Ian_Mikardo" title="Ian Mikardo">Mikardo</a></li> 
+                     <li><a href="/wiki/Cledwyn_Hughes,_Baron_Cledwyn_of_Penrhos" title="Cledwyn Hughes, Baron Cledwyn of Penrhos">Hughes</a></li> 
+                     <li><a href="/wiki/Frederick_Willey" class="mw-redirect" title="Frederick Willey">Willey</a></li> 
+                     <li><a href="/wiki/Jack_Dormand" title="Jack Dormand">Dormand</a></li> 
+                     <li><a href="/wiki/Stanley_Orme,_Baron_Orme" class="mw-redirect" title="Stanley Orme, Baron Orme">Orme</a></li> 
+                     <li><a href="/wiki/Doug_Hoyle,_Baron_Hoyle" class="mw-redirect" title="Doug Hoyle, Baron Hoyle">Hoyle</a></li> 
+                     <li><a href="/wiki/Clive_Soley,_Baron_Soley" class="mw-redirect" title="Clive Soley, Baron Soley">Soley</a></li> 
+                     <li><a href="/wiki/Jean_Corston,_Baroness_Corston" title="Jean Corston, Baroness Corston">Corston</a></li> 
+                     <li><a href="/wiki/Ann_Clwyd" title="Ann Clwyd">Clwyd</a></li> 
+                     <li><a href="/wiki/Tony_Lloyd" title="Tony Lloyd">Lloyd</a></li> 
+                     <li><a href="/wiki/David_Watts_(politician)" class="mw-redirect" title="David Watts (politician)">Watts</a></li> 
+                     <li><a href="/wiki/John_Cryer" title="John Cryer">Cryer</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="navbox-abovebelow" colspan="2" style="background:#DC241f;color:white;">
+                   <div>
+                    * = wartime, in opposition
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="Internal_elections" style="font-size:114%;margin:0 4em">
+                Internal elections
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;">Leadership elections</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/1922_Labour_Party_leadership_election_(UK)" title="1922 Labour Party leadership election (UK)">1922</a> <a href="/wiki/Ramsay_MacDonald" title="Ramsay MacDonald">Ramsay MacDonald</a></li> 
+                     <li><a href="/wiki/1931_Labour_Party_leadership_election" title="1931 Labour Party leadership election">1931</a> <a href="/wiki/Arthur_Henderson" title="Arthur Henderson">Arthur Henderson</a></li> 
+                     <li><a href="/wiki/1932_Labour_Party_leadership_election" title="1932 Labour Party leadership election">1932</a> <a href="/wiki/George_Lansbury" title="George Lansbury">George Lansbury</a></li> 
+                     <li><a href="/wiki/1935_Labour_Party_leadership_election" title="1935 Labour Party leadership election">1935</a> <a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></li> 
+                     <li><a href="/wiki/1955_Labour_Party_leadership_election" title="1955 Labour Party leadership election">1955</a> <a href="/wiki/Hugh_Gaitskell" title="Hugh Gaitskell">Hugh Gaitskell</a></li> 
+                     <li><a href="/wiki/1960_Labour_Party_leadership_election" title="1960 Labour Party leadership election">1960</a></li> 
+                     <li><a href="/wiki/1961_Labour_Party_leadership_election" title="1961 Labour Party leadership election">1961</a></li> 
+                     <li><a href="/wiki/1963_Labour_Party_leadership_election_(UK)" title="1963 Labour Party leadership election (UK)">1963</a> <a href="/wiki/Harold_Wilson" title="Harold Wilson">Harold Wilson</a></li> 
+                     <li><a href="/wiki/1976_Labour_Party_leadership_election" title="1976 Labour Party leadership election">1976</a> <a href="/wiki/James_Callaghan" title="James Callaghan">James Callaghan</a></li> 
+                     <li><a href="/wiki/1980_Labour_Party_leadership_election_(UK)" title="1980 Labour Party leadership election (UK)">1980</a> <a href="/wiki/Michael_Foot" title="Michael Foot">Michael Foot</a></li> 
+                     <li><a href="/wiki/1983_Labour_Party_leadership_election_(UK)" title="1983 Labour Party leadership election (UK)">1983</a> <a href="/wiki/Neil_Kinnock" title="Neil Kinnock">Neil Kinnock</a></li> 
+                     <li><a href="/wiki/1988_Labour_Party_leadership_election_(UK)" title="1988 Labour Party leadership election (UK)">1988</a></li> 
+                     <li><a href="/wiki/1992_Labour_Party_leadership_election" title="1992 Labour Party leadership election">1992</a> <a href="/wiki/John_Smith_(Labour_Party_leader)" title="John Smith (Labour Party leader)">John Smith</a></li> 
+                     <li><a href="/wiki/1994_Labour_Party_leadership_election" title="1994 Labour Party leadership election">1994</a> <a href="/wiki/Tony_Blair" title="Tony Blair">Tony Blair</a></li> 
+                     <li><a href="/wiki/2007_Labour_Party_leadership_election_(UK)" title="2007 Labour Party leadership election (UK)">2007</a> <a href="/wiki/Gordon_Brown" title="Gordon Brown">Gordon Brown</a></li> 
+                     <li><a href="/wiki/2010_Labour_Party_leadership_election_(UK)" title="2010 Labour Party leadership election (UK)">2010</a> <a href="/wiki/Ed_Miliband" title="Ed Miliband">Ed Miliband</a></li> 
+                     <li><a href="/wiki/2015_Labour_Party_leadership_election_(UK)" title="2015 Labour Party leadership election (UK)">2015</a> <a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Jeremy Corbyn</a></li> 
+                     <li><a href="/wiki/2016_Labour_Party_leadership_election_(UK)" title="2016 Labour Party leadership election (UK)">2016</a></li>
+                    </ul> 
+                    <hr> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;">Deputy Leadership elections</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/1952_Labour_Party_deputy_leadership_election" title="1952 Labour Party deputy leadership election">1952</a> <a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a></li> 
+                     <li><a href="/wiki/1953_Labour_Party_deputy_leadership_election" title="1953 Labour Party deputy leadership election">1953</a></li> 
+                     <li><a href="/wiki/1956_Labour_Party_deputy_leadership_election" title="1956 Labour Party deputy leadership election">1956</a> <a href="/wiki/Jim_Griffiths" title="Jim Griffiths">Jim Griffiths</a></li> 
+                     <li><a href="/wiki/1959_Labour_Party_deputy_leadership_election" title="1959 Labour Party deputy leadership election">1959</a> <a href="/wiki/Aneurin_Bevan" title="Aneurin Bevan">Aneurin Bevan</a></li> 
+                     <li><a href="/wiki/1960_Labour_Party_deputy_leadership_election" title="1960 Labour Party deputy leadership election">1960</a> <a href="/wiki/George_Brown,_Baron_George-Brown" title="George Brown, Baron George-Brown">George Brown</a></li> 
+                     <li><a href="/wiki/1961_Labour_Party_deputy_leadership_election" title="1961 Labour Party deputy leadership election">1961</a></li> 
+                     <li><a href="/wiki/1962_Labour_Party_deputy_leadership_election" title="1962 Labour Party deputy leadership election">1962</a></li> 
+                     <li><a href="/wiki/1970_Labour_Party_deputy_leadership_election" title="1970 Labour Party deputy leadership election">1970</a> <a href="/wiki/Roy_Jenkins" title="Roy Jenkins">Roy Jenkins</a></li> 
+                     <li><a href="/wiki/1971_Labour_Party_deputy_leadership_election" title="1971 Labour Party deputy leadership election">1971</a></li> 
+                     <li><a href="/wiki/1972_Labour_Party_deputy_leadership_election" title="1972 Labour Party deputy leadership election">1972</a> <a href="/wiki/Edward_Short" class="mw-redirect" title="Edward Short">Edward Short</a></li> 
+                     <li><a href="/wiki/1976_Labour_Party_deputy_leadership_election" title="1976 Labour Party deputy leadership election">1976</a> <a href="/wiki/Michael_Foot" title="Michael Foot">Michael Foot</a></li> 
+                     <li><a href="/wiki/1980_Labour_Party_deputy_leadership_election" title="1980 Labour Party deputy leadership election">1980</a> <a href="/wiki/Denis_Healey" title="Denis Healey">Denis Healey</a></li> 
+                     <li><a href="/wiki/1981_Labour_Party_deputy_leadership_election" title="1981 Labour Party deputy leadership election">1981</a></li> 
+                     <li><a href="/wiki/1983_Labour_Party_deputy_leadership_election" title="1983 Labour Party deputy leadership election">1983</a> <a href="/wiki/Roy_Hattersley" title="Roy Hattersley">Roy Hattersley</a></li> 
+                     <li><a href="/wiki/1988_Labour_Party_deputy_leadership_election" title="1988 Labour Party deputy leadership election">1988</a></li> 
+                     <li><a href="/wiki/1992_Labour_Party_deputy_leadership_election" title="1992 Labour Party deputy leadership election">1992</a> <a href="/wiki/Margaret_Beckett" title="Margaret Beckett">Margaret Beckett</a></li> 
+                     <li><a href="/wiki/1994_Labour_Party_deputy_leadership_election" title="1994 Labour Party deputy leadership election">1994</a> <a href="/wiki/John_Prescott" title="John Prescott">John Prescott</a></li> 
+                     <li><a href="/wiki/2007_Labour_Party_deputy_leadership_election" title="2007 Labour Party deputy leadership election">2007</a> <a href="/wiki/Harriet_Harman" title="Harriet Harman">Harriet Harman</a></li> 
+                     <li><a href="/wiki/2015_Labour_Party_deputy_leadership_election" title="2015 Labour Party deputy leadership election">2015</a> <a href="/wiki/Tom_Watson_(Labour_politician)" title="Tom Watson (Labour politician)">Tom Watson</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;;line-height:1.1em;">Shadow Cabinet elections</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/w/index.php?title=September_1931_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="September 1931 Labour Party Shadow Cabinet election (page does not exist)">Sep 1931 (Henderson)</a></li> 
+                     <li><a href="/w/index.php?title=November_1931_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="November 1931 Labour Party Shadow Cabinet election (page does not exist)">Nov 1931 (Henderson)</a></li> 
+                     <li><a href="/w/index.php?title=1932_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1932 Labour Party Shadow Cabinet election (page does not exist)">1932 (Lansbury)</a></li> 
+                     <li><a href="/w/index.php?title=1933_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1933 Labour Party Shadow Cabinet election (page does not exist)">1933</a></li> 
+                     <li><a href="/w/index.php?title=1934_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1934 Labour Party Shadow Cabinet election (page does not exist)">1934</a></li> 
+                     <li><a href="/w/index.php?title=1935_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1935 Labour Party Shadow Cabinet election (page does not exist)">1935 (Attlee)</a></li> 
+                     <li><a href="/w/index.php?title=1936_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1936 Labour Party Shadow Cabinet election (page does not exist)">1936</a></li> 
+                     <li><a href="/w/index.php?title=1937_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1937 Labour Party Shadow Cabinet election (page does not exist)">1937</a></li> 
+                     <li><a href="/w/index.php?title=1938_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1938 Labour Party Shadow Cabinet election (page does not exist)">1938</a></li> 
+                     <li><a href="/w/index.php?title=1939_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1939 Labour Party Shadow Cabinet election (page does not exist)">1939</a></li> 
+                     <li><a href="/w/index.php?title=1951_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1951 Labour Party Shadow Cabinet election (page does not exist)">1951</a></li> 
+                     <li><a href="/wiki/1952_Labour_Party_Shadow_Cabinet_election" title="1952 Labour Party Shadow Cabinet election">1952</a></li> 
+                     <li><a href="/wiki/1953_Labour_Party_Shadow_Cabinet_election" title="1953 Labour Party Shadow Cabinet election">1953</a></li> 
+                     <li><a href="/wiki/1954_Labour_Party_Shadow_Cabinet_election" title="1954 Labour Party Shadow Cabinet election">1954</a></li> 
+                     <li><a href="/wiki/1955_Labour_Party_Shadow_Cabinet_election" title="1955 Labour Party Shadow Cabinet election">1955</a></li> 
+                     <li><a href="/wiki/1956_Labour_Party_Shadow_Cabinet_election" title="1956 Labour Party Shadow Cabinet election">1956 (Gaitskell)</a></li> 
+                     <li><a href="/wiki/1957_Labour_Party_Shadow_Cabinet_election" title="1957 Labour Party Shadow Cabinet election">1957</a></li> 
+                     <li><a href="/wiki/1958_Labour_Party_Shadow_Cabinet_election" title="1958 Labour Party Shadow Cabinet election">1958</a></li> 
+                     <li><a href="/wiki/1959_Labour_Party_Shadow_Cabinet_election" title="1959 Labour Party Shadow Cabinet election">1959</a></li> 
+                     <li><a href="/wiki/1960_Labour_Party_Shadow_Cabinet_election" title="1960 Labour Party Shadow Cabinet election">1960</a></li> 
+                     <li><a href="/w/index.php?title=1961_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1961 Labour Party Shadow Cabinet election (page does not exist)">1961</a></li> 
+                     <li><a href="/w/index.php?title=1962_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1962 Labour Party Shadow Cabinet election (page does not exist)">1962</a></li> 
+                     <li><a href="/w/index.php?title=1963_Labour_Party_Shadow_Cabinet_election&amp;action=edit&amp;redlink=1" class="new" title="1963 Labour Party Shadow Cabinet election (page does not exist)">1963 (Wilson)</a></li> 
+                     <li><a href="/wiki/1970_Labour_Party_Shadow_Cabinet_election" title="1970 Labour Party Shadow Cabinet election">1970</a></li> 
+                     <li><a href="/wiki/1971_Labour_Party_Shadow_Cabinet_election" title="1971 Labour Party Shadow Cabinet election">1971</a></li> 
+                     <li><a href="/wiki/1972_Labour_Party_Shadow_Cabinet_election" title="1972 Labour Party Shadow Cabinet election">1972</a></li> 
+                     <li><a href="/wiki/1973_Labour_Party_Shadow_Cabinet_election" title="1973 Labour Party Shadow Cabinet election">1973</a></li> 
+                     <li><a href="/wiki/1979_Labour_Party_Shadow_Cabinet_election" title="1979 Labour Party Shadow Cabinet election">1979 (Callaghan)</a></li> 
+                     <li><a href="/wiki/1980_Labour_Party_Shadow_Cabinet_election" title="1980 Labour Party Shadow Cabinet election">1980 (Foot)</a></li> 
+                     <li><a href="/wiki/1981_Labour_Party_Shadow_Cabinet_election" title="1981 Labour Party Shadow Cabinet election">1981</a></li> 
+                     <li><a href="/wiki/1982_Labour_Party_Shadow_Cabinet_election" title="1982 Labour Party Shadow Cabinet election">1982</a></li> 
+                     <li><a href="/wiki/1983_Labour_Party_Shadow_Cabinet_election" title="1983 Labour Party Shadow Cabinet election">1983 (Kinnock)</a></li> 
+                     <li><a href="/wiki/1984_Labour_Party_Shadow_Cabinet_election" title="1984 Labour Party Shadow Cabinet election">1984</a></li> 
+                     <li><a href="/wiki/1985_Labour_Party_Shadow_Cabinet_election" title="1985 Labour Party Shadow Cabinet election">1985</a></li> 
+                     <li><a href="/wiki/1986_Labour_Party_Shadow_Cabinet_election" title="1986 Labour Party Shadow Cabinet election">1986</a></li> 
+                     <li><a href="/wiki/1987_Labour_Party_Shadow_Cabinet_election" title="1987 Labour Party Shadow Cabinet election">1987</a></li> 
+                     <li><a href="/wiki/1988_Labour_Party_Shadow_Cabinet_election" title="1988 Labour Party Shadow Cabinet election">1988</a></li> 
+                     <li><a href="/wiki/1989_Labour_Party_Shadow_Cabinet_election" title="1989 Labour Party Shadow Cabinet election">1989</a></li> 
+                     <li><a href="/wiki/1990_Labour_Party_Shadow_Cabinet_election" title="1990 Labour Party Shadow Cabinet election">1990</a></li> 
+                     <li><a href="/wiki/1991_Labour_Party_Shadow_Cabinet_election" title="1991 Labour Party Shadow Cabinet election">1991</a></li> 
+                     <li><a href="/wiki/1992_Labour_Party_Shadow_Cabinet_election" title="1992 Labour Party Shadow Cabinet election">1992 (Smith)</a></li> 
+                     <li><a href="/wiki/1993_Labour_Party_Shadow_Cabinet_election" title="1993 Labour Party Shadow Cabinet election">1993</a></li> 
+                     <li><a href="/wiki/1994_Labour_Party_Shadow_Cabinet_election" title="1994 Labour Party Shadow Cabinet election">1994 (Blair)</a></li> 
+                     <li><a href="/wiki/1995_Labour_Party_Shadow_Cabinet_election" title="1995 Labour Party Shadow Cabinet election">1995</a></li> 
+                     <li><a href="/wiki/1996_Labour_Party_Shadow_Cabinet_election" title="1996 Labour Party Shadow Cabinet election">1996</a></li> 
+                     <li><a href="/wiki/2010_Labour_Party_Shadow_Cabinet_election" title="2010 Labour Party Shadow Cabinet election">2010 (Miliband)</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="Party_structure" style="font-size:114%;margin:0 4em">
+                Party structure
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Constitution</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Labour_Party_Constitution" class="mw-redirect" title="Labour Party Constitution">Labour Party Constitution</a> 
+                      <ul>
+                       <li><a href="/wiki/Clause_IV" title="Clause IV">Clause IV</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Labour_Party_Rule_Book" title="Labour Party Rule Book">Rule Book</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Executive</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/National_Executive_Committee_(UK_Labour_Party)" title="National Executive Committee (UK Labour Party)">National Executive Committee</a></li> 
+                     <li><a href="/wiki/General_Secretary_of_the_Labour_Party" title="General Secretary of the Labour Party">General Secretary</a></li> 
+                     <li><a href="/wiki/Treasurer_of_the_Labour_Party" title="Treasurer of the Labour Party">Treasurer</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Parliamentary</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Parliamentary_Labour_Party" title="Parliamentary Labour Party">Parliamentary Labour Party</a> 
+                      <ul>
+                       <li><a href="/wiki/Labour_Chief_Whip" class="mw-redirect" title="Labour Chief Whip">Labour Chief Whip</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/European_Parliamentary_Labour_Party" title="European Parliamentary Labour Party">European Parliamentary Labour Party</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Conference</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Labour_Party_(UK)_Conference" class="mw-redirect" title="Labour Party (UK) Conference">Labour Party Conference</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Subnational</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Scottish_Labour_Party" title="Scottish Labour Party">Scottish Labour Party</a></li> 
+                     <li><a href="/wiki/Welsh_Labour" title="Welsh Labour">Welsh Labour</a></li> 
+                     <li><a href="/wiki/Labour_Party_in_Northern_Ireland" title="Labour Party in Northern Ireland">Labour Party in Northern Ireland</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Directly elected city mayoral authorities</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/London_Labour_Party" title="London Labour Party">London Labour Party</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">CLP's</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em">
+                    <a href="/wiki/Constituency_Labour_Party" title="Constituency Labour Party">Constituency Labour Party</a>
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Miscellaneous</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/National_Policy_Forum" title="National Policy Forum">National Policy Forum</a></li> 
+                     <li><a href="/wiki/Labour_Party_(UK)_affiliated_trade_union" title="Labour Party (UK) affiliated trade union">Affiliated trade unions</a></li> 
+                     <li><a href="/wiki/Trade_Union_and_Labour_Party_Liaison_Organisation" title="Trade Union and Labour Party Liaison Organisation">Trade Union and Labour Party Liaison Organisation</a></li> 
+                     <li><a href="/wiki/Labour_Co-operative" class="mw-redirect" title="Labour Co-operative">Labour Co-operative</a> 
+                      <ul>
+                       <li><a href="/wiki/Co-operative_Party" title="Co-operative Party">Co-operative Party</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Labour_%E2%80%93_Federation_of_Labour_Groups" title="Labour – Federation of Labour Groups">Labour – Federation of Labour Groups</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="Associated_organisations" style="font-size:114%;margin:0 4em">
+                Associated organisations
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f; color:white; line-height:1.1em;">List</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><i><a href="/wiki/List_of_organisations_associated_with_the_British_Labour_Party" class="mw-redirect" title="List of organisations associated with the British Labour Party">Organisations associated with the Labour Party</a></i></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f; color:white; line-height:1.1em;">Sectional groups</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Young_Labour_(United_Kingdom)" class="mw-redirect" title="Young Labour (United Kingdom)">Young Labour</a></li> 
+                     <li><a href="/wiki/Labour_International" title="Labour International">Labour International</a></li> 
+                     <li><a href="/wiki/LGBT_Labour" title="LGBT Labour">LGBT Labour</a></li> 
+                     <li><a href="/wiki/Labour_Students" title="Labour Students">Labour Students</a></li> 
+                     <li><a href="/wiki/BAME_Labour" title="BAME Labour">BAME Labour</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;background:#DC241f; color:white; line-height:1.1em;">Factional groups</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Campaign_for_Labour_Party_Democracy" title="Campaign for Labour Party Democracy">Campaign for Labour Party Democracy</a></li> 
+                     <li><a href="/wiki/Christians_on_the_Left" title="Christians on the Left">Christians on the Left</a></li> 
+                     <li><a href="/wiki/Compass_(think_tank)" title="Compass (think tank)">Compass</a></li> 
+                     <li><a href="/wiki/Fabian_Society" title="Fabian Society">Fabian Society</a> 
+                      <ul>
+                       <li><a href="/wiki/Young_Fabians" title="Young Fabians">Young Fabians</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Future_Britain_Group" title="Future Britain Group">Future Britain</a></li> 
+                     <li><a href="/wiki/Grassroots_Alliance" class="mw-redirect" title="Grassroots Alliance">Grassroots Alliance</a></li> 
+                     <li><a href="/wiki/Jewish_Labour_Movement" title="Jewish Labour Movement">Jewish Labour Movement</a></li> 
+                     <li><a href="/wiki/Labour_Campaign_for_Electoral_Reform" title="Labour Campaign for Electoral Reform">Labour Campaign for Electoral Reform</a></li> 
+                     <li><a href="/wiki/Labour_CND" title="Labour CND">Labour CND</a></li> 
+                     <li><a href="/wiki/Labour_Friends_of_Israel" title="Labour Friends of Israel">Labour Friends of Israel</a></li> 
+                     <li><a href="/wiki/Labour_Friends_of_Palestine_%26_the_Middle_East" title="Labour Friends of Palestine &amp; the Middle East">Labour Friends of Palestine &amp; the Middle East</a></li> 
+                     <li><a href="/wiki/Labour_Party_Irish_Society" title="Labour Party Irish Society">Labour Party Irish Society</a></li> 
+                     <li><a href="/wiki/Labour_Representation_Committee_(2004)" title="Labour Representation Committee (2004)">Labour Representation Committee (2004)</a></li> 
+                     <li><a href="/wiki/LabourList" title="LabourList">LabourList</a></li> 
+                     <li><a href="/wiki/Momentum_(organisation)" title="Momentum (organisation)">Momentum</a></li> 
+                     <li><a href="/wiki/National_Union_of_Labour_and_Socialist_Clubs" title="National Union of Labour and Socialist Clubs">National Union of Labour and Socialist Clubs</a></li> 
+                     <li><a href="/wiki/Progress_(organisation)" title="Progress (organisation)">Progress</a></li> 
+                     <li><a href="/wiki/Socialist_Appeal_(UK,_1992)" title="Socialist Appeal (UK, 1992)">Socialist Appeal</a></li> 
+                     <li><a href="/wiki/Socialist_Health_Association" title="Socialist Health Association">Socialist Health Association</a></li> 
+                     <li><a href="/wiki/Socialist_Educational_Association" title="Socialist Educational Association">Socialist Educational Association</a></li> 
+                     <li><a href="/wiki/Socialist_Environment_and_Resources_Association" title="Socialist Environment and Resources Association">Socialist Environment and Resources Association</a></li> 
+                     <li><a href="/wiki/Socialist_Campaign_Group" title="Socialist Campaign Group">Socialist Campaign Group</a></li> 
+                     <li><a href="/wiki/International_Union_of_Socialist_Youth" title="International Union of Socialist Youth">Socialist Youth Network</a></li> 
+                     <li><a href="/wiki/Socialist_society_(Labour_Party)" title="Socialist society (Labour Party)">Socialist societies</a></li> 
+                     <li><i><a href="/wiki/Tribune_(magazine)" title="Tribune (magazine)">Tribune</a></i></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f;color:white;">
+               <div id="Party_alliances" style="font-size:114%;margin:0 4em">
+                Party alliances
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th id="Current" scope="row" class="navbox-group" style="width:1%;background:#DC241f;color:white;line-height:1.1em;">Current</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Party_of_European_Socialists" title="Party of European Socialists">Party of European Socialists</a></li> 
+                     <li><a href="/wiki/Progressive_Alliance_of_Socialists_and_Democrats" title="Progressive Alliance of Socialists and Democrats">Progressive Alliance of Socialists and Democrats</a></li> 
+                     <li><a href="/wiki/Progressive_Alliance_(political_international)" class="mw-redirect" title="Progressive Alliance (political international)">Progressive Alliance</a></li> 
+                     <li><a href="/wiki/Socialist_International" title="Socialist International">Socialist International</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="1935_Labour_Party_leadership_election" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#DC241f; color:white;">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Labour_Party_leadership_election,_1935" title="Template:Labour Party leadership election, 1935"><abbr title="View this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Labour_Party_leadership_election,_1935" title="Template talk:Labour Party leadership election, 1935"><abbr title="Discuss this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Labour_Party_leadership_election,_1935&amp;action=edit"><abbr title="Edit this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="1935_Labour_Party_leadership_election" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/1935_Labour_Party_leadership_election" title="1935 Labour Party leadership election"><span style="color:white;">1935 Labour Party leadership election</span></a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="background:#DC241f; color:white;">
+           <div id="Interim_Leader:_Clement_Attlee">
+            Interim Leader: 
+            <a href="/wiki/Clement_Attlee" title="Clement Attlee"><span style="color:white;">Clement Attlee</span></a>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><b><a href="/wiki/Clement_Attlee" title="Clement Attlee">Clement Attlee</a></b></li> 
+             <li><a class="mw-selflink selflink">Arthur Greenwood</a></li> 
+             <li><a href="/wiki/Herbert_Morrison" title="Herbert Morrison">Herbert Morrison</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q333174&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q333174&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q333174" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11109718n">cb11109718n</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11109718n">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/124321410">124321410</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000122784545">0000 0001 2278 4545</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no00001948">no00001948</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=skuk0000503&amp;CON_LNG=ENG">skuk0000503</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nli.org.il/F/?func=find-b&amp;local_base=NNL10&amp;find_code=SYS&amp;con_lng=eng&amp;request=001778423">001778423</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Poland" title="National Library of Poland">NLP</a>: <span class="uid"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url?p=1695&amp;id=A23643092">A23643092</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p069896178">069896178</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://socialarchive.iath.virginia.edu/ark:/99166/w6q261wc">w6q261wc</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/097911291">097911291</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Trove" title="Trove">Trove</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/954703">954703</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/37848353">37848353</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/37848353">37848353</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1308
+Cached time: 20191030182808
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.192 seconds
+Real time usage: 1.498 seconds
+Preprocessor visited node count: 16924/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 311124/2097152 bytes
+Template argument size: 13716/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 15/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 4797/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.369/10.000 seconds
+Lua memory usage: 6 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1307.731      1 -total
+ 65.10%  851.388     19 Template:Infobox
+ 60.33%  788.948      1 Template:Infobox_officeholder
+ 27.89%  364.779     17 Template:Infobox_officeholder/office
+ 12.44%  162.651      1 Template:Birth-date
+  9.08%  118.714     10 Template:Succession_box
+  7.06%   92.371      1 Template:Reflist
+  6.29%   82.276      1 Template:Cite_news
+  4.12%   53.920      1 Template:Authority_control
+  4.08%   53.385     12 Template:Navbox
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:476605-0!canonical and timestamp 20191030182808 and revision id 909753369
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arthur_Greenwood&amp;oldid=909753369">https://en.wikipedia.org/w/index.php?title=Arthur_Greenwood&amp;oldid=909753369</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:1880_births" title="Category:1880 births">1880 births</a></li>
+       <li><a href="/wiki/Category:1954_deaths" title="Category:1954 deaths">1954 deaths</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" title="Category:Members of the Privy Council of the United Kingdom">Members of the Privy Council of the United Kingdom</a></li>
+       <li><a href="/wiki/Category:Lords_Privy_Seal" title="Category:Lords Privy Seal">Lords Privy Seal</a></li>
+       <li><a href="/wiki/Category:Labour_Party_(UK)_MPs_for_English_constituencies" title="Category:Labour Party (UK) MPs for English constituencies">Labour Party (UK) MPs for English constituencies</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Order_of_the_Companions_of_Honour" title="Category:Members of the Order of the Companions of Honour">Members of the Order of the Companions of Honour</a></li>
+       <li><a href="/wiki/Category:Politics_of_Wakefield" title="Category:Politics of Wakefield">Politics of Wakefield</a></li>
+       <li><a href="/wiki/Category:United_Kingdom_Paymasters_General" title="Category:United Kingdom Paymasters General">United Kingdom Paymasters General</a></li>
+       <li><a href="/wiki/Category:UK_MPs_1931%E2%80%931935" title="Category:UK MPs 1931–1935">UK MPs 1931–1935</a></li>
+       <li><a href="/wiki/Category:UK_MPs_1935%E2%80%931945" title="Category:UK MPs 1935–1945">UK MPs 1935–1945</a></li>
+       <li><a href="/wiki/Category:UK_MPs_1945%E2%80%931950" title="Category:UK MPs 1945–1950">UK MPs 1945–1950</a></li>
+       <li><a href="/wiki/Category:UK_MPs_1950%E2%80%931951" title="Category:UK MPs 1950–1951">UK MPs 1950–1951</a></li>
+       <li><a href="/wiki/Category:UK_MPs_1951%E2%80%931955" title="Category:UK MPs 1951–1955">UK MPs 1951–1955</a></li>
+       <li><a href="/wiki/Category:Chairs_of_the_Labour_Party_(UK)" title="Category:Chairs of the Labour Party (UK)">Chairs of the Labour Party (UK)</a></li>
+       <li><a href="/wiki/Category:Alumni_of_the_University_of_Leeds" title="Category:Alumni of the University of Leeds">Alumni of the University of Leeds</a></li>
+       <li><a href="/wiki/Category:Freemasons_of_the_United_Grand_Lodge_of_England" title="Category:Freemasons of the United Grand Lodge of England">Freemasons of the United Grand Lodge of England</a></li>
+       <li><a href="/wiki/Category:Participants_in_the_Norway_Debate" title="Category:Participants in the Norway Debate">Participants in the Norway Debate</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_August_2012" title="Category:Use dmy dates from August 2012">Use dmy dates from August 2012</a></li>
+       <li><a href="/wiki/Category:Use_British_English_from_August_2012" title="Category:Use British English from August 2012">Use British English from August 2012</a></li>
+       <li><a href="/wiki/Category:Articles_with_Project_Gutenberg_links" title="Category:Articles with Project Gutenberg links">Articles with Project Gutenberg links</a></li>
+       <li><a href="/wiki/Category:Articles_with_Internet_Archive_links" title="Category:Articles with Internet Archive links">Articles with Internet Archive links</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLP_identifiers" title="Category:Wikipedia articles with NLP identifiers">Wikipedia articles with NLP identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_Trove_identifiers" title="Category:Wikipedia articles with Trove identifiers">Wikipedia articles with Trove identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arthur+Greenwood" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arthur+Greenwood" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Arthur_Greenwood" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Arthur_Greenwood" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Arthur_Greenwood">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arthur_Greenwood&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arthur_Greenwood" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arthur_Greenwood" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Arthur_Greenwood&amp;oldid=909753369" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Arthur_Greenwood&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q333174" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arthur_Greenwood&amp;id=909753369" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arthur_Greenwood" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arthur+Greenwood">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arthur+Greenwood&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Arthur_Greenwood&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D8%B1%D8%AB%D8%B1_%D8%BA%D8%B1%D9%8A%D9%86%D9%88%D9%88%D8%AF" title="آرثر غرينوود – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Arthur_Greenwood" title="Arthur Greenwood – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Arthur_Greenwood" title="Arthur Greenwood – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%84%9C_%EA%B7%B8%EB%A6%B0%EC%9A%B0%EB%93%9C" title="아서 그린우드 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Arthur_Greenwood" title="Arthur Greenwood – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Arthurus_Greenwood" title="Arthurus Greenwood – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Arthur_Greenwood" title="Arthur Greenwood – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Arthur_Greenwood" title="Arthur Greenwood – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q333174#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 August 2019, at 11:39<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arthur_Greenwood&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.192","walltime":"1.498","ppvisitednodes":{"value":16924,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":311124,"limit":2097152},"templateargumentsize":{"value":13716,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":4797,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1307.731      1 -total"," 65.10%  851.388     19 Template:Infobox"," 60.33%  788.948      1 Template:Infobox_officeholder"," 27.89%  364.779     17 Template:Infobox_officeholder/office"," 12.44%  162.651      1 Template:Birth-date","  9.08%  118.714     10 Template:Succession_box","  7.06%   92.371      1 Template:Reflist","  6.29%   82.276      1 Template:Cite_news","  4.12%   53.920      1 Template:Authority_control","  4.08%   53.385     12 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.369","limit":"10.000"},"limitreport-memusage":{"value":6290111,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20191030182808","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Arthur Greenwood","url":"https:\/\/en.wikipedia.org\/wiki\/Arthur_Greenwood","sameAs":"http:\/\/www.wikidata.org\/entity\/Q333174","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q333174","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-19T15:38:21Z","dateModified":"2019-08-07T11:39:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/ba\/ArthurGreenwood2.jpg","headline":"British politician"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1273"});});</script>   
+ </body>
+</html>

@@ -1,0 +1,801 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Abortion in Chile - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Abortion_in_Chile","wgTitle":"Abortion in Chile","wgCurRevisionId":915037857,"wgRevisionId":915037857,"wgArticleId":1024113,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","All articles with dead external links","Articles with dead external links from September 2018","Articles with permanently dead external links","Articles with dead external links from December 2017","Abortion in the Americas","Abortion by country","Women's rights in Chile","Health in Chile"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September",
+"October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Abortion_in_Chile","wgRelevantArticleId":1024113,"wgRequestId":"Xbl6ywpAAEYAAH@mahYAAAEE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2614627","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Abortion_in_Chile"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Abortion_in_Chile&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Abortion_in_Chile&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Abortion_in_Chile"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Abortion_in_Chile rootpage-Abortion_in_Chile skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Abortion in Chile</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p><b>Abortion in Chile</b> is legal in the following cases: when the mother's life is at risk, when the fetus will not survive the pregnancy, and during the first 12 weeks of pregnancy (14 weeks, if the woman is under 14 years old) in the case of rape.<sup id="cite_ref-law_1-0" class="reference"><a href="#cite_note-law-1">[1]</a></sup> Between 1989 and 2017 Chile had one of the most restrictive abortion policies in the world, criminalizing its practice without exception.<sup id="cite_ref-forosalud_2-0" class="reference"><a href="#cite_note-forosalud-2">[2]</a></sup> </p>
+      <p>The bill permitting abortion was approved by the <a href="/wiki/National_Congress_of_Chile" title="National Congress of Chile">National Congress</a> in August 2017, and became law a month later<sup id="cite_ref-law_1-1" class="reference"><a href="#cite_note-law-1">[1]</a></sup> after surviving a constitutional challenge brought by the <a href="/wiki/Chile_Vamos" title="Chile Vamos">conservative opposition</a>.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup><sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Medical coverage in the public and private sector became available on January 29, 2018.<sup id="cite_ref-coverage_6-0" class="reference"><a href="#cite_note-coverage-6">[6]</a></sup><sup id="cite_ref-resolucion_7-0" class="reference"><a href="#cite_note-resolucion-7">[7]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Legal_background"><span class="tocnumber">1</span> <span class="toctext">Legal background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Women's_health"><span class="tocnumber">2</span> <span class="toctext">Women's health</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Public_opinion"><span class="tocnumber">3</span> <span class="toctext">Public opinion</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#International_reaction"><span class="tocnumber">4</span> <span class="toctext">International reaction</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Move_towards_liberalisation_of_the_law"><span class="tocnumber">5</span> <span class="toctext">Move towards liberalisation of the law</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Legal_background">Legal background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=1" title="Edit section: Legal background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Therapeutic_abortion" class="mw-redirect" title="Therapeutic abortion">Therapeutic abortion</a>, which was permitted by the Health Code in 1931,<sup id="cite_ref-forosalud_2-1" class="reference"><a href="#cite_note-forosalud-2">[2]</a></sup> was abolished by <a href="/wiki/Military_dictatorship_of_Chile_(1973%E2%80%9390)" class="mw-redirect" title="Military dictatorship of Chile (1973–90)">the military dictatorship</a> on September 15, 1989,<sup id="cite_ref-CodigoSanitario_8-0" class="reference"><a href="#cite_note-CodigoSanitario-8">[8]</a></sup> arguing that due to advances in medicine it was "no longer justifiable."<sup id="cite_ref-PuntoFinal_9-0" class="reference"><a href="#cite_note-PuntoFinal-9">[9]</a></sup> Before the ban, any woman whose life was in danger could ask to get an abortion, if she had the approval of two doctors.<sup id="cite_ref-forosalud_2-2" class="reference"><a href="#cite_note-forosalud-2">[2]</a></sup> </p>
+      <p>Current laws against abortion are codified in the <a href="/wiki/Penal_Code" class="mw-redirect" title="Penal Code">Penal Code</a> articles 342 to 345 under the title "Crimes and Offences against Family Order, Public Morality and Sexual Integrity."<sup id="cite_ref-CodigoPenal_10-0" class="reference"><a href="#cite_note-CodigoPenal-10">[10]</a></sup> The Penal Code punishes illegal abortions with up to five years in jail for the person performing it, and with up to ten years if violence is used against the pregnant woman. The pregnant woman may get up to five years if she consents to an illegal abortion or performs it on herself. A medical doctor practicing an illegal abortion may get up to 15 years. The country's <a href="/wiki/Constitution_of_Chile" title="Constitution of Chile">constitution</a> in article 19-1, states that "the law protects the life of those about to be born." A two-thirds majority of each chamber of the <a href="/wiki/Congress_of_Chile" class="mw-redirect" title="Congress of Chile">Chilean Congress</a> is required to amend it.<sup id="cite_ref-Constitution_11-0" class="reference"><a href="#cite_note-Constitution-11">[11]</a></sup> </p>
+      <p>Since 1990, 15 abortion-related bills have been submitted by legislators to Congress for discussion, 12 in the <a href="/wiki/Chamber_of_Deputies_of_Chile" title="Chamber of Deputies of Chile">Chamber of Deputies</a> and three in the <a href="/wiki/Senate_of_Chile" title="Senate of Chile">Senate</a>. About half called to either increase existing penalties or to create legal barriers to make it more difficult for abortion to be legalized. Two other bills suggested erecting monuments to the "innocent victims of abortion." Four bills have requested that abortion be allowed when the mother's life is at risk and one in the case of rape. Nine are currently in review and one has been rejected. Five others have been archived, which means they have not been discussed for two years. Two identical bills requesting the reestablishment of therapeutic abortion as it was before 1989 are currently in review in the Chamber's Medical Commission, the first submitted on January 23, 2003, and the latest on March 19, 2009.<sup id="cite_ref-COD_12-0" class="reference"><a href="#cite_note-COD-12">[12]</a></sup> </p>
+      <p>In November 2013, during the administration of conservative President <a href="/wiki/Sebasti%C3%A1n_Pi%C3%B1era" title="Sebastián Piñera">Sebastián Piñera</a>, a law was published declaring March 25 as the "day of those about to be born and of adoption."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p>
+      <p>On 31 January 2015, President <a href="/wiki/Michelle_Bachelet" title="Michelle Bachelet">Michelle Bachelet</a> sent a draft bill to Congress to decriminalize abortion in the following cases: when the mother's life is at risk, when the fetus will not survive the pregnancy, and in the case of rape during the first 12 weeks of pregnancy (18 weeks, if the woman is under 14 years old).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> On 2 August 2017, the Congress approved the bill, lowering the number of weeks to 14 from 18, in the case a girl under 14 is raped.<sup id="cite_ref-:2_15-0" class="reference"><a href="#cite_note-:2-15">[15]</a></sup> A request by the opposition to declare the law unconstitutional was rejected by the country's Constitutional Court in a 6-4 decision on 21 August 2017. The ruling allowed health facilities to refuse to provide abortions by becoming "<a href="/wiki/Conscientious_objector" title="Conscientious objector">conscientious objectors</a>," although the bill, as approved by Congress, granted this right only to individuals.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup><sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">[4]</a></sup> The law was promulgated by President Bachelet on 14 September 2017,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> and was published in the country's official gazette on 23 September 2017.<sup id="cite_ref-law_1-2" class="reference"><a href="#cite_note-law-1">[1]</a></sup> Medical coverage in the public and private sector became available on January 29, 2018.<sup id="cite_ref-coverage_6-1" class="reference"><a href="#cite_note-coverage-6">[6]</a></sup><sup id="cite_ref-resolucion_7-1" class="reference"><a href="#cite_note-resolucion-7">[7]</a></sup> A protocol for "conscientious objectors" was published by the Health Ministry on January 27, 2018.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Such protocol was modified by the incoming administration of <a href="/wiki/Sebasti%C3%A1n_Pi%C3%B1era" title="Sebastián Piñera">Sebastián Piñera</a> on 23 March 2018, lifting the prohibition on private health institutions receiving state funds from invoking conscientious objection.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </p> 
+      <h2><span id="Women.27s_health"></span><span class="mw-headline" id="Women's_health">Women's health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=2" title="Edit section: Women's health">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>An amendment made by the Chilean government to section 119 of the Health Code in 1989 stated that there could be no actions taken that would induce an abortion. This amendment was made due to the belief that with medical advances in maternal care, abortion was no longer seen as a necessary means of saving a woman's life.<sup id="cite_ref-unpd_20-0" class="reference"><a href="#cite_note-unpd-20">[20]</a></sup> </p>
+      <p>Concern over high rates of abortion and high <a href="/wiki/Maternal_mortality" class="mw-redirect" title="Maternal mortality">maternal mortality</a> rates led the Chilean government to launch a publicly funded <a href="/wiki/Family_planning" title="Family planning">family planning</a> program in 1964.<sup id="cite_ref-unpd_20-1" class="reference"><a href="#cite_note-unpd-20">[20]</a></sup><sup id="cite_ref-shep_21-0" class="reference"><a href="#cite_note-shep-21">[21]</a></sup> Deaths due to illegal abortions dropped from 118 to 24 per 100,000 live births between 1964 and 1979.<sup id="cite_ref-unpd_20-2" class="reference"><a href="#cite_note-unpd-20">[20]</a></sup> </p>
+      <p>There was also a statistically significant decrease in maternal deaths due to abortion from 1990 to 2000.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Experts attribute the decline in hospitalizations due to abortion during this period to the increased use of <a href="/wiki/Asepsis" title="Asepsis">sterilization</a> and <a href="/wiki/Antibiotic" title="Antibiotic">antibiotics</a> by illegal abortion providers, the increased availability of the <a href="/wiki/Abortifacient" title="Abortifacient">abortifacient</a> drug <a href="/wiki/Misoprostol" title="Misoprostol">misoprostol</a>, and the increased use of <a href="/wiki/Contraception" class="mw-redirect" title="Contraception">contraception</a>.<sup id="cite_ref-shep_21-1" class="reference"><a href="#cite_note-shep-21">[21]</a></sup> In terms of accessibility, in 2002 it was noted that most of the family planning services were offered to married women.<sup id="cite_ref-unpd_20-3" class="reference"><a href="#cite_note-unpd-20">[20]</a></sup> </p>
+      <p>A 2015 study by the Chilean epidemiologist Elard Koch has shown that the decreasing trend in maternal deaths due to abortion has continued through 2009.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> These results challenge the common notion that less permissive abortion laws lead to greater mortality associated with abortion. Koch states that the increases in women's education and in community support programs for women with unplanned pregnancies have contributed to the reduction of induced abortions and maternal deaths in Chile. </p>
+      <p>In the period 2000 to 2004, abortion was the third leading cause of maternal mortality in the country, accounting for 12% of all maternal deaths.<sup id="cite_ref-MaternalMortality_24-0" class="reference"><a href="#cite_note-MaternalMortality-24">[24]</a></sup> While there are no accurate statistics, it is estimated that between 2000 and 2002 there were between 132,000 and 160,000 abortions in the country.<sup id="cite_ref-humanas_25-0" class="reference"><a href="#cite_note-humanas-25">[25]</a></sup> </p>
+      <p>A 1997 study found that the majority of eighty women prosecuted in <a href="/wiki/Santiago,_Chile" class="mw-redirect" title="Santiago, Chile">Santiago</a> for having an abortion were young, single mothers, and that many were domestic workers who had moved to the city from rural areas. It also found most of the women were reported to authorities by the hospital at which they sought treatment for their complications, and had no legal representation, or were defended by inexperienced law students.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Public_opinion">Public opinion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=3" title="Edit section: Public opinion">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>A July 2006 <a href="/wiki/MORI" class="mw-redirect" title="MORI">MORI</a> survey found that 26% of Chileans believed that abortion is "justified," up from 18% in 1990.<sup id="cite_ref-liberal_27-0" class="reference"><a href="#cite_note-liberal-27">[27]</a></sup> </p>
+      <p>A July 2008 all-female nationwide face-to-face poll by <a href="/wiki/NGO" class="mw-redirect" title="NGO">NGO</a> <a href="/w/index.php?title=Corporaci%C3%B3n_Humanas&amp;action=edit&amp;redlink=1" class="new" title="Corporación Humanas (page does not exist)">Corporación Humanas</a> found that 79.2% of Chilean women were in favor of decriminalizing abortion when the life of the pregnant woman is at risk; 67.9% said it was urgent to legislate on the matter. According to the study, 74.0% of women believed abortion should be permitted in cases of rape, 70.1% in instances of fetal abnormality and 24% in all cases a woman decided it was appropriate.<sup id="cite_ref-humanas_25-1" class="reference"><a href="#cite_note-humanas-25">[25]</a></sup> </p>
+      <p>A March 2009 nationwide telephone poll published by <i><a href="/wiki/La_Tercera" title="La Tercera">La Tercera</a></i> newspaper found 67% were against abortion, 19% in favor and 11% in favor only in extreme cases. Regarding abortion when the life of the pregnant woman is at risk, 48% were in favor, 3% only in extreme cases and 47% were against. In cases where the baby would be born with a defect or disease that would most likely cause the baby's death, 51% were against permitting an abortion, 45% were in favor and 2% only in extreme cases. 83% were against performing an abortion on an underage girl who had unprotected sex, while 14% were in favor. 57% were in favor of abortion in the case of rape, with 39% against it.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </p>
+      <p>An October 2009 opinion poll published by <a href="/wiki/Universidad_Diego_Portales" class="mw-redirect" title="Universidad Diego Portales">Universidad Diego Portales</a> and covering 85% of urban areas of Chile found that a majority were against abortion when the pregnant woman or couple did not have the economic means to raise a baby (80%), when the pregnant woman or couple did not want to have a baby (68%), and when the fetus had a "serious defect" (51%). On the other hand, a majority were in favor of abortion when the pregnant woman's health is at risk (63%) and in cases of rape (64%).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </p>
+      <p>A January 2017 opinion poll conducted by CADEM found that 57% wanted abortion to be allowed in only a few cases, while 19% wanted abortion illegal in all cases and 22% wanted it legal in all cases.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> A majority were in favor of abortion when the woman's health is at risk (76%), when the fetus does not have a high probability of survival (72%), and when a woman is pregnant as a result of rape (71%), while only a minority supported abortion in cases of a fetus having a physical disability (36%) and in cases of a mother not being able to afford a child (20%). </p> 
+      <h2><span class="mw-headline" id="International_reaction">International reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=4" title="Edit section: International reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In November 2004, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> (UN) committee monitoring compliance with the <a href="/wiki/International_Covenant_on_Economic,_Social_and_Cultural_Rights" title="International Covenant on Economic, Social and Cultural Rights">International Covenant on Economic, Social and Cultural Rights</a> (CESCR) ruled that Chile should allow abortion in cases of rape and incest. In 2007, the <a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">United Nations Human Rights Council</a> expressed concern over the country's "improperly restrictive" legislation on abortion, especially in cases where the life of the mother is at risk.<sup id="cite_ref-LaTercera_31-0" class="reference"><a href="#cite_note-LaTercera-31">[31]</a></sup> The <a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">UN's High Commissioner for Human Rights</a> also expressed concern over the country's "excessively restrictive abortion laws" in May 2009.<sup id="cite_ref-LaTercera_31-1" class="reference"><a href="#cite_note-LaTercera-31">[31]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Move_towards_liberalisation_of_the_law">Move towards liberalisation of the law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=5" title="Edit section: Move towards liberalisation of the law">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>On July 19, 2017,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> the <a href="/wiki/Senate_of_Chile" title="Senate of Chile">Senate of Chile</a> approved legislation permitting abortion under limited circumstances (if the pregnancy endangers the life of the woman, if the fetus is not viable, if the pregnancy resulted from rape) with 22 votes in favor and 13 against.<sup id="cite_ref-cnnchile_33-0" class="reference"><a href="#cite_note-cnnchile-33">[33]</a></sup> On August 3, the <a href="/wiki/Chamber_of_Deputies_of_Chile" title="Chamber of Deputies of Chile">Chamber of Deputies of Chile</a> approved the legislation with 70 votes in favor, 45 votes against and 1 abstention.<sup id="cite_ref-cnnchile_33-1" class="reference"><a href="#cite_note-cnnchile-33">[33]</a></sup> On August 21, 2017,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Chile's Constitutional Court accepted the constitutionality of the measure with a 6-4 vote.<sup id="cite_ref-abcchile_35-0" class="reference"><a href="#cite_note-abcchile-35">[35]</a></sup> President Michelle Bachelet, who had already signed the draft bill version of the law in 2015 before it was passed in August 2017,<sup id="cite_ref-euro8001f_36-0" class="reference"><a href="#cite_note-euro8001f-36">[36]</a></sup> praised the court's decision to make the bill a law.<sup id="cite_ref-euro8001f_36-1" class="reference"><a href="#cite_note-euro8001f-36">[36]</a></sup> According to polls, 70% of Chileans approve of such a law.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Abortion_debate" title="Abortion debate">Abortion debate</a></li> 
+       <li><a href="/wiki/Abortion_in_El_Salvador" title="Abortion in El Salvador">Abortion in El Salvador</a></li> 
+       <li><a href="/wiki/Abortion_in_Nicaragua" title="Abortion in Nicaragua">Abortion in Nicaragua</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.minsal.cl/wp-content/uploads/2018/02/Protocolo.pdf">Protocol for "contentious objectors" in Chile's abortion law</a>. Ministry of Health of Chile, March 2018 (in Spanish). (<a rel="nofollow" class="external text" href="http://web.minsal.cl/wp-content/uploads/2018/01/protocolo-objeci%C3%B3n-de-conciencia.pdf">January 2018 version</a>.) <i>[Note: Both protocols have since been ruled illegal by the <a href="/wiki/Comptroller_General_of_Chile" title="Comptroller General of Chile">Office of the Comptroller General</a>.]<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></i></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-law-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-law_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-law_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-law_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.diariooficial.interior.gob.cl/publicaciones/2017/09/23/41866/01/1276248.pdf">"Law 21,030"</a> <span class="cs1-format">(PDF)</span> (in Spanish). Official Gazette of Chile. 23 September 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Law+21%2C030&amp;rft.pub=Official+Gazette+of+Chile&amp;rft.date=2017-09-23&amp;rft_id=http%3A%2F%2Fwww.diariooficial.interior.gob.cl%2Fpublicaciones%2F2017%2F09%2F23%2F41866%2F01%2F1276248.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-forosalud-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-forosalud_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forosalud_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-forosalud_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071228053225/http://www.forosalud.cl/forosalud/revista/uploaded/abortoenchile.htm">"ABORTO EN CHILE"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.forosalud.cl/forosalud/revista/uploaded/abortoenchile.htm">the original</a> on 2007-12-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ABORTO+EN+CHILE&amp;rft_id=http%3A%2F%2Fwww.forosalud.cl%2Fforosalud%2Frevista%2Fuploaded%2Fabortoenchile.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.com/mundo/noticias-america-latina-41006338">"El Tribunal Constitucional de Chile da luz verde a la despenalización del aborto en tres causales en histórica decisión"</a>. <i>BBC Mundo</i>. 2017-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Mundo&amp;rft.atitle=El+Tribunal+Constitucional+de+Chile+da+luz+verde+a+la+despenalizaci%C3%B3n+del+aborto+en+tres+causales+en+hist%C3%B3rica+decisi%C3%B3n&amp;rft.date=2017-08-21&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fmundo%2Fnoticias-america-latina-41006338&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.emol.com/noticias/Nacional/2017/08/21/871965/Aborto-sera-ley-TC-rechaza-requerimiento-de-Chile-Vamos-y-da-luz-verde-al-proyecto.html">"Aborto será ley: TC rechaza requerimiento de Chile Vamos y da luz verde al proyecto"</a>. <i>EMOL.com</i> (in Spanish). 2017-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=EMOL.com&amp;rft.atitle=Aborto+ser%C3%A1+ley%3A+TC+rechaza+requerimiento+de+Chile+Vamos+y+da+luz+verde+al+proyecto&amp;rft.date=2017-08-21&amp;rft_id=http%3A%2F%2Fwww.emol.com%2Fnoticias%2FNacional%2F2017%2F08%2F21%2F871965%2FAborto-sera-ley-TC-rechaza-requerimiento-de-Chile-Vamos-y-da-luz-verde-al-proyecto.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Bonnefoy, Pascale (21 August 2017). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2017/08/21/world/americas/chile-abortion-court.html">"Chilean Tribunal Weighs In: Some Abortions Will Now Be Legal"</a> – via NYTimes.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chilean+Tribunal+Weighs+In%3A+Some+Abortions+Will+Now+Be+Legal&amp;rft.date=2017-08-21&amp;rft.aulast=Bonnefoy&amp;rft.aufirst=Pascale&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2017%2F08%2F21%2Fworld%2Famericas%2Fchile-abortion-court.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-coverage-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-coverage_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-coverage_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.emol.com/noticias/Nacional/2018/01/28/892954/Ley-de-aborto-en-tres-causales-Isapres-comienzan-a-cubrir-nuevas-atenciones.html">"Aborto en tres causales: Isapres comienzan a cubrir nuevas prestaciones relacionadas a esta norma"</a> (in Spanish). Emol. 28 January 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aborto+en+tres+causales%3A+Isapres+comienzan+a+cubrir+nuevas+prestaciones+relacionadas+a+esta+norma&amp;rft.pub=Emol&amp;rft.date=2018-01-28&amp;rft_id=http%3A%2F%2Fwww.emol.com%2Fnoticias%2FNacional%2F2018%2F01%2F28%2F892954%2FLey-de-aborto-en-tres-causales-Isapres-comienzan-a-cubrir-nuevas-atenciones.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-resolucion-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-resolucion_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-resolucion_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.leychile.cl/Navegar?idNorma=1114187&amp;idVersion=2018-01-29">"RES-23 EXENTA 27-ENE-2018 MINISTERIO DE SALUD"</a> (in Spanish). Ley Chile - Biblioteca del Congreso Nacional. 27 January 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RES-23+EXENTA+27-ENE-2018+MINISTERIO+DE+SALUD&amp;rft.pub=Ley+Chile+-+Biblioteca+del+Congreso+Nacional&amp;rft.date=2018-01-27&amp;rft_id=https%3A%2F%2Fwww.leychile.cl%2FNavegar%3FidNorma%3D1114187%26idVersion%3D2018-01-29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-CodigoSanitario-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-CodigoSanitario_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bcn.cl/leyes/pdf/actualizado/5595.pdf">"Código Sanitario"</a> <span class="cs1-format">(PDF)</span> (in Spanish)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-17</span></span>. <q>Article 119</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=C%C3%B3digo+Sanitario&amp;rft_id=http%3A%2F%2Fwww.bcn.cl%2Fleyes%2Fpdf%2Factualizado%2F5595.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-PuntoFinal-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-PuntoFinal_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.puntofinal.cl/541/mujeres.htm">"Aborto terapéutico: Demanda de las mujeres"</a>. <i>Revista Punto Final</i> (in Spanish). 2003-04-11. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090410034704/http://www.puntofinal.cl/541/mujeres.htm">Archived</a> from the original on 10 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Revista+Punto+Final&amp;rft.atitle=Aborto+terap%C3%A9utico%3A+Demanda+de+las+mujeres&amp;rft.date=2003-04-11&amp;rft_id=http%3A%2F%2Fwww.puntofinal.cl%2F541%2Fmujeres.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-CodigoPenal-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-CodigoPenal_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bcn.cl/leyes/1984">"CODIGO PENAL"</a> (in Spanish).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CODIGO+PENAL&amp;rft_id=http%3A%2F%2Fwww.bcn.cl%2Fleyes%2F1984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Constitution-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Constitution_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bcn.cl/leyes/pdf/actualizado/242302.pdf">"CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE"</a> <span class="cs1-format">(PDF)</span> (in Spanish)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CONSTITUCION+POLITICA+DE+LA+REPUBLICA+DE+CHILE&amp;rft_id=http%3A%2F%2Fwww.bcn.cl%2Fleyes%2Fpdf%2Factualizado%2F242302.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-COD-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-COD_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.camara.cl/pley/pley_buscador.aspx?prmBuscar=aborto">"Chamber of Deputies"</a> (in Spanish).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chamber+of+Deputies&amp;rft_id=http%3A%2F%2Fwww.camara.cl%2Fpley%2Fpley_buscador.aspx%3FprmBuscar%3Daborto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.leychile.cl/Navegar?idNorma=1055625&amp;idParte=&amp;idVersion=2013-11-02">Law 20.699</a>.</span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.latercera.com/noticia/politica/2015/01/674-615019-9-presidenta-bachelet-presenta-proyecto-sobre-despenalizacion-del-aborto.shtml">"Presidenta Bachelet presenta proyecto sobre despenalización del aborto terapéutico hasta las 12 semanas de gestación"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Presidenta+Bachelet+presenta+proyecto+sobre+despenalizaci%C3%B3n+del+aborto+terap%C3%A9utico+hasta+las+12+semanas+de+gestaci%C3%B3n&amp;rft_id=http%3A%2F%2Fwww.latercera.com%2Fnoticia%2Fpolitica%2F2015%2F01%2F674-615019-9-presidenta-bachelet-presenta-proyecto-sobre-despenalizacion-del-aborto.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-:2-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web">S.A.P., El Mercurio (2 August 2017). <a rel="nofollow" class="external text" href="http://www.emol.com/noticias/Nacional/2017/08/02/869488/Gobierno-logra-la-aprobacion-del-proyecto-de-aborto-en-el-Congreso-pero-debera-enfrentar-al-TC.html">"Gobierno logra la aprobación del proyecto de aborto en el Congreso pero deberá enfrentar al TC - Emol.com"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gobierno+logra+la+aprobaci%C3%B3n+del+proyecto+de+aborto+en+el+Congreso+pero+deber%C3%A1+enfrentar+al+TC+-+Emol.com&amp;rft.date=2017-08-02&amp;rft.aulast=S.A.P.&amp;rft.aufirst=El+Mercurio&amp;rft_id=http%3A%2F%2Fwww.emol.com%2Fnoticias%2FNacional%2F2017%2F08%2F02%2F869488%2FGobierno-logra-la-aprobacion-del-proyecto-de-aborto-en-el-Congreso-pero-debera-enfrentar-al-TC.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">S.A.P., El Mercurio (14 September 2017). <a rel="nofollow" class="external text" href="http://www.emol.com/noticias/Nacional/2017/09/14/875347/Bachelet-promulga-ley-de-aborto-en-tres-causales-en-uno-de-los-actos-mas-masivos-en-La-Moneda.html">"Bachelet promulga ley de aborto en tres causales en uno de los actos más masivos en La Moneda - Emol.com"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bachelet+promulga+ley+de+aborto+en+tres+causales+en+uno+de+los+actos+m%C3%A1s+masivos+en+La+Moneda+-+Emol.com&amp;rft.date=2017-09-14&amp;rft.aulast=S.A.P.&amp;rft.aufirst=El+Mercurio&amp;rft_id=http%3A%2F%2Fwww.emol.com%2Fnoticias%2FNacional%2F2017%2F09%2F14%2F875347%2FBachelet-promulga-ley-de-aborto-en-tres-causales-en-uno-de-los-actos-mas-masivos-en-La-Moneda.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.leychile.cl/Navegar?idNorma=1114188">"RES-61 EXENTA 27-ENE-2018 MINISTERIO DE SALUD"</a> (in Spanish). Ley Chile - Biblioteca del Congreso Nacional. 27 January 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RES-61+EXENTA+27-ENE-2018+MINISTERIO+DE+SALUD&amp;rft.pub=Ley+Chile+-+Biblioteca+del+Congreso+Nacional&amp;rft.date=2018-01-27&amp;rft_id=https%3A%2F%2Fwww.leychile.cl%2FNavegar%3FidNorma%3D1114188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.diariooficial.interior.gob.cl/publicaciones/2018/03/23/42015/01/1371724.pdf">http://www.diariooficial.interior.gob.cl/publicaciones/2018/03/23/42015/01/1371724.pdf</a></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.minsal.cl/wp-content/uploads/2018/02/Protocolo.pdf">http://www.minsal.cl/wp-content/uploads/2018/02/Protocolo.pdf</a></span> </li> 
+         <li id="cite_note-unpd-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-unpd_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unpd_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-unpd_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-unpd_20-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">United Nations Population Division. (2002). <a rel="nofollow" class="external text" href="https://www.un.org/esa/population/publications/abortion">Abortion Policies: A Global Review</a>. Retrieved 14 July 2006.</span> </li> 
+         <li id="cite_note-shep-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-shep_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shep_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Shepard, Bonnie L.; Casas Becerra, Lidia (2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110724082425/http://www.ssds.net/ssds-products/peer-reviewed-pubs/Shepard-et-al--Abortion-Policies-in-Chile.pdf">"Abortion Policies and Practices in Chile: Ambiguities and Dilemmas"</a> <span class="cs1-format">(PDF)</span>. <i>Reproductive Health Matters</i>. <b>15</b> (30): 202–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0968-8080%2807%2930328-5">10.1016/S0968-8080(07)30328-5</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17938085">17938085</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ssds.net/ssds-products/peer-reviewed-pubs/Shepard-et-al--Abortion-Policies-in-Chile.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-24.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reproductive+Health+Matters&amp;rft.atitle=Abortion+Policies+and+Practices+in+Chile%3A+Ambiguities+and+Dilemmas&amp;rft.volume=15&amp;rft.issue=30&amp;rft.pages=202-10&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1016%2FS0968-8080%2807%2930328-5&amp;rft_id=info%3Apmid%2F17938085&amp;rft.au=Shepard%2C+Bonnie+L.&amp;rft.au=Casas+Becerra%2C+Lidia&amp;rft_id=http%3A%2F%2Fwww.ssds.net%2Fssds-products%2Fpeer-reviewed-pubs%2FShepard-et-al--Abortion-Policies-in-Chile.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Donoso Siña, Enrique. (2004). <a rel="nofollow" class="external text" href="http://www.ingentaconnect.com/content/paho/pajph/2004/00000015/00000005/art00007?token=005e1d1f3c59eb34e64296d6222346b6268763050212a67232d45237b427a317b6f3b6b63477d77bd8d96d37c5787">The reduction in maternal mortality in Chile, 1990–2000</a>. <i>Pan American Journal of Public Health, 15 (5).</i> Retrieved March 25, 2007.</span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Koch, Elard. (2015).<a rel="nofollow" class="external text" href="http://www.melisainstitute.org/uploads/1/2/3/9/12398427/koch_2015_ilm_article.pdf">The Epidemiology of Abortion And Its Prevention in Chile</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since September 2018">permanent dead link</span></a></i>]</span></sup>. <i>Issues in Law &amp; Medicine, Volume 30, Number 1, 2015.</i> Retrieved November 08, 2016.</span> </li> 
+         <li id="cite_note-MaternalMortality-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-MaternalMortality_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0717-75262006000400005">"MORTALIDAD MATERNA EN CHILE, 2000-2004"</a>. <i>Revista chilena de obstetricia y ginecología</i> (in Spanish). 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Revista+chilena+de+obstetricia+y+ginecolog%C3%ADa&amp;rft.atitle=MORTALIDAD+MATERNA+EN+CHILE%2C+2000-2004&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fwww.scielo.cl%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS0717-75262006000400005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-humanas-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-humanas_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-humanas_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091211105413/http://www.humanas.cl/documentos/345Informe_Encuesta_Humanas_Nov._2008.pdf">"V Encuesta Nacional "Percepciones de las mujeres sobre su situación y condiciones de vida en Chile<span class="cs1-kern-right">"</span>"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/w/index.php?title=Corporaci%C3%B3n_Humanas&amp;action=edit&amp;redlink=1" class="new" title="Corporación Humanas (page does not exist)">Corporación Humanas</a></i> (in Spanish). July 2008. Archived from <a rel="nofollow" class="external text" href="http://www.humanas.cl/documentos/345Informe_Encuesta_Humanas_Nov._2008.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2009-12-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Corporaci%C3%B3n+Humanas&amp;rft.atitle=V+Encuesta+Nacional+%22Percepciones+de+las+mujeres+sobre+su+situaci%C3%B3n+y+condiciones+de+vida+en+Chile%22&amp;rft.date=2008-07&amp;rft_id=http%3A%2F%2Fwww.humanas.cl%2Fdocumentos%2F345Informe_Encuesta_Humanas_Nov._2008.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Casas Becerra, Lidia (May 1997). "Women prosecuted and imprisoned for abortion in Chile". <i>Reproductive Health Matters</i>. <b>5</b> (9): 29–36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0968-8080%2897%2990003-3">10.1016/S0968-8080(97)90003-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reproductive+Health+Matters&amp;rft.atitle=Women+prosecuted+and+imprisoned+for+abortion+in+Chile&amp;rft.volume=5&amp;rft.issue=9&amp;rft.pages=29-36&amp;rft.date=1997-05&amp;rft_id=info%3Adoi%2F10.1016%2FS0968-8080%2897%2990003-3&amp;rft.au=Casas+Becerra%2C+Lidia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-liberal-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-liberal_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061015162854/http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13346">"Chileans Slowly Becoming More Liberal"</a>. Angus Reid Global Monitor. October 2, 2006. Archived from <a rel="nofollow" class="external text" href="http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13346">the original</a> on October 15, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chileans+Slowly+Becoming+More+Liberal&amp;rft.pub=Angus+Reid+Global+Monitor&amp;rft.date=2006-10-02&amp;rft_id=http%3A%2F%2Fwww.angus-reid.com%2Fpolls%2Findex.cfm%2Ffuseaction%2FviewItem%2FitemID%2F13346&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090324084352/http://papeldigital.info/ltrep/">"Los chilenos y el aborto"</a>. <i>Reportajes de <a href="/wiki/La_Tercera" title="La Tercera">La Tercera</a></i> (in Spanish). 2009-03-22. p.&nbsp;9. Archived from <a rel="nofollow" class="external text" href="http://papeldigital.info/ltrep/">the original</a> on 24 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reportajes+de+La+Tercera&amp;rft.atitle=Los+chilenos+y+el+aborto&amp;rft.pages=9&amp;rft.date=2009-03-22&amp;rft_id=http%3A%2F%2Fpapeldigital.info%2Fltrep%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091028153613/http://www.udp.cl/comunicados/1009/19/encuesta.htm">"Encuesta Nacional UDP"</a> (in Spanish). Archived from <a rel="nofollow" class="external text" href="http://www.udp.cl/comunicados/1009/19/encuesta.htm">the original</a> on 2009-10-28.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Encuesta+Nacional+UDP&amp;rft_id=http%3A%2F%2Fwww.udp.cl%2Fcomunicados%2F1009%2F19%2Fencuesta.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cadem.cl/wp-content/uploads/2017/01/Track-PP158-Ene-S3-VF.pdf">http://www.cadem.cl/wp-content/uploads/2017/01/Track-PP158-Ene-S3-VF.pdf</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since December 2017">permanent dead link</span></a></i>]</span></sup></span> </li> 
+         <li id="cite_note-LaTercera-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-LaTercera_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LaTercera_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120219044503/http://latercera.com/contenido/654_110687_9.shtml">"Organismos internacionales insisten en despenalizar aborto terapéutico en Chile"</a> (in Spanish). 2009-03-17. Archived from <a rel="nofollow" class="external text" href="http://latercera.com/contenido/654_110687_9.shtml">the original</a> on 2012-02-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Organismos+internacionales+insisten+en+despenalizar+aborto+terap%C3%A9utico+en+Chile&amp;rft.date=2009-03-17&amp;rft_id=http%3A%2F%2Flatercera.com%2Fcontenido%2F654_110687_9.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Reuters (19 July 2017). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2017/jul/19/chile-abortion-mother-rape-life-legalization">"Chile passes bill to legalize abortion in certain cases"</a> – via The Guardian.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chile+passes+bill+to+legalize+abortion+in+certain+cases&amp;rft.date=2017-07-19&amp;rft.au=Reuters&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fjul%2F19%2Fchile-abortion-mother-rape-life-legalization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-cnnchile-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-cnnchile_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cnnchile_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">CNN, Spencer Feingold. <a rel="nofollow" class="external text" href="http://www.cnn.com/2017/08/03/americas/chile-vote-abortion-ban-eased/index.html">"Chilean lawmakers vote to ease abortion ban"</a>. <i>CNN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Chilean+lawmakers+vote+to+ease+abortion+ban&amp;rft.aulast=CNN&amp;rft.aufirst=Spencer+Feingold&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2017%2F08%2F03%2Famericas%2Fchile-vote-abortion-ban-eased%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Editorial, Reuters. <a rel="nofollow" class="external text" href="http://uk.reuters.com/article/uk-chile-abortion-idUKKCN1B122I?il=0">"Chile court ruling ends abortion ban; new law allows in limited cases"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chile+court+ruling+ends+abortion+ban%3B+new+law+allows+in+limited+cases&amp;rft.aulast=Editorial&amp;rft.aufirst=Reuters&amp;rft_id=http%3A%2F%2Fuk.reuters.com%2Farticle%2Fuk-chile-abortion-idUKKCN1B122I%3Fil%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-abcchile-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-abcchile_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web">News, ABC. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170821201616/http://abcnews.go.com/Health/wireStory/chile-court-rules-favor-abortion-cases-49338620">"Chile court rules in favor of abortion in some cases"</a>. Archived from <a rel="nofollow" class="external text" href="http://abcnews.go.com/Health/wireStory/chile-court-rules-favor-abortion-cases-49338620">the original</a> on 2017-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chile+court+rules+in+favor+of+abortion+in+some+cases&amp;rft.aulast=News&amp;rft.aufirst=ABC&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FHealth%2FwireStory%2Fchile-court-rules-favor-abortion-cases-49338620&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-euro8001f-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-euro8001f_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-euro8001f_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.euronews.com/2017/08/22/chile-court-ends-abortion-ban">"Chile court ends abortion ban"</a>. <i>euronews</i>. 22 August 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=euronews&amp;rft.atitle=Chile+court+ends+abortion+ban&amp;rft.date=2017-08-22&amp;rft_id=http%3A%2F%2Fwww.euronews.com%2F2017%2F08%2F22%2Fchile-court-ends-abortion-ban&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web">News, ABC. <a rel="nofollow" class="external text" href="http://abcnews.go.com/Health/wireStory/chile-congress-oks-bill-legalize-abortion-cases-49011546">"ABC News"</a>. <i>ABC News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ABC+News&amp;rft.atitle=ABC+News&amp;rft.aulast=News&amp;rft.aufirst=ABC&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FHealth%2FwireStory%2Fchile-congress-oks-bill-legalize-abortion-cases-49011546&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web">Bonnefoy, Pascale; Londoño, Ernesto (3 August 2017). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2017/08/03/world/americas/chile-abortion-michelle-bachelet.html">"Chile's Congress Approves Abortion in Limited Cases"</a> – via NYTimes.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chile%E2%80%99s+Congress+Approves+Abortion+in+Limited+Cases&amp;rft.date=2017-08-03&amp;rft.aulast=Bonnefoy&amp;rft.aufirst=Pascale&amp;rft.au=Londo%C3%B1o%2C+Ernesto&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2017%2F08%2F03%2Fworld%2Famericas%2Fchile-abortion-michelle-bachelet.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbortion+in+Chile" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.biobiochile.cl/noticias/nacional/chile/2018/05/09/contraloria-declara-ilegal-el-protocolo-de-objecion-de-conciencia-para-aborto.shtml">https://www.biobiochile.cl/noticias/nacional/chile/2018/05/09/contraloria-declara-ilegal-el-protocolo-de-objecion-de-conciencia-para-aborto.shtml</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Abortion_in_South_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Abortion_in_South_America" title="Template:Abortion in South America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Abortion_in_South_America" title="Template talk:Abortion in South America"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Abortion_in_South_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Abortion_in_South_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Abortion" title="Abortion">Abortion</a> in South America
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion_in_Argentina" title="Abortion in Argentina">Argentina</a></li> 
+             <li><a href="/wiki/Abortion_in_Bolivia" title="Abortion in Bolivia">Bolivia</a></li> 
+             <li><a href="/wiki/Abortion_in_Brazil" title="Abortion in Brazil">Brazil</a></li> 
+             <li><a class="mw-selflink selflink">Chile</a></li> 
+             <li><a href="/wiki/Abortion_in_Colombia" title="Abortion in Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Abortion_in_Ecuador" title="Abortion in Ecuador">Ecuador</a></li> 
+             <li><a href="/wiki/Abortion_in_Guyana" title="Abortion in Guyana">Guyana</a></li> 
+             <li><a href="/wiki/Abortion_in_Paraguay" title="Abortion in Paraguay">Paraguay</a></li> 
+             <li><a href="/wiki/Abortion_in_Peru" title="Abortion in Peru">Peru</a></li> 
+             <li><a href="/wiki/Abortion_in_Suriname" title="Abortion in Suriname">Suriname</a></li> 
+             <li><a href="/wiki/Abortion_in_Uruguay" title="Abortion in Uruguay">Uruguay</a></li> 
+             <li><a href="/wiki/Abortion_in_Venezuela" title="Abortion in Venezuela">Venezuela</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Abortion_in_the_Falkland_Islands&amp;action=edit&amp;redlink=1" class="new" title="Abortion in the Falkland Islands (page does not exist)">Falkland Islands</a></li> 
+             <li><a href="/w/index.php?title=Abortion_in_French_Guiana&amp;action=edit&amp;redlink=1" class="new" title="Abortion in French Guiana (page does not exist)">French Guiana</a></li> 
+             <li><a href="/w/index.php?title=Abortion_in_South_Georgia_and_the_South_Sandwich_Islands&amp;action=edit&amp;redlink=1" class="new" title="Abortion in South Georgia and the South Sandwich Islands (page does not exist)"><span style="white-space:normal;">South Georgia and the South Sandwich Islands</span></a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Abortion" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Abortion" title="Template:Abortion"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Abortion" title="Template talk:Abortion"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Abortion&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Abortion" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Abortion" title="Abortion">Abortion</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Main topics</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_abortion" title="History of abortion">History of abortion</a></li> 
+             <li><a href="/wiki/Category:Methods_of_abortion" title="Category:Methods of abortion">Methods of abortion</a></li> 
+             <li><a href="/wiki/Abortion_debate" title="Abortion debate">Abortion debate</a></li> 
+             <li><a href="/wiki/Abortion_law" title="Abortion law">Abortion law</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Movements</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion-rights_movements" title="Abortion-rights movements">Abortion-rights movements</a></li> 
+             <li><a href="/wiki/Anti-abortion_movement" title="Anti-abortion movement">Anti-abortion movements</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Issues</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion_and_mental_health" title="Abortion and mental health">Abortion and mental health</a></li> 
+             <li><a href="/wiki/Beginning_of_human_personhood" title="Beginning of human personhood">Beginning of human personhood</a></li> 
+             <li><a href="/wiki/Beginning_of_pregnancy_controversy" title="Beginning of pregnancy controversy">Beginning of pregnancy controversy</a></li> 
+             <li><a href="/wiki/Abortion%E2%80%93breast_cancer_hypothesis" title="Abortion–breast cancer hypothesis">Abortion-breast cancer hypothesis</a></li> 
+             <li><a href="/wiki/Anti-abortion_violence" title="Anti-abortion violence">Anti-abortion violence</a></li> 
+             <li><a href="/wiki/Abortion_under_communism" title="Abortion under communism">Abortion under communism</a></li> 
+             <li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li> 
+             <li><a href="/wiki/Crisis_pregnancy_center" title="Crisis pregnancy center">Crisis pregnancy center</a></li> 
+             <li><a href="/wiki/Ethical_aspects_of_abortion" class="mw-redirect" title="Ethical aspects of abortion">Ethical aspects of abortion</a></li> 
+             <li><a href="/wiki/Eugenics" title="Eugenics">Eugenics</a></li> 
+             <li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal rights</a></li> 
+             <li><a href="/wiki/Forced_abortion" title="Forced abortion">Forced abortion</a></li> 
+             <li><a href="/wiki/Genetics_and_abortion" title="Genetics and abortion">Genetics and abortion</a></li> 
+             <li><a href="/wiki/Late-term_abortion" class="mw-redirect" title="Late-term abortion">Late-term abortion</a></li> 
+             <li><a href="/wiki/Legalized_abortion_and_crime_effect" title="Legalized abortion and crime effect">Legalized abortion and crime effect</a></li> 
+             <li><a href="/wiki/Libertarian_perspectives_on_abortion" title="Libertarian perspectives on abortion">Libertarian perspectives on abortion</a></li> 
+             <li><a href="/wiki/Limit_of_viability" class="mw-redirect" title="Limit of viability">Limit of viability</a></li> 
+             <li><a href="/wiki/Men%27s_rights" class="mw-redirect" title="Men's rights">Men's rights</a></li> 
+             <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Minors and abortion</a></li> 
+             <li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li> 
+             <li><a href="/wiki/Paternal_rights_and_abortion" title="Paternal rights and abortion">Paternal rights and abortion</a></li> 
+             <li><a href="/wiki/Philosophical_aspects_of_the_abortion_debate" title="Philosophical aspects of the abortion debate">Philosophical aspects of the abortion debate</a></li> 
+             <li><a href="/wiki/Prenatal_development" title="Prenatal development">Prenatal development</a></li> 
+             <li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Reproductive rights</a></li> 
+             <li><a href="/wiki/Self-induced_abortion" title="Self-induced abortion">Self-induced abortion</a></li> 
+             <li><a href="/wiki/Sex-selective_abortion" title="Sex-selective abortion">Sex-selective abortion</a></li> 
+             <li><a href="/wiki/Sidewalk_counseling" title="Sidewalk counseling">Sidewalk counseling</a></li> 
+             <li><a href="/wiki/Societal_attitudes_towards_abortion" title="Societal attitudes towards abortion">Societal attitudes towards abortion</a></li> 
+             <li><a href="/wiki/Toxic_abortion" title="Toxic abortion">Toxic abortion</a></li> 
+             <li><a href="/wiki/Unsafe_abortion" title="Unsafe abortion">Unsafe abortion</a></li> 
+             <li><a href="/wiki/Women%27s_rights" title="Women's rights">Women's rights</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">By country</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Algeria" title="Abortion in Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Angola" title="Abortion in Angola">Angola</a></li> 
+                 <li><a href="/wiki/Abortion_in_Benin" title="Abortion in Benin">Benin</a></li> 
+                 <li><a href="/wiki/Abortion_in_Botswana" title="Abortion in Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Burkina_Faso" title="Abortion in Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Abortion_in_Burundi" title="Abortion in Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cameroon" title="Abortion in Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cape_Verde" title="Abortion in Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Central_African_Republic" title="Abortion in the Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_Chad" title="Abortion in Chad">Chad</a></li> 
+                 <li><a href="/wiki/Abortion_in_Egypt" title="Abortion in Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ghana" title="Abortion in Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kenya" title="Abortion in Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Abortion_in_Namibia" title="Abortion in Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nigeria" title="Abortion in Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Abortion_in_South_Africa" title="Abortion in South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/Abortion_in_Uganda" title="Abortion in Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Abortion_in_Zimbabwe" title="Abortion in Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Asia</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Afghanistan" title="Abortion in Afghanistan">Afghanistan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Armenia" title="Abortion in Armenia">Armenia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Azerbaijan" title="Abortion in Azerbaijan">Azerbaijan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bahrain" title="Abortion in Bahrain">Bahrain</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bangladesh" title="Abortion in Bangladesh">Bangladesh</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bhutan" title="Abortion in Bhutan">Bhutan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Brunei" title="Abortion in Brunei">Brunei</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cambodia" title="Abortion in Cambodia">Cambodia</a></li> 
+                 <li><a href="/wiki/Abortion_in_China" title="Abortion in China">China</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cyprus" title="Abortion in Cyprus">Cyprus</a></li> 
+                 <li><a href="/wiki/Abortion_in_East_Timor" title="Abortion in East Timor">East Timor</a></li> 
+                 <li><a href="/wiki/Abortion_in_Georgia_(country)" title="Abortion in Georgia (country)">Georgia</a></li> 
+                 <li><a href="/wiki/Abortion_in_India" title="Abortion in India">India</a></li> 
+                 <li><a href="/wiki/Abortion_in_Iran" title="Abortion in Iran">Iran</a></li> 
+                 <li><a href="/wiki/Abortion_in_Israel" title="Abortion in Israel">Israel</a></li> 
+                 <li><a href="/wiki/Abortion_in_Japan" title="Abortion in Japan">Japan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kazakhstan" title="Abortion in Kazakhstan">Kazakhstan</a></li> 
+                 <li><a href="/wiki/Abortion_in_South_Korea" title="Abortion in South Korea">South Korea</a></li> 
+                 <li><a href="/wiki/Abortion_in_Malaysia" title="Abortion in Malaysia">Malaysia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nepal" title="Abortion in Nepal">Nepal</a></li> 
+                 <li><a href="/wiki/Abortion_in_Northern_Cyprus" title="Abortion in Northern Cyprus">Northern Cyprus</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Philippines" title="Abortion in the Philippines">Philippines</a></li> 
+                 <li><a href="/wiki/Abortion_in_Qatar" title="Abortion in Qatar">Qatar</a></li> 
+                 <li><a href="/wiki/Abortion_in_Saudi_Arabia" title="Abortion in Saudi Arabia">Saudi Arabia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Turkey" title="Abortion in Turkey">Turkey</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_Arab_Emirates" class="mw-redirect" title="Abortion in the United Arab Emirates">United Arab Emirates</a></li> 
+                 <li><a href="/wiki/Abortion_in_Vietnam" title="Abortion in Vietnam">Vietnam</a></li> 
+                 <li><a href="/wiki/Abortion_in_Yemen" title="Abortion in Yemen">Yemen</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Europe</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Albania" title="Abortion in Albania">Albania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Andorra" title="Abortion in Andorra">Andorra</a></li> 
+                 <li><a href="/wiki/Abortion_in_Austria" title="Abortion in Austria">Austria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Belarus" title="Abortion in Belarus">Belarus</a></li> 
+                 <li><a href="/wiki/Abortion_in_Belgium" title="Abortion in Belgium">Belgium</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bosnia_and_Herzegovina" title="Abortion in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bulgaria" title="Abortion in Bulgaria">Bulgaria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Croatia" title="Abortion in Croatia">Croatia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Czech_Republic" class="mw-redirect" title="Abortion in Czech Republic">Czech Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_Denmark" title="Abortion in Denmark">Denmark</a></li> 
+                 <li><a href="/wiki/Abortion_in_Estonia" title="Abortion in Estonia">Estonia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Finland" title="Abortion in Finland">Finland</a></li> 
+                 <li><a href="/wiki/Abortion_in_France" title="Abortion in France">France</a></li> 
+                 <li><a href="/wiki/Abortion_in_Germany" title="Abortion in Germany">Germany</a></li> 
+                 <li><a href="/wiki/Abortion_in_Greece" title="Abortion in Greece">Greece</a></li> 
+                 <li><a href="/wiki/Abortion_in_Hungary" title="Abortion in Hungary">Hungary</a></li> 
+                 <li><a href="/wiki/Abortion_in_Iceland" title="Abortion in Iceland">Iceland</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Republic_of_Ireland" title="Abortion in the Republic of Ireland">Ireland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Italy" title="Abortion in Italy">Italy</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kazakhstan" title="Abortion in Kazakhstan">Kazakhstan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Latvia" title="Abortion in Latvia">Latvia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Liechtenstein" title="Abortion in Liechtenstein">Liechtenstein</a></li> 
+                 <li><a href="/wiki/Abortion_in_Lithuania" title="Abortion in Lithuania">Lithuania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Luxembourg" title="Abortion in Luxembourg">Luxembourg</a></li> 
+                 <li><a href="/wiki/Abortion_in_Malta" title="Abortion in Malta">Malta</a></li> 
+                 <li><a href="/wiki/Abortion_in_Moldova" title="Abortion in Moldova">Moldova</a></li> 
+                 <li><a href="/wiki/Abortion_in_Monaco" title="Abortion in Monaco">Monaco</a></li> 
+                 <li><a href="/wiki/Abortion_in_Montenegro" title="Abortion in Montenegro">Montenegro</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Netherlands" title="Abortion in the Netherlands">Netherlands</a></li> 
+                 <li><a href="/wiki/Abortion_in_North_Macedonia" title="Abortion in North Macedonia">North Macedonia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Norway" title="Abortion in Norway">Norway</a></li> 
+                 <li><a href="/wiki/Abortion_in_Poland" title="Abortion in Poland">Poland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Portugal" title="Abortion in Portugal">Portugal</a></li> 
+                 <li><a href="/wiki/Abortion_in_Romania" title="Abortion in Romania">Romania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Russia" title="Abortion in Russia">Russia</a></li> 
+                 <li><a href="/wiki/Abortion_in_San_Marino" title="Abortion in San Marino">San Marino</a></li> 
+                 <li><a href="/wiki/Abortion_in_Serbia" title="Abortion in Serbia">Serbia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Slovakia" title="Abortion in Slovakia">Slovakia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Slovenia" title="Abortion in Slovenia">Slovenia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Spain" title="Abortion in Spain">Spain</a></li> 
+                 <li><a href="/wiki/Abortion_in_Sweden" title="Abortion in Sweden">Sweden</a></li> 
+                 <li><a href="/wiki/Abortion_in_Switzerland" title="Abortion in Switzerland">Switzerland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ukraine" title="Abortion in Ukraine">Ukraine</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_Kingdom" title="Abortion in the United Kingdom">United Kingdom</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">North America</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Belize" title="Abortion in Belize">Belize</a></li> 
+                 <li><a href="/wiki/Abortion_in_Canada" title="Abortion in Canada">Canada</a></li> 
+                 <li><a href="/wiki/Abortion_in_Costa_Rica" title="Abortion in Costa Rica">Costa Rica</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cuba" title="Abortion in Cuba">Cuba</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Dominican_Republic" title="Abortion in the Dominican Republic">Dominican Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_El_Salvador" title="Abortion in El Salvador">El Salvador</a></li> 
+                 <li><a href="/wiki/Abortion_in_Guatemala" title="Abortion in Guatemala">Guatemala</a></li> 
+                 <li><a href="/wiki/Abortion_in_Mexico" title="Abortion in Mexico">Mexico</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nicaragua" title="Abortion in Nicaragua">Nicaragua</a></li> 
+                 <li><a href="/wiki/Abortion_in_Panama" title="Abortion in Panama">Panama</a></li> 
+                 <li><a href="/wiki/Abortion_in_Trinidad_and_Tobago" title="Abortion in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_States" title="Abortion in the United States">United States</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Oceania</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Australia" title="Abortion in Australia">Australia</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Federated_States_of_Micronesia" title="Abortion in the Federated States of Micronesia">Micronesia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Fiji" title="Abortion in Fiji">Fiji</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kiribati" title="Abortion in Kiribati">Kiribati</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Marshall_Islands" title="Abortion in the Marshall Islands">Marshall Islands</a></li> 
+                 <li><a href="/wiki/Abortion_in_New_Zealand" title="Abortion in New Zealand">New Zealand</a></li> 
+                 <li><a href="/wiki/Abortion_in_Papua_New_Guinea" title="Abortion in Papua New Guinea">Papua New Guinea</a></li> 
+                 <li><a href="/wiki/Abortion_in_Samoa" title="Abortion in Samoa">Samoa</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Solomon_Islands" title="Abortion in the Solomon Islands">Solomon Islands</a></li> 
+                 <li><a href="/wiki/Abortion_in_Tonga" title="Abortion in Tonga">Tonga</a></li> 
+                 <li><a href="/wiki/Abortion_in_Tuvalu" title="Abortion in Tuvalu">Tuvalu</a></li> 
+                 <li><a href="/wiki/Abortion_in_Vanuatu" title="Abortion in Vanuatu">Vanuatu</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">South America</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Argentina" title="Abortion in Argentina">Argentina</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bolivia" title="Abortion in Bolivia">Bolivia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Brazil" title="Abortion in Brazil">Brazil</a></li> 
+                 <li><a class="mw-selflink selflink">Chile</a></li> 
+                 <li><a href="/wiki/Abortion_in_Colombia" title="Abortion in Colombia">Colombia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ecuador" title="Abortion in Ecuador">Ecuador</a></li> 
+                 <li><a href="/wiki/Abortion_in_Guyana" title="Abortion in Guyana">Guyana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Paraguay" title="Abortion in Paraguay">Paraguay</a></li> 
+                 <li><a href="/wiki/Abortion_in_Peru" title="Abortion in Peru">Peru</a></li> 
+                 <li><a href="/wiki/Abortion_in_Suriname" title="Abortion in Suriname">Suriname</a></li> 
+                 <li><a href="/wiki/Abortion_in_Uruguay" title="Abortion in Uruguay">Uruguay</a></li> 
+                 <li><a href="/wiki/Abortion_in_Venezuela" title="Abortion in Venezuela">Venezuela</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Abortion_law" title="Abortion law">Law</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Category:Abortion_case_law" title="Category:Abortion case law">Case law</a></li> 
+             <li><a href="/wiki/Category:Abortion_constitutional_law" title="Category:Abortion constitutional law">Constitutional law</a></li> 
+             <li><a href="/wiki/History_of_abortion#Legal:_History_of_abortion_law" title="History of abortion">History of abortion law</a></li> 
+             <li><a href="/wiki/Abortion_law#National_laws" title="Abortion law">Laws by country</a></li> 
+             <li><a href="/wiki/Legal_protection_of_access_to_abortion" title="Legal protection of access to abortion">Buffer zones</a></li> 
+             <li><a href="/wiki/Conscientious_objection_to_abortion" title="Conscientious objection to abortion">Conscientious objection</a></li> 
+             <li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal protection</a></li> 
+             <li><a href="/wiki/Heartbeat_bill" title="Heartbeat bill">Heartbeat bills</a></li> 
+             <li><a href="/wiki/Informed_consent#Abortion" title="Informed consent">Informed consent</a></li> 
+             <li><a href="/wiki/Late-term_abortion#Legal_restrictions_on_later_abortion" class="mw-redirect" title="Late-term abortion">Late-term restrictions</a></li> 
+             <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Parental involvement</a></li> 
+             <li><a href="/wiki/Paternal_rights_and_abortion#Men_and_abortion_in_law" title="Paternal rights and abortion">Spousal consent</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Methods</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Vacuum_aspiration" title="Vacuum aspiration">Vacuum aspiration</a></li> 
+             <li><a href="/wiki/Dilation_and_evacuation" title="Dilation and evacuation">Dilation and evacuation</a></li> 
+             <li><a href="/wiki/Dilation_and_curettage" title="Dilation and curettage">Dilation and curettage</a></li> 
+             <li><a href="/wiki/Intact_dilation_and_extraction" title="Intact dilation and extraction">Intact D&amp;X</a></li> 
+             <li><a href="/wiki/Hysterotomy_abortion" title="Hysterotomy abortion">Hysterotomy</a></li> 
+             <li><a href="/wiki/Instillation_abortion" title="Instillation abortion">Instillation</a></li> 
+             <li><a href="/wiki/Menstrual_extraction" title="Menstrual extraction">Menstrual extraction</a></li> 
+             <li><a href="/wiki/Abortifacient" title="Abortifacient">Abortifacient drugs</a> 
+              <ul>
+               <li><a href="/wiki/Methotrexate" title="Methotrexate">Methotrexate</a></li> 
+               <li><a href="/wiki/Mifepristone" title="Mifepristone">Mifepristone</a></li> 
+               <li><a href="/wiki/Misoprostol" title="Misoprostol">Misoprostol</a></li> 
+               <li><a href="/wiki/Oxytocin" title="Oxytocin">Oxytocin</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Self-induced_abortion" title="Self-induced abortion">Self-induced abortion</a></li> 
+             <li><a href="/wiki/Unsafe_abortion" title="Unsafe abortion">Unsafe abortion</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_and_abortion" title="Religion and abortion">Religion</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Buddhism_and_abortion" title="Buddhism and abortion">Buddhism</a></li> 
+             <li><a href="/wiki/Christianity_and_abortion" title="Christianity and abortion">Christianity</a> 
+              <ul>
+               <li><a href="/wiki/Catholic_Church_and_abortion" title="Catholic Church and abortion">Catholicism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Hinduism_and_abortion" title="Hinduism and abortion">Hinduism</a></li> 
+             <li><a href="/wiki/Islam_and_abortion" title="Islam and abortion">Islam</a></li> 
+             <li><a href="/wiki/Judaism_and_abortion" title="Judaism and abortion">Judaism</a></li> 
+             <li><a href="/wiki/Scientology_and_abortion" title="Scientology and abortion">Scientology</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Abortion" title="Category:Abortion">Category</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1336
+Cached time: 20191015220732
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.448 seconds
+Real time usage: 0.541 seconds
+Preprocessor visited node count: 1965/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112271/2097152 bytes
+Template argument size: 2134/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 98985/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 4.6 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.417      1 -total
+ 88.12%  358.134      1 Template:Reflist
+ 55.90%  227.178     27 Template:Cite_web
+ 12.45%   50.602      2 Template:Dead_link
+ 10.65%   43.297      2 Template:Fix
+ 10.41%   42.292      3 Template:Navbox
+  9.67%   39.292      4 Template:Category_handler
+  7.92%   32.202      2 Template:Cite_journal
+  6.88%   27.962      1 Template:Abortion
+  4.96%   20.160      1 Template:Abortion_in_South_America
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:1024113-0!canonical and timestamp 20191015220732 and revision id 915037857
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Abortion_in_Chile&amp;oldid=915037857">https://en.wikipedia.org/w/index.php?title=Abortion_in_Chile&amp;oldid=915037857</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Abortion_in_the_Americas" title="Category:Abortion in the Americas">Abortion in the Americas</a></li>
+       <li><a href="/wiki/Category:Abortion_by_country" title="Category:Abortion by country">Abortion by country</a></li>
+       <li><a href="/wiki/Category:Women%27s_rights_in_Chile" title="Category:Women's rights in Chile">Women's rights in Chile</a></li>
+       <li><a href="/wiki/Category:Health_in_Chile" title="Category:Health in Chile">Health in Chile</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2018" title="Category:Articles with dead external links from September 2018">Articles with dead external links from September 2018</a></li>
+       <li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Abortion+in+Chile" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Abortion+in+Chile" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Abortion_in_Chile" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Abortion_in_Chile" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Abortion_in_Chile">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Abortion_in_Chile&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Abortion_in_Chile" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Abortion_in_Chile" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Abortion_in_Chile&amp;oldid=915037857" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Abortion_in_Chile&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2614627" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Abortion_in_Chile&amp;id=915037857" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Abortion_in_Chile" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Abortion+in+Chile">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Abortion+in+Chile&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Abortion_in_Chile&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Aborto_en_Chile" title="Aborto en Chile – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Aborcja_w_Chile" title="Aborcja w Chile – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Aborto_no_Chile" title="Aborto no Chile – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%BE%D1%80%D1%82%D1%8B_%D0%B2_%D0%A7%D0%B8%D0%BB%D0%B8" title="Аборты в Чили – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D0%BE%D1%80%D1%82%D0%B8_%D0%B2_%D0%A7%D0%B8%D0%BB%D1%96" title="Аборти в Чилі – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2614627#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 10 September 2019, at 21:07<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Abortion_in_Chile&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.541","ppvisitednodes":{"value":1965,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112271,"limit":2097152},"templateargumentsize":{"value":2134,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":98985,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  406.417      1 -total"," 88.12%  358.134      1 Template:Reflist"," 55.90%  227.178     27 Template:Cite_web"," 12.45%   50.602      2 Template:Dead_link"," 10.65%   43.297      2 Template:Fix"," 10.41%   42.292      3 Template:Navbox","  9.67%   39.292      4 Template:Category_handler","  7.92%   32.202      2 Template:Cite_journal","  6.88%   27.962      1 Template:Abortion","  4.96%   20.160      1 Template:Abortion_in_South_America"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":4823009,"limit":52428800}},"cachereport":{"origin":"mw1336","timestamp":"20191015220732","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Abortion in Chile","url":"https:\/\/en.wikipedia.org\/wiki\/Abortion_in_Chile","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2614627","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2614627","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-28T05:25:38Z","dateModified":"2019-09-10T21:07:36Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1275"});});</script>   
+ </body>
+</html>

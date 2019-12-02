@@ -1,0 +1,566 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Mammillaria spinosissima - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mammillaria_spinosissima","wgTitle":"Mammillaria spinosissima","wgCurRevisionId":914173062,"wgRevisionId":914173062,"wgArticleId":23793689,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Good articles","Use dmy dates from February 2014","Articles with 'species' microformats","Wikipedia articles needing clarification from September 2015","Commons category link is on Wikidata","Mammillaria","Cacti of Mexico","Endemic flora of Mexico","North American desert flora","Flora of Guerrero","Plants described in 1891"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April"
+,"May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mammillaria_spinosissima","wgRelevantArticleId":23793689,"wgRequestId":"Xbjt2QpAMFIAAGtEilIAAABV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q290002","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mammillaria_spinosissima_by_RO.jpg/1200px-Mammillaria_spinosissima_by_RO.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mammillaria_spinosissima"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Mammillaria_spinosissima"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mammillaria_spinosissima rootpage-Mammillaria_spinosissima skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+    <div id="mw-indicator-good-star" class="mw-indicator">
+     <a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Follow the link for more information."><img alt="This is a good article. Follow the link for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" decoding="async" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185"></a>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><i>Mammillaria spinosissima</i></h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Species of cactus from Mexico
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%"> 
+       <tbody>
+        <tr> 
+         <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><i>Mammillaria spinosissima</i> </th>
+        </tr> 
+        <tr> 
+         <td colspan="2" style="text-align: center"><a href="/wiki/File:Mammillaria_spinosissima_by_RO.jpg" class="image"><img alt="Mammillaria spinosissima by RO.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mammillaria_spinosissima_by_RO.jpg/220px-Mammillaria_spinosissima_by_RO.jpg" decoding="async" width="220" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mammillaria_spinosissima_by_RO.jpg/330px-Mammillaria_spinosissima_by_RO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mammillaria_spinosissima_by_RO.jpg/440px-Mammillaria_spinosissima_by_RO.jpg 2x" data-file-width="4016" data-file-height="3618"></a> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2" style="text-align: center; font-size: 88%"><i>M. spinosissima</i> var. 'rubrispina' ('Super Red') </td>
+        </tr> 
+        <tr> 
+         <th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Mammillaria" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16"></a></span> </th>
+        </tr> 
+        <tr> 
+         <td>Kingdom: </td> 
+         <td><a href="/wiki/Plant" title="Plant">Plantae</a> </td>
+        </tr> 
+        <tr> 
+         <td><i>Clade</i>: </td> 
+         <td><a href="/wiki/Vascular_plant" title="Vascular plant">Tracheophytes</a> </td>
+        </tr> 
+        <tr> 
+         <td><i>Clade</i>: </td> 
+         <td><a href="/wiki/Flowering_plant" title="Flowering plant">Angiosperms</a> </td>
+        </tr> 
+        <tr> 
+         <td><i>Clade</i>: </td> 
+         <td><a href="/wiki/Eudicots" title="Eudicots">Eudicots</a> </td>
+        </tr> 
+        <tr> 
+         <td>Order: </td> 
+         <td><a href="/wiki/Caryophyllales" title="Caryophyllales">Caryophyllales</a> </td>
+        </tr> 
+        <tr> 
+         <td>Family: </td> 
+         <td><a href="/wiki/Cactus" title="Cactus">Cactaceae</a> </td>
+        </tr> 
+        <tr> 
+         <td>Subfamily: </td> 
+         <td><a href="/wiki/Cactoideae" title="Cactoideae">Cactoideae</a> </td>
+        </tr> 
+        <tr> 
+         <td>Genus: </td> 
+         <td><a href="/wiki/Mammillaria" title="Mammillaria"><i>Mammillaria</i></a> </td>
+        </tr> 
+        <tr> 
+         <td>Species: </td> 
+         <td>
+          <div style="display:inline" class="species">
+           <i><b>M.&nbsp;spinosissima</b></i>
+          </div> </td>
+        </tr> 
+        <tr> 
+         <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a> </th>
+        </tr> 
+        <tr> 
+         <td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Mammillaria spinosissima</i></span></b><br>
+          <div style="font-size: 85%;">
+           (
+           <a href="/wiki/Otto_Kuntze" title="Otto Kuntze">Kuntze</a>) 
+           <a href="/wiki/Lem." class="mw-redirect" title="Lem.">Lem.</a>
+           <sup id="cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)_1-0" class="reference"><a href="#cite_note-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)-1">[1]</a></sup>
+          </div> </td>
+        </tr> 
+        <tr> 
+         <th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a> </th>
+        </tr> 
+        <tr> 
+         <td colspan="2" style="text-align: left"> <p><i>Mammillaria auricoma</i><br> <i>Mammillaria pitcayensis</i><br> <i>Mammillaria pilcayensis</i><br> <i>Mammillaria centraliplumosa</i><br> <i>Mammillaria haasii</i><br> <i>Mammillaria gasterantha</i><br> <i>Mammillaria crassior</i><br> <i>Mammillaria virginis</i> </p> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><i><b>Mammillaria spinosissima</b></i> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="'m' in 'my'">m</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'m' in 'my'">m</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/ɛər/: 'are' in 'bare'">ɛər</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span></span><span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="'s' in 'sigh'">s</span><span title="'p' in 'pie'">p</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'n' in 'nigh'">n</span><span title="/oʊ/: 'o' in 'code'">oʊ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'s' in 'sigh'">s</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'m' in 'my'">m</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span></span>), also known as the <b>spiny pincushion cactus</b>, is a <a href="/wiki/Species" title="Species">species</a> of <a href="/wiki/Flowering_plant" title="Flowering plant">flowering plant</a> in the cactus <a href="/wiki/Family_(botany)" class="mw-redirect" title="Family (botany)">family</a> Cactaceae, <a href="/wiki/Endemic" class="mw-redirect" title="Endemic">endemic</a> to the central Mexican states of <a href="/wiki/Guerrero" title="Guerrero">Guerrero</a> and <a href="/wiki/Morelos" title="Morelos">Morelos</a>, where they grow at elevations of approximately 1,600 to 1,900 metres (5,200 to 6,200&nbsp;ft). The species was <a href="/wiki/Species_description" title="Species description">described</a> in 1838 by <a href="/wiki/James_Forbes_(botanist)" title="James Forbes (botanist)">James Forbes</a>, gardener of the <a href="/wiki/Duke_of_Bedford" title="Duke of Bedford">Duke of Bedford</a>. Botanist <a href="/wiki/David_Hunt_(botanist)" title="David Hunt (botanist)">David Hunt</a> collected a specimen in 1971, when he located one near <a href="/wiki/Sierra_de_Tepoztlan" title="Sierra de Tepoztlan">Sierra de Tepoztlan</a>, Mexico. </p>
+      <p>The cylindrical and elongated plants grow up to 30 centimetres (12&nbsp;in) tall and 10 centimetres (3.9&nbsp;in) wide. They reach full height after five to ten years. The spines are red-brown or white, with cream-colored radials and pink, funnel-shaped flowers that grow in a ring around the apex of the stem to approximately 2 centimetres (0.79&nbsp;in) long. It grows low to the ground in solitary or in clusters, and its flowers produce generally bright red berries that are club-shaped, smooth, and juicy.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (September 2015)">clarification needed</span></a></i>]</sup> </p>
+      <p><i>M. spinosissima</i> thrive in well-drained soils that are sandy or <a href="/wiki/Loam" title="Loam">loam</a>, with a <a href="/wiki/PH" title="PH">pH</a> ranging from acidic to neutral. They prefer low humidity and full, filtered sun. Plants are typically watered once every two or three weeks, and kept nearly dry during the winter months. They require no pruning and make good patio and container plants. They are relatively disease resistant, but susceptible to pests such as <a href="/wiki/Mealybug" title="Mealybug">mealybugs</a>. Synonyms of <i>M. spinosissima</i> include <i>Mammillaria centraliplumosa</i>, <i>Mammillaria haasii</i>, and <i>Mammillaria virginis</i>. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Similar_species,_subspecies_and_synonyms"><span class="tocnumber">1.1</span> <span class="toctext">Similar species, subspecies and synonyms</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Native_habitat"><span class="tocnumber">3</span> <span class="toctext">Native habitat</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Cultivation"><span class="tocnumber">4</span> <span class="toctext">Cultivation</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Mexico.Mor.Tepoztlan.01.jpg" class="image"><img alt="A color picture of a mountain from town" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mexico.Mor.Tepoztlan.01.jpg/220px-Mexico.Mor.Tepoztlan.01.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mexico.Mor.Tepoztlan.01.jpg/330px-Mexico.Mor.Tepoztlan.01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mexico.Mor.Tepoztlan.01.jpg/440px-Mexico.Mor.Tepoztlan.01.jpg 2x" data-file-width="480" data-file-height="640"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mexico.Mor.Tepoztlan.01.jpg" class="internal" title="Enlarge"></a>
+         </div>Sierra de Tepoztlan
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a> designated <i><a href="/wiki/Mammillaria" title="Mammillaria">Mammillaria</a></i> as a type <a href="/wiki/Genus" title="Genus">genus</a> for <a href="/wiki/Cactus" title="Cactus">cactus</a> in 1753.<sup id="cite_ref-FOOTNOTEButterworthWallace20041086_2-0" class="reference"><a href="#cite_note-FOOTNOTEButterworthWallace20041086-2">[2]</a></sup> In 1838, <a href="/wiki/James_Forbes_(botanist)" title="James Forbes (botanist)">James Forbes</a>, gardener of the <a href="/wiki/Duke_of_Bedford" title="Duke of Bedford">Duke of Bedford</a>, listed and <a href="/wiki/Species_description" title="Species description">described</a> a species he called <i>Echinocactus spinosissimas</i> from a group of cacti he had acquired in Europe three years earlier. <a href="/wiki/Nathaniel_Lord_Britton" title="Nathaniel Lord Britton">Nathaniel Lord Britton</a> and <a href="/wiki/Joseph_Nelson_Rose" title="Joseph Nelson Rose">Joseph Nelson Rose</a> believe that Forbes was given that name by <a href="/wiki/Ludwig_Karl_Georg_Pfeiffer" title="Ludwig Karl Georg Pfeiffer">Ludwig Karl Georg Pfeiffer</a>, but the plant was actually <i>Mammillaria spinosissima</i>.<sup id="cite_ref-FOOTNOTEBrittonRose1922179_3-0" class="reference"><a href="#cite_note-FOOTNOTEBrittonRose1922179-3">[3]</a></sup> </p>
+      <p>Pfeiffer had published the first infrageneric division of <i>Mammillaria</i> in 1837, dividing the genus into two groups based on distinct spine characteristics. In 1845, <a href="/wiki/Joseph_zu_Salm-Reifferscheidt-Dyck" title="Joseph zu Salm-Reifferscheidt-Dyck">Joseph zu Salm-Reifferscheidt-Dyck</a>&nbsp;– based on work by <a href="/w/index.php?title=Frederick_Scheer&amp;action=edit&amp;redlink=1" class="new" title="Frederick Scheer (page does not exist)">Frederick Scheer</a>&nbsp;– expanded the classification into eight groups. With at least 145 recognized species, it is one of the largest and most morphologically variable genera in the cactus family.<sup id="cite_ref-FOOTNOTEButterworthWallace20041086_2-1" class="reference"><a href="#cite_note-FOOTNOTEButterworthWallace20041086-2">[2]</a></sup> Others estimate there are as many as two hundred species of <i>Mammillaria</i>, including sixty-two cultivated species from India. Though larger, the genus <i><a href="/wiki/Opuntia" title="Opuntia">Opuntia</a></i> is less popular with gardeners and landscapers.<sup id="cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-0" class="reference"><a href="#cite_note-FOOTNOTEMattagajasinghMukherjeeDas2006583-4">[4]</a></sup> <i>Mammillaria</i> was previously thought to be <a href="/wiki/Monophyly" title="Monophyly">monophyletic</a>, but <a href="/wiki/Phylogenetics" title="Phylogenetics">phylogenic</a> analysis indicates that <i>Mammilloydia</i> is "embedded within a 'core' group of <i>Mammillaria</i> species."<sup id="cite_ref-FOOTNOTEButterworthWallace20041086_2-2" class="reference"><a href="#cite_note-FOOTNOTEButterworthWallace20041086-2">[2]</a></sup> A specimen of <i>Mammillaria spinosissima</i> was collected by Botanist <a href="/wiki/David_Hunt_(botanist)" title="David Hunt (botanist)">David Hunt</a> in September 1971, when he located one in Mexico, near the Morelos Cautla-Cuernavaca toll road in <a href="/wiki/Sierra_de_Tepoztlan" title="Sierra de Tepoztlan">Sierra de Tepoztlan</a>, at an altitude of 1,600 meters (5,200&nbsp;ft).<sup id="cite_ref-FOOTNOTEKew_Gardens:_Herbarium_catalogue_5-0" class="reference"><a href="#cite_note-FOOTNOTEKew_Gardens:_Herbarium_catalogue-5">[5]</a></sup> </p> 
+      <h3><span id="Similar_species.2C_subspecies_and_synonyms"></span><span class="mw-headline" id="Similar_species,_subspecies_and_synonyms">Similar species, subspecies and synonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=2" title="Edit section: Similar species, subspecies and synonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Species similar to <i>Mammillaria spinosissima</i> include <i><a href="/wiki/Mammillaria_backebergiana" title="Mammillaria backebergiana">Mammillaria backebergiana</a></i> and <i><a href="/w/index.php?title=Mammillaria_meyranii&amp;action=edit&amp;redlink=1" class="new" title="Mammillaria meyranii (page does not exist)">Mammillaria meyranii</a></i>.<sup id="cite_ref-FOOTNOTEGraham2014105_6-0" class="reference"><a href="#cite_note-FOOTNOTEGraham2014105-6">[6]</a></sup> Subspecies include <i>M. spinosissima pilcayensis</i>, synonym: <i>Bravo</i> (D. R. Hunt), <i>M. spinosissima tepoxtlana</i> (D. R. Hunt), and <i>M. spinosissima spinosissima</i> (Lem.).<sup id="cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)_1-1" class="reference"><a href="#cite_note-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)-1">[1]</a></sup> Synonyms of <i>M. spinosissima</i> include <i>Mammillaria centraliplumosa</i> (Fittkau), <i>Mammillaria haasii</i> (J. Meyrán), and <i>Mammillaria virginis</i> (Fittkau and Kladiwa).<sup id="cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(b)_7-0" class="reference"><a href="#cite_note-FOOTNOTEIntegrated_Taxonomic_Information_System_(b)-7">[7]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Mammillaria_spinosissima3.jpg" class="image"><img alt="A color picture of a reddish-spined cactus" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mammillaria_spinosissima3.jpg/220px-Mammillaria_spinosissima3.jpg" decoding="async" width="220" height="287" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mammillaria_spinosissima3.jpg/330px-Mammillaria_spinosissima3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mammillaria_spinosissima3.jpg/440px-Mammillaria_spinosissima3.jpg 2x" data-file-width="891" data-file-height="1164"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mammillaria_spinosissima3.jpg" class="internal" title="Enlarge"></a>
+         </div>In the 
+         <a href="/wiki/United_States_Botanic_Garden" title="United States Botanic Garden">United States Botanic Garden</a>
+        </div>
+       </div>
+      </div> 
+      <p><i>Mammillaria spinosissima</i>, also known as spiny pincushion cactus, are cylindrical plants that grow up to 30 centimetres (12&nbsp;in) tall and 10 centimetres (3.9&nbsp;in) wide. They reach full height after five to ten years. The spines are red-brown or white, with cream-colored radials and pink, funnel-shaped flowers that grow in a ring around the apex of the stem to approximately 2 centimetres (0.79&nbsp;in) long.<sup id="cite_ref-FOOTNOTERoyal_Horticultural_Society_8-0" class="reference"><a href="#cite_note-FOOTNOTERoyal_Horticultural_Society-8">[8]</a></sup> The relatively small cacti are globular or elongated, and the flowers produce generally bright red berries that are club-shaped, smooth, and juicy.<sup id="cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-1" class="reference"><a href="#cite_note-FOOTNOTEMattagajasinghMukherjeeDas2006583-4">[4]</a></sup> </p>
+      <p><i>Mammillaria</i> species tend to grow low to the ground in solitary or grouped in clusters. The genus is marked by its dimorphic <a href="/wiki/Areole" title="Areole">areoles</a>: the spine bearing, or vegetative, areoles are located on the apex of the tubercle, and flowering areoles are located inside the axils of the tubercles.<sup id="cite_ref-FOOTNOTEButterworthWallace20041086_2-3" class="reference"><a href="#cite_note-FOOTNOTEButterworthWallace20041086-2">[2]</a></sup> The stem is woolly and covered with bristles.<sup id="cite_ref-FOOTNOTEPienaar2000221_9-0" class="reference"><a href="#cite_note-FOOTNOTEPienaar2000221-9">[9]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Native_habitat">Native habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=4" title="Edit section: Native habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The genus <i>Mammillaria</i><span class="nowrap" style="padding-left:0.1em;">'s</span> native habitat ranges from Colombia and Venezuela to the Southwestern United States. Its diversity is greatest in Mexico.<sup id="cite_ref-FOOTNOTEButterworthWallace20041086_2-4" class="reference"><a href="#cite_note-FOOTNOTEButterworthWallace20041086-2">[2]</a></sup> Species have also been documented in the West Indies.<sup id="cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-2" class="reference"><a href="#cite_note-FOOTNOTEMattagajasinghMukherjeeDas2006583-4">[4]</a></sup> <i>M. spinosissima</i> is <a href="/wiki/Endemic" class="mw-redirect" title="Endemic">endemic</a> to central Mexico and concentrated in the states of <a href="/wiki/Guerrero" title="Guerrero">Guerrero</a> and <a href="/wiki/Morelos" title="Morelos">Morelos</a>, where they grow at elevations of approximately 1,600 to 1,900 meters (5,200 to 6,200&nbsp;ft); they prefer dry, tropical forests and xerophilous scrub.<sup id="cite_ref-FOOTNOTEInternational_Union_for_Conservation_of_Nature_and_Natural_Resources_10-0" class="reference"><a href="#cite_note-FOOTNOTEInternational_Union_for_Conservation_of_Nature_and_Natural_Resources-10">[10]</a></sup> The subspecies <i>pilcayensis</i> is named for its occurrence in the Barranca de Pilcaya, in Guerrero.<sup id="cite_ref-FOOTNOTEEggliNewton2004185_11-0" class="reference"><a href="#cite_note-FOOTNOTEEggliNewton2004185-11">[11]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Cultivation">Cultivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=5" title="Edit section: Cultivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Britton and Rose believe that <i>M. spinosissima</i> has been in cultivation since at least 1835.<sup id="cite_ref-FOOTNOTEBrittonRose1922179_3-1" class="reference"><a href="#cite_note-FOOTNOTEBrittonRose1922179-3">[3]</a></sup> The species thrives in well-drained soils that are sandy or <a href="/wiki/Loam" title="Loam">loam</a>, with a <a href="/wiki/PH" title="PH">pH</a> that is acidic, alkaline, or neutral. They prefer low humidity, and grow well under glass, with full, filtered sun from the south, north, and east. Plants are typically watered once every couple of weeks, and kept nearly dry during the winter months. Propagation is facilitated by offsets of seeds sown in early spring in 19 to 24&nbsp;°C (34 to 43&nbsp;°F) weather. They require no pruning and make good patio and container plants. They are disease resistant, but are susceptible to pests such as <a href="/wiki/Mealybugs" class="mw-redirect" title="Mealybugs">mealybugs</a>.<sup id="cite_ref-FOOTNOTERoyal_Horticultural_Society_8-1" class="reference"><a href="#cite_note-FOOTNOTERoyal_Horticultural_Society-8">[8]</a></sup> This plant has gained the <a href="/wiki/Royal_Horticultural_Society" title="Royal Horticultural Society">Royal Horticultural Society</a>’s <a href="/wiki/Award_of_Garden_Merit" title="Award of Garden Merit">Award of Garden Merit</a>.<sup id="cite_ref-RHSPF_12-0" class="reference"><a href="#cite_note-RHSPF-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul class="gallery mw-gallery-packed"> 
+       <li class="gallerybox" style="width: 190.66666666667px">
+        <div style="width: 190.66666666667px"> 
+         <div class="thumb" style="width: 188.66666666667px;">
+          <div style="margin:-0.16666666666667px auto;">
+           <a href="/wiki/File:Mammillaria_spinosissima.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mammillaria_spinosissima.jpeg/283px-Mammillaria_spinosissima.jpeg" decoding="async" width="189" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mammillaria_spinosissima.jpeg/426px-Mammillaria_spinosissima.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mammillaria_spinosissima.jpeg/567px-Mammillaria_spinosissima.jpeg 2x" data-file-width="3215" data-file-height="2637"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>In a cluster, <a href="/wiki/Kew_Gardens" title="Kew Gardens">Kew Gardens</a>, London </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 208.66666666667px">
+        <div style="width: 208.66666666667px"> 
+         <div class="thumb" style="width: 206.66666666667px;">
+          <div style="margin:-0.16666666666667px auto;">
+           <a href="/wiki/File:Mammillarspinosissima.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mammillarspinosissima.jpg/310px-Mammillarspinosissima.jpg" decoding="async" width="207" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mammillarspinosissima.jpg/465px-Mammillarspinosissima.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/dc/Mammillarspinosissima.jpg 2x" data-file-width="600" data-file-height="450"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Flowers </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 146.66666666667px">
+        <div style="width: 146.66666666667px"> 
+         <div class="thumb" style="width: 144.66666666667px;">
+          <div style="margin:-0.16666666666667px auto;">
+           <a href="/wiki/File:Mammillaria_(aka).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mammillaria_%28aka%29.jpg/217px-Mammillaria_%28aka%29.jpg" decoding="async" width="145" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mammillaria_%28aka%29.jpg/326px-Mammillaria_%28aka%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mammillaria_%28aka%29.jpg/435px-Mammillaria_%28aka%29.jpg 2x" data-file-width="1122" data-file-height="1200"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p><i>M. spinosissima</i> cv. 'un pico' </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 208.66666666667px">
+        <div style="width: 208.66666666667px"> 
+         <div class="thumb" style="width: 206.66666666667px;">
+          <div style="margin:-0.16666666666667px auto;">
+           <a href="/wiki/File:Fuzzy_cactuses.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fuzzy_cactuses.jpg/310px-Fuzzy_cactuses.jpg" decoding="async" width="207" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fuzzy_cactuses.jpg/465px-Fuzzy_cactuses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fuzzy_cactuses.jpg/620px-Fuzzy_cactuses.jpg 2x" data-file-width="2048" data-file-height="1536"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p><i>M. spinosissima subsp. pilcayensis</i> </p> 
+         </div> 
+        </div></li> 
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(a)_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFIntegrated_Taxonomic_Information_System_(a)">Integrated Taxonomic Information System (a)</a>.</span> </li> 
+         <li id="cite_note-FOOTNOTEButterworthWallace20041086-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEButterworthWallace20041086_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEButterworthWallace20041086_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEButterworthWallace20041086_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEButterworthWallace20041086_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEButterworthWallace20041086_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFButterworthWallace2004">Butterworth &amp; Wallace 2004</a>, p.&nbsp;1086.</span> </li> 
+         <li id="cite_note-FOOTNOTEBrittonRose1922179-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEBrittonRose1922179_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEBrittonRose1922179_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrittonRose1922">Britton &amp; Rose 1922</a>, p.&nbsp;179.</span> </li> 
+         <li id="cite_note-FOOTNOTEMattagajasinghMukherjeeDas2006583-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEMattagajasinghMukherjeeDas2006583_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMattagajasinghMukherjeeDas2006">Mattagajasingh, Mukherjee &amp; Das 2006</a>, p.&nbsp;583.</span> </li> 
+         <li id="cite_note-FOOTNOTEKew_Gardens:_Herbarium_catalogue-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKew_Gardens:_Herbarium_catalogue_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKew_Gardens:_Herbarium_catalogue">Kew Gardens: Herbarium catalogue</a>.</span> </li> 
+         <li id="cite_note-FOOTNOTEGraham2014105-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEGraham2014105_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGraham2014">Graham 2014</a>, p.&nbsp;105.</span> </li> 
+         <li id="cite_note-FOOTNOTEIntegrated_Taxonomic_Information_System_(b)-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEIntegrated_Taxonomic_Information_System_(b)_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFIntegrated_Taxonomic_Information_System_(b)">Integrated Taxonomic Information System (b)</a>.</span> </li> 
+         <li id="cite_note-FOOTNOTERoyal_Horticultural_Society-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTERoyal_Horticultural_Society_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTERoyal_Horticultural_Society_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFRoyal_Horticultural_Society">Royal Horticultural Society</a>.</span> </li> 
+         <li id="cite_note-FOOTNOTEPienaar2000221-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPienaar2000221_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPienaar2000">Pienaar 2000</a>, p.&nbsp;221.</span> </li> 
+         <li id="cite_note-FOOTNOTEInternational_Union_for_Conservation_of_Nature_and_Natural_Resources-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEInternational_Union_for_Conservation_of_Nature_and_Natural_Resources_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFInternational_Union_for_Conservation_of_Nature_and_Natural_Resources">International Union for Conservation of Nature and Natural Resources</a>.</span> </li> 
+         <li id="cite_note-FOOTNOTEEggliNewton2004185-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEEggliNewton2004185_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFEggliNewton2004">Eggli &amp; Newton 2004</a>, p.&nbsp;185.</span> </li> 
+         <li id="cite_note-RHSPF-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-RHSPF_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.rhs.org.uk/Plants/10843/i-Mammillaria-spinosissima-i/Details">"RHS Plantfinder - <i>Mammillaria spinosissima</i>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RHS+Plantfinder+-+Mammillaria+spinosissima&amp;rft_id=https%3A%2F%2Fwww.rhs.org.uk%2FPlants%2F10843%2Fi-Mammillaria-spinosissima-i%2FDetails&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.rhs.org.uk/plants/pdfs/agm-lists/agm-ornamentals.pdf">"AGM Plants - Ornamental"</a> <span class="cs1-format">(PDF)</span>. Royal Horticultural Society. July 2017. p.&nbsp;63<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=AGM+Plants+-+Ornamental&amp;rft.pages=63&amp;rft.pub=Royal+Horticultural+Society&amp;rft.date=2017-07&amp;rft_id=https%3A%2F%2Fwww.rhs.org.uk%2Fplants%2Fpdfs%2Fagm-lists%2Fagm-ornamentals.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <dl>
+       <dt>
+        Bibliography
+       </dt>
+      </dl> 
+      <style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style>
+      <div class="refbegin" style=""> 
+       <ul>
+        <li><cite id="CITEREFBrittonRose1922" class="citation">Britton, Nathaniel Lord; Rose, Joseph Nelson (1922), <i>The Cactaceae: Descriptions and Illustrations of Plants of the Cactus Family</i>, <b>3</b>, Carnegie Institution of Washington</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Cactaceae%3A+Descriptions+and+Illustrations+of+Plants+of+the+Cactus+Family&amp;rft.pub=Carnegie+Institution+of+Washington&amp;rft.date=1922&amp;rft.aulast=Britton&amp;rft.aufirst=Nathaniel+Lord&amp;rft.au=Rose%2C+Joseph+Nelson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFButterworthWallace2004" class="citation">Butterworth, Charles A.; Wallace, Robert S. (2004), <a rel="nofollow" class="external text" href="http://www.amjbot.org/content/91/7/1086.full.pdf+html">"Phylogenetic studies of <i>Mammillaria</i> (Cactaceae)—insights from chloroplast sequence variation and hypothesis testing using the parametric bootstrap"</a>, <i>American Journal of Botany</i>, <b>91</b> (7), pp.&nbsp;1086–1098, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.3732%2Fajb.91.7.1086">10.3732/ajb.91.7.1086</a>, <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21653464">21653464</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Botany&amp;rft.atitle=Phylogenetic+studies+of+Mammillaria+%28Cactaceae%29%E2%80%94insights+from+chloroplast+sequence+variation+and+hypothesis+testing+using+the+parametric+bootstrap&amp;rft.volume=91&amp;rft.issue=7&amp;rft.pages=1086-1098&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.3732%2Fajb.91.7.1086&amp;rft_id=info%3Apmid%2F21653464&amp;rft.aulast=Butterworth&amp;rft.aufirst=Charles+A.&amp;rft.au=Wallace%2C+Robert+S.&amp;rft_id=http%3A%2F%2Fwww.amjbot.org%2Fcontent%2F91%2F7%2F1086.full.pdf%2Bhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFEggliNewton2004" class="citation">Eggli, Urs; Newton, Leonard E. (2004), <i>Etymological Dictionary of Succulent Plant Names</i>, Springer Science and Business Media, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-3-540-00489-9" title="Special:BookSources/978-3-540-00489-9"><bdi>978-3-540-00489-9</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Etymological+Dictionary+of+Succulent+Plant+Names&amp;rft.pub=Springer+Science+and+Business+Media&amp;rft.date=2004&amp;rft.isbn=978-3-540-00489-9&amp;rft.aulast=Eggli&amp;rft.aufirst=Urs&amp;rft.au=Newton%2C+Leonard+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFGraham2014" class="citation">Graham, Charles (2014), <i>Cacti and Succulents: An Illustrated Guide to the Plants and Their Cultivation</i>, Crowood, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-84797-786-1" title="Special:BookSources/978-1-84797-786-1"><bdi>978-1-84797-786-1</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cacti+and+Succulents%3A+An+Illustrated+Guide+to+the+Plants+and+Their+Cultivation&amp;rft.pub=Crowood&amp;rft.date=2014&amp;rft.isbn=978-1-84797-786-1&amp;rft.aulast=Graham&amp;rft.aufirst=Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFIntegrated_Taxonomic_Information_System_(a)" class="citation"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=908130">"<i>Mammillaria spinosissima</i>"</a>, <i>Integrated Taxonomic Information System, United States Government</i><span class="reference-accessdate">, retrieved <span class="nowrap">1 September</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Integrated+Taxonomic+Information+System%2C+United+States+Government&amp;rft.atitle=Mammillaria+spinosissima&amp;rft_id=https%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D908130&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFIntegrated_Taxonomic_Information_System_(b)" class="citation"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=912467">"<i>Mammillaria spinosissima ssp. spinosissima</i>"</a>, <i>Integrated Taxonomic Information System, United States Government</i><span class="reference-accessdate">, retrieved <span class="nowrap">1 September</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Integrated+Taxonomic+Information+System%2C+United+States+Government&amp;rft.atitle=Mammillaria+spinosissima+ssp.+spinosissima&amp;rft_id=https%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D912467&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFInternational_Union_for_Conservation_of_Nature_and_Natural_Resources" class="citation"><a rel="nofollow" class="external text" href="http://www.iucnredlist.org/details/summary/151884/0"><i>The IUCN List of Threatened Species</i></a>, International Union for Conservation of Nature and Natural Resources<span class="reference-accessdate">, retrieved <span class="nowrap">2 September</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+IUCN+List+of+Threatened+Species&amp;rft.pub=International+Union+for+Conservation+of+Nature+and+Natural+Resources&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2Fsummary%2F151884%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFKew_Gardens:_Herbarium_catalogue" class="citation"><a rel="nofollow" class="external text" href="http://apps.kew.org/herbcat/detailsQuery.do?imageId=&amp;pageCode=1&amp;presentPage=1&amp;queryId=4&amp;sessionId=21B010CC93AE2C0209C5A67880D7DE1C&amp;barcode=K000062989"><i>Herbarium catalogue: </i>Mammillaria spinosissima<i><span></span></i></a>, Kew Gardens<span class="reference-accessdate">, retrieved <span class="nowrap">2 September</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Herbarium+catalogue%3A+Mammillaria+spinosissima&amp;rft.pub=Kew+Gardens&amp;rft_id=http%3A%2F%2Fapps.kew.org%2Fherbcat%2FdetailsQuery.do%3FimageId%3D%26pageCode%3D1%26presentPage%3D1%26queryId%3D4%26sessionId%3D21B010CC93AE2C0209C5A67880D7DE1C%26barcode%3DK000062989&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFMattagajasinghMukherjeeDas2006" class="citation">Mattagajasingh, Ilwola; Mukherjee, Arup Kumar; Das, Premananda (2006), <a rel="nofollow" class="external text" href="http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fznc.2006.61.issue-7-8$002fznc-2006-7-819$002fznc-2006-7-819.pdf?t:ac=j$002fznc.2006.61.issue-7-8$002fznc-2006-7-819$002fznc-2006-7-819.xml">"Genomic relations among 31 species of <i>Mammillaria</i> Haworth (Cactaceae) using random amplified polymorphic DNA"</a> <span class="cs1-format">(PDF)</span>, <i>Zeitschrift für Naturforschung</i>, <b>61C</b> (7–8), pp.&nbsp;583–591</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+Naturforschung&amp;rft.atitle=Genomic+relations+among+31+species+of+Mammillaria+Haworth+%28Cactaceae%29+using+random+amplified+polymorphic+DNA&amp;rft.volume=61C&amp;rft.issue=7%E2%80%938&amp;rft.pages=583-591&amp;rft.date=2006&amp;rft.aulast=Mattagajasingh&amp;rft.aufirst=Ilwola&amp;rft.au=Mukherjee%2C+Arup+Kumar&amp;rft.au=Das%2C+Premananda&amp;rft_id=http%3A%2F%2Fwww.degruyter.com%2Fdg%2Fviewarticle.fullcontentlink%3Apdfeventlink%2F%24002fj%24002fznc.2006.61.issue-7-8%24002fznc-2006-7-819%24002fznc-2006-7-819.pdf%3Ft%3Aac%3Dj%24002fznc.2006.61.issue-7-8%24002fznc-2006-7-819%24002fznc-2006-7-819.xml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFRoyal_Horticultural_Society" class="citation"><a rel="nofollow" class="external text" href="https://www.rhs.org.uk/Plants/10843/Spiny-pincushion-cactus/Details"><i><span></span></i>Mammillaria spinosissima: Spiny Pincushion Cactus<i><span></span></i></a>, Royal Horticultural Society<span class="reference-accessdate">, retrieved <span class="nowrap">1 September</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mammillaria+spinosissima%3A+Spiny+Pincushion+Cactus&amp;rft.pub=Royal+Horticultural+Society&amp;rft_id=https%3A%2F%2Fwww.rhs.org.uk%2FPlants%2F10843%2FSpiny-pincushion-cactus%2FDetails&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li> 
+        <li><cite id="CITEREFPienaar2000" class="citation">Pienaar, Kristo (2000), <i>The South African What Flower is That?</i> (Illustrated ed.), Struik, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-86872-441-3" title="Special:BookSources/978-1-86872-441-3"><bdi>978-1-86872-441-3</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+South+African+What+Flower+is+That%3F&amp;rft.edition=Illustrated&amp;rft.pub=Struik&amp;rft.date=2000&amp;rft.isbn=978-1-86872-441-3&amp;rft.aulast=Pienaar&amp;rft.aufirst=Kristo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMammillaria+spinosissima" class="Z3988"></span>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Mammillaria_spinosissima" class="extiw" title="commons:Category:Mammillaria spinosissima"><i>Mammillaria spinosissima</i></a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103"></a> Data related to <a href="https://species.wikimedia.org/wiki/Mammillaria_spinosissima" class="extiw" title="wikispecies:Mammillaria spinosissima"><i>Mammillaria spinosissima</i></a> at Wikispecies</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q290002" class="extiw" title="wikidata:Q290002">Q290002</a></span></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Mammillaria_spinosissima" class="extiw" title="wikispecies:Mammillaria spinosissima">Mammillaria spinosissima</a></span></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/5180581">5180581</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/7281203">7281203</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Germplasm_Resources_Information_Network" title="Germplasm Resources Information Network">GRIN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=464922">464922</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/207161">207161</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=135156-1">135156-1</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=908130">908130</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/151884">151884</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=278581">278581</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/The_Plant_List" title="The Plant List">Plant List</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.theplantlist.org/tpl1.1/record/tro-5106459">tro-5106459</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Plants_of_the_World_Online" title="Plants of the World Online">POWO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:135156-1">urn:lsid:ipni.org:names:135156-1</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/CITES" title="CITES">Species+</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://speciesplus.net/#/taxon_concepts/26598/legal">26598</a></span></span></li> 
+             <li><span style="white-space:nowrap;"><a href="/wiki/Tropicos" title="Tropicos">Tropicos</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.tropicos.org/Name/5106459">5106459</a></span></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20191030015643
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.936 seconds
+Real time usage: 1.328 seconds
+Preprocessor visited node count: 6143/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50964/2097152 bytes
+Template argument size: 6377/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37725/5000000 bytes
+Number of Wikibase entities loaded: 13/400
+Lua time usage: 0.601/10.000 seconds
+Lua memory usage: 9.75 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1239.269      1 -total
+ 32.42%  401.715      1 Template:Speciesbox
+ 31.73%  393.194      1 Template:Taxobox/core
+ 21.25%  263.311      1 Template:Taxonbar
+ 11.01%  136.445     11 Template:Citation
+  9.52%  117.941      1 Template:Reflist
+  7.49%   92.828      2 Template:Cite_web
+  3.70%   45.819     20 Template:Sfn
+  3.64%   45.107      1 Template:Commons_category-inline
+  3.61%   44.791     18 Template:Delink
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:23793689-0!canonical and timestamp 20191030015641 and revision id 914173062
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mammillaria_spinosissima&amp;oldid=914173062">https://en.wikipedia.org/w/index.php?title=Mammillaria_spinosissima&amp;oldid=914173062</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Mammillaria" title="Category:Mammillaria">Mammillaria</a></li>
+       <li><a href="/wiki/Category:Cacti_of_Mexico" title="Category:Cacti of Mexico">Cacti of Mexico</a></li>
+       <li><a href="/wiki/Category:Endemic_flora_of_Mexico" title="Category:Endemic flora of Mexico">Endemic flora of Mexico</a></li>
+       <li><a href="/wiki/Category:North_American_desert_flora" title="Category:North American desert flora">North American desert flora</a></li>
+       <li><a href="/wiki/Category:Flora_of_Guerrero" title="Category:Flora of Guerrero">Flora of Guerrero</a></li>
+       <li><a href="/wiki/Category:Plants_described_in_1891" title="Category:Plants described in 1891">Plants described in 1891</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_February_2014" title="Category:Use dmy dates from February 2014">Use dmy dates from February 2014</a></li>
+       <li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_September_2015" title="Category:Wikipedia articles needing clarification from September 2015">Wikipedia articles needing clarification from September 2015</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mammillaria+spinosissima" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mammillaria+spinosissima" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mammillaria_spinosissima" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Mammillaria_spinosissima" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mammillaria_spinosissima">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mammillaria_spinosissima" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mammillaria_spinosissima" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Mammillaria_spinosissima&amp;oldid=914173062" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Mammillaria_spinosissima&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q290002" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mammillaria_spinosissima&amp;id=914173062" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mammillaria_spinosissima" hreflang="en">Wikimedia Commons</a></li>
+       <li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Mammillaria_spinosissima" hreflang="en">Wikispecies</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mammillaria+spinosissima">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mammillaria+spinosissima&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Mammillaria_spinosissima&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B6%D8%B1%D8%B9%D8%A7%D8%A1_%D9%83%D8%AB%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%A3%D8%B4%D9%88%D8%A7%D9%83" title="ضرعاء كثيرة الأشواك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%DA%A9%D8%AA%D9%88%D8%B3_%D8%AA%D9%88%D9%BE%DB%8C_%D8%AE%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1" title="کاکتوس توپی خاردار – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%BC%D0%B8%D0%BB%D0%BB%D1%8F%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%B5%D0%B9%D1%88%D0%B0%D1%8F" title="Маммиллярия колючейшая – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/N%C3%A5lv%C3%A5rtkaktus" title="Nålvårtkaktus – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Mammillaria_spinosissima" title="Mammillaria spinosissima – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q290002#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 5 September 2019, at 16:35<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mammillaria_spinosissima&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.936","walltime":"1.328","ppvisitednodes":{"value":6143,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50964,"limit":2097152},"templateargumentsize":{"value":6377,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37725,"limit":5000000},"entityaccesscount":{"value":13,"limit":400},"timingprofile":["100.00% 1239.269      1 -total"," 32.42%  401.715      1 Template:Speciesbox"," 31.73%  393.194      1 Template:Taxobox/core"," 21.25%  263.311      1 Template:Taxonbar"," 11.01%  136.445     11 Template:Citation","  9.52%  117.941      1 Template:Reflist","  7.49%   92.828      2 Template:Cite_web","  3.70%   45.819     20 Template:Sfn","  3.64%   45.107      1 Template:Commons_category-inline","  3.61%   44.791     18 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.601","limit":"10.000"},"limitreport-memusage":{"value":10226719,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20191030015643","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mammillaria spinosissima","url":"https:\/\/en.wikipedia.org\/wiki\/Mammillaria_spinosissima","sameAs":"http:\/\/www.wikidata.org\/entity\/Q290002","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q290002","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-07-29T22:12:07Z","dateModified":"2019-09-05T16:35:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/Mammillaria_spinosissima_by_RO.jpg","headline":"species of plant"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1484,"wgHostname":"mw1247"});});</script>   
+ </body>
+</html>

@@ -1,0 +1,701 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Mezzanine capital - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mezzanine_capital","wgTitle":"Mezzanine capital","wgCurRevisionId":920779154,"wgRevisionId":920779154,"wgArticleId":1323679,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2016","All Wikipedia articles needing clarification","Wikipedia articles needing clarification from October 2019","Bonds (finance)","Corporate finance","Debt","Private equity"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan",
+"Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mezzanine_capital","wgRelevantArticleId":1323679,"wgRequestId":"XbhIUwpAIC0AACx7wNYAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1755898","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mezzanine_capital"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mezzanine_capital&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Mezzanine_capital&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Mezzanine_capital"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mezzanine_capital rootpage-Mezzanine_capital skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Mezzanine capital</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p>In <a href="/wiki/Finance" title="Finance">finance</a>, <b>mezzanine capital</b> is any <a href="/wiki/Subordinated_debt" title="Subordinated debt">subordinated debt</a> or <a href="/wiki/Preferred_equity" class="mw-redirect" title="Preferred equity">preferred equity</a> <a href="/wiki/Financial_instrument" title="Financial instrument">instrument</a> that represents a claim on a company's assets which is senior only to that of the <a href="/wiki/Common_stock" title="Common stock">common shares</a>. Mezzanine financings can be structured either as <a href="/wiki/Debt" title="Debt">debt</a> (typically an <a href="/wiki/Unsecured_debt" title="Unsecured debt">unsecured</a> and <a href="/wiki/Subordinated_debt" title="Subordinated debt">subordinated</a> note) or <a href="/wiki/Preferred_stock" title="Preferred stock">preferred stock</a>. </p>
+      <p>Mezzanine capital is often a more expensive financing source for a company than <a href="/wiki/Secured_debt" class="mw-redirect" title="Secured debt">secured debt</a> or <a href="/wiki/Senior_debt" title="Senior debt">senior debt</a>. The higher <a href="/wiki/Cost_of_capital" title="Cost of capital">cost of capital</a> associated with mezzanine financings is the result of its being an unsecured, subordinated (or junior) obligation in a company's <a href="/wiki/Capital_structure" title="Capital structure">capital structure</a> (i.e., in the event of <a href="/wiki/Default_(finance)" title="Default (finance)">default</a>, the mezzanine financing is only repaid after all senior obligations have been satisfied). Additionally, mezzanine financings, which are usually <a href="/wiki/Private_placements" class="mw-redirect" title="Private placements">private placements</a>, are often used by smaller companies and may involve greater overall levels of leverage than issues in the <a href="/wiki/High-yield_debt" title="High-yield debt">high-yield market</a>; they thus involve additional risk. In compensation for the increased risk, mezzanine debt holders require a higher return for their investment than secured or more senior lenders. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Uses"><span class="tocnumber">2</span> <span class="toctext">Uses</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Leveraged_buyouts"><span class="tocnumber">2.1</span> <span class="toctext">Leveraged buyouts</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Real_estate_finance"><span class="tocnumber">2.2</span> <span class="toctext">Real estate finance</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Mezzanine financings can be completed through a variety of different structures based on the specific objectives of the transaction and the existing capital structure in place at the company.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup> The basic forms used in most mezzanine financings are <a href="/wiki/Subordinated_debt" title="Subordinated debt">subordinated notes</a> and <a href="/wiki/Preferred_stock" title="Preferred stock">preferred stock</a>. Mezzanine lenders, typically specialist mezzanine <a href="/wiki/Investment_fund" title="Investment fund">investment funds</a>, look for a certain <a href="/wiki/Internal_rate_of_return" title="Internal rate of return">rate of return</a> which can come from (each individual security can be made up of any of the following or a combination thereof): </p> 
+      <ul>
+       <li>Cash interest: A periodic payment of cash based on a percentage of the outstanding balance of the mezzanine financing. The interest rate can be either fixed throughout the term of the loan or can fluctuate (i.e., float) along with <a href="/wiki/LIBOR" class="mw-redirect" title="LIBOR">LIBOR</a> or other <a href="/wiki/Base_rate" title="Base rate">base rates</a>.</li> 
+       <li>PIK interest: <a href="/wiki/PIK_loan" title="PIK loan">Payable in kind</a> interest is a periodic form of payment in which the interest payment is not paid in cash but rather by increasing the principal amount by the amount of the interest (e.g., a $100 million bond with an 8% PIK interest rate will have a balance of $108 million at the end of the period, but will not pay any cash interest).</li> 
+       <li>Ownership: Along with the typical <a href="/wiki/Interest" title="Interest">interest</a> payment associated with <a href="/wiki/Debt" title="Debt">debt</a>, mezzanine capital will often include an <a href="/wiki/Stock" title="Stock">equity</a> stake in the form of attached <a href="/wiki/Warrant_(finance)" title="Warrant (finance)">warrants</a> or a <a href="/w/index.php?title=Conversion_feature&amp;action=edit&amp;redlink=1" class="new" title="Conversion feature (page does not exist)">conversion feature</a> similar to that of a <a href="/wiki/Convertible_bond" title="Convertible bond">convertible bond</a>. The ownership component in mezzanine securities is almost always accompanied by either cash interest or PIK interest, and, in many cases, by both.</li>
+      </ul> 
+      <p>Mezzanine lenders will also often charge an arrangement fee, payable upfront at the closing of the transaction. Arrangement fees contribute the least return, and their purposes are primarily to cover administrative costs or as an incentive to complete the transaction. </p>
+      <p>The following are illustrative examples of mezzanine financings: </p> 
+      <ul>
+       <li>$100 million of <a href="/w/index.php?title=Senior_subordinated_note&amp;action=edit&amp;redlink=1" class="new" title="Senior subordinated note (page does not exist)">senior subordinated notes</a> with warrants (10% cash interest, 3% PIK interest and warrants representing 4% of the fully diluted ownership of the company)<sup id="cite_ref-example_1-0" class="reference"><a href="#cite_note-example-1">[1]</a></sup></li> 
+       <li>$50 million of <a href="/w/index.php?title=Redeemable_preferred_stock&amp;action=edit&amp;redlink=1" class="new" title="Redeemable preferred stock (page does not exist)">redeemable preferred stock</a> with warrants (0% cash interest, 14% PIK interest and warrants representing 6% of the fully diluted ownership of the company)<sup id="cite_ref-example_1-1" class="reference"><a href="#cite_note-example-1">[1]</a></sup></li>
+      </ul> 
+      <p>In structuring a mezzanine security, the company and lender work together to avoid burdening the borrower with the full interest cost of such a loan. Because mezzanine lenders will seek a return of 14% to 20%, this return must be achieved through means other than simple cash interest payments. As a result, by using equity ownership and PIK interest, the mezzanine lender effectively defers its compensation until the due date of the security or a change of control of the company. </p>
+      <p>Mezzanine financings can be made at either the operating company level or at the level of a <a href="/wiki/Holding_company" title="Holding company">holding company</a> (also known as <a href="/wiki/Structural_subordination" title="Structural subordination">structural subordination</a>). In a holding company structure, as there are no operations and hence no cash flows, the structural subordination of the security and the reliance on cash <a href="/wiki/Dividends" class="mw-redirect" title="Dividends">dividends</a> from the operating company introduces additional risk and typically higher cost. This approach is taken most often <span class="clarify-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">as a result of the company's existing capital structure.</span><sup class="noprint Inline-Template Template-Clarify" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="This passage needs to be better explained. (October 2019)">clarify</span></a></i>]</sup> </p> 
+      <h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=2" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Leveraged_buyouts">Leveraged buyouts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=3" title="Edit section: Leveraged buyouts">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In <a href="/wiki/Leveraged_buyout" title="Leveraged buyout">leveraged buyouts</a>, mezzanine capital is used in conjunction with other securities to fund the purchase price of the company being acquired. Typically, mezzanine capital will be used to fill a financing gap between less expensive forms of financing (e.g., <a href="/wiki/Senior_debt" title="Senior debt">senior loans</a>, <a href="/wiki/Second_lien_loan" title="Second lien loan">second lien loan</a>, <a href="/wiki/High-yield_debt" title="High-yield debt">high yield financings</a>) and <a href="/wiki/Stock" title="Stock">equity</a>. Often, a <a href="/wiki/Financial_sponsor" title="Financial sponsor">financial sponsor</a> will exhaust other sources of capital before turning to mezzanine capital. </p>
+      <p><a href="/wiki/Financial_sponsor" title="Financial sponsor">Financial sponsors</a> will seek to use mezzanine capital in a <a href="/wiki/Leveraged_buyout" title="Leveraged buyout">leveraged buyout</a> in order to reduce the amount of the capital invested by the <a href="/wiki/Private_equity_firm" title="Private equity firm">private equity firm</a>; because mezzanine lenders typically have a lower target cost of capital than the private equity investor, using mezzanine capital can potentially enhance the private equity firm's investment returns. Additionally, <a href="/wiki/Middle-market_company" title="Middle-market company">middle market companies</a> may be unable to access the <a href="/wiki/High-yield_debt" title="High-yield debt">high yield market</a> due to high minimum size requirements, creating a need for flexible, private mezzanine capital. </p> 
+      <h3><span class="mw-headline" id="Real_estate_finance">Real estate finance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=4" title="Edit section: Real estate finance">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In <a href="/wiki/Real_estate" title="Real estate">real estate</a> <a href="/wiki/Finance" title="Finance">finance</a>, mezzanine loans are often used by <a href="/wiki/Real_estate_developer" class="mw-redirect" title="Real estate developer">developers</a> to secure supplementary financing for development projects (typically in cases where the primary mortgage or construction loan equity requirements are larger than 10%).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> These sorts of mezzanine loans are often secured by a second ranking real property mortgage (that is, ranking subordinate to the first mortgage lenders). Standard mortgage foreclosure proceedings can take more than a year, depending upon the relationship between the first mortgage lenders and the mezzanine debt lender, governed by an <a href="/w/index.php?title=Intercreditor_Deed&amp;action=edit&amp;redlink=1" class="new" title="Intercreditor Deed (page does not exist)">Intercreditor Deed</a>. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Growth_capital" title="Growth capital">Growth capital</a></li> 
+       <li><a href="/wiki/High-yield_debt" title="High-yield debt">High-yield debt</a></li> 
+       <li><a href="/wiki/History_of_private_equity_and_venture_capital" title="History of private equity and venture capital">History of private equity and venture capital</a></li> 
+       <li><a href="/wiki/Hybrid_security" title="Hybrid security">Hybrid security</a></li> 
+       <li><a href="/wiki/PIK_loan" title="PIK loan">PIK loan</a></li> 
+       <li><a href="/wiki/Private_equity_secondary_market" title="Private equity secondary market">Private equity secondary market</a></li> 
+       <li><a href="/wiki/Private_equity" title="Private equity">Private equity</a></li> 
+       <li><a href="/wiki/Senior_debt" title="Senior debt">Senior debt</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-example-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-example_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-example_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">This is an illustrative example based on a real financing</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Mezzanine Finance. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110513074635/http://www.mymoneyportal.com/corporate/managing-your-business/mezzanine-finance/index.php">"Mezzanine Finance"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mymoneyportal.com/corporate/managing-your-business/mezzanine-finance/index.php">the original</a> on 2011-05-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mezzanine+Finance&amp;rft.au=Mezzanine+Finance&amp;rft_id=http%3A%2F%2Fwww.mymoneyportal.com%2Fcorporate%2Fmanaging-your-business%2Fmezzanine-finance%2Findex.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMezzanine+capital" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.attractcapital.com/mezzanine-debt-explained.html">What is Mezzanine Debt</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.bondcapital.ca/wp-content/uploads/pdfs/2016-bond-capital-mezzanine-finance-white-paper.pdf">Mezzanine Finance</a>—White paper</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.getmezzaninefinancing.com/mezzanine-funds/">List of Mezzanine Financing Companies</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://boostandco.com/mezzanine-finance/">Mezzanine Finance in UK</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Private_equity_and_venture_capital" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Private_equity_and_venture_capital" title="Template:Private equity and venture capital"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Private_equity_and_venture_capital" title="Template talk:Private equity and venture capital"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Private_equity_and_venture_capital&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Private_equity_and_venture_capital" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Private_equity" title="Private equity">Private equity</a> and 
+            <a href="/wiki/Venture_capital" title="Venture capital">venture capital</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Basic investment types</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Buyout</a></li> 
+             <li><a href="/wiki/Venture_capital" title="Venture capital">Venture</a></li> 
+             <li><a class="mw-selflink selflink">Mezzanine</a></li> 
+             <li><a href="/wiki/Growth_capital" title="Growth capital">Growth</a></li> 
+             <li><a href="/wiki/Private_equity_secondary_market" title="Private equity secondary market">Secondaries</a></li> 
+             <li><a href="/wiki/Equity_co-investment" title="Equity co-investment">Equity co-investment</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Chicklet-currency.jpg" class="image"><img alt="Chicklet-currency.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chicklet-currency.jpg/90px-Chicklet-currency.jpg" decoding="async" width="90" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chicklet-currency.jpg/135px-Chicklet-currency.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chicklet-currency.jpg/180px-Chicklet-currency.jpg 2x" data-file-width="279" data-file-height="250"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_private_equity_and_venture_capital" title="History of private equity and venture capital">History</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_private_equity_and_venture_capital" title="History of private equity and venture capital">History of private equity and venture capital</a></li> 
+             <li><a href="/wiki/Early_history_of_private_equity" title="Early history of private equity">Early history of private equity</a></li> 
+             <li><a href="/wiki/Private_equity_in_the_1980s" title="Private equity in the 1980s">Private equity in the 1980s</a></li> 
+             <li><a href="/wiki/Private_equity_in_the_1990s" title="Private equity in the 1990s">Private equity in the 1990s</a></li> 
+             <li><a href="/wiki/Private_equity_in_the_2000s" title="Private equity in the 2000s">Private equity in the 2000s</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Terms and concepts</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Buyout</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Financial_sponsor" title="Financial sponsor">Financial sponsor</a></li> 
+                 <li><a href="/wiki/Management_buyout" title="Management buyout">Management buyout</a></li> 
+                 <li><a href="/wiki/Divisional_buyout" title="Divisional buyout">Divisional buyout</a></li> 
+                 <li><a href="/wiki/Buy%E2%80%93sell_agreement" title="Buy–sell agreement">Buy–sell agreement</a></li> 
+                 <li><a href="/wiki/Leveraged_recapitalization" title="Leveraged recapitalization">Leveraged recapitalization</a></li> 
+                 <li><a href="/wiki/Dividend_recapitalization" title="Dividend recapitalization">Dividend recapitalization</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Venture_capital" title="Venture capital">Venture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Angel_investor" title="Angel investor">Angel investor</a></li> 
+                 <li><a href="/wiki/Business_incubator" title="Business incubator">Business incubator</a></li> 
+                 <li><a href="/wiki/Post-money_valuation" title="Post-money valuation">Post-money valuation</a></li> 
+                 <li><a href="/wiki/Pre-money_valuation" title="Pre-money valuation">Pre-money valuation</a></li> 
+                 <li><a href="/wiki/Seed_money" title="Seed money">Seed money</a></li> 
+                 <li><a href="/wiki/Startup_company" title="Startup company">Startup company</a></li> 
+                 <li><a href="/wiki/Venture_capital_financing" title="Venture capital financing">Venture capital financing</a></li> 
+                 <li><a href="/wiki/Venture_debt" title="Venture debt">Venture debt</a></li> 
+                 <li><a href="/wiki/Venture_round" title="Venture round">Venture round</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Structure</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li>Private equity firms and <a href="/wiki/Private_equity_fund" title="Private equity fund">funds</a></li> 
+                 <li><a href="/wiki/Limited_partnership" title="Limited partnership">Limited partnership</a></li> 
+                 <li><a href="/wiki/Limited_liability_company" title="Limited liability company">Limited liability company</a></li> 
+                 <li><a href="/wiki/Carried_interest" title="Carried interest">Carried interest</a></li> 
+                 <li><a href="/wiki/Management_fee" title="Management fee">Management fee</a></li> 
+                 <li><a href="/wiki/Publicly_traded_private_equity" title="Publicly traded private equity">Publicly traded private equity</a> 
+                  <ul>
+                   <li><a href="/wiki/Business_Development_Company" title="Business Development Company">Business Development Company</a></li> 
+                   <li><a href="/wiki/Venture_capital_trust" title="Venture capital trust">Venture capital trust</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Private_investment_in_public_equity" title="Private investment in public equity">Private investment in public equity (PIPE)</a></li> 
+                 <li><a href="/wiki/Pledge_fund" title="Pledge fund">Pledge fund</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Investors</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Corporate_venture_capital" title="Corporate venture capital">Corporations</a></li> 
+             <li><a href="/wiki/Institutional_investor" title="Institutional investor">Institutional investors</a></li> 
+             <li><a href="/wiki/Pension_fund" title="Pension fund">Pension funds</a></li> 
+             <li><a href="/wiki/Insurance#Insurance_companies" title="Insurance">Insurance companies</a></li> 
+             <li><a href="/wiki/Fund_of_funds" title="Fund of funds">Fund of funds</a></li> 
+             <li><a href="/wiki/Financial_endowment" title="Financial endowment">Endowments</a></li> 
+             <li><a href="/wiki/Private_foundation" title="Private foundation">Foundations</a></li> 
+             <li><a href="/wiki/Investment_banking" title="Investment banking">Investment banks</a></li> 
+             <li><a href="/wiki/Merchant_bank" title="Merchant bank">Merchant banks</a></li> 
+             <li><a href="/wiki/Commercial_bank" title="Commercial bank">Commercial banks</a></li> 
+             <li><a href="/wiki/High-net-worth_individual" title="High-net-worth individual">High-net-worth individuals</a></li> 
+             <li><a href="/wiki/Family_office" title="Family office">Family offices</a></li> 
+             <li><a href="/wiki/Sovereign_wealth_fund" title="Sovereign wealth fund">Sovereign wealth funds</a></li> 
+             <li><a href="/wiki/Crowdfunding" title="Crowdfunding">Crowdfunding</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related financial terms</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Assets_under_management" title="Assets under management">AUM</a></li> 
+             <li><a href="/wiki/Capitalization_table" title="Capitalization table">Cap table</a></li> 
+             <li><a href="/wiki/Capital_call" title="Capital call">Capital call</a></li> 
+             <li><a href="/wiki/Capital_commitment" title="Capital commitment">Capital commitment</a></li> 
+             <li><a href="/wiki/Capital_structure" title="Capital structure">Capital structure</a></li> 
+             <li><a href="/wiki/Distribution_waterfall" title="Distribution waterfall">Distribution waterfall</a></li> 
+             <li><a href="/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization" title="Earnings before interest, taxes, depreciation, and amortization">EBITDA</a></li> 
+             <li><a href="/wiki/Envy_ratio" title="Envy ratio">Envy ratio</a></li> 
+             <li><a href="/wiki/High-yield_debt" title="High-yield debt">High-yield debt</a></li> 
+             <li><a href="/wiki/Initial_public_offering" title="Initial public offering">IPO</a></li> 
+             <li><a href="/wiki/Internal_rate_of_return" title="Internal rate of return">IRR</a></li> 
+             <li><a href="/wiki/Leverage_(finance)" title="Leverage (finance)">Leverage</a></li> 
+             <li><a href="/wiki/Liquidation_preference" title="Liquidation preference">Liquidation preference</a></li> 
+             <li><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">M&amp;A</a></li> 
+             <li><a href="/wiki/Public_Market_Equivalent" title="Public Market Equivalent">PME</a></li> 
+             <li><a href="/wiki/Taxation_of_private_equity_and_hedge_funds" title="Taxation of private equity and hedge funds">Taxation of private equity and hedge funds</a></li> 
+             <li><a href="/wiki/Undercapitalization" title="Undercapitalization">Undercapitalization</a></li> 
+             <li><a href="/wiki/Vintage_year" title="Vintage year">Vintage year</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div> 
+            <ul>
+             <li><a href="/wiki/Category:Private_equity_and_venture_capital_investors" title="Category:Private equity and venture capital investors">Private equity and venture capital investors</a></li> 
+             <li><a href="/wiki/Category:Private_equity_firms" title="Category:Private equity firms">Private equity firms</a></li> 
+             <li><a href="/wiki/Category:Venture_capital_firms" title="Category:Venture capital firms">Venture capital firms</a></li> 
+             <li><a href="/wiki/Category:Angel_investors" title="Category:Angel investors">Angel investors</a></li> 
+             <li><a href="/wiki/Category:Private_equity_portfolio_companies" title="Category:Private equity portfolio companies">Portfolio companies</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Corporate_finance_and_investment_banking" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Corporate_finance_and_investment_banking" title="Template:Corporate finance and investment banking"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Corporate_finance_and_investment_banking" title="Template talk:Corporate finance and investment banking"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Corporate_finance_and_investment_banking&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Corporate_finance_and_investment_banking" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Corporate_finance" title="Corporate finance">Corporate finance</a> and 
+            <a href="/wiki/Investment_banking" title="Investment banking">investment banking</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a href="/wiki/Capital_structure" title="Capital structure">Capital structure</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Convertible_bond" title="Convertible bond">Convertible debt</a></li> 
+             <li><a href="/wiki/Exchangeable_bond" title="Exchangeable bond">Exchangeable debt</a></li> 
+             <li><a class="mw-selflink selflink">Mezzanine debt</a></li> 
+             <li><a href="/wiki/Pari_passu" title="Pari passu">Pari passu</a></li> 
+             <li><a href="/wiki/Preferred_stock" title="Preferred stock">Preferred equity</a></li> 
+             <li><a href="/wiki/Second_lien_loan" title="Second lien loan">Second lien debt</a></li> 
+             <li><a href="/wiki/Senior_debt" title="Senior debt">Senior debt</a></li> 
+             <li><a href="/wiki/Secured_loan" title="Secured loan">Senior secured debt</a></li> 
+             <li><a href="/wiki/Shareholder_loan" title="Shareholder loan">Shareholder loan</a></li> 
+             <li><a href="/wiki/Stock" title="Stock">Stock</a></li> 
+             <li><a href="/wiki/Subordinated_debt" title="Subordinated debt">Subordinated debt</a></li> 
+             <li><a href="/wiki/Warrant_(finance)" title="Warrant (finance)">Warrant</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Wall_Street_Sign_NYC.jpg" class="image"><img alt="Wall Street" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/90px-Wall_Street_Sign_NYC.jpg" decoding="async" width="90" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/135px-Wall_Street_Sign_NYC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/180px-Wall_Street_Sign_NYC.jpg 2x" data-file-width="4000" data-file-height="3000"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;">Transactions<br><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(terms/conditions)</span></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Stock" title="Stock">Equity offerings</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/At-the-market_offering" title="At-the-market offering">At-the-market offering</a></li> 
+                 <li><a href="/wiki/Book_building" title="Book building">Book building</a></li> 
+                 <li><a href="/wiki/Bookrunner" title="Bookrunner">Bookrunner</a></li> 
+                 <li><a href="/wiki/Bought_deal" title="Bought deal">Bought deal</a></li> 
+                 <li><a href="/wiki/Bought_out_deal" title="Bought out deal">Bought out deal</a></li> 
+                 <li><a href="/wiki/Corporate_spin-off" title="Corporate spin-off">Corporate spin-off</a></li> 
+                 <li><a href="/wiki/Equity_carve-out" title="Equity carve-out">Equity carve-out</a></li> 
+                 <li><a href="/wiki/Follow-on_offering" title="Follow-on offering">Follow-on offering</a></li> 
+                 <li><a href="/wiki/Greenshoe" title="Greenshoe">Greenshoe</a> 
+                  <ul>
+                   <li><a href="/wiki/Reverse_greenshoe" title="Reverse greenshoe">Reverse</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Initial_public_offering" title="Initial public offering">Initial public offering</a></li> 
+                 <li><a href="/wiki/Private_placement" title="Private placement">Private placement</a></li> 
+                 <li><a href="/wiki/Public_offering" title="Public offering">Public offering</a></li> 
+                 <li><a href="/wiki/Rights_issue" title="Rights issue">Rights issue</a></li> 
+                 <li><a href="/wiki/Seasoned_equity_offering" title="Seasoned equity offering">Seasoned equity offering</a></li> 
+                 <li><a href="/wiki/Secondary_market_offering" title="Secondary market offering">Secondary market offering</a></li> 
+                 <li><a href="/wiki/Underwriting" title="Underwriting">Underwriting</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Mergers and<br>acquisitions</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Buy_side" title="Buy side">Buy side</a></li> 
+                 <li><a href="/wiki/Control_premium" title="Control premium">Control premium</a></li> 
+                 <li><a href="/wiki/Demerger" title="Demerger">Demerger</a></li> 
+                 <li><a href="/wiki/Divestment" title="Divestment">Divestment</a></li> 
+                 <li><a href="/wiki/Drag-along_right" title="Drag-along right">Drag-along right</a></li> 
+                 <li><a href="/wiki/Management_due_diligence" title="Management due diligence">Management due diligence</a></li> 
+                 <li><a href="/wiki/Managerial_entrenchment" class="mw-redirect" title="Managerial entrenchment">Managerial entrenchment</a></li> 
+                 <li><a href="/wiki/Minority_discount" title="Minority discount">Minority discount</a></li> 
+                 <li><a href="/wiki/Pitch_book" title="Pitch book">Pitch book</a></li> 
+                 <li><a href="/wiki/Pre-emption_right" title="Pre-emption right">Pre-emption right</a></li> 
+                 <li><a href="/wiki/Proxy_fight" title="Proxy fight">Proxy fight</a></li> 
+                 <li><a href="/wiki/Post-merger_integration" title="Post-merger integration">Post-merger integration</a></li> 
+                 <li><a href="/wiki/Sell_side" title="Sell side">Sell side</a></li> 
+                 <li><a href="/wiki/Shareholder_rights_plan" title="Shareholder rights plan">Shareholder rights plan</a></li> 
+                 <li><a href="/wiki/Special-purpose_entity" title="Special-purpose entity">Special-purpose entity</a></li> 
+                 <li><a href="/wiki/Special_situation" title="Special situation">Special situation</a></li> 
+                 <li><a href="/wiki/Squeeze-out" title="Squeeze-out">Squeeze-out</a></li> 
+                 <li><a href="/wiki/Staggered_board_of_directors" class="mw-redirect" title="Staggered board of directors">Staggered board of directors</a></li> 
+                 <li><a href="/wiki/Stock_swap" title="Stock swap">Stock swap</a></li> 
+                 <li><a href="/wiki/Super-majority_amendment" class="mw-redirect" title="Super-majority amendment">Super-majority amendment</a></li> 
+                 <li><a href="/wiki/Tag-along_right" title="Tag-along right">Tag-along right</a></li> 
+                 <li><a href="/wiki/Takeover" title="Takeover">Takeover</a> 
+                  <ul>
+                   <li><a href="/wiki/Reverse_takeover" title="Reverse takeover">Reverse</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Tender_offer" title="Tender offer">Tender offer</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Leverage_(finance)" title="Leverage (finance)">Leverage</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Debt_restructuring" title="Debt restructuring">Debt restructuring</a></li> 
+                 <li><a href="/wiki/Debtor-in-possession_financing" title="Debtor-in-possession financing">Debtor-in-possession financing</a></li> 
+                 <li><a href="/wiki/Financial_sponsor" title="Financial sponsor">Financial sponsor</a></li> 
+                 <li><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged buyout</a></li> 
+                 <li><a href="/wiki/Leveraged_recapitalization" title="Leveraged recapitalization">Leveraged recapitalization</a></li> 
+                 <li><a href="/wiki/High-yield_debt" title="High-yield debt">High-yield debt</a></li> 
+                 <li><a href="/wiki/Private_equity" title="Private equity">Private equity</a></li> 
+                 <li><a href="/wiki/Project_finance" title="Project finance">Project finance</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a href="/wiki/Valuation_(finance)" title="Valuation (finance)">Valuation</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Accretion/dilution_analysis" title="Accretion/dilution analysis">Accretion/dilution analysis</a></li> 
+             <li><a href="/wiki/Adjusted_present_value" title="Adjusted present value">Adjusted present value</a></li> 
+             <li><a href="/wiki/Associate_company" title="Associate company">Associate company</a></li> 
+             <li><a href="/wiki/Business_valuation" title="Business valuation">Business valuation</a></li> 
+             <li><a href="/wiki/Conglomerate_discount" title="Conglomerate discount">Conglomerate discount</a></li> 
+             <li><a href="/wiki/Cost_of_capital" title="Cost of capital">Cost of capital</a> 
+              <ul>
+               <li><a href="/wiki/Weighted_average_cost_of_capital" title="Weighted average cost of capital">Weighted average</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Discounted_cash_flow" title="Discounted cash flow">Discounted cash flow</a></li> 
+             <li><a href="/wiki/Economic_value_added" title="Economic value added">Economic value added</a></li> 
+             <li><a href="/wiki/Enterprise_value" title="Enterprise value">Enterprise value</a></li> 
+             <li><a href="/wiki/Fairness_opinion" title="Fairness opinion">Fairness opinion</a></li> 
+             <li><a href="/wiki/Financial_modeling" title="Financial modeling">Financial modeling</a></li> 
+             <li><a href="/wiki/Free_cash_flow" title="Free cash flow">Free cash flow</a> 
+              <ul>
+               <li><a href="/wiki/Free_cash_flow_to_equity" title="Free cash flow to equity">Free cash flow to equity</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Market_value_added" title="Market value added">Market value added</a></li> 
+             <li><a href="/wiki/Minority_interest" title="Minority interest">Minority interest</a></li> 
+             <li><a href="/wiki/Modigliani%E2%80%93Miller_theorem" title="Modigliani–Miller theorem">Modigliani–Miller theorem</a></li> 
+             <li><a href="/wiki/Net_present_value" title="Net present value">Net present value</a></li> 
+             <li><a href="/wiki/Pure_play#Pure_play_method" title="Pure play">Pure play</a></li> 
+             <li><a href="/wiki/Real_options_valuation" title="Real options valuation">Real options</a></li> 
+             <li><a href="/wiki/Residual_income_valuation" title="Residual income valuation">Residual income</a></li> 
+             <li><a href="/wiki/Stock_valuation" title="Stock valuation">Stock valuation</a></li> 
+             <li><a href="/wiki/Sum-of-the-parts_analysis" title="Sum-of-the-parts analysis">Sum-of-the-parts analysis</a></li> 
+             <li><a href="/wiki/Tax_shield" title="Tax shield">Tax shield</a></li> 
+             <li><a href="/wiki/Terminal_value_(finance)" title="Terminal value (finance)">Terminal value</a></li> 
+             <li><a href="/wiki/Valuation_using_multiples" title="Valuation using multiples">Valuation using multiples</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div> 
+            <ul>
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/List_of_investment_banks" title="List of investment banks">List of investment banks</a></li> 
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Outline_of_finance" title="Outline of finance">Outline of finance</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20191011201244
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.240 seconds
+Real time usage: 0.350 seconds
+Preprocessor visited node count: 675/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51180/2097152 bytes
+Template argument size: 1329/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3747/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 2.82 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  269.068      1 -total
+ 40.88%  110.005      1 Template:Reflist
+ 35.45%   95.375      1 Template:Cite_web
+ 31.55%   84.885      1 Template:Cn
+ 22.69%   61.048      1 Template:Fix
+ 17.10%   46.010      4 Template:Category_handler
+ 16.39%   44.101      4 Template:Navbox
+  9.92%   26.698      1 Template:Corporate_finance_and_investment_banking
+  8.22%   22.123      1 Template:Clarify_span
+  7.82%   21.052      1 Template:Private_equity_and_venture_capital
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:1323679-0!canonical and timestamp 20191011201244 and revision id 920779154
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mezzanine_capital&amp;oldid=920779154">https://en.wikipedia.org/w/index.php?title=Mezzanine_capital&amp;oldid=920779154</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Bonds_(finance)" title="Category:Bonds (finance)">Bonds (finance)</a></li>
+       <li><a href="/wiki/Category:Corporate_finance" title="Category:Corporate finance">Corporate finance</a></li>
+       <li><a href="/wiki/Category:Debt" title="Category:Debt">Debt</a></li>
+       <li><a href="/wiki/Category:Private_equity" title="Category:Private equity">Private equity</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2019" title="Category:Wikipedia articles needing clarification from October 2019">Wikipedia articles needing clarification from October 2019</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mezzanine+capital" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mezzanine+capital" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mezzanine_capital" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Mezzanine_capital" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mezzanine_capital">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mezzanine_capital&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mezzanine_capital&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mezzanine_capital" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mezzanine_capital" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Mezzanine_capital&amp;oldid=920779154" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Mezzanine_capital&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1755898" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mezzanine_capital&amp;id=920779154" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mezzanine+capital">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mezzanine+capital&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Mezzanine_capital&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mezzanine-Kapital" title="Mezzanine-Kapital – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Capital_mezzanine" title="Capital mezzanine – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dette_mezzanine" title="Dette mezzanine – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Mezzanine_capital" title="Mezzanine capital – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Mezan%C4%ABns" title="Mezanīns – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Mezaninas" title="Mezaninas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Mezzaninefinanciering" title="Mezzaninefinanciering – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%BE%D0%BD%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82" title="Мезонинный кредит – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB" title="Мезанински капитал – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mezzaninkapital" title="Mezzaninkapital – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%B9%E5%B1%82%E8%B5%84%E6%9C%AC" title="夹层资本 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1755898#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 11 October 2019, at 20:12<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mezzanine_capital&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.350","ppvisitednodes":{"value":675,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51180,"limit":2097152},"templateargumentsize":{"value":1329,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3747,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  269.068      1 -total"," 40.88%  110.005      1 Template:Reflist"," 35.45%   95.375      1 Template:Cite_web"," 31.55%   84.885      1 Template:Cn"," 22.69%   61.048      1 Template:Fix"," 17.10%   46.010      4 Template:Category_handler"," 16.39%   44.101      4 Template:Navbox","  9.92%   26.698      1 Template:Corporate_finance_and_investment_banking","  8.22%   22.123      1 Template:Clarify_span","  7.82%   21.052      1 Template:Private_equity_and_venture_capital"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":2953033,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20191011201244","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mezzanine capital","url":"https:\/\/en.wikipedia.org\/wiki\/Mezzanine_capital","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1755898","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1755898","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-24T21:01:42Z","dateModified":"2019-10-11T20:12:39Z","headline":"any subordinated debt or preferred equity instrument that represents a claim on a company's assets which is senior only to that of the common shares"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1324"});});</script>   
+ </body>
+</html>

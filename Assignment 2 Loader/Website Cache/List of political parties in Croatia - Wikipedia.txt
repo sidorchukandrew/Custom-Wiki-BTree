@@ -1,0 +1,1637 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>List of political parties in Croatia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_political_parties_in_Croatia","wgTitle":"List of political parties in Croatia","wgCurRevisionId":922987848,"wgRevisionId":922987848,"wgArticleId":409011,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Croatian-language sources (hr)","Webarchive template wayback links","CS1 maint: archived copy as title","Lists of political parties by country","Political parties in Croatia","Croatia politics-related lists","Lists of organizations based in Croatia","Lists of political parties in Europe"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September",
+"October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_political_parties_in_Croatia","wgRelevantArticleId":409011,"wgRequestId":"Xbj5LwpAADwAAJXVm2EAAACS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1280941","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_political_parties_in_Croatia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_political_parties_in_Croatia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_political_parties_in_Croatia rootpage-List_of_political_parties_in_Croatia skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">List of political parties in Croatia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.5em;">
+       <tbody>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+          <div class="adr" style="font-size:smaller">
+           <span class="fn org country-name"><a href="/wiki/Croatia" title="Croatia">Croatia</a></span> 
+          </div></th>
+        </tr>
+        <tr>
+         <th><a href="/wiki/File:Coat_of_arms_of_Croatia.svg" class="image" title="Coat of arms"><img alt="Coat of arms" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/90px-Coat_of_arms_of_Croatia.svg.png" decoding="async" width="90" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/135px-Coat_of_arms_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/180px-Coat_of_arms_of_Croatia.svg.png 2x" data-file-width="604" data-file-height="800"></a></th>
+        </tr>
+        <tr>
+         <th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br><span style="font-weight:bold"><a href="/wiki/Politics_of_Croatia" title="Politics of Croatia">politics and government of<br>Croatia</a></span></th>
+        </tr>
+        <tr>
+         <th style="padding:0.1em;text-align:left;padding-bottom:0.5em;"> <a href="/wiki/Constitution_of_Croatia" title="Constitution of Croatia">Constitution</a></th>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Croatian_Government" class="mw-redirect" title="Croatian Government">Executive</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;"> 
+            <ul>
+             <li><a href="/wiki/President_of_Croatia" title="President of Croatia">President</a> (<a href="/wiki/List_of_presidents_of_Croatia" title="List of presidents of Croatia">list</a>) 
+              <ul>
+               <li><a href="/wiki/Kolinda_Grabar-Kitarovi%C4%87" title="Kolinda Grabar-Kitarović">Kolinda Grabar-Kitarović</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Cabinet_of_Andrej_Plenkovi%C4%87" title="Cabinet of Andrej Plenković">Cabinet</a> (<a href="/wiki/List_of_cabinets_of_Croatia" title="List of cabinets of Croatia">list</a>) 
+              <ul>
+               <li><a href="/wiki/Prime_Minister_of_Croatia" title="Prime Minister of Croatia">Prime Minister</a>: <a href="/wiki/Andrej_Plenkovi%C4%87" title="Andrej Plenković">Andrej Plenković</a></li>
+              </ul></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            Legislative
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;"> 
+            <ul>
+             <li><a href="/wiki/Croatian_Parliament" title="Croatian Parliament"><i>Sabor</i> <span style="font-size:85%;">(parliament)</span></a> 
+              <ul>
+               <li><a href="/wiki/Speaker_of_the_Croatian_Parliament" title="Speaker of the Croatian Parliament">Speaker</a>: <a href="/wiki/Gordan_Jandrokovi%C4%87" title="Gordan Jandroković">Gordan Jandroković</a></li> 
+               <li><a href="/wiki/List_of_members_of_Croatian_Parliament,_2016%E2%80%93" title="List of members of Croatian Parliament, 2016–">Current members</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Opposition_(Croatia)" title="Opposition (Croatia)">Opposition</a> 
+              <ul>
+               <li>Leader: <a href="/wiki/Davor_Bernardi%C4%87" title="Davor Bernardić">Davor Bernardić</a></li>
+              </ul></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Judiciary_of_Croatia" title="Judiciary of Croatia">Judiciary</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;"> 
+            <ul>
+             <li><a href="/wiki/Supreme_Court_of_Croatia" title="Supreme Court of Croatia">Supreme Court</a></li> 
+             <li><a href="/wiki/Constitutional_Court_of_Croatia" title="Constitutional Court of Croatia">Constitutional Court</a></li> 
+             <li><a href="/wiki/State%27s_Attorney_Office_of_the_Republic_of_Croatia" title="State's Attorney Office of the Republic of Croatia">State's Attorney Office</a></li> 
+             <li><a href="/wiki/National_Judicial_Council_(Croatia)" title="National Judicial Council (Croatia)">National Judicial Council</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a class="mw-selflink selflink">Political parties in Sabor</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;;text-align:center;">
+            <div class="plainlist">
+             <ul>
+              <li><a href="/wiki/Social_Democratic_Party_of_Croatia" title="Social Democratic Party of Croatia">Social Democratic Party <span style="font-size:85%;">(SDP)</span></a></li>
+              <li><a href="/wiki/Croatian_Democratic_Union" title="Croatian Democratic Union">Croatian Democratic Union <span style="font-size:85%;">(HDZ)</span></a></li>
+              <li>
+               <div style="padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/Croatian_People%27s_Party-Liberal_Democrats" class="mw-redirect" title="Croatian People's Party-Liberal Democrats">Croatian People's Party&nbsp;– Liberal Democrats <span style="font-size:85%;">(HNS-LD)</span></a>
+               </div></li>
+              <li>
+               <div style="padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/Croatian_Democratic_Alliance_of_Slavonia_and_Baranja" title="Croatian Democratic Alliance of Slavonia and Baranja">Croatian Democratic Alliance of<br>Slavonia and Baranja <span style="font-size:85%;">(HDSSB)</span></a>
+               </div></li>
+              <li><a href="/wiki/Istrian_Democratic_Assembly" title="Istrian Democratic Assembly">Istrian Democratic Assembly <span style="font-size:85%;">(IDS)</span></a></li>
+              <li><a href="/wiki/Croatian_Party_of_Pensioners" title="Croatian Party of Pensioners">Croatian Party of Pensioners <span style="font-size:85%;">(HSU)</span></a></li>
+              <li><a href="/wiki/Croatian_Peasant_Party" title="Croatian Peasant Party">Croatian Peasant Party <span style="font-size:85%;">(HSS)</span></a></li>
+              <li><a href="/wiki/Bridge_of_Independent_Lists" title="Bridge of Independent Lists">Bridge of Independent Lists <span style="font-size:85%;">(MOST)</span></a></li>
+              <li><a href="/wiki/Croatian_Social_Liberal_Party" title="Croatian Social Liberal Party">Croatian Social Liberal Party <span style="font-size:85%;">(HSLS)</span></a></li>
+              <li><a href="/wiki/Independent_Democratic_Serb_Party" title="Independent Democratic Serb Party">Independent Democratic Serb Party <span style="font-size:85%;">(SDSS)</span></a></li>
+              <li><a href="/wiki/People%27s_Party_-_Reformists" title="People's Party - Reformists">People's Party - Reformists <span style="font-size:85%;">(NS-R)</span></a></li>
+              <li><a href="/wiki/Human_Shield_(political_party)" title="Human Shield (political party)">Human Shield <span style="font-size:85%;">(ŽZ)</span></a></li>
+              <li><a href="/wiki/Milan_Bandi%C4%87_365_-_The_Party_of_Labour_and_Solidarity" class="mw-redirect" title="Milan Bandić 365 - The Party of Labour and Solidarity">Milan Bandić 365 - The Party of Labour and Solidarity <span style="font-size:85%;">(MB 365)</span></a></li>
+              <li><a href="/wiki/Democratic_Union_of_Hungarians_of_Croatia" title="Democratic Union of Hungarians of Croatia">Democratic Union of Hungarians of Croatia <span style="font-size:85%;">(DZMH)</span></a></li>
+             </ul>
+            </div>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Elections_in_Croatia" title="Elections in Croatia">Elections and referendums</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;">
+            Recent elections 
+            <ul>
+             <li>
+              <div class="hlist hlist-separated">
+               <ul>
+                <li>Presidential: <a href="/wiki/2014%E2%80%9315_Croatian_presidential_election" title="2014–15 Croatian presidential election">2014–15</a></li>
+                <li><a href="/wiki/Next_Croatian_presidential_election" title="Next Croatian presidential election"><i>next</i></a></li>
+               </ul>
+              </div></li> 
+             <li>
+              <div class="hlist hlist-separated">
+               <ul>
+                <li>Parliamentary: <a href="/wiki/2016_Croatian_parliamentary_election" title="2016 Croatian parliamentary election">2016</a></li>
+                <li><a href="/wiki/Next_Croatian_parliamentary_election" title="Next Croatian parliamentary election"><i>next</i></a></li>
+               </ul>
+              </div></li> 
+             <li>
+              <div class="hlist hlist-separated">
+               <ul>
+                <li>Local: <a href="/wiki/2013_Croatian_local_elections" title="2013 Croatian local elections">2013</a></li>
+                <li><a href="/wiki/2017_Croatian_local_elections" title="2017 Croatian local elections">2017</a></li>
+               </ul>
+              </div></li> 
+             <li>
+              <div class="hlist hlist-separated">
+               <ul>
+                <li>European: <a href="/wiki/2014_European_Parliament_election_in_Croatia" title="2014 European Parliament election in Croatia">2014</a></li>
+                <li><a href="/wiki/2019_European_Parliament_election_in_Croatia" title="2019 European Parliament election in Croatia"><i>2019</i></a></li>
+               </ul>
+              </div></li>
+            </ul> 
+            <p>Recent referendums </p> 
+            <dl>
+             <dd>
+              <div class="plainlist">
+               <ul>
+                <li><a href="/wiki/1991_Croatian_independence_referendum" title="1991 Croatian independence referendum">1991 <span style="font-size:85%;">(independence)</span></a></li>
+                <li><a href="/wiki/2012_Croatian_European_Union_membership_referendum" title="2012 Croatian European Union membership referendum">2012 <span style="font-size:85%;">(EU membership)</span></a></li>
+                <li><a href="/wiki/2013_Croatian_constitutional_referendum" title="2013 Croatian constitutional referendum">2013 <span style="font-size:85%;">(constitution)</span></a></li>
+               </ul>
+              </div>
+             </dd>
+            </dl>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Administrative_divisions_of_Croatia" title="Administrative divisions of Croatia">Administrative divisions</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;"> 
+            <ul>
+             <li><a href="/wiki/Counties_of_Croatia" title="Counties of Croatia">Counties (<i>Županije</i>)</a></li> 
+             <li><a href="/wiki/List_of_cities_and_towns_in_Croatia" title="List of cities and towns in Croatia">Towns (<i>Gradovi</i>)</a></li> 
+             <li><a href="/wiki/Municipalities_of_Croatia" title="Municipalities of Croatia">Municipalities (<i>Općine</i>)</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Foreign_relations_of_Croatia" title="Foreign relations of Croatia">Foreign relations</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;"> 
+            <ul>
+             <li><a href="/wiki/Ministry_of_Foreign_and_European_Affairs_(Croatia)" title="Ministry of Foreign and European Affairs (Croatia)">Ministry of Foreign and European Affairs</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/List_of_diplomatic_missions_of_Croatia" title="List of diplomatic missions of Croatia">Diplomatic missions</a>
+               </dd> 
+               <dd>
+                <a href="/wiki/Croatian_passport" title="Croatian passport">Passport</a> 
+                <dl>
+                 <dd>
+                  <a href="/wiki/Visa_requirements_for_Croatian_citizens" title="Visa requirements for Croatian citizens">Visa requirements</a>
+                 </dd>
+                </dl>
+               </dd>
+              </dl></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"> 
+          <div class="hlist" style="text-align:center;font-weight:normal;"> 
+           <ul>
+            <li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li> 
+            <li><a href="https://commons.wikimedia.org/wiki/Atlas_of_Croatia" class="extiw" title="commons:Atlas of Croatia">Atlas</a></li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Politics_of_Croatia" title="Template:Politics of Croatia"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_Croatia" title="Template talk:Politics of Croatia"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Politics_of_Croatia&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>This article lists <b><a href="/wiki/Political_party" title="Political party">political parties</a> in <a href="/wiki/Croatia" title="Croatia">Croatia</a></b>. </p>
+      <p>Croatia has a <a href="/wiki/Multi-party" class="mw-redirect" title="Multi-party">multi-party</a> system, with numerous parties in which no one party often has a chance of gaining power alone, and parties must collaborate in order to form <a href="/wiki/Coalition_government" title="Coalition government">coalition governments</a>. Between January 1990, when political parties were legalized in Croatia, and March 2015, 264 political parties were registered, out of which 118 have since been struck from the register.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Modern_parties"><span class="tocnumber">1</span> <span class="toctext">Modern parties</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Political_parties_with_elected_representation_at_the_national_level_(since_2016_parliamentary_elections)"><span class="tocnumber">1.1</span> <span class="toctext">Political parties with elected representation at the national level (since 2016 parliamentary elections)</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Political_parties_with_previously_elected_representation_at_a_national_level"><span class="tocnumber">1.2</span> <span class="toctext">Political parties with previously elected representation at a national level</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Other_parties"><span class="tocnumber">1.3</span> <span class="toctext">Other parties</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Historical_parties"><span class="tocnumber">2</span> <span class="toctext">Historical parties</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Modern_parties">Modern parties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=1" title="Edit section: Modern parties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id="Political_parties_with_elected_representation_at_the_national_level_.28since_2016_parliamentary_elections.29"></span><span class="mw-headline" id="Political_parties_with_elected_representation_at_the_national_level_(since_2016_parliamentary_elections)">Political parties <span id="electedparties"></span>with elected representation at the national level (since 2016 parliamentary elections)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=2" title="Edit section: Political parties with elected representation at the national level (since 2016 parliamentary elections)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable" style="text-align; font-size:87%;"> 
+       <tbody>
+        <tr> 
+         <th colspan="2">Name </th> 
+         <th>Abbr. </th> 
+         <th>Ideology </th> 
+         <th>Political position </th> 
+         <th>Leader </th> 
+         <th><i><a href="/wiki/Sabor" class="mw-redirect" title="Sabor">Sabor</a></i> </th> 
+         <th>Coalition </th> 
+         <th>Coalition total </th> 
+         <th><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> </th> 
+         <th>Status </th>
+        </tr> 
+        <tr> 
+         <th style="background-color:#005BAA"> </th> 
+         <td><a href="/wiki/Croatian_Democratic_Union" title="Croatian Democratic Union">Croatian Democratic Union</a><br><span style="font-size:85%;">Hrvatska demokratska zajednica</span> </td> 
+         <td>HDZ </td> 
+         <td><small><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a><br><a href="/wiki/Liberal_conservatism" title="Liberal conservatism">Liberal conservatism</a><br><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></small><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td> 
+         <td style="background:#0099FF;"><small><a href="/wiki/Centre-Right" class="mw-redirect" title="Centre-Right"><span style="color:white">Centre-Right</span></a></small><br> </td> 
+         <td><a href="/wiki/Andrej_Plenkovi%C4%87" title="Andrej Plenković">Andrej Plenković</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">55 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 36%; height: 100%;"></div>
+           </div>
+          </div><small> (56 on the election day)</small> </td> 
+         <td><a href="/wiki/Patriotic_Coalition_(Croatia)" title="Patriotic Coalition (Croatia)"> Patriotic coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">59 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 39%; height: 100%;"></div>
+           </div>
+          </div><small> </small></td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">4 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 33%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #ED1C24"> </th> 
+         <td><a href="/wiki/Social_Democratic_Party_of_Croatia" title="Social Democratic Party of Croatia">Social Democratic Party of Croatia</a><br><span style="font-size:85%;">Socijaldemokratska partija</span> </td> 
+         <td>SDP </td> 
+         <td><small><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a><br> <a href="/wiki/Social_Progressivism" class="mw-redirect" title="Social Progressivism">Progressivism</a><br><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></small> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Davor_Bernardi%C4%87" title="Davor Bernardić">Davor Bernardić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">30 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 20%; height: 100%;"></div>
+           </div>
+          </div><small>(38 on the election day)</small> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">4 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 33%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>leader of the opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #FF7000"> </th> 
+         <td><a href="/wiki/Bridge_of_Independent_Lists" title="Bridge of Independent Lists">Bridge of Independent Lists</a><br><span style="font-size:85%;">Most nezavisnih lista</span> </td> 
+         <td>Most </td> 
+         <td><small><a href="/wiki/Fiscal_conservatism" title="Fiscal conservatism">Fiscal conservatism</a></small><br><small><a href="/wiki/Liberal_conservatism" title="Liberal conservatism">Liberal conservatism</a></small><br><small><a href="/wiki/Big_tent" title="Big tent">Big tent</a></small> </td> 
+         <td style="background:#FFA500;"><small><a href="/wiki/Centrist" class="mw-redirect" title="Centrist"><span style="color:white">Centre</span></a><br><a href="/wiki/Centre-Right" class="mw-redirect" title="Centre-Right"><span style="color:white"></span></a></small> </td> 
+         <td><a href="/wiki/Bo%C5%BEo_Petrov" title="Božo Petrov">Božo Petrov</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">10 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FF7000; width: 7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FF7000; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th><small> <small> government (–2017.) </small> </small> <br> opposition (2017.–) </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #3D863D"> </th> 
+         <td><a href="/wiki/Croatian_Peasant_Party" title="Croatian Peasant Party">Croatian Peasant Party</a><br><span style="font-size:85%;">Hrvatska seljačka stranka</span> </td> 
+         <td>HSS </td> 
+         <td><small><a href="/wiki/Agrarianism" title="Agrarianism">Agrarianism</a></small><br><small><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></small><br><small><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a></small> <br><small><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></small><sup id="cite_ref-Jutarnji_4-0" class="reference"><a href="#cite_note-Jutarnji-4">[4]</a></sup> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Kre%C5%A1o_Beljak" title="Krešo Beljak">Krešo Beljak</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">4 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #3D863D; width: 3%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #3D863D; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #FECE68"> </th> 
+         <td><a href="/wiki/Croatian_People%27s_Party_-_Liberal_Democrats" class="mw-redirect" title="Croatian People's Party - Liberal Democrats">Croatian People's Party - Liberal Democrats</a><br><span style="font-size:85%;">Hrvatska narodna stranka - liberalni demokrati</span> </td> 
+         <td>HNS </td> 
+         <td><small><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></small><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><a href="/wiki/Centrism" title="Centrism">Centrism</a><br><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td> 
+         <td style="background:#FFA500;"><small><a href="/wiki/Centrism" title="Centrism"><span style="color:white">Centre</span></a></small> </td> 
+         <td><a href="/wiki/Ivan_Vrdoljak" title="Ivan Vrdoljak">Ivan Vrdoljak</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">4 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FECE68; width: 3%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FECE68; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th><small> <small> opposition (–2017.) </small> </small> <br> government (2017.–) </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #067CBF"> </th> 
+         <td><a href="/wiki/Civic_Liberal_Alliance" title="Civic Liberal Alliance">Civic Liberal Alliance</a><br><span style="font-size:85%;">Građansko-liberalni savez</span> </td> 
+         <td>GLAS </td> 
+         <td><small><a href="/wiki/Progressivism" title="Progressivism">Social progressivism</a></small><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a><br><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Anka_Mrak-Tarita%C5%A1" title="Anka Mrak-Taritaš">Anka Mrak-Taritaš</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">4 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #067CBF; width: 3%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #067CBF; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #00a2e0"> </th> 
+         <td><a href="/wiki/Independent_Democratic_Serb_Party" title="Independent Democratic Serb Party">Independent Democratic Serb Party</a><br><span style="font-size:85%;">Samostalna demokratska srpska stranka</span> </td> 
+         <td>SDSS </td> 
+         <td><small><a href="/wiki/Serbians" title="Serbians">Serb</a></small> <a href="/wiki/Minority_politics" class="mw-redirect" title="Minority politics">minority politics</a><br><a href="/wiki/Liberal_democracy" title="Liberal democracy">Liberal democracy</a><br><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a><br><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Milorad_Pupovac" title="Milorad Pupovac">Milorad Pupovac</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">3 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #00a2e0; width: 2%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #00a2e0; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #61CD10"> </th> 
+         <td><a href="/wiki/Istrian_Democratic_Assembly" title="Istrian Democratic Assembly">Istrian Democratic Assembly</a><br><span style="font-size:85%;">Istarski demokratski sabor</span> </td> 
+         <td>IDS-DDI </td> 
+         <td><small><a href="/wiki/Istria" title="Istria">Istria</a></small> <a href="/wiki/Regionalism_(politics)" title="Regionalism (politics)">regionalism</a><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><small><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a><br><a href="/wiki/Pro-Europeanism" title="Pro-Europeanism">Pro-Europeanism</a></small> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Boris_Mileti%C4%87" title="Boris Miletić">Boris Miletić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">3 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #61CD10; width: 2%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #61CD10; width: 8%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #50af66"> </th> 
+         <td><a href="/wiki/Milan_Bandi%C4%87_365_-_The_Party_of_Labour_and_Solidarity" class="mw-redirect" title="Milan Bandić 365 - The Party of Labour and Solidarity">Bandić Milan 365 - Labour and Solidarity Party</a><br><span style="font-size:85%;">Bandić Milan 365 - Stranka rada i solidarnosti</span> </td> 
+         <td>BM 365 </td> 
+         <td><small><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></small><br><small><a href="/wiki/Populism" title="Populism">Populism</a></small> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Milan_Bandi%C4%87" title="Milan Bandić">Milan Bandić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">3 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #50af66; width: 2%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #50af66; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #1974D2"> </th> 
+         <td><a href="/wiki/Croatian_Christian_Democratic_Party" title="Croatian Christian Democratic Party">Croatian Christian Democratic Party</a><br><span style="font-size:85%;">Hrvatska demokršćanska stranka</span> </td> 
+         <td>HDS </td> 
+         <td><small><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a></small><br><small> <a href="/wiki/National_conservatism" title="National conservatism">National conservatism</a></small> </td> 
+         <td style="background:#004DCC"><small><a href="/wiki/Right_wing" class="mw-redirect" title="Right wing"><span style="color:white">Right wing</span></a></small> </td> 
+         <td><a href="/w/index.php?title=Goran_Dodig&amp;action=edit&amp;redlink=1" class="new" title="Goran Dodig (page does not exist)">Goran Dodig</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">2 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #1974D2; width: 1%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/Patriotic_Coalition_(Croatia)" title="Patriotic Coalition (Croatia)"> Patriotic coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">59 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 39%; height: 100%;"></div>
+           </div>
+          </div><small> </small></td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #1974D2; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #800080"> </th> 
+         <td><a href="/w/index.php?title=Party_of_anticorruption,_development_and_transparency&amp;action=edit&amp;redlink=1" class="new" title="Party of anticorruption, development and transparency (page does not exist)">Party of anticorruption, development and transparency</a><br><span style="font-size:85%;">Stranka antikorupcije, razvoja i transparentnosti</span> </td> 
+         <td>START </td> 
+         <td><small><a href="/wiki/Social_progressivism" class="mw-redirect" title="Social progressivism">Social progressivism</a></small><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><a href="/wiki/Green_politics" title="Green politics">Green politics</a> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Dalija_Ore%C5%A1kovi%C4%87" title="Dalija Orešković">Dalija Orešković</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #800080; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #800080; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #92D9F9"> </th> 
+         <td><a href="/wiki/Croatian_Party_of_Pensioners" title="Croatian Party of Pensioners">Croatian Party of Pensioners</a><br><span style="font-size:85%;">Hrvatska stranka umirovljenika</span> </td> 
+         <td>HSU </td> 
+         <td><small><a href="/wiki/Single-issue_politics" title="Single-issue politics">Single-issue politics</a></small><br><small>(<a href="/wiki/Pensioner" title="Pensioner">pensioners'</a> rights)</small><br><small><a href="/wiki/Social_justice" title="Social justice">Social justice</a></small> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Silvano_Hrelja" title="Silvano Hrelja">Silvano Hrelja</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #92D9F9; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #92D9F9; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #DD3333"> </th> 
+         <td><a href="/wiki/Democrats_(Croatia)" title="Democrats (Croatia)">Democrats</a><br><span style="font-size:85%;">Demokrati</span> </td> 
+         <td>Demokrati </td> 
+         <td><small><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></small><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a><br><a href="/wiki/Green_politics" title="Green politics">Green politics</a> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/wiki/Mirando_Mrsi%C4%87" title="Mirando Mrsić">Mirando Mrsić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #DD3333; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/People%27s_Coalition_(Croatia)" title="People's Coalition (Croatia)">People's coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">56 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ED1C24; width: 37%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #DD3333; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #FF5800"> </th> 
+         <td><a href="/w/index.php?title=Independent_Youth_List&amp;action=edit&amp;redlink=1" class="new" title="Independent Youth List (page does not exist)">Independent Youth List</a><br><span style="font-size:85%;">Nezavisna lista mladih</span> </td> 
+         <td>NLM </td> 
+         <td><small><a href="/wiki/Populism" title="Populism">Populism</a></small> </td> 
+         <td style="background:#FF0000;"><small><a href="/wiki/Centre-Left" class="mw-redirect" title="Centre-Left"><span style="color:white">Centre-Left</span></a></small><br> </td> 
+         <td><a href="/w/index.php?title=Ante_Prani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ante Pranić (page does not exist)">Ante Pranić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FF5800; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>Alliance for change </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">8 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 5%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #FF5800; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #4A217B"> </th> 
+         <td><a href="/wiki/People%27s_Party_-_Reformists" title="People's Party - Reformists">People's Party - Reformists</a><br><span style="font-size:85%;">Narodna stranka - reformisti</span> </td> 
+         <td>NS-R </td> 
+         <td><small><a href="/wiki/Economic_liberalism" title="Economic liberalism">Economic liberalism</a></small> </td> 
+         <td style="background:#FFA500;"><small><a href="/wiki/Centrism" title="Centrism"><span style="color:white">Centre</span></a></small> </td> 
+         <td><a href="/wiki/Radimir_%C4%8Ca%C4%8Di%C4%87" title="Radimir Čačić">Radimir Čačić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #4A217B; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/Patriotic_Coalition_(Croatia)" title="Patriotic Coalition (Croatia)"> Patriotic coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">59 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 39%; height: 100%;"></div>
+           </div>
+          </div><small> </small></td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #4A217B; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #fff200"> </th> 
+         <td><a href="/wiki/Croatian_Social_Liberal_Party" title="Croatian Social Liberal Party">Croatian Social Liberal Party</a><br><span style="font-size:85%;">Hrvatska socijalno-liberalna stranka</span> </td> 
+         <td>HSLS </td> 
+         <td><small><a href="/wiki/Conservative_liberalism" title="Conservative liberalism">Conservative liberalism</a></small> </td> 
+         <td style="background:#FFA500;"><small><a href="/wiki/Centrism" title="Centrism"><span style="color:white">Centre</span></a></small> </td> 
+         <td><a href="/wiki/Darinko_Kosor" title="Darinko Kosor">Darinko Kosor</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #fff200; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/Patriotic_Coalition_(Croatia)" title="Patriotic Coalition (Croatia)"> Patriotic coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">59 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 39%; height: 100%;"></div>
+           </div>
+          </div><small> </small></td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #fff200; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #ffd204"> </th> 
+         <td><a href="/wiki/Human_Shield_(political_party)" title="Human Shield (political party)">Human Blockade</a><br><span style="font-size:85%;">Živi zid</span> </td> 
+         <td>ŽZ </td> 
+         <td><small><a href="/wiki/Populism" title="Populism">Populism</a></small><br><small><a href="/wiki/Anti-establishment" title="Anti-establishment">Anti-establishment</a></small><br><small><a href="/wiki/Euroscepticism" title="Euroscepticism">Euroscepticism</a></small> </td> 
+         <td style="background:#FFFF33;"><small><a href="/wiki/Syncretic_politics" title="Syncretic politics">Syncretic</a></small> </td> 
+         <td><a href="/wiki/Ivan_Vilibor_Sin%C4%8Di%C4%87" title="Ivan Vilibor Sinčić">Ivan Vilibor Sinčić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>Alliance for change </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">8 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 5%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 8%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #BC204B"> </th> 
+         <td><a href="/w/index.php?title=Let%27s_Change_Croatia&amp;action=edit&amp;redlink=1" class="new" title="Let's Change Croatia (page does not exist)">Let's Change Croatia</a><br><span style="font-size:85%;">Promijenimo Hrvatsku</span> </td> 
+         <td>PH </td> 
+         <td><small><a href="/wiki/Populism" title="Populism">Populism</a></small> </td> 
+         <td style="background:#FFFF33;"><small><a href="/wiki/Syncretic_politics" title="Syncretic politics">Syncretic</a></small> </td> 
+         <td><a href="/w/index.php?title=Ivan_Lovrinovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ivan Lovrinović (page does not exist)">Ivan Lovrinović</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #BC204B; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>Alliance for change </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">8 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 5%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #BC204B; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #FF8282"> </th> 
+         <td><a href="/w/index.php?title=POWER_-_People%27s_and_Civic_Engagement_Party&amp;action=edit&amp;redlink=1" class="new" title="POWER - People's and Civic Engagement Party (page does not exist)">POWER - People's and Civic Engagement Party</a><br><span style="font-size:85%;">SNAGA - Stranka narodnog i građanskog aktivizma</span> </td> 
+         <td>SNAGA </td> 
+         <td><small><a href="/wiki/Populism" title="Populism">Populism</a></small><br><small><a href="/wiki/Reformism" title="Reformism">Fiscal reformism</a></small> </td> 
+         <td style="background:#FFFF33;"><small><a href="/wiki/Syncretic_politics" title="Syncretic politics">Syncretic</a></small> </td> 
+         <td><a href="/w/index.php?title=Goran_Aleksi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Goran Aleksić (page does not exist)">Goran Aleksić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #E0004D; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>Alliance for change </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">8 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #ffd204; width: 5%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #E0004D; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #990000"> </th> 
+         <td><a href="/wiki/Croatian_Democratic_Alliance_of_Slavonia_and_Baranja" title="Croatian Democratic Alliance of Slavonia and Baranja">Croatian Democratic Alliance of Slavonia and Baranja</a><br><span style="font-size:85%;">Hrvatski demokratski savez Slavonije i Baranje</span> </td> 
+         <td>HDSSB </td> 
+         <td><small><a href="/wiki/Slavonia" title="Slavonia">Slavonia</a></small> <a href="/wiki/Regionalism_(politics)" title="Regionalism (politics)">regionalism</a><br><a href="/wiki/National_conservatism" title="National conservatism">National conservatism</a><br><a href="/wiki/Green_conservatism" title="Green conservatism">Green conservatism</a> </td> 
+         <td style="background:#0099FF;"><small><a href="/wiki/Centre-Right" class="mw-redirect" title="Centre-Right"><span style="color:white">Centre-Right</span></a></small><br> </td> 
+         <td><a href="/wiki/Branimir_Glava%C5%A1" title="Branimir Glavaš">Branimir Glavaš</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #990000; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td><a href="/wiki/Patriotic_Coalition_(Croatia)" title="Patriotic Coalition (Croatia)"> Patriotic coalition</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">59 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 39%; height: 100%;"></div>
+           </div>
+          </div><small> </small></td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #990000; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>government support </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #08457E"> </th> 
+         <td><a href="/wiki/Independents_for_Croatia" title="Independents for Croatia">Independents for Croatia</a><br><span style="font-size:85%;">Bruna Esih-Zlatko Hasanbegović: Neovisni za Hrvatsku</span> </td> 
+         <td>NHR </td> 
+         <td><small><a href="/wiki/National_conservatism" title="National conservatism">National conservatism</a></small><br><small><a href="/wiki/Anticommunism" class="mw-redirect" title="Anticommunism">Anticommunism</a></small><br><small><a href="/wiki/Right-wing_populism" title="Right-wing populism">Right-wing populism</a></small> </td> 
+         <td style="background:#000099"><small><a href="/wiki/Far-Right" class="mw-redirect" title="Far-Right"><span style="color:white">Far-Right</span></a></small> </td> 
+         <td><a href="/wiki/Bruna_Esih" title="Bruna Esih">Bruna Esih</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #005BAA; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th>opposition </th>
+        </tr> 
+        <tr> 
+         <th style="background-color: #5299E1"> </th> 
+         <td><a href="/wiki/Croatian_Growth" title="Croatian Growth">HRAST - Movement for Successful Croatia</a><br><span style="font-size:85%;">HRAST - Pokret za uspješnu Hrvatsku</span> </td> 
+         <td>HRAST </td> 
+         <td><small><a href="/wiki/Political_catholicism" class="mw-redirect" title="Political catholicism">Political catholicism</a></small> </td> 
+         <td style="background:#004DCC"><small><a href="/wiki/Right_wing" class="mw-redirect" title="Right wing"><span style="color:white">Right wing</span></a></small> </td> 
+         <td><a href="/w/index.php?title=Ladislav_Il%C4%8Di%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ladislav Ilčić (page does not exist)">Ladislav Ilčić</a> </td> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">1 / 151</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #004DCC; width: 0.7%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <td>No coalition </td> 
+         <th>/ </th> 
+         <td>
+          <div style="width: 100px;">
+           <span class="nowrap">0 / 12</span>
+           <div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;">
+            <div style="background-color: #004DCC; width: 0%; height: 100%;"></div>
+           </div>
+          </div> </td> 
+         <th><small> <small> government (–2017.) </small> </small> <br> opposition (2017.–) </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Political_parties_with_previously_elected_representation_at_a_national_level">Political parties with previously elected representation at a national level</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=3" title="Edit section: Political parties with previously elected representation at a national level">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a href="/wiki/Alliance_of_Primorje-Gorski_Kotar" title="Alliance of Primorje-Gorski Kotar">Alliance of Primorje-Gorski Kotar</a> (<i>Primorsko-goranski savez</i> or PGS) – won 1 seat in 1992 (then called <a href="/wiki/Rijeka_Democratic_Union" class="mw-redirect" title="Rijeka Democratic Union">Rijeka Democratic Union</a> or RiDS) – won 1 seat in 1995; 2 seats in 2000; 1 seat in 2003</li> 
+       <li><a href="/wiki/Croatian_Christian_Democratic_Union" title="Croatian Christian Democratic Union">Croatian Christian Democratic Union</a> (<i>Hrvatska kršćanska demokratska unija</i> or HKDU) – won 1 seat in 1995, 1 seat in 2000</li> 
+       <li><a href="/wiki/Croatian_Civic_Party" title="Croatian Civic Party">Croatian Civic Party</a> (<i>Hrvatska građanska stranka</i> or HGS) – won 3 seats in 2011</li> 
+       <li><a href="/wiki/Croatian_Democratic_Peasant_Party" title="Croatian Democratic Peasant Party">Croatian Democratic Peasant Party</a> (<i>Hrvatska demokratska seljačka stranka</i> or HDSS) – won 1 seat in 2003</li> 
+       <li>† <a href="/wiki/Croatian_Independent_Democrats" title="Croatian Independent Democrats">Croatian Independent Democrats</a> (<i>Hrvatski nezavisni demokrati</i> or HND) – active from 1994 to 2011; won 1 seat in 1995</li> 
+       <li><a href="/wiki/Croatian_Labourists_%E2%80%93_Labour_Party" title="Croatian Labourists – Labour Party">Croatian Labourists – Labour Party</a> (<i>Hrvatski laburisti - Stranka rada</i>) – won 6 seats in 2011; 3 seats in 2015</li> 
+       <li><a href="/wiki/Croatian_Party_of_Rights" title="Croatian Party of Rights">Croatian Party of Rights</a> (<i>Hrvatska stranka prava</i> or HSP) – won 5 seats in 1992; 4 seats in 1995 and 2000; 8 seats in 2003; 1 seat in 2007</li> 
+       <li><a href="/wiki/Croatian_Party_of_Rights_Dr._Ante_Star%C4%8Devi%C4%87" title="Croatian Party of Rights Dr. Ante Starčević">Croatian Party of Rights Dr. Ante Starčević</a> (<i>Hrvatska stranka prava dr. Ante Starčević</i> or HSP AS) – won 1 seat in 2011; 3 seats in 2015</li> 
+       <li>† <a href="/wiki/Dalmatian_Action" title="Dalmatian Action">Dalmatian Action</a> (<i>Dalmatinska akcija</i> or DA) – active from 1990 to 2003; won 1 seat in 1992</li> 
+       <li>† <a href="/wiki/Democratic_Centre_(Croatia)" title="Democratic Centre (Croatia)">Democratic Centre</a> (<i>Demokratski centar</i> or DC) – active from 2000 to 2016; won 1 seat in 2003</li> 
+       <li>† <a href="/wiki/Liberal_Party_(Croatia)" title="Liberal Party (Croatia)">Liberal Party</a> (<i>Liberalna stranka</i> or LS) – active from 1998 to 2006; won 2 seats in 2000 and 2003</li> 
+       <li>† <a href="/w/index.php?title=Party_of_Croatian_Intergenerational_Solidarity&amp;action=edit&amp;redlink=1" class="new" title="Party of Croatian Intergenerational Solidarity (page does not exist)">Party of Croatian Intergenerational Solidarity</a> (<i>Stranka međugeneracijske solidarnosti Hrvatske</i> or SMSH) – active from 2016 to 2017; had 1 seat in 2016 (merged into <a href="/wiki/Bandi%C4%87_Milan_365_-_Labour_and_Solidarity_Party" title="Bandić Milan 365 - Labour and Solidarity Party">Bandić Milan 365 - Labour and Solidarity Party</a> in November 2017)</li> 
+       <li>† <a href="/wiki/Party_of_Liberal_Democrats" title="Party of Liberal Democrats">Party of Liberal Democrats</a> (<i>Stranka liberalnih demokrata</i> or LIBRA) – active from 2002 to 2005; won 3 seats in 2003</li> 
+       <li><a href="/wiki/Serb_People%27s_Party_(Croatia)" title="Serb People's Party (Croatia)">Serb People's Party</a> (<i>Srpska narodna stranka/Српска народна странка</i> or SNS/CHC) – won 3 seats in 1992; 2 seats in 1995; 1 seat in 2000</li> 
+       <li>† <a href="/wiki/Slavonia-Baranja_Croatian_Party" title="Slavonia-Baranja Croatian Party">Slavonia-Baranja Croatian Party</a> (<i>Slavonsko-baranjska hrvatska stranka</i> or S-BHS) – active from 1992 to 2008, won 1 seat in 1995; 1 seat in 2000</li> 
+       <li>† <a href="/wiki/Social_Democratic_Action_of_Croatia" title="Social Democratic Action of Croatia">Social Democratic Action of Croatia</a> (<i>Akcija socijaldemokrata Hrvatske</i> or ASH) – active between 1994 and 2016; won 1 seat in 1995</li>
+      </ul> 
+      <h3><span class="mw-headline" id="Other_parties">Other parties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=4" title="Edit section: Other parties">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a href="/w/index.php?title=Anti-Corruption,_Development_and_Transparency_Party&amp;action=edit&amp;redlink=1" class="new" title="Anti-Corruption, Development and Transparency Party (page does not exist)">Anti-Corruption, Development and Transparency Party</a> (<i>Stranka antikorupcije, razvoja i transparentnosti</i> or START)</li> 
+       <li><a href="/wiki/Autochthonous_Croatian_Party_of_Rights" title="Autochthonous Croatian Party of Rights">Autochthonous Croatian Party of Rights</a> (<i>Autohtona-Hrvatska stranka prava</i> or A-HSP)</li> 
+       <li><a href="/w/index.php?title=Bloc_Pensioners_Together&amp;action=edit&amp;redlink=1" class="new" title="Bloc Pensioners Together (page does not exist)">Bloc Pensioners Together</a> (<i>Blok umirovljenici zajedno</i> or BUZ)</li> 
+       <li><a href="/wiki/Charter_for_Rijeka" class="mw-redirect" title="Charter for Rijeka">Charter for Rijeka</a> or <a href="/wiki/Lista_za_Rijeku" class="mw-redirect" title="Lista za Rijeku">List for Rijeka</a> (<i>Lista za Rijeku/Lista per Fiume</i>; RI or LZR)</li> 
+       <li>† <a href="/wiki/Croatian_Bloc_(political_party)" title="Croatian Bloc (political party)">Croatian Bloc</a> (<i>Hrvatski blok</i> or HB) – active 2002–2009</li> 
+       <li><a href="/wiki/Croatian_Conservative_Party" title="Croatian Conservative Party">Croatian Conservative Party</a> (<i>Hrvatska konzervativna stranka</i> or HKS) – 1 <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEP</a> in the <a href="/wiki/9th_European_Parliament" class="mw-redirect" title="9th European Parliament">9th EP</a></li> 
+       <li><a href="/wiki/Croatian_Labour_Party" class="mw-redirect" title="Croatian Labour Party">Croatian Labour Party</a> (<i>Hrvatska radnička stranka</i> or HRS)</li> 
+       <li><a href="/wiki/Croatian_Party_of_Rights_1861" title="Croatian Party of Rights 1861">Croatian Party of Rights 1861</a> (<i>Hrvatska stranka prava 1861</i> or HSP 1861)</li> 
+       <li><a href="/wiki/Croatian_Pure_Party_of_Rights" title="Croatian Pure Party of Rights">Croatian Pure Party of Rights</a> (<i>Hrvatska čista stranka prava</i> or HČSP)</li> 
+       <li><a href="/wiki/Croatian_Republican_Union" title="Croatian Republican Union">Croatian Republican Union</a> (<i>Hrvatska republikanska zajednica</i> or HRZ)</li> 
+       <li><a href="/wiki/Democratic_Alliance_of_Serbs" title="Democratic Alliance of Serbs">Democratic Alliance of Serbs</a> (<i>Demokratski savez Srba/Демократски caвeз Cpбa</i> or DSS/ДСC)</li> 
+       <li><a href="/wiki/Democratic_Party_of_Zagorje" title="Democratic Party of Zagorje">Democratic Party of Zagorje</a> (<i>Zagorska demokratska stranka</i> or ZDS)</li> 
+       <li><a href="/wiki/Green_Party_%E2%80%93_Green_Alternative" title="Green Party – Green Alternative">Green Alliance – Greens</a> (<i>Zeleni savez – Zeleni</i>)</li> 
+       <li><a href="/wiki/Istrian_Social_Democratic_Forum" title="Istrian Social Democratic Forum">Istrian Social Democratic Forum</a> (<i>Istarski socijaldemokratski forum</i> or ISDF)</li> 
+       <li><a href="/wiki/Left_of_Croatia" title="Left of Croatia">Left of Croatia</a> (<i>Ljevica Hrvatske</i>)</li> 
+       <li><a href="/wiki/Me%C4%91imurje_Party" title="Međimurje Party">Međimurje Party</a> (<i>Međimurska stranka</i>)</li> 
+       <li><a href="/wiki/New_Left_(Croatia)" title="New Left (Croatia)">New Left</a> (<i>Nova ljevica</i> or NL)</li> 
+       <li><a href="/wiki/Only_Croatia_%E2%80%93_Movement_for_Croatia" title="Only Croatia – Movement for Croatia">Only Croatia – Movement for Croatia</a> (<i>Jedino Hrvatska – Pokret za Hrvatsku</i>)</li> 
+       <li><a href="/wiki/Party_of_Danube_Serbs" title="Party of Danube Serbs">Party of Danube Serbs</a> (<i>Partija podunavskih Srba/Партија подунавских Срба</i> or PPS/ППС)</li> 
+       <li><a href="/wiki/Pirate_Party_(Croatia)" title="Pirate Party (Croatia)">Pirate Party</a> (<i>Piratska stranka</i>)</li> 
+       <li><a href="/wiki/Pametno" title="Pametno">Smart</a> (<i>Pametno</i>)</li> 
+       <li>† <a href="/wiki/Serb_Democratic_Party_(Croatia)" title="Serb Democratic Party (Croatia)">Serb Democratic Party</a> (<i>Srpska demokratska stranka/Српска демократска cтранка</i> or SDS/СДС)</li> 
+       <li><a href="/wiki/Socialist_Labour_Party_of_Croatia" title="Socialist Labour Party of Croatia">Socialist Labour Party of Croatia</a> (<i>Socijalistička radnička partija Hrvatske</i> or SRP)</li> 
+       <li><a href="/wiki/Sustainable_Development_of_Croatia" title="Sustainable Development of Croatia">Sustainable Development of Croatia - ORaH</a> (<i>Održivi razvoj Hrvatske</i> or ORaH)</li> 
+       <li><a href="/wiki/The_Split_Party" title="The Split Party">The Split Party</a> (<i>Splitska stranka</i>)</li> 
+       <li><a href="/wiki/Women%27s_Democratic_Party" title="Women's Democratic Party">Women's Democratic Party</a> (<i>Demokratska stranka žena</i> or DSŽ)</li> 
+       <li><a href="/wiki/Workers%27_Front_(Croatia)" title="Workers' Front (Croatia)">Workers' Front</a> (<i>Radnička fronta</i> or RF)</li> 
+       <li><a href="/wiki/Youth_Action_(Croatia)" title="Youth Action (Croatia)">Youth Action</a> (<i>Akcija mladih</i> or AM)</li> 
+       <li><a href="/wiki/Zagorje_Party" title="Zagorje Party">Zagorje Party</a> (<i>Zagorska stranka</i> or ZS)</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Historical_parties">Historical parties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=5" title="Edit section: Historical parties">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Illyrian_Party" class="mw-redirect" title="Illyrian Party">Illyrian Party/People's Party</a> (<i>Ilirska stranka/Narodna stranka</i>, 1841–1861)</li> 
+       <li><a href="/wiki/Illyrian_Party" class="mw-redirect" title="Illyrian Party">People's Liberal Party</a>/<a href="/wiki/Illyrian_Party" class="mw-redirect" title="Illyrian Party">Independent People's Party</a> (<i>Narodno-liberalna stranka/Neodvisna narodna stranka</i>, 1861–1903)</li> 
+       <li><a href="/wiki/Croatian-Hungarian_Party" title="Croatian-Hungarian Party">Croatian-Hungarian Party</a> (<i>Hrvatsko-ugarska stranka</i>, 1841–1861)</li> 
+       <li><a href="/wiki/Croatian-Hungarian_Party" title="Croatian-Hungarian Party">Unionist Party</a>/<a href="/wiki/Croatian-Hungarian_Party" title="Croatian-Hungarian Party">People's Constitutional Party</a> (<i>Unionistička stranka/Narodno-ustavna stranka</i>, 1861–1873)</li> 
+       <li><a href="/wiki/Party_of_Rights" title="Party of Rights">Party of Rights</a>/<a href="/wiki/Croatian_Party_of_Rights" title="Croatian Party of Rights">Croatian Party of Rights</a> (<i>Stranka prava/Hrvatska stranka prava</i>, 1861–1910)</li> 
+       <li><a href="/wiki/Pure_Party_of_Rights" class="mw-redirect" title="Pure Party of Rights">Pure Party of Rights</a>/<a href="/wiki/Croatian_Pure_Party_of_Rights" title="Croatian Pure Party of Rights">Croatian Pure Party of Rights</a> (<i>Čista stranka prava/Hrvatska čista stranka prava</i>, 1895–1918)</li> 
+       <li><a href="/wiki/Star%C4%8Devi%C4%87%27s_Party_of_Rights" class="mw-redirect" title="Starčević's Party of Rights">Starčević's Party of Rights</a> (<i>Starčevićeva stranka prava</i>, 1908–1911–1918)</li> 
+       <li><a href="/w/index.php?title=Progressive_Party_(Croatia)&amp;action=edit&amp;redlink=1" class="new" title="Progressive Party (Croatia) (page does not exist)">Progressive Party</a>/<a href="/w/index.php?title=Croatian_People%27s_Progressive_Party&amp;action=edit&amp;redlink=1" class="new" title="Croatian People's Progressive Party (page does not exist)">Croatian People's Progressive Party</a> (<i>Napredna stranka/Hrvatska pučka napredna stranka</i>, 1904–1910)</li> 
+       <li><a href="/wiki/Serbian_Independent_Party" class="mw-redirect" title="Serbian Independent Party">Serbian Independent Party</a>/<a href="/wiki/Serbian_People%27s_Independent_Party" class="mw-redirect" title="Serbian People's Independent Party">Serbian People's Independent Party</a> (<i>Srpska samostalna stranka/Srpska narodna samostalna stranka</i>, 1881–1918)</li> 
+       <li><a href="/wiki/Serbian_People%27s_Radical_Party" class="mw-redirect" title="Serbian People's Radical Party">Serbian People's Radical Party</a> (<i>Srpska narodna radikalna stranka</i>, 1903–1918)</li> 
+       <li><a href="/w/index.php?title=Croatian_Independent_Party&amp;action=edit&amp;redlink=1" class="new" title="Croatian Independent Party (page does not exist)">Croatian Independent Party</a> (<i>Hrvatska samostalna stranka</i>, 1910–1918)</li> 
+       <li><a href="/wiki/Social_Democratic_Party_(Croatia)" class="mw-redirect" title="Social Democratic Party (Croatia)">Social Democratic Party of Croatia and Slavonia</a> (<i>Socijaldemokratska stranka Hrvatske i Slavonije</i>, 1894–1918)</li> 
+       <li><a href="/wiki/Croat-Serb_Coalition" title="Croat-Serb Coalition">Croat-Serb Coalition</a> (<i>Hrvatsko-srpska koalicija</i>, 1905–1918)</li> 
+       <li><a href="/wiki/Autonomous_Party_(Dalmatia)" class="mw-redirect" title="Autonomous Party (Dalmatia)">Autonomous Party</a> (<a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Dalmatia</a>) (<i>Autonomna stranka</i>, 1860–1918)</li> 
+       <li><a href="/wiki/People%27s_Party_(Kingdom_of_Dalmatia)" class="mw-redirect" title="People's Party (Kingdom of Dalmatia)">People's Party</a>/<a href="/wiki/People%27s_Party_(Kingdom_of_Dalmatia)" class="mw-redirect" title="People's Party (Kingdom of Dalmatia)">People's Croatian Party</a> or <a href="/wiki/People%27s_Party_(Kingdom_of_Dalmatia)" class="mw-redirect" title="People's Party (Kingdom of Dalmatia)">Croatian National Party</a> (<a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Dalmatia</a>) (<i>Narodna stranka/Narodna hrvatska stranka</i>, 1861–1905)</li> 
+       <li><a href="/wiki/Serb_People%27s_Party_(Dalmatia)" class="mw-redirect" title="Serb People's Party (Dalmatia)">Serbian Party</a> or <a href="/wiki/Serb_People%27s_Party_(Dalmatia)" class="mw-redirect" title="Serb People's Party (Dalmatia)">Serb People's Party</a> (<a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Dalmatia</a>) (<i>Srpska stranka/Srpska narodna stranka</i>, 1879–1918)</li> 
+       <li><a href="/w/index.php?title=Croatian_Party_(Dalmatia)&amp;action=edit&amp;redlink=1" class="new" title="Croatian Party (Dalmatia) (page does not exist)">Croatian Party</a> (<a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Dalmatia</a>) (<i>Hrvatska stranka</i>, 1905–1918)</li> 
+       <li><a href="/w/index.php?title=Democratic_Party_(Kingdom_if_Dalmatia)&amp;action=edit&amp;redlink=1" class="new" title="Democratic Party (Kingdom if Dalmatia) (page does not exist)">Democratic Party</a> (<a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Dalmatia</a>) (<i>Demokratska stranka</i>, 1904–1906)</li> 
+       <li><a href="/w/index.php?title=Croat-Slovene_People%27s_Party&amp;action=edit&amp;redlink=1" class="new" title="Croat-Slovene People's Party (page does not exist)">Croat-Slovene People's Party</a> (<a href="/wiki/Margraviate_of_Istria" class="mw-redirect" title="Margraviate of Istria">Istria</a>) (<i>Hrvatsko-slovenska narodna stranka</i>, 1878–1918)</li> 
+       <li><a href="/wiki/Croatian_Popular_Party_(1919)" title="Croatian Popular Party (1919)">Croatian Popular Party (1919)</a> (<i>Hrvatska pučka stranka</i>, 1919–1929)</li> 
+       <li><a href="/w/index.php?title=Croatian_Community&amp;action=edit&amp;redlink=1" class="new" title="Croatian Community (page does not exist)">Croatian Community</a> (<i>Hrvatska zajednica</i>, 1919–1926)</li> 
+       <li><a href="/wiki/Communist_Party_of_Croatia" class="mw-redirect" title="Communist Party of Croatia">Communist Party of Croatia</a>/<a href="/wiki/League_of_Communists_of_Croatia" title="League of Communists of Croatia">League of Communists of Croatia</a> (<i>Komunistička partija Hrvatske/Savez komunista Hrvatske</i>, 1937–1990)</li>
+      </ul> 
+      <p>▶ <b>Note</b>: The <a href="/wiki/Croatian_language" title="Croatian language">Croatian</a> adjective "<i>narodni/a/o"</i> could be translated as "people's" and/or "national", similar adjective "<i>pučki/a/o</i>" signifies "popular" or "people's" (but not "national"). </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_political_parties" class="mw-redirect" title="List of political parties">List of political parties</a></li> 
+       <li><a href="/wiki/Liberalism_in_Croatia" title="Liberalism in Croatia">Liberalism in Croatia</a></li> 
+       <li><a href="/wiki/Far_right_in_Croatia" class="mw-redirect" title="Far right in Croatia">Far right in Croatia</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vecernji.hr/hrvatska/posljednjih-pet-godina-osnovane-63-stranke-999747">"Posljednjih pet godina osnovane 63 stranke"</a> [In the last five years 63 parties founded]. <i><a href="/wiki/Ve%C4%8Dernji_list" title="Večernji list">Večernji list</a></i> (in Croatian). 11 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ve%C4%8Dernji+list&amp;rft.atitle=Posljednjih+pet+godina+osnovane+63+stranke&amp;rft.date=2015-04-11&amp;rft_id=http%3A%2F%2Fwww.vecernji.hr%2Fhrvatska%2Fposljednjih-pet-godina-osnovane-63-stranke-999747&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+political+parties+in+Croatia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hdz.hr/static/media/attached_files/attachedfileitem/Statut/STATUT_HDZ-a_2012.pdf">STATUT HDZ (pdf)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130502034920/http://www.hdz.hr/static/media/attached_files/attachedfileitem/Statut/STATUT_HDZ-a_2012.pdf">Archived</a> 2013-05-02 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sdp.hr/media/303876/statut-sdp.pdf">STATUT SDP (pdf)</a></span> </li> 
+         <li id="cite_note-Jutarnji-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jutarnji_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jutarnji.hr/vijesti/hrvatska/radikalni-politicki-zaokret-beljakovog-hss-a-stranka-ima-novu-strategiju-zbogom-demokrscanstvu-mi-smo-progresivni-liberali/6640194/">"RADIKALNI POLITIČKI ZAOKRET BELJAKOVOG HSS-a, STRANKA IMA NOVU STRATEGIJU 'Zbogom demokršćanstvu, mi smo progresivni liberali<span class="cs1-kern-right">'</span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RADIKALNI+POLITI%C4%8CKI+ZAOKRET+BELJAKOVOG+HSS-a%2C+STRANKA+IMA+NOVU+STRATEGIJU+%27Zbogom+demokr%C5%A1%C4%87anstvu%2C+mi+smo+progresivni+liberali%27&amp;rft_id=http%3A%2F%2Fwww.jutarnji.hr%2Fvijesti%2Fhrvatska%2Fradikalni-politicki-zaokret-beljakovog-hss-a-stranka-ima-novu-strategiju-zbogom-demokrscanstvu-mi-smo-progresivni-liberali%2F6640194%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+political+parties+in+Croatia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141202093302/http://www.hns.hr/index.php/dokumenti/2012-04-20-01-45-30/programske-smjernice">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://hns.hr/index.php/dokumenti/2012-04-20-01-45-30/programske-smjernice">the original</a> on 2014-12-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fhns.hr%2Findex.php%2Fdokumenti%2F2012-04-20-01-45-30%2Fprogramske-smjernice&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+political+parties+in+Croatia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141202025426/http://www.hns.hr/index.php/dokumenti/2012-04-20-01-45-30/statut">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://hns.hr/index.php/dokumenti/2012-04-20-01-45-30/statut">the original</a> on 2014-12-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fhns.hr%2Findex.php%2Fdokumenti%2F2012-04-20-01-45-30%2Fstatut&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+political+parties+in+Croatia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Croatia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Croatia_topics" title="Template:Croatia topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Croatia_topics" title="Template talk:Croatia topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Croatia_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Croatia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;
+            <a href="/wiki/Index_of_Croatia-related_articles" title="Index of Croatia-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Croatia" title="History of Croatia">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_Croatia_before_the_Croats" title="History of Croatia before the Croats">Prehistoric</a></li> 
+             <li><a href="/wiki/Origin_hypotheses_of_the_Croats" title="Origin hypotheses of the Croats">Origins of Croats</a></li> 
+             <li><a href="/wiki/White_Croatia" title="White Croatia">White Croatia</a></li> 
+             <li><a href="/wiki/Red_Croatia" title="Red Croatia">Red Croatia</a></li> 
+             <li><a href="/wiki/Principality_of_Dalmatian_Croatia" class="mw-redirect" title="Principality of Dalmatian Croatia">Dalmatian Croatia</a></li> 
+             <li><a href="/wiki/Duchy_of_Pannonian_Croatia" title="Duchy of Pannonian Croatia">Pannonian Croatia</a></li> 
+             <li><a href="/wiki/Pagania" class="mw-redirect" title="Pagania">Pagania</a></li> 
+             <li><a href="/wiki/Zahumlje" class="mw-redirect" title="Zahumlje">Zahumlje</a></li> 
+             <li><a href="/wiki/Travunija" title="Travunija">Travunija</a></li> 
+             <li><a href="/wiki/Kingdom_of_Croatia_(925%E2%80%931102)" title="Kingdom of Croatia (925–1102)">Medieval kingdom</a></li> 
+             <li><a href="/wiki/Croatia_in_the_union_with_Hungary" class="mw-redirect" title="Croatia in the union with Hungary">Personal union with Hungary</a></li> 
+             <li><a href="/wiki/Republic_of_Ragusa" title="Republic of Ragusa">Republic of Ragusa</a></li> 
+             <li><a href="/wiki/Kingdom_of_Croatia_(Habsburg)" title="Kingdom of Croatia (Habsburg)">Croatia in the Habsburg Empire</a></li> 
+             <li><a href="/wiki/Kingdom_of_Croatia-Slavonia" title="Kingdom of Croatia-Slavonia">Kingdom of Croatia-Slavonia</a></li> 
+             <li><a href="/wiki/State_of_Slovenes,_Croats_and_Serbs" title="State of Slovenes, Croats and Serbs">State of Slovenes, Croats and Serbs</a></li> 
+             <li><a href="/wiki/Kingdom_of_Yugoslavia" title="Kingdom of Yugoslavia">Kingdom of Yugoslavia</a> 
+              <ul>
+               <li><a href="/wiki/Banovina_of_Croatia" title="Banovina of Croatia">Banovina of Croatia</a></li>
+              </ul></li> 
+             <li><a href="/wiki/World_War_II_in_Yugoslavia" title="World War II in Yugoslavia">World War II</a> 
+              <ul>
+               <li><a href="/wiki/Independent_State_of_Croatia" title="Independent State of Croatia">Independent State</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Socialist_Republic_of_Croatia" title="Socialist Republic of Croatia">Socialist Republic</a></li> 
+             <li><a href="/wiki/Croatian_War_of_Independence" title="Croatian War of Independence">War of Independence</a></li> 
+             <li><a href="/wiki/History_of_Croatia_since_1995" title="History of Croatia since 1995">Croatia since 1995</a></li> 
+             <li><a href="/wiki/2013_enlargement_of_the_European_Union" title="2013 enlargement of the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Coat_of_arms_of_Croatia.svg" class="image"><img alt="Coat of arms of Croatia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/80px-Coat_of_arms_of_Croatia.svg.png" decoding="async" width="80" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/120px-Coat_of_arms_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/160px-Coat_of_arms_of_Croatia.svg.png 2x" data-file-width="604" data-file-height="800"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Croatia" title="Geography of Croatia">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Geography_of_Croatia#Climate" title="Geography of Croatia">Climate</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_Croatia" class="mw-redirect" title="Extreme points of Croatia">Extreme points</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Croatia" title="List of islands of Croatia">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Croatia" title="List of lakes of Croatia">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_mammals_of_Croatia" title="List of mammals of Croatia">Mammals</a></li> 
+                 <li><a href="/wiki/List_of_mountains_in_Croatia" title="List of mountains in Croatia">Mountains</a></li> 
+                 <li><a href="/wiki/Protected_areas_of_Croatia" title="Protected areas of Croatia">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Croatia" title="List of rivers of Croatia">Rivers</a></li> 
+                 <li><a href="/wiki/Topography_of_Croatia" title="Topography of Croatia">Topography</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Croatia" title="Politics of Croatia">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Croatia" title="Administrative divisions of Croatia">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Constitution_of_Croatia" title="Constitution of Croatia">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Croatia" title="Elections in Croatia">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Croatia" title="Foreign relations of Croatia">Foreign relations</a></li> 
+                 <li><a href="/wiki/Croatian_Government" class="mw-redirect" title="Croatian Government">Government</a> 
+                  <ul>
+                   <li><a href="/wiki/Prime_Minister_of_Croatia" title="Prime Minister of Croatia">Prime Minister</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Human_rights_in_Croatia" title="Human rights in Croatia">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Croatia" title="LGBT rights in Croatia">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Croatia" title="Law enforcement in Croatia">Law enforcement</a></li> 
+                 <li><a href="/wiki/Military_of_Croatia" class="mw-redirect" title="Military of Croatia">Military</a></li> 
+                 <li><a href="/wiki/Croatian_Parliament" title="Croatian Parliament">Parliament</a></li> 
+                 <li><a class="mw-selflink selflink">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Croatia" title="President of Croatia">President</a></li> 
+                 <li><a href="/wiki/Croatian_security_and_intelligence_system" title="Croatian security and intelligence system">Security and intelligence</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Croatia" title="Economy of Croatia">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Croatian_brands" title="Croatian brands">Brands</a></li> 
+                 <li><a href="/wiki/Energy_in_Croatia" title="Energy in Croatia">Energy</a></li> 
+                 <li><a href="/wiki/List_of_Croatian_counties_by_GDP" title="List of Croatian counties by GDP">Gross domestic product (GDP)</a></li> 
+                 <li><a href="/wiki/Industry_of_Croatia" title="Industry of Croatia">Industry</a></li> 
+                 <li><a href="/wiki/Croatian_kuna" title="Croatian kuna">Kuna <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Croatian_National_Bank" title="Croatian National Bank">National Bank</a></li> 
+                 <li><a href="/wiki/Privatization_in_Croatia" title="Privatization in Croatia">Privatization</a></li> 
+                 <li><a href="/wiki/Zagreb_Stock_Exchange" title="Zagreb Stock Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Croatia" title="Telecommunications in Croatia">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Croatia" title="Tourism in Croatia">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Croatia" title="Transport in Croatia">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Society</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Croatia" title="Demographics of Croatia">Demographics</a></li> 
+                 <li><a href="/wiki/Croats" title="Croats">Croats</a></li> 
+                 <li><a href="/wiki/Women_in_Croatia" title="Women in Croatia">Women</a></li> 
+                 <li><a href="/wiki/Education_in_Croatia" title="Education in Croatia">Education</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_Croatia" title="Category:Ethnic groups in Croatia">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Croatia" title="Healthcare in Croatia">Healthcare</a></li> 
+                 <li><a href="/wiki/Demographics_of_Croatia#Languages" title="Demographics of Croatia">Languages</a></li> 
+                 <li><a href="/wiki/Religion_in_Croatia" title="Religion in Croatia">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Croatia" title="Culture of Croatia">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Architecture_of_Croatia" title="Architecture of Croatia">Architecture</a></li> 
+                 <li><a href="/wiki/Croatian_art" title="Croatian art">Art</a></li> 
+                 <li><a href="/wiki/Cinema_of_Croatia" title="Cinema of Croatia">Cinema</a></li> 
+                 <li><a href="/wiki/Croatian_cuisine" title="Croatian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Croatian_language" title="Croatian language">Croatian language</a></li> 
+                 <li><a href="/wiki/Croatian_literature" title="Croatian literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Croatia" title="Music of Croatia">Music</a></li> 
+                 <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Public holidays</a></li> 
+                 <li><a href="/wiki/List_of_radio_stations_in_Croatia" title="List of radio stations in Croatia">Radio stations</a></li> 
+                 <li><a href="/wiki/Sport_in_Croatia" title="Sport in Croatia">Sport</a></li> 
+                 <li><a href="/wiki/Television_in_Croatia" title="Television in Croatia">Television</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Croatia" title="List of World Heritage Sites in Croatia">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/National_symbols_of_Croatia" title="National symbols of Croatia">Symbols</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lijepa_na%C5%A1a_domovino" title="Lijepa naša domovino">Anthem</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Croatia" title="Coat of arms of Croatia">Coat of arms</a></li> 
+                 <li><a href="/wiki/Croatian_national_costume" title="Croatian national costume">Costume</a></li> 
+                 <li><a href="/wiki/Orders,_decorations,_and_medals_of_Croatia" title="Orders, decorations, and medals of Croatia">Decorations</a></li> 
+                 <li><a href="/wiki/List_of_Croatian_flags" title="List of Croatian flags">Flags</a></li> 
+                 <li><a href="/wiki/Croatian_interlace" title="Croatian interlace">Interlace</a></li> 
+                 <li><a href="/wiki/List_of_Croatian_mottos" title="List of Croatian mottos">Motto</a></li> 
+                 <li><a href="/wiki/Name_of_Croatia" class="mw-redirect" title="Name of Croatia">Name</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Croatia" title="Outline of Croatia">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Croatia-related_articles" title="Index of Croatia-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Croatia" title="Category:Croatia">Category</a></li> 
+             <li><a href="/wiki/Portal:Croatia" title="Portal:Croatia">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="List_of_political_parties_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:List_of_political_parties_in_Europe" title="Template:List of political parties in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:List_of_political_parties_in_Europe" title="Template talk:List of political parties in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:List_of_political_parties_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="List_of_political_parties_in_Europe" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/List_of_political_parties_in_Europe" class="mw-redirect" title="List of political parties in Europe">List of political parties in Europe </a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_political_parties_in_Albania" title="List of political parties in Albania">Albania</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Andorra" title="List of political parties in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Armenia" title="List of political parties in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Austria" title="List of political parties in Austria">Austria</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Azerbaijan" title="List of political parties in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Belarus" title="List of political parties in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Political_parties_in_Belgium" title="Political parties in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Bosnia_and_Herzegovina" title="List of political parties in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Bulgaria" title="List of political parties in Bulgaria">Bulgaria</a></li> 
+             <li><a class="mw-selflink selflink">Croatia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Cyprus" title="List of political parties in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_Czech_Republic" title="List of political parties in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Denmark" title="List of political parties in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Estonia" title="List of political parties in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Finland" title="List of political parties in Finland">Finland</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_France" title="List of political parties in France">France</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Georgia" title="List of political parties in Georgia">Georgia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Germany" title="List of political parties in Germany">Germany</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Greece" title="List of political parties in Greece">Greece</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Hungary" title="List of political parties in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Iceland" title="List of political parties in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_Republic_of_Ireland" title="List of political parties in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Italy" title="List of political parties in Italy">Italy</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Kazakhstan" title="List of political parties in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Latvia" title="List of political parties in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Liechtenstein" title="List of political parties in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Lithuania" title="List of political parties in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Luxembourg" title="List of political parties in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Malta" title="List of political parties in Malta">Malta</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Moldova" title="List of political parties in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Monaco" title="List of political parties in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Montenegro" title="List of political parties in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_Netherlands" title="List of political parties in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_North_Macedonia" title="List of political parties in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Norway" title="List of political parties in Norway">Norway</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Poland" title="List of political parties in Poland">Poland</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Portugal" title="List of political parties in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Romania" title="List of political parties in Romania">Romania</a></li> 
+             <li><a href="/wiki/Political_parties_in_Russia" title="Political parties in Russia">Russia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_San_Marino" title="List of political parties in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Serbia" title="List of political parties in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Slovakia" title="List of political parties in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Slovenia" title="List of political parties in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Spain" title="List of political parties in Spain">Spain</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Sweden" title="List of political parties in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Switzerland" title="List of political parties in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Turkey" title="List of political parties in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Ukraine" title="List of political parties in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_United_Kingdom" title="List of political parties in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Politics_of_Vatican_City" title="Politics of Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_political_parties_in_Abkhazia" title="List of political parties in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Artsakh" title="List of political parties in Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Kosovo" title="List of political parties in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Northern_Cyprus" title="List of political parties in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_South_Ossetia" title="List of political parties in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Transnistria" title="List of political parties in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_political_parties_in_%C3%85land" title="List of political parties in Åland">Åland</a></li> 
+             <li><a href="/wiki/List_of_political_parties_on_the_Faroe_Islands" title="List of political parties on the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Gibraltar" title="List of political parties in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Guernsey" class="mw-redirect" title="List of political parties in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_Isle_of_Man" class="mw-redirect" title="List of political parties in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Jersey" title="List of political parties in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/List_of_political_parties_in_Svalbard" class="mw-redirect" title="List of political parties in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/European_political_party" title="European political party">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1346
+Cached time: 20191025160608
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.724 seconds
+Real time usage: 0.900 seconds
+Preprocessor visited node count: 16244/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 158397/2097152 bytes
+Template argument size: 22434/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13817/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.190/10.000 seconds
+Lua memory usage: 4.83 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  732.836      1 -total
+ 35.63%  261.093      6 Template:Navbox
+ 26.78%  196.236      1 Template:List_of_political_parties_in_Europe
+ 26.37%  193.275      1 Template:Europe_topic
+ 22.38%  164.012     60 Template:Composition_bar
+ 21.33%  156.292     46 Template:Iso2country
+ 17.10%  125.339      1 Template:Reflist
+ 13.92%  101.981     60 Template:Min
+ 12.52%   91.751      4 Template:Cite_web
+ 10.69%   78.336      1 Template:Politics_of_Croatia
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:409011-0!canonical and timestamp 20191025160608 and revision id 922987848
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_political_parties_in_Croatia&amp;oldid=922987848">https://en.wikipedia.org/w/index.php?title=List_of_political_parties_in_Croatia&amp;oldid=922987848</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Lists_of_political_parties_by_country" title="Category:Lists of political parties by country">Lists of political parties by country</a></li>
+       <li><a href="/wiki/Category:Political_parties_in_Croatia" title="Category:Political parties in Croatia">Political parties in Croatia</a></li>
+       <li><a href="/wiki/Category:Croatia_politics-related_lists" title="Category:Croatia politics-related lists">Croatia politics-related lists</a></li>
+       <li><a href="/wiki/Category:Lists_of_organizations_based_in_Croatia" title="Category:Lists of organizations based in Croatia">Lists of organizations based in Croatia</a></li>
+       <li><a href="/wiki/Category:Lists_of_political_parties_in_Europe" title="Category:Lists of political parties in Europe">Lists of political parties in Europe</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Croatian-language_sources_(hr)" title="Category:CS1 Croatian-language sources (hr)">CS1 Croatian-language sources (hr)</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+political+parties+in+Croatia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+political+parties+in+Croatia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_political_parties_in_Croatia" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:List_of_political_parties_in_Croatia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_political_parties_in_Croatia">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_political_parties_in_Croatia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_political_parties_in_Croatia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;oldid=922987848" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1280941" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_political_parties_in_Croatia&amp;id=922987848" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label"> 
+     <h3 id="p-wikibase-otherprojects-label">In other projects</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Political_parties_in_Croatia" hreflang="en">Wikimedia Commons</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+political+parties+in+Croatia">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+political+parties+in+Croatia&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=List_of_political_parties_in_Croatia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B8_%D0%B2_%D0%A5%D1%8A%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F" title="Списък на политическите партии в Хърватия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Spisak_politi%C4%8Dkih_stranaka_u_Hrvatskoj" title="Spisak političkih stranaka u Hrvatskoj – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Liste_der_politischen_Parteien_in_Kroatien" title="Liste der politischen Parteien in Kroatien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Liste_des_partis_politiques_de_Croatie" title="Liste des partis politiques de Croatie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%EC%9D%98_%EC%A0%95%EB%8B%B9" title="크로아티아의 정당 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Popis_politi%C4%8Dkih_stranaka_u_Hrvatskoj" title="Popis političkih stranaka u Hrvatskoj – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lijst_van_politieke_partijen_in_Kroati%C3%AB" title="Lijst van politieke partijen in Kroatië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Popis_politi%C4%8Dkih_stranaka_u_Hrvatskoj" title="Popis političkih stranaka u Hrvatskoj – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_politiska_partier_i_Kroatien" title="Lista över politiska partier i Kroatien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%8B%E7%BE%85%E5%9F%83%E8%A5%BF%E4%BA%9E%E6%94%BF%E9%BB%A8%E5%88%97%E8%A1%A8" title="克羅埃西亞政黨列表 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1280941#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 October 2019, at 16:06<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_political_parties_in_Croatia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.900","ppvisitednodes":{"value":16244,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":158397,"limit":2097152},"templateargumentsize":{"value":22434,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13817,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  732.836      1 -total"," 35.63%  261.093      6 Template:Navbox"," 26.78%  196.236      1 Template:List_of_political_parties_in_Europe"," 26.37%  193.275      1 Template:Europe_topic"," 22.38%  164.012     60 Template:Composition_bar"," 21.33%  156.292     46 Template:Iso2country"," 17.10%  125.339      1 Template:Reflist"," 13.92%  101.981     60 Template:Min"," 12.52%   91.751      4 Template:Cite_web"," 10.69%   78.336      1 Template:Politics_of_Croatia"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"10.000"},"limitreport-memusage":{"value":5067438,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20191025160608","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of political parties in Croatia","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_political_parties_in_Croatia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1280941","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1280941","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-20T12:45:14Z","dateModified":"2019-10-25T16:06:08Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1265"});});</script>   
+ </body>
+</html>

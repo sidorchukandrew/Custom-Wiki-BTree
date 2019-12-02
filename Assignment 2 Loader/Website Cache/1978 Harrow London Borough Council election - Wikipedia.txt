@@ -1,0 +1,1757 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>1978 Harrow London Borough Council election - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"1978_Harrow_London_Borough_Council_election","wgTitle":"1978 Harrow London Borough Council election","wgCurRevisionId":873849156,"wgRevisionId":873849156,"wgArticleId":46267318,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2015","Use British English from March 2015","Articles to be expanded from March 2015","All articles to be expanded","Articles with empty sections from March 2015","All articles with empty sections","Articles using small message boxes","All stub articles","Council elections in the London Borough of Harrow","1978 London Borough council elections","England election stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1978_Harrow_London_Borough_Council_election","wgRelevantArticleId":46267318,"wgRequestId":"Xbr9PwpAADsAAITdpDUAAABC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q19787394",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1978_Harrow_London_Borough_Council_election"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/1978_Harrow_London_Borough_Council_election"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1978_Harrow_London_Borough_Council_election rootpage-1978_Harrow_London_Borough_Council_election skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">1978 Harrow London Borough Council election</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p> The <b>1978 Harrow Council election</b> took place on 4 May 1978 to elect members of <a href="/wiki/Harrow_London_Borough_Council" title="Harrow London Borough Council">Harrow London Borough Council</a> in <a href="/wiki/London" title="London">London</a>, England. The whole council was up for election and the <a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">Conservative party</a> stayed in overall control of the council.<sup id="cite_ref-London_1978_election_1-0" class="reference"><a href="#cite_note-London_1978_election-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Election_result"><span class="tocnumber">2</span> <span class="toctext">Election result</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Ward_results"><span class="tocnumber">3</span> <span class="toctext">Ward results</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Empty_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"></a></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           <b>This section is empty.</b> 
+           <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=">adding to it</a>.</small> 
+           <small class="date-container"><i>(<span class="date">March 2015</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Election_result">Election result</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=2" title="Edit section: Election result">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Empty_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"></a></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           <b>This section is empty.</b> 
+           <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=">adding to it</a>.</small> 
+           <small class="date-container"><i>(<span class="date">March 2015</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Ward_results">Ward results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=3" title="Edit section: Ward results">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Canons (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Centenary (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Greenhill (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Harrow on the Hill (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Harrow Weald (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Hatch End (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Headstone North (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Headstone South (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Kenton East (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Kenton West (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Marlborough (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Pinner (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Pinner West (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Rayners Lane (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Ridgeway (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Roxbourne (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Roxeth (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Stanmore Park (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Stanmore South (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Wealdstone (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em">
+        Wemborough (3) 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" colspan="2" style="width: 130px">Party </th> 
+         <th scope="col" style="width: 17em">Candidate </th> 
+         <th scope="col" style="width: 5em">Votes </th> 
+         <th scope="col" style="width: 3.5em">% </th> 
+         <th scope="col" style="width: 3.5em">± </th>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-London_1978_election-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-London_1978_election_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://londondatastore-upload.s3.amazonaws.com/docs/LBCE_1978-5-4.pdf">"London Borough Council Elections 4 May 1978"</a> <span class="cs1-format">(PDF)</span>. <i>London Datastore</i>. Greater London Council<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=London+Datastore&amp;rft.atitle=London+Borough+Council+Elections+4+May+1978&amp;rft_id=https%3A%2F%2Flondondatastore-upload.s3.amazonaws.com%2Fdocs%2FLBCE_1978-5-4.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1978+Harrow+London+Borough+Council+election" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=London&amp;#124;link=London_Elections_and_referendums_in_London" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:London_elections" title="Template:London elections"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:London_elections" title="Template talk:London elections"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:London_elections&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=London&amp;#124;link=London_Elections_and_referendums_in_London" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/London" title="London"><img alt="London" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_City_of_London.svg/23px-Flag_of_the_City_of_London.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_City_of_London.svg/35px-Flag_of_the_City_of_London.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_City_of_London.svg/46px-Flag_of_the_City_of_London.svg.png 2x" data-file-width="500" data-file-height="300"></a></span> Elections and referendums in London
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/London_mayoral_elections" title="London mayoral elections">Mayor of London</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/2000_London_mayoral_election" title="2000 London mayoral election">2000</a></li> 
+             <li><a href="/wiki/2004_London_mayoral_election" title="2004 London mayoral election">2004</a></li> 
+             <li><a href="/wiki/2008_London_mayoral_election" title="2008 London mayoral election">2008</a></li> 
+             <li><a href="/wiki/2012_London_mayoral_election" title="2012 London mayoral election">2012</a></li> 
+             <li><a href="/wiki/2016_London_mayoral_election" title="2016 London mayoral election">2016</a></li> 
+             <li><a href="/wiki/2020_London_mayoral_election" title="2020 London mayoral election"><i>2020</i></a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/2000_London_Assembly_election" title="2000 London Assembly election">2000</a></li> 
+             <li><a href="/wiki/2004_London_Assembly_election" title="2004 London Assembly election">2004</a></li> 
+             <li><a href="/wiki/2008_London_Assembly_election" title="2008 London Assembly election">2008</a></li> 
+             <li><a href="/wiki/2012_London_Assembly_election" title="2012 London Assembly election">2012</a></li> 
+             <li><a href="/wiki/2016_London_Assembly_election" title="2016 London Assembly election">2016</a></li> 
+             <li><a href="/wiki/2020_London_Assembly_election" title="2020 London Assembly election"><i>2020</i></a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Inner_London_Education_Authority" title="Inner London Education Authority">Inner London Education Authority</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1986_Inner_London_Education_Authority_election" title="1986 Inner London Education Authority election">1986</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Greater_London_Council" title="Greater London Council">Greater London Council</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Greater_London_Council_election" title="1964 Greater London Council election">1964</a></li> 
+             <li><a href="/wiki/1967_Greater_London_Council_election" title="1967 Greater London Council election">1967</a></li> 
+             <li><a href="/wiki/1970_Greater_London_Council_election" title="1970 Greater London Council election">1970</a></li> 
+             <li><a href="/wiki/1973_Greater_London_Council_election" title="1973 Greater London Council election">1973</a></li> 
+             <li><a href="/wiki/1977_Greater_London_Council_election" title="1977 Greater London Council election">1977</a></li> 
+             <li><a href="/wiki/1981_Greater_London_Council_election" title="1981 Greater London Council election">1981</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/London_County_Council" title="London County Council">London County Council</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_members_of_London_County_Council_1889%E2%80%931919" title="List of members of London County Council 1889–1919">1889</a></li> 
+             <li><a href="/wiki/1892_London_County_Council_election" class="mw-redirect" title="1892 London County Council election">1892</a></li> 
+             <li><a href="/w/index.php?title=1895_London_County_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1895 London County Council election (page does not exist)">1895</a></li> 
+             <li><a href="/wiki/1898_London_County_Council_election" class="mw-redirect" title="1898 London County Council election">1898</a></li> 
+             <li><a href="/wiki/1901_London_County_Council_election" title="1901 London County Council election">1901</a></li> 
+             <li><a href="/wiki/1904_London_County_Council_election" class="mw-redirect" title="1904 London County Council election">1904</a></li> 
+             <li><a href="/wiki/1907_London_County_Council_election" class="mw-redirect" title="1907 London County Council election">1907</a></li> 
+             <li><a href="/wiki/1910_London_County_Council_election" title="1910 London County Council election">1910</a></li> 
+             <li><a href="/wiki/1913_London_County_Council_election" title="1913 London County Council election">1913</a></li> 
+             <li><a href="/wiki/1919_London_County_Council_election" title="1919 London County Council election">1919</a></li> 
+             <li><a href="/wiki/1922_London_County_Council_election" title="1922 London County Council election">1922</a></li> 
+             <li><a href="/wiki/1925_London_County_Council_election" title="1925 London County Council election">1925</a></li> 
+             <li><a href="/wiki/1928_London_County_Council_election" title="1928 London County Council election">1928</a></li> 
+             <li><a href="/wiki/1931_London_County_Council_election" title="1931 London County Council election">1931</a></li> 
+             <li><a href="/wiki/1934_London_County_Council_election" title="1934 London County Council election">1934</a></li> 
+             <li><a href="/wiki/1937_London_County_Council_election" title="1937 London County Council election">1937</a></li> 
+             <li><a href="/wiki/1946_London_County_Council_election" title="1946 London County Council election">1946</a></li> 
+             <li><a href="/wiki/1949_London_County_Council_election" title="1949 London County Council election">1949</a></li> 
+             <li><a href="/wiki/1952_London_County_Council_election" title="1952 London County Council election">1952</a></li> 
+             <li><a href="/wiki/1955_London_County_Council_election" title="1955 London County Council election">1955</a></li> 
+             <li><a href="/wiki/1958_London_County_Council_election" title="1958 London County Council election">1958</a></li> 
+             <li><a href="/wiki/1961_London_County_Council_election" title="1961 London County Council election">1961</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/London_boroughs" title="London boroughs">Borough Councils</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_London_local_elections" title="1964 London local elections">1964</a></li> 
+             <li><a href="/wiki/1968_London_local_elections" title="1968 London local elections">1968</a></li> 
+             <li><a href="/wiki/1971_London_local_elections" title="1971 London local elections">1971</a></li> 
+             <li><a href="/wiki/1974_London_local_elections" title="1974 London local elections">1974</a></li> 
+             <li><a href="/wiki/1978_London_local_elections" title="1978 London local elections">1978</a></li> 
+             <li><a href="/wiki/1982_London_local_elections" title="1982 London local elections">1982</a></li> 
+             <li><a href="/wiki/1986_London_local_elections" title="1986 London local elections">1986</a></li> 
+             <li><a href="/wiki/1990_London_local_elections" title="1990 London local elections">1990</a></li> 
+             <li><a href="/wiki/1994_London_local_elections" title="1994 London local elections">1994</a></li> 
+             <li><a href="/wiki/1998_London_local_elections" title="1998 London local elections">1998</a></li> 
+             <li><a href="/wiki/2002_London_local_elections" title="2002 London local elections">2002</a></li> 
+             <li><a href="/wiki/2006_London_local_elections" title="2006 London local elections">2006</a></li> 
+             <li><a href="/wiki/2010_London_local_elections" title="2010 London local elections">2010</a></li> 
+             <li><a href="/wiki/2014_London_local_elections" title="2014 London local elections">2014</a></li> 
+             <li><a href="/wiki/2018_London_local_elections" title="2018 London local elections">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Referendums</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1998_Greater_London_Authority_referendum" title="1998 Greater London Authority referendum">1998</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div> 
+            <dl>
+             <dt>
+              <style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style>
+              <span class="nobold">See also</span>
+             </dt> 
+             <dd>
+              <a href="/wiki/Template:Greater_London_elections" title="Template:Greater London elections">Elections in London Boroughs</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/Middlesex_County_Council_elections" title="Middlesex County Council elections">Middlesex County Council elections</a>
+             </dd>
+            </dl> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Greater_London&amp;#124;link=Greater_London_Council_elections_in_Greater_London" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Greater_London_elections" title="Template:Greater London elections"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Greater_London_elections" title="Template talk:Greater London elections"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Greater_London_elections&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Greater_London&amp;#124;link=Greater_London_Council_elections_in_Greater_London" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Greater_London" title="Greater London"><img alt="Greater London" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/County_Flag_of_Greater_London.svg/23px-County_Flag_of_Greater_London.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/County_Flag_of_Greater_London.svg/35px-County_Flag_of_Greater_London.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/County_Flag_of_Greater_London.svg/46px-County_Flag_of_Greater_London.svg.png 2x" data-file-width="1998" data-file-height="1198"></a></span> Council elections in 
+            <a href="/wiki/Greater_London" title="Greater London">Greater London</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Barking_and_Dagenham_London_Borough_Council_elections" title="Barking and Dagenham London Borough Council elections">Barking and Dagenham</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Barking_London_Borough_Council_election" title="1964 Barking London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Barking_London_Borough_Council_election" title="1968 Barking London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Barking_London_Borough_Council_election" title="1971 Barking London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Barking_London_Borough_Council_election" title="1974 Barking London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Barking_London_Borough_Council_election" title="1978 Barking London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Barking_and_Dagenham_London_Borough_Council_election" title="1982 Barking and Dagenham London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Barking_and_Dagenham_London_Borough_Council_election" title="1986 Barking and Dagenham London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Barking_and_Dagenham_London_Borough_Council_election" title="1990 Barking and Dagenham London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Barking_and_Dagenham_London_Borough_Council_election" title="1994 Barking and Dagenham London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Barking_and_Dagenham_London_Borough_Council_election" title="1998 Barking and Dagenham London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Barking_and_Dagenham_London_Borough_Council_election" title="2002 Barking and Dagenham London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Barking_and_Dagenham_London_Borough_Council_election" title="2006 Barking and Dagenham London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Barking_and_Dagenham_London_Borough_Council_election" title="2010 Barking and Dagenham London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Barking_and_Dagenham_London_Borough_Council_election" title="2014 Barking and Dagenham London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Barking_and_Dagenham_London_Borough_Council_election" title="2018 Barking and Dagenham London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Barnet_London_Borough_Council_elections" title="Barnet London Borough Council elections">Barnet</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Barnet_London_Borough_Council_election" title="1964 Barnet London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Barnet_London_Borough_Council_election" title="1968 Barnet London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Barnet_London_Borough_Council_election" title="1971 Barnet London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Barnet_London_Borough_Council_election" title="1974 Barnet London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Barnet_London_Borough_Council_election" title="1978 Barnet London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Barnet_London_Borough_Council_election" title="1982 Barnet London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Barnet_London_Borough_Council_election" title="1986 Barnet London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Barnet_London_Borough_Council_election" title="1990 Barnet London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Barnet_London_Borough_Council_election" title="1994 Barnet London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Barnet_London_Borough_Council_election" title="1998 Barnet London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Barnet_London_Borough_Council_election" title="2002 Barnet London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Barnet_London_Borough_Council_election" title="2006 Barnet London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Barnet_London_Borough_Council_election" title="2010 Barnet London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Barnet_London_Borough_Council_election" title="2014 Barnet London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Barnet_London_Borough_Council_election" title="2018 Barnet London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bexley_London_Borough_Council_elections" title="Bexley London Borough Council elections">Bexley</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Bexley_London_Borough_Council_election" title="1964 Bexley London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Bexley_London_Borough_Council_election" title="1968 Bexley London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Bexley_London_Borough_Council_election" title="1971 Bexley London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Bexley_London_Borough_Council_election" title="1974 Bexley London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Bexley_London_Borough_Council_election" title="1978 Bexley London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Bexley_London_Borough_Council_election" title="1982 Bexley London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Bexley_London_Borough_Council_election" title="1986 Bexley London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Bexley_London_Borough_Council_election" title="1990 Bexley London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Bexley_London_Borough_Council_election" title="1994 Bexley London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Bexley_London_Borough_Council_election" title="1998 Bexley London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Bexley_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Bexley London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Bexley_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Bexley London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Bexley_London_Borough_Council_election" title="2010 Bexley London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Bexley_London_Borough_Council_election" title="2014 Bexley London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Bexley_London_Borough_Council_election" title="2018 Bexley London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Brent_London_Borough_Council_elections" title="Brent London Borough Council elections">Brent</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Brent_London_Borough_Council_election" title="1964 Brent London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Brent_London_Borough_Council_election" title="1968 Brent London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Brent_London_Borough_Council_election" title="1971 Brent London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Brent_London_Borough_Council_election" title="1974 Brent London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Brent_London_Borough_Council_election" title="1978 Brent London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Brent_London_Borough_Council_election" title="1982 Brent London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Brent_London_Borough_Council_election" title="1986 Brent London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Brent_London_Borough_Council_election" title="1990 Brent London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Brent_London_Borough_Council_election" title="1994 Brent London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Brent_London_Borough_Council_election" title="1998 Brent London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Brent_London_Borough_Council_election" title="2002 Brent London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Brent_London_Borough_Council_election" title="2006 Brent London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Brent_London_Borough_Council_election" title="2010 Brent London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Brent_London_Borough_Council_election" title="2014 Brent London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Brent_London_Borough_Council_election" title="2018 Brent London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bromley_London_Borough_Council_elections" title="Bromley London Borough Council elections">Bromley</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Bromley_London_Borough_Council_election" title="1964 Bromley London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Bromley_London_Borough_Council_election" title="1968 Bromley London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Bromley_London_Borough_Council_election" title="1971 Bromley London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Bromley_London_Borough_Council_election" title="1974 Bromley London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Bromley_London_Borough_Council_election" title="1978 Bromley London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Bromley_London_Borough_Council_election" title="1982 Bromley London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Bromley_London_Borough_Council_election" title="1986 Bromley London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Bromley_London_Borough_Council_election" title="1990 Bromley London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Bromley_London_Borough_Council_election" title="1994 Bromley London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Bromley_London_Borough_Council_election" title="1998 Bromley London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Bromley_London_Borough_Council_election" title="2002 Bromley London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Bromley_London_Borough_Council_election" title="2006 Bromley London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Bromley_London_Borough_Council_election" title="2010 Bromley London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Bromley_London_Borough_Council_election" title="2014 Bromley London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Bromley_London_Borough_Council_election" title="2018 Bromley London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Camden_London_Borough_Council_elections" title="Camden London Borough Council elections">Camden</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Camden_London_Borough_Council_election" title="1964 Camden London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Camden_London_Borough_Council_election" title="1968 Camden London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Camden_London_Borough_Council_election" title="1971 Camden London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Camden_London_Borough_Council_election" title="1974 Camden London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Camden_London_Borough_Council_election" title="1978 Camden London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Camden_London_Borough_Council_election" title="1982 Camden London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Camden_London_Borough_Council_election" title="1986 Camden London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Camden_London_Borough_Council_election" title="1990 Camden London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Camden_London_Borough_Council_election" title="1994 Camden London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Camden_London_Borough_Council_election" title="1998 Camden London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Camden_London_Borough_Council_election" title="2002 Camden London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Camden_London_Borough_Council_election" title="2006 Camden London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Camden_London_Borough_Council_election" title="2010 Camden London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Camden_London_Borough_Council_election" title="2014 Camden London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Camden_London_Borough_Council_election" title="2018 Camden London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_London_Corporation_elections" title="City of London Corporation elections">City</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=2001_City_of_London_Corporation_election&amp;action=edit&amp;redlink=1" class="new" title="2001 City of London Corporation election (page does not exist)">2001</a></li> 
+             <li><a href="/w/index.php?title=2005_City_of_London_Corporation_election&amp;action=edit&amp;redlink=1" class="new" title="2005 City of London Corporation election (page does not exist)">2005</a></li> 
+             <li><a href="/wiki/2009_City_of_London_Corporation_election" title="2009 City of London Corporation election">2009</a></li> 
+             <li><a href="/wiki/2013_City_of_London_Corporation_election" title="2013 City of London Corporation election">2013</a></li> 
+             <li><a href="/wiki/2017_City_of_London_Corporation_election" title="2017 City of London Corporation election">2017</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Croydon_London_Borough_Council_elections" title="Croydon London Borough Council elections">Croydon</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Croydon_London_Borough_Council_election" title="1964 Croydon London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Croydon_London_Borough_Council_election" title="1968 Croydon London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Croydon_London_Borough_Council_election" title="1971 Croydon London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Croydon_London_Borough_Council_election" title="1974 Croydon London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Croydon_London_Borough_Council_election" title="1978 Croydon London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Croydon_London_Borough_Council_election" title="1982 Croydon London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Croydon_London_Borough_Council_election" title="1986 Croydon London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Croydon_London_Borough_Council_election" title="1990 Croydon London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Croydon_London_Borough_Council_election" title="1994 Croydon London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Croydon_London_Borough_Council_election" title="1998 Croydon London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Croydon_London_Borough_Council_election" title="2002 Croydon London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Croydon_London_Borough_Council_election" title="2006 Croydon London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Croydon_London_Borough_Council_election" title="2010 Croydon London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Croydon_London_Borough_Council_election" title="2014 Croydon London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Croydon_London_Borough_Council_election" title="2018 Croydon London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ealing_London_Borough_Council_elections" title="Ealing London Borough Council elections">Ealing</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Ealing_London_Borough_Council_election" title="1964 Ealing London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Ealing_London_Borough_Council_election" title="1968 Ealing London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Ealing_London_Borough_Council_election" title="1971 Ealing London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Ealing_London_Borough_Council_election" title="1974 Ealing London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Ealing_London_Borough_Council_election" title="1978 Ealing London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Ealing_London_Borough_Council_election" title="1982 Ealing London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Ealing_London_Borough_Council_election" title="1986 Ealing London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Ealing_London_Borough_Council_election" title="1990 Ealing London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Ealing_London_Borough_Council_election" title="1994 Ealing London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Ealing_London_Borough_Council_election" title="1998 Ealing London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Ealing_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Ealing London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Ealing_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Ealing London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Ealing_London_Borough_Council_election" title="2010 Ealing London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Ealing_London_Borough_Council_election" title="2014 Ealing London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Ealing_London_Borough_Council_election" title="2018 Ealing London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Enfield_London_Borough_Council_elections" title="Enfield London Borough Council elections">Enfield</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Enfield_London_Borough_Council_election" title="1964 Enfield London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Enfield_London_Borough_Council_election" title="1968 Enfield London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Enfield_London_Borough_Council_election" title="1971 Enfield London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Enfield_London_Borough_Council_election" title="1974 Enfield London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Enfield_London_Borough_Council_election" title="1978 Enfield London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Enfield_London_Borough_Council_election" title="1982 Enfield London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Enfield_London_Borough_Council_election" title="1986 Enfield London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Enfield_London_Borough_Council_election" title="1990 Enfield London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Enfield_London_Borough_Council_election" title="1994 Enfield London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Enfield_London_Borough_Council_election" title="1998 Enfield London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Enfield_London_Borough_Council_election" title="2002 Enfield London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Enfield_London_Borough_Council_election" title="2006 Enfield London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Enfield_London_Borough_Council_election" title="2010 Enfield London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Enfield_London_Borough_Council_election" title="2014 Enfield London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Enfield_London_Borough_Council_election" title="2018 Enfield London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Greenwich_London_Borough_Council_elections" title="Greenwich London Borough Council elections">Greenwich</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Greenwich_London_Borough_Council_election" title="1964 Greenwich London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Greenwich_London_Borough_Council_election" title="1968 Greenwich London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Greenwich_London_Borough_Council_election" title="1971 Greenwich London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Greenwich_London_Borough_Council_election" title="1974 Greenwich London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Greenwich_London_Borough_Council_election" title="1978 Greenwich London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Greenwich_London_Borough_Council_election" title="1982 Greenwich London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Greenwich_London_Borough_Council_election" title="1986 Greenwich London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Greenwich_London_Borough_Council_election" title="1990 Greenwich London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Greenwich_London_Borough_Council_election" title="1994 Greenwich London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Greenwich_London_Borough_Council_election" title="1998 Greenwich London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Greenwich_London_Borough_Council_election" title="2002 Greenwich London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Greenwich_London_Borough_Council_election" title="2006 Greenwich London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Greenwich_London_Borough_Council_election" title="2010 Greenwich London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Greenwich_London_Borough_Council_election" title="2014 Greenwich London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Greenwich_London_Borough_Council_election" title="2018 Greenwich London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hackney_London_Borough_Council_elections" title="Hackney London Borough Council elections">Hackney</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Hackney_London_Borough_Council_election" title="1964 Hackney London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Hackney_London_Borough_Council_election" title="1968 Hackney London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Hackney_London_Borough_Council_election" title="1971 Hackney London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Hackney_London_Borough_Council_election" title="1974 Hackney London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Hackney_London_Borough_Council_election" title="1978 Hackney London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Hackney_London_Borough_Council_election" title="1982 Hackney London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Hackney_London_Borough_Council_election" title="1986 Hackney London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Hackney_London_Borough_Council_election" title="1990 Hackney London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Hackney_London_Borough_Council_election" title="1994 Hackney London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Hackney_London_Borough_Council_election" title="1998 Hackney London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Hackney_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Hackney London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/wiki/2006_Hackney_London_Borough_Council_election" title="2006 Hackney London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Hackney_London_Borough_Council_election" title="2010 Hackney London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Hackney_London_Borough_Council_election" title="2014 Hackney London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Hackney_London_Borough_Council_election" title="2018 Hackney London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hammersmith_and_Fulham_London_Borough_Council_elections" title="Hammersmith and Fulham London Borough Council elections">Hammersmith and Fulham</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Hammersmith_London_Borough_Council_election" title="1964 Hammersmith London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Hammersmith_London_Borough_Council_election" title="1968 Hammersmith London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Hammersmith_London_Borough_Council_election" title="1971 Hammersmith London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Hammersmith_London_Borough_Council_election" title="1974 Hammersmith London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Hammersmith_London_Borough_Council_election" title="1978 Hammersmith London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Hammersmith_and_Fulham_London_Borough_Council_election" title="1982 Hammersmith and Fulham London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Hammersmith_and_Fulham_London_Borough_Council_election" title="1986 Hammersmith and Fulham London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Hammersmith_and_Fulham_London_Borough_Council_election" title="1990 Hammersmith and Fulham London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Hammersmith_and_Fulham_London_Borough_Council_election" title="1994 Hammersmith and Fulham London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Hammersmith_and_Fulham_London_Borough_Council_election" title="1998 Hammersmith and Fulham London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Hammersmith_and_Fulham_London_Borough_Council_election" title="2002 Hammersmith and Fulham London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Hammersmith_and_Fulham_London_Borough_Council_election" title="2006 Hammersmith and Fulham London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Hammersmith_and_Fulham_London_Borough_Council_election" title="2010 Hammersmith and Fulham London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Hammersmith_and_Fulham_London_Borough_Council_election" title="2014 Hammersmith and Fulham London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Hammersmith_and_Fulham_London_Borough_Council_election" title="2018 Hammersmith and Fulham London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Haringey_London_Borough_Council_elections" title="Haringey London Borough Council elections">Haringey</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Haringey_London_Borough_Council_election" title="1964 Haringey London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Haringey_London_Borough_Council_election" title="1968 Haringey London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Haringey_London_Borough_Council_election" title="1971 Haringey London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Haringey_London_Borough_Council_election" title="1974 Haringey London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Haringey_London_Borough_Council_election" title="1978 Haringey London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Haringey_London_Borough_Council_election" title="1982 Haringey London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Haringey_London_Borough_Council_election" title="1986 Haringey London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Haringey_London_Borough_Council_election" title="1990 Haringey London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Haringey_London_Borough_Council_election" title="1994 Haringey London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Haringey_London_Borough_Council_election" title="1998 Haringey London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Haringey_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Haringey London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/wiki/2006_Haringey_London_Borough_Council_election" title="2006 Haringey London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Haringey_London_Borough_Council_election" title="2010 Haringey London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Haringey_London_Borough_Council_election" title="2014 Haringey London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Haringey_London_Borough_Council_election" title="2018 Haringey London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Harrow_London_Borough_Council_elections" title="Harrow London Borough Council elections">Harrow</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Harrow_London_Borough_Council_election" title="1964 Harrow London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Harrow_London_Borough_Council_election" title="1968 Harrow London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Harrow_London_Borough_Council_election" title="1971 Harrow London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Harrow_London_Borough_Council_election" title="1974 Harrow London Borough Council election">1974</a></li> 
+             <li><a class="mw-selflink selflink">1978</a></li> 
+             <li><a href="/wiki/1982_Harrow_London_Borough_Council_election" title="1982 Harrow London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Harrow_London_Borough_Council_election" title="1986 Harrow London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Harrow_London_Borough_Council_election" title="1990 Harrow London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Harrow_London_Borough_Council_election" title="1994 Harrow London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Harrow_London_Borough_Council_election" title="1998 Harrow London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Harrow_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Harrow London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Harrow_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Harrow London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Harrow_London_Borough_Council_election" title="2010 Harrow London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Harrow_London_Borough_Council_election" title="2014 Harrow London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Harrow_London_Borough_Council_election" title="2018 Harrow London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Havering_London_Borough_Council_elections" title="Havering London Borough Council elections">Havering</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Havering_London_Borough_Council_election" title="1964 Havering London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Havering_London_Borough_Council_election" title="1968 Havering London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Havering_London_Borough_Council_election" title="1971 Havering London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Havering_London_Borough_Council_election" title="1974 Havering London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Havering_London_Borough_Council_election" title="1978 Havering London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Havering_London_Borough_Council_election" title="1982 Havering London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Havering_London_Borough_Council_election" title="1986 Havering London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Havering_London_Borough_Council_election" title="1990 Havering London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Havering_London_Borough_Council_election" title="1994 Havering London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Havering_London_Borough_Council_election" title="1998 Havering London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Havering_London_Borough_Council_election" title="2002 Havering London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Havering_London_Borough_Council_election" title="2006 Havering London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Havering_London_Borough_Council_election" title="2010 Havering London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Havering_London_Borough_Council_election" title="2014 Havering London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Havering_London_Borough_Council_election" title="2018 Havering London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hillingdon_London_Borough_Council_elections" title="Hillingdon London Borough Council elections">Hillingdon</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Hillingdon_London_Borough_Council_election" title="1964 Hillingdon London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Hillingdon_London_Borough_Council_election" title="1968 Hillingdon London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Hillingdon_London_Borough_Council_election" title="1971 Hillingdon London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Hillingdon_London_Borough_Council_election" title="1974 Hillingdon London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Hillingdon_London_Borough_Council_election" title="1978 Hillingdon London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Hillingdon_London_Borough_Council_election" title="1982 Hillingdon London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Hillingdon_London_Borough_Council_election" title="1986 Hillingdon London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Hillingdon_London_Borough_Council_election" title="1990 Hillingdon London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Hillingdon_London_Borough_Council_election" title="1994 Hillingdon London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Hillingdon_London_Borough_Council_election" title="1998 Hillingdon London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Hillingdon_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Hillingdon London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Hillingdon_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Hillingdon London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Hillingdon_London_Borough_Council_election" title="2010 Hillingdon London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Hillingdon_London_Borough_Council_election" title="2014 Hillingdon London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Hillingdon_London_Borough_Council_election" title="2018 Hillingdon London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hounslow_London_Borough_Council_elections" title="Hounslow London Borough Council elections">Hounslow</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Hounslow_London_Borough_Council_election" title="1964 Hounslow London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Hounslow_London_Borough_Council_election" title="1968 Hounslow London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Hounslow_London_Borough_Council_election" title="1971 Hounslow London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Hounslow_London_Borough_Council_election" title="1974 Hounslow London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Hounslow_London_Borough_Council_election" title="1978 Hounslow London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Hounslow_London_Borough_Council_election" title="1982 Hounslow London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Hounslow_London_Borough_Council_election" title="1986 Hounslow London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Hounslow_London_Borough_Council_election" title="1990 Hounslow London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Hounslow_London_Borough_Council_election" title="1994 Hounslow London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Hounslow_London_Borough_Council_election" title="1998 Hounslow London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Hounslow_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Hounslow London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Hounslow_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Hounslow London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Hounslow_London_Borough_Council_election" title="2010 Hounslow London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Hounslow_London_Borough_Council_election" title="2014 Hounslow London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Hounslow_London_Borough_Council_election" title="2018 Hounslow London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Islington_London_Borough_Council_elections" title="Islington London Borough Council elections">Islington</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Islington_London_Borough_Council_election" title="1964 Islington London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Islington_London_Borough_Council_election" title="1968 Islington London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Islington_London_Borough_Council_election" title="1971 Islington London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Islington_London_Borough_Council_election" title="1974 Islington London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Islington_London_Borough_Council_election" title="1978 Islington London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Islington_London_Borough_Council_election" title="1982 Islington London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Islington_London_Borough_Council_election" title="1986 Islington London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Islington_London_Borough_Council_election" title="1990 Islington London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Islington_London_Borough_Council_election" title="1994 Islington London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Islington_London_Borough_Council_election" title="1998 Islington London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Islington_London_Borough_Council_election" title="2002 Islington London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Islington_London_Borough_Council_election" title="2006 Islington London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Islington_London_Borough_Council_election" title="2010 Islington London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Islington_London_Borough_Council_election" title="2014 Islington London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Islington_London_Borough_Council_election" title="2018 Islington London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kensington_and_Chelsea_London_Borough_Council_elections" title="Kensington and Chelsea London Borough Council elections">Kensington and Chelsea</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Kensington_and_Chelsea_London_Borough_Council_election" title="1964 Kensington and Chelsea London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Kensington_and_Chelsea_London_Borough_Council_election" title="1968 Kensington and Chelsea London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Kensington_and_Chelsea_London_Borough_Council_election" title="1971 Kensington and Chelsea London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Kensington_and_Chelsea_London_Borough_Council_election" title="1974 Kensington and Chelsea London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Kensington_and_Chelsea_London_Borough_Council_election" title="1978 Kensington and Chelsea London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Kensington_and_Chelsea_London_Borough_Council_election" title="1982 Kensington and Chelsea London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Kensington_and_Chelsea_London_Borough_Council_election" title="1986 Kensington and Chelsea London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Kensington_and_Chelsea_London_Borough_Council_election" title="1990 Kensington and Chelsea London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Kensington_and_Chelsea_London_Borough_Council_election" title="1994 Kensington and Chelsea London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Kensington_and_Chelsea_London_Borough_Council_election" title="1998 Kensington and Chelsea London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Kensington_and_Chelsea_London_Borough_Council_election" title="2002 Kensington and Chelsea London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Kensington_and_Chelsea_London_Borough_Council_election" title="2006 Kensington and Chelsea London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Kensington_and_Chelsea_London_Borough_Council_election" title="2010 Kensington and Chelsea London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Kensington_and_Chelsea_London_Borough_Council_election" title="2014 Kensington and Chelsea London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Kensington_and_Chelsea_London_Borough_Council_election" title="2018 Kensington and Chelsea London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kingston_upon_Thames_London_Borough_Council_elections" title="Kingston upon Thames London Borough Council elections">Kingston upon Thames</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Kingston_upon_Thames_London_Borough_Council_election" title="1964 Kingston upon Thames London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Kingston_upon_Thames_London_Borough_Council_election" title="1968 Kingston upon Thames London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Kingston_upon_Thames_London_Borough_Council_election" title="1971 Kingston upon Thames London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Kingston_upon_Thames_London_Borough_Council_election" title="1974 Kingston upon Thames London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Kingston_upon_Thames_London_Borough_Council_election" title="1978 Kingston upon Thames London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Kingston_upon_Thames_London_Borough_Council_election" title="1982 Kingston upon Thames London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Kingston_upon_Thames_London_Borough_Council_election" title="1986 Kingston upon Thames London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Kingston_upon_Thames_London_Borough_Council_election" title="1990 Kingston upon Thames London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Kingston_upon_Thames_London_Borough_Council_election" title="1994 Kingston upon Thames London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Kingston_upon_Thames_London_Borough_Council_election" title="1998 Kingston upon Thames London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Kingston_upon_Thames_London_Borough_Council_election" title="2002 Kingston upon Thames London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Kingston_upon_Thames_London_Borough_Council_election" title="2006 Kingston upon Thames London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Kingston_upon_Thames_London_Borough_Council_election" title="2010 Kingston upon Thames London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Kingston_upon_Thames_London_Borough_Council_election" title="2014 Kingston upon Thames London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Kingston_upon_Thames_London_Borough_Council_election" title="2018 Kingston upon Thames London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lambeth_London_Borough_Council_elections" title="Lambeth London Borough Council elections">Lambeth</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Lambeth_London_Borough_Council_election" title="1964 Lambeth London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Lambeth_London_Borough_Council_election" title="1968 Lambeth London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Lambeth_London_Borough_Council_election" title="1971 Lambeth London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Lambeth_London_Borough_Council_election" title="1974 Lambeth London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Lambeth_London_Borough_Council_election" title="1978 Lambeth London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Lambeth_London_Borough_Council_election" title="1982 Lambeth London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Lambeth_London_Borough_Council_election" title="1986 Lambeth London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Lambeth_London_Borough_Council_election" title="1990 Lambeth London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Lambeth_London_Borough_Council_election" title="1994 Lambeth London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Lambeth_London_Borough_Council_election" title="1998 Lambeth London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Lambeth_London_Borough_Council_election" title="2002 Lambeth London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Lambeth_London_Borough_Council_election" title="2006 Lambeth London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Lambeth_London_Borough_Council_election" title="2010 Lambeth London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Lambeth_London_Borough_Council_election" title="2014 Lambeth London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Lambeth_London_Borough_Council_election" title="2018 Lambeth London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lewisham_London_Borough_Council_elections" title="Lewisham London Borough Council elections">Lewisham</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Lewisham_London_Borough_Council_election" title="1964 Lewisham London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Lewisham_London_Borough_Council_election" title="1968 Lewisham London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Lewisham_London_Borough_Council_election" title="1971 Lewisham London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Lewisham_London_Borough_Council_election" title="1974 Lewisham London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Lewisham_London_Borough_Council_election" title="1978 Lewisham London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Lewisham_London_Borough_Council_election" title="1982 Lewisham London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Lewisham_London_Borough_Council_election" title="1986 Lewisham London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Lewisham_London_Borough_Council_election" title="1990 Lewisham London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Lewisham_London_Borough_Council_election" title="1994 Lewisham London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Lewisham_London_Borough_Council_election" title="1998 Lewisham London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Lewisham_London_Borough_Council_election" title="2002 Lewisham London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Lewisham_London_Borough_Council_election" title="2006 Lewisham London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Lewisham_London_Borough_Council_election" title="2010 Lewisham London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Lewisham_London_Borough_Council_election" title="2014 Lewisham London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Lewisham_London_Borough_Council_election" title="2018 Lewisham London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Merton_London_Borough_Council_elections" title="Merton London Borough Council elections">Merton</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Merton_London_Borough_Council_election" title="1964 Merton London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Merton_London_Borough_Council_election" title="1968 Merton London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Merton_London_Borough_Council_election" title="1971 Merton London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Merton_London_Borough_Council_election" title="1974 Merton London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Merton_London_Borough_Council_election" title="1978 Merton London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Merton_London_Borough_Council_election" title="1982 Merton London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Merton_London_Borough_Council_election" title="1986 Merton London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Merton_London_Borough_Council_election" title="1990 Merton London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Merton_London_Borough_Council_election" title="1994 Merton London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Merton_London_Borough_Council_election" title="1998 Merton London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Merton_London_Borough_Council_election" title="2002 Merton London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Merton_London_Borough_Council_election" title="2006 Merton London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Merton_London_Borough_Council_election" title="2010 Merton London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Merton_London_Borough_Council_election" title="2014 Merton London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Merton_London_Borough_Council_election" title="2018 Merton London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Newham_London_Borough_Council_elections" title="Newham London Borough Council elections">Newham</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Newham_London_Borough_Council_election" title="1964 Newham London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Newham_London_Borough_Council_election" title="1968 Newham London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Newham_London_Borough_Council_election" title="1971 Newham London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Newham_London_Borough_Council_election" title="1974 Newham London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Newham_London_Borough_Council_election" title="1978 Newham London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Newham_London_Borough_Council_election" title="1982 Newham London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Newham_London_Borough_Council_election" title="1986 Newham London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Newham_London_Borough_Council_election" title="1990 Newham London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Newham_London_Borough_Council_election" title="1994 Newham London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Newham_London_Borough_Council_election" title="1998 Newham London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Newham_London_Borough_Council_election" title="2002 Newham London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Newham_London_Borough_Council_election" title="2006 Newham London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Newham_London_Borough_Council_election" title="2010 Newham London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Newham_London_Borough_Council_election" title="2014 Newham London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Newham_London_Borough_Council_election" title="2018 Newham London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Redbridge_London_Borough_Council_elections" title="Redbridge London Borough Council elections">Redbridge</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Redbridge_London_Borough_Council_election" title="1964 Redbridge London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Redbridge_London_Borough_Council_election" title="1968 Redbridge London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Redbridge_London_Borough_Council_election" title="1971 Redbridge London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Redbridge_London_Borough_Council_election" title="1974 Redbridge London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Redbridge_London_Borough_Council_election" title="1978 Redbridge London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Redbridge_London_Borough_Council_election" title="1982 Redbridge London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Redbridge_London_Borough_Council_election" title="1986 Redbridge London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Redbridge_London_Borough_Council_election" title="1990 Redbridge London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Redbridge_London_Borough_Council_election" title="1994 Redbridge London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Redbridge_London_Borough_Council_election" title="1998 Redbridge London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Redbridge_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Redbridge London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/wiki/2006_Redbridge_London_Borough_Council_election" title="2006 Redbridge London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Redbridge_London_Borough_Council_election" title="2010 Redbridge London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Redbridge_London_Borough_Council_election" title="2014 Redbridge London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Redbridge_London_Borough_Council_election" title="2018 Redbridge London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Richmond_upon_Thames_London_Borough_Council_elections" title="Richmond upon Thames London Borough Council elections">Richmond upon Thames</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Richmond_upon_Thames_London_Borough_Council_election" title="1964 Richmond upon Thames London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Richmond_upon_Thames_London_Borough_Council_election" title="1968 Richmond upon Thames London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Richmond_upon_Thames_London_Borough_Council_election" title="1971 Richmond upon Thames London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Richmond_upon_Thames_London_Borough_Council_election" title="1974 Richmond upon Thames London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Richmond_upon_Thames_London_Borough_Council_election" title="1978 Richmond upon Thames London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Richmond_upon_Thames_London_Borough_Council_election" title="1982 Richmond upon Thames London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Richmond_upon_Thames_London_Borough_Council_election" title="1986 Richmond upon Thames London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Richmond_upon_Thames_London_Borough_Council_election" title="1990 Richmond upon Thames London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Richmond_upon_Thames_London_Borough_Council_election" title="1994 Richmond upon Thames London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Richmond_upon_Thames_London_Borough_Council_election" title="1998 Richmond upon Thames London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Richmond_upon_Thames_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Richmond upon Thames London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/wiki/2006_Richmond_upon_Thames_London_Borough_Council_election" title="2006 Richmond upon Thames London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Richmond_upon_Thames_London_Borough_Council_election" title="2010 Richmond upon Thames London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Richmond_upon_Thames_London_Borough_Council_election" title="2014 Richmond upon Thames London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Richmond_upon_Thames_London_Borough_Council_election" title="2018 Richmond upon Thames London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Southwark_London_Borough_Council_elections" title="Southwark London Borough Council elections">Southwark</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Southwark_London_Borough_Council_election" title="1964 Southwark London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Southwark_London_Borough_Council_election" title="1968 Southwark London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Southwark_London_Borough_Council_election" title="1971 Southwark London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Southwark_London_Borough_Council_election" title="1974 Southwark London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Southwark_London_Borough_Council_election" title="1978 Southwark London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Southwark_London_Borough_Council_election" title="1982 Southwark London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Southwark_London_Borough_Council_election" title="1986 Southwark London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Southwark_London_Borough_Council_election" title="1990 Southwark London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Southwark_London_Borough_Council_election" title="1994 Southwark London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Southwark_London_Borough_Council_election" title="1998 Southwark London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Southwark_London_Borough_Council_election" title="2002 Southwark London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Southwark_London_Borough_Council_election" title="2006 Southwark London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Southwark_London_Borough_Council_election" title="2010 Southwark London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Southwark_London_Borough_Council_election" title="2014 Southwark London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Southwark_London_Borough_Council_election" title="2018 Southwark London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sutton_London_Borough_Council_elections" title="Sutton London Borough Council elections">Sutton</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Sutton_London_Borough_Council_election" title="1964 Sutton London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Sutton_London_Borough_Council_election" title="1968 Sutton London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Sutton_London_Borough_Council_election" title="1971 Sutton London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Sutton_London_Borough_Council_election" title="1974 Sutton London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Sutton_London_Borough_Council_election" title="1978 Sutton London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Sutton_London_Borough_Council_election" title="1982 Sutton London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Sutton_London_Borough_Council_election" title="1986 Sutton London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Sutton_London_Borough_Council_election" title="1990 Sutton London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Sutton_London_Borough_Council_election" title="1994 Sutton London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Sutton_London_Borough_Council_election" title="1998 Sutton London Borough Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Sutton_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Sutton London Borough Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Sutton_London_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Sutton London Borough Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Sutton_London_Borough_Council_election" title="2010 Sutton London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Sutton_London_Borough_Council_election" title="2014 Sutton London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Sutton_London_Borough_Council_election" title="2018 Sutton London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tower_Hamlets_London_Borough_Council_elections" title="Tower Hamlets London Borough Council elections">Tower Hamlets</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Tower_Hamlets_London_Borough_Council_election" title="1964 Tower Hamlets London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Tower_Hamlets_London_Borough_Council_election" title="1968 Tower Hamlets London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Tower_Hamlets_London_Borough_Council_election" title="1971 Tower Hamlets London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Tower_Hamlets_London_Borough_Council_election" title="1974 Tower Hamlets London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Tower_Hamlets_London_Borough_Council_election" title="1978 Tower Hamlets London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Tower_Hamlets_London_Borough_Council_election" title="1982 Tower Hamlets London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Tower_Hamlets_London_Borough_Council_election" title="1986 Tower Hamlets London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Tower_Hamlets_London_Borough_Council_election" title="1990 Tower Hamlets London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Tower_Hamlets_London_Borough_Council_election" title="1994 Tower Hamlets London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Tower_Hamlets_London_Borough_Council_election" title="1998 Tower Hamlets London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Tower_Hamlets_London_Borough_Council_election" title="2002 Tower Hamlets London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Tower_Hamlets_London_Borough_Council_election" title="2006 Tower Hamlets London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Tower_Hamlets_London_Borough_Council_election" title="2010 Tower Hamlets London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Tower_Hamlets_London_Borough_Council_election" title="2014 Tower Hamlets London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Tower_Hamlets_London_Borough_Council_election" title="2018 Tower Hamlets London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Waltham_Forest_London_Borough_Council_elections" title="Waltham Forest London Borough Council elections">Waltham Forest</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Waltham_Forest_London_Borough_Council_election" title="1964 Waltham Forest London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Waltham_Forest_London_Borough_Council_election" title="1968 Waltham Forest London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Waltham_Forest_London_Borough_Council_election" title="1971 Waltham Forest London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Waltham_Forest_London_Borough_Council_election" title="1974 Waltham Forest London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Waltham_Forest_London_Borough_Council_election" title="1978 Waltham Forest London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Waltham_Forest_London_Borough_Council_election" title="1982 Waltham Forest London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Waltham_Forest_London_Borough_Council_election" title="1986 Waltham Forest London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Waltham_Forest_London_Borough_Council_election" title="1990 Waltham Forest London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Waltham_Forest_London_Borough_Council_election" title="1994 Waltham Forest London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Waltham_Forest_London_Borough_Council_election" title="1998 Waltham Forest London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Waltham_Forest_London_Borough_Council_election" title="2002 Waltham Forest London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Waltham_Forest_London_Borough_Council_election" title="2006 Waltham Forest London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Waltham_Forest_London_Borough_Council_election" title="2010 Waltham Forest London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Waltham_Forest_London_Borough_Council_election" title="2014 Waltham Forest London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Waltham_Forest_London_Borough_Council_election" title="2018 Waltham Forest London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wandsworth_London_Borough_Council_elections" title="Wandsworth London Borough Council elections">Wandsworth</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Wandsworth_London_Borough_Council_election" title="1964 Wandsworth London Borough Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Wandsworth_London_Borough_Council_election" title="1968 Wandsworth London Borough Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Wandsworth_London_Borough_Council_election" title="1971 Wandsworth London Borough Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Wandsworth_London_Borough_Council_election" title="1974 Wandsworth London Borough Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Wandsworth_London_Borough_Council_election" title="1978 Wandsworth London Borough Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Wandsworth_London_Borough_Council_election" title="1982 Wandsworth London Borough Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Wandsworth_London_Borough_Council_election" title="1986 Wandsworth London Borough Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Wandsworth_London_Borough_Council_election" title="1990 Wandsworth London Borough Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Wandsworth_London_Borough_Council_election" title="1994 Wandsworth London Borough Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Wandsworth_London_Borough_Council_election" title="1998 Wandsworth London Borough Council election">1998</a></li> 
+             <li><a href="/wiki/2002_Wandsworth_London_Borough_Council_election" title="2002 Wandsworth London Borough Council election">2002</a></li> 
+             <li><a href="/wiki/2006_Wandsworth_London_Borough_Council_election" title="2006 Wandsworth London Borough Council election">2006</a></li> 
+             <li><a href="/wiki/2010_Wandsworth_London_Borough_Council_election" title="2010 Wandsworth London Borough Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Wandsworth_London_Borough_Council_election" title="2014 Wandsworth London Borough Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Wandsworth_London_Borough_Council_election" title="2018 Wandsworth London Borough Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Westminster_City_Council_elections" title="Westminster City Council elections">Westminster</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Westminster_City_Council_election" title="1964 Westminster City Council election">1964</a></li> 
+             <li><a href="/wiki/1968_Westminster_City_Council_election" title="1968 Westminster City Council election">1968</a></li> 
+             <li><a href="/wiki/1971_Westminster_City_Council_election" title="1971 Westminster City Council election">1971</a></li> 
+             <li><a href="/wiki/1974_Westminster_City_Council_election" title="1974 Westminster City Council election">1974</a></li> 
+             <li><a href="/wiki/1978_Westminster_City_Council_election" title="1978 Westminster City Council election">1978</a></li> 
+             <li><a href="/wiki/1982_Westminster_City_Council_election" title="1982 Westminster City Council election">1982</a></li> 
+             <li><a href="/wiki/1986_Westminster_City_Council_election" title="1986 Westminster City Council election">1986</a></li> 
+             <li><a href="/wiki/1990_Westminster_City_Council_election" title="1990 Westminster City Council election">1990</a></li> 
+             <li><a href="/wiki/1994_Westminster_City_Council_election" title="1994 Westminster City Council election">1994</a></li> 
+             <li><a href="/wiki/1998_Westminster_City_Council_election" title="1998 Westminster City Council election">1998</a></li> 
+             <li><a href="/w/index.php?title=2002_Westminster_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2002 Westminster City Council election (page does not exist)">2002</a></li> 
+             <li><a href="/w/index.php?title=2006_Westminster_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="2006 Westminster City Council election (page does not exist)">2006</a></li> 
+             <li><a href="/wiki/2010_Westminster_City_Council_election" title="2010 Westminster City Council election">2010</a></li> 
+             <li><a href="/wiki/2014_Westminster_City_Council_election" title="2014 Westminster City Council election">2014</a></li> 
+             <li><a href="/wiki/2018_Westminster_City_Council_election" title="2018 Westminster City Council election">2018</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Greater_London_Council#Elections_to_the_GLC" title="Greater London Council">Greater London</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1964_Greater_London_Council_election" title="1964 Greater London Council election">1964</a></li> 
+             <li><a href="/wiki/1967_Greater_London_Council_election" title="1967 Greater London Council election">1967</a></li> 
+             <li><a href="/wiki/1970_Greater_London_Council_election" title="1970 Greater London Council election">1970</a></li> 
+             <li><a href="/wiki/1973_Greater_London_Council_election" title="1973 Greater London Council election">1973</a></li> 
+             <li><a href="/wiki/1977_Greater_London_Council_election" title="1977 Greater London Council election">1977</a></li> 
+             <li><a href="/wiki/1981_Greater_London_Council_election" title="1981 Greater London Council election">1981</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div> 
+            <ul>
+             <li>See also: <a href="/wiki/Template:London_elections" title="Template:London elections">London-wide elections</a></li> 
+             <li><a href="/wiki/List_of_electoral_wards_in_Greater_London" title="List of electoral wards in Greater London">Wards</a></li> 
+             <li><a href="/wiki/List_of_Greater_London_boundary_changes" title="List of Greater London boundary changes">Boundary changes</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="(1977_←)_23x15px&amp;#124;border_&amp;#124;alt=United_Kingdom&amp;#124;link=United_Kingdom_1978_United_Kingdom_local_elections_(→_1979)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:United_Kingdom_local_elections,_1978" title="Template:United Kingdom local elections, 1978"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:United_Kingdom_local_elections,_1978" title="Template talk:United Kingdom local elections, 1978"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:United_Kingdom_local_elections,_1978&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="(1977_←)_23x15px&amp;#124;border_&amp;#124;alt=United_Kingdom&amp;#124;link=United_Kingdom_1978_United_Kingdom_local_elections_(→_1979)" style="font-size:114%;margin:0 4em">
+            (
+            <a href="/wiki/1977_United_Kingdom_local_elections" title="1977 United Kingdom local elections">1977 ←</a>) 
+            <span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> 
+            <a href="/wiki/1978_United_Kingdom_local_elections" title="1978 United Kingdom local elections">1978 United Kingdom local elections</a> (
+            <a href="/wiki/1979_United_Kingdom_local_elections" title="1979 United Kingdom local elections">→ 1979</a>)
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1978_London_local_elections" title="1978 London local elections">London boroughs</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1978_Barking_London_Borough_Council_election" title="1978 Barking London Borough Council election">Barking</a></li> 
+             <li><a href="/wiki/1978_Barnet_London_Borough_Council_election" title="1978 Barnet London Borough Council election">Barnet</a></li> 
+             <li><a href="/wiki/1978_Bexley_London_Borough_Council_election" title="1978 Bexley London Borough Council election">Bexley</a></li> 
+             <li><a href="/wiki/1978_Brent_London_Borough_Council_election" title="1978 Brent London Borough Council election">Brent</a></li> 
+             <li><a href="/wiki/1978_Bromley_London_Borough_Council_election" title="1978 Bromley London Borough Council election">Bromley</a></li> 
+             <li><a href="/wiki/1978_Camden_London_Borough_Council_election" title="1978 Camden London Borough Council election">Camden</a></li> 
+             <li><a href="/wiki/1978_Croydon_London_Borough_Council_election" title="1978 Croydon London Borough Council election">Croydon</a></li> 
+             <li><a href="/wiki/1978_Ealing_London_Borough_Council_election" title="1978 Ealing London Borough Council election">Ealing</a></li> 
+             <li><a href="/wiki/1978_Enfield_London_Borough_Council_election" title="1978 Enfield London Borough Council election">Enfield</a></li> 
+             <li><a href="/wiki/1978_Greenwich_London_Borough_Council_election" title="1978 Greenwich London Borough Council election">Greenwich</a></li> 
+             <li><a href="/wiki/1978_Hackney_London_Borough_Council_election" title="1978 Hackney London Borough Council election">Hackney</a></li> 
+             <li><a href="/wiki/1978_Hammersmith_London_Borough_Council_election" title="1978 Hammersmith London Borough Council election">Hammersmith</a></li> 
+             <li><a href="/wiki/1978_Haringey_London_Borough_Council_election" title="1978 Haringey London Borough Council election">Haringey</a></li> 
+             <li><a class="mw-selflink selflink">Harrow</a></li> 
+             <li><a href="/wiki/1978_Havering_London_Borough_Council_election" title="1978 Havering London Borough Council election">Havering</a></li> 
+             <li><a href="/wiki/1978_Hillingdon_London_Borough_Council_election" title="1978 Hillingdon London Borough Council election">Hillingdon</a></li> 
+             <li><a href="/wiki/1978_Hounslow_London_Borough_Council_election" title="1978 Hounslow London Borough Council election">Hounslow</a></li> 
+             <li><a href="/wiki/1978_Islington_London_Borough_Council_election" title="1978 Islington London Borough Council election">Islington</a></li> 
+             <li><a href="/wiki/1978_Kensington_and_Chelsea_London_Borough_Council_election" title="1978 Kensington and Chelsea London Borough Council election">Kensington and Chelsea</a></li> 
+             <li><a href="/wiki/1978_Kingston_upon_Thames_London_Borough_Council_election" title="1978 Kingston upon Thames London Borough Council election">Kingston upon Thames</a></li> 
+             <li><a href="/wiki/1978_Lambeth_London_Borough_Council_election" title="1978 Lambeth London Borough Council election">Lambeth</a></li> 
+             <li><a href="/wiki/1978_Lewisham_London_Borough_Council_election" title="1978 Lewisham London Borough Council election">Lewisham</a></li> 
+             <li><a href="/wiki/1978_Merton_London_Borough_Council_election" title="1978 Merton London Borough Council election">Merton</a></li> 
+             <li><a href="/wiki/1978_Newham_London_Borough_Council_election" title="1978 Newham London Borough Council election">Newham</a></li> 
+             <li><a href="/wiki/1978_Redbridge_London_Borough_Council_election" title="1978 Redbridge London Borough Council election">Redbridge</a></li> 
+             <li><a href="/wiki/1978_Richmond_upon_Thames_London_Borough_Council_election" title="1978 Richmond upon Thames London Borough Council election">Richmond upon Thames</a></li> 
+             <li><a href="/wiki/1978_Southwark_London_Borough_Council_election" title="1978 Southwark London Borough Council election">Southwark</a></li> 
+             <li><a href="/wiki/1978_Sutton_London_Borough_Council_election" title="1978 Sutton London Borough Council election">Sutton</a></li> 
+             <li><a href="/wiki/1978_Tower_Hamlets_London_Borough_Council_election" title="1978 Tower Hamlets London Borough Council election">Tower Hamlets</a></li> 
+             <li><a href="/wiki/1978_Waltham_Forest_London_Borough_Council_election" title="1978 Waltham Forest London Borough Council election">Waltham Forest</a></li> 
+             <li><a href="/wiki/1978_Wandsworth_London_Borough_Council_election" title="1978 Wandsworth London Borough Council election">Wandsworth</a></li> 
+             <li><a href="/wiki/1978_Westminster_City_Council_election" title="1978 Westminster City Council election">Westminster</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan<br>boroughs</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/1978_Barnsley_Metropolitan_Borough_Council_election" title="1978 Barnsley Metropolitan Borough Council election">Barnsley</a></li> 
+             <li><a href="/w/index.php?title=1978_Birmingham_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Birmingham City Council election (page does not exist)">Birmingham</a></li> 
+             <li><a href="/wiki/1978_City_of_Bradford_Metropolitan_District_Council_election" title="1978 City of Bradford Metropolitan District Council election">Bradford</a></li> 
+             <li><a href="/wiki/1978_Bolton_Metropolitan_Borough_Council_election" title="1978 Bolton Metropolitan Borough Council election">Bolton</a></li> 
+             <li><a href="/w/index.php?title=1978_Bury_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Bury Metropolitan Borough Council election (page does not exist)">Bury</a></li> 
+             <li><a href="/w/index.php?title=1978_Calderdale_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Calderdale Metropolitan Borough Council election (page does not exist)">Calderdale</a></li> 
+             <li><a href="/w/index.php?title=1978_Coventry_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Coventry City Council election (page does not exist)">Coventry</a></li> 
+             <li><a href="/w/index.php?title=1978_Doncaster_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Doncaster Metropolitan Borough Council election (page does not exist)">Doncaster</a></li> 
+             <li><a href="/w/index.php?title=1978_Dudley_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Dudley Metropolitan Borough Council election (page does not exist)">Dudley</a></li> 
+             <li><a href="/w/index.php?title=1978_Gateshead_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Gateshead Metropolitan Borough Council election (page does not exist)">Gateshead</a></li> 
+             <li><a href="/w/index.php?title=1978_Kirklees_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Kirklees Metropolitan Borough Council election (page does not exist)">Kirklees</a></li> 
+             <li><a href="/w/index.php?title=1978_Knowsley_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Knowsley Metropolitan Borough Council election (page does not exist)">Knowsley</a></li> 
+             <li><a href="/wiki/1978_Leeds_City_Council_election" title="1978 Leeds City Council election">Leeds</a></li> 
+             <li><a href="/wiki/1978_Liverpool_City_Council_election" title="1978 Liverpool City Council election">Liverpool</a></li> 
+             <li><a href="/wiki/1978_Manchester_City_Council_election" title="1978 Manchester City Council election">Manchester</a></li> 
+             <li><a href="/w/index.php?title=1978_Newcastle_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Newcastle City Council election (page does not exist)">Newcastle</a></li> 
+             <li><a href="/w/index.php?title=1978_North_Tyneside_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 North Tyneside Metropolitan Borough Council election (page does not exist)">North Tyneside</a></li> 
+             <li><a href="/w/index.php?title=1978_Oldham_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Oldham Metropolitan Borough Council election (page does not exist)">Oldham</a></li> 
+             <li><a href="/w/index.php?title=1978_Rochdale_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Rochdale Metropolitan Borough Council election (page does not exist)">Rochdale</a></li> 
+             <li><a href="/w/index.php?title=1978_Rotherham_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Rotherham Metropolitan Borough Council election (page does not exist)">Rotherham</a></li> 
+             <li><a href="/w/index.php?title=1978_Salford_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Salford City Council election (page does not exist)">Salford</a></li> 
+             <li><a href="/w/index.php?title=1978_Sandwell_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Sandwell Metropolitan Borough Council election (page does not exist)">Sandwell</a></li> 
+             <li><a href="/w/index.php?title=1978_Sefton_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Sefton Metropolitan Borough Council election (page does not exist)">Sefton</a></li> 
+             <li><a href="/wiki/1978_Sheffield_City_Council_election" title="1978 Sheffield City Council election">Sheffield</a></li> 
+             <li><a href="/w/index.php?title=1978_Solihull_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Solihull Metropolitan Borough Council election (page does not exist)">Solihull</a></li> 
+             <li><a href="/w/index.php?title=1978_South_Tyneside_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 South Tyneside Metropolitan Borough Council election (page does not exist)">South Tyneside</a></li> 
+             <li><a href="/w/index.php?title=1978_St_Helens_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 St Helens Metropolitan Borough Council election (page does not exist)">St Helens</a></li> 
+             <li><a href="/w/index.php?title=1978_Stockport_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Stockport Metropolitan Borough Council election (page does not exist)">Stockport</a></li> 
+             <li><a href="/w/index.php?title=1978_Sunderland_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Sunderland Metropolitan Borough Council election (page does not exist)">Sunderland</a></li> 
+             <li><a href="/w/index.php?title=1978_Tameside_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Tameside Metropolitan Borough Council election (page does not exist)">Tameside</a></li> 
+             <li><a href="/wiki/1978_Trafford_Metropolitan_Borough_Council_election" title="1978 Trafford Metropolitan Borough Council election">Trafford</a></li> 
+             <li><a href="/w/index.php?title=1978_Wakefield_Metropolitan_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Wakefield Metropolitan District Council election (page does not exist)">Wakefield</a></li> 
+             <li><a href="/w/index.php?title=1978_Walsall_Metropolitan_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Walsall Metropolitan Borough Council election (page does not exist)">Walsall</a></li> 
+             <li><a href="/wiki/1978_Wigan_Metropolitan_Borough_Council_election" title="1978 Wigan Metropolitan Borough Council election">Wigan</a></li> 
+             <li><a href="/wiki/1978_Wirral_Metropolitan_Borough_Council_election" title="1978 Wirral Metropolitan Borough Council election">Wirral</a></li> 
+             <li><a href="/wiki/1978_Wolverhampton_Metropolitan_Borough_Council_election" title="1978 Wolverhampton Metropolitan Borough Council election">Wolverhampton</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">District councils</a><br>(England)</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=1978_Basingstoke_and_Deane_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Basingstoke and Deane Borough Council election (page does not exist)">Basingstoke and Deane</a></li> 
+             <li><a href="/w/index.php?title=1978_Bath_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Bath City Council election (page does not exist)">Bath</a></li> 
+             <li><a href="/w/index.php?title=1978_Brentwood_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Brentwood Borough Council election (page does not exist)">Brentwood</a></li> 
+             <li><a href="/wiki/1978_Broxbourne_Borough_Council_election" title="1978 Broxbourne Borough Council election">Broxbourne</a></li> 
+             <li><a href="/w/index.php?title=1978_Burnley_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Burnley Borough Council election (page does not exist)">Burnley</a></li> 
+             <li><a href="/w/index.php?title=1978_Cambridge_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Cambridge City Council election (page does not exist)">Cambridge</a></li> 
+             <li><a href="/w/index.php?title=1978_Cannock_Chase_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Cannock Chase District Council election (page does not exist)">Cannock Chase</a></li> 
+             <li><a href="/w/index.php?title=1978_Chorley_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Chorley Borough Council election (page does not exist)">Chorley</a></li> 
+             <li><a href="/wiki/1978_Colchester_Borough_Council_election" title="1978 Colchester Borough Council election">Colchester</a></li> 
+             <li><a href="/w/index.php?title=1978_Congleton_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Congleton Borough Council election (page does not exist)">Congleton</a></li> 
+             <li><a href="/w/index.php?title=1978_Eastbourne_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Eastbourne Borough Council election (page does not exist)">Eastbourne</a></li> 
+             <li><a href="/w/index.php?title=1978_Eastleigh_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Eastleigh Borough Council election (page does not exist)">Eastleigh</a></li> 
+             <li><a href="/w/index.php?title=1978_Ellesmere_Port_and_Neston_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Ellesmere Port and Neston Borough Council election (page does not exist)">Ellesmere Port and Neston</a></li> 
+             <li><a href="/w/index.php?title=1978_Elmbridge_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Elmbridge Borough Council election (page does not exist)">Elmbridge</a></li> 
+             <li><a href="/w/index.php?title=1978_Fareham_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Fareham Borough Council election (page does not exist)">Fareham</a></li> 
+             <li><a href="/w/index.php?title=1978_Halton_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Halton Borough Council election (page does not exist)">Halton</a></li> 
+             <li><a href="/wiki/1978_Harlow_District_Council_election" title="1978 Harlow District Council election">Harlow</a></li> 
+             <li><a href="/w/index.php?title=1978_Hart_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Hart District Council election (page does not exist)">Hart</a></li> 
+             <li><a href="/w/index.php?title=1978_Hartlepool_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Hartlepool Borough Council election (page does not exist)">Hartlepool</a></li> 
+             <li><a href="/w/index.php?title=1978_Havant_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Havant Borough Council election (page does not exist)">Havant</a></li> 
+             <li><a href="/w/index.php?title=1978_Hertsmere_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Hertsmere Borough Council election (page does not exist)">Hertsmere</a></li> 
+             <li><a href="/w/index.php?title=1978_Huntingdon_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Huntingdon District Council election (page does not exist)">Huntingdon</a></li> 
+             <li><a href="/w/index.php?title=1978_Milton_Keynes_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Milton Keynes Borough Council election (page does not exist)">Milton Keynes</a></li> 
+             <li><a href="/w/index.php?title=1978_Mole_Valley_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Mole Valley District Council election (page does not exist)">Mole Valley</a></li> 
+             <li><a href="/w/index.php?title=1978_Pendle_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Pendle Borough Council election (page does not exist)">Pendle</a></li> 
+             <li><a href="/w/index.php?title=1978_Peterborough_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Peterborough City Council election (page does not exist)">Peterborough</a></li> 
+             <li><a href="/w/index.php?title=1978_Preston_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Preston Borough Council election (page does not exist)">Preston</a></li> 
+             <li><a href="/w/index.php?title=1978_Rochford_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Rochford District Council election (page does not exist)">Rochford</a></li> 
+             <li><a href="/w/index.php?title=1978_Rossendale_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Rossendale Borough Council election (page does not exist)">Rossendale</a></li> 
+             <li><a href="/w/index.php?title=1978_Runnymede_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Runnymede Borough Council election (page does not exist)">Runnymede</a></li> 
+             <li><a href="/w/index.php?title=1978_Shrewsbury_and_Atcham_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Shrewsbury and Atcham Borough Council election (page does not exist)">Shrewsbury and Atcham</a></li> 
+             <li><a href="/w/index.php?title=1978_South_Bedfordshire_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 South Bedfordshire District Council election (page does not exist)">South Bedfordshire</a></li> 
+             <li><a href="/w/index.php?title=1978_South_Cambridgeshire_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 South Cambridgeshire District Council election (page does not exist)">South Cambridgeshire</a></li> 
+             <li><a href="/w/index.php?title=1978_Southend-on-Sea_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Southend-on-Sea Borough Council election (page does not exist)">Southend-on-Sea</a></li> 
+             <li><a href="/w/index.php?title=1978_Tamworth_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Tamworth Borough Council election (page does not exist)">Tamworth</a></li> 
+             <li><a href="/w/index.php?title=1978_Tandridge_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Tandridge District Council election (page does not exist)">Tandridge</a></li> 
+             <li><a href="/w/index.php?title=1978_Thamesdown_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Thamesdown Borough Council election (page does not exist)">Thamesdown</a></li> 
+             <li><a href="/w/index.php?title=1978_Three_Rivers_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Three Rivers District Council election (page does not exist)">Three Rivers</a></li> 
+             <li><a href="/w/index.php?title=1978_Tunbridge_Wells_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Tunbridge Wells Borough Council election (page does not exist)">Tunbridge Wells</a></li> 
+             <li><a href="/w/index.php?title=1978_Watford_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Watford Borough Council election (page does not exist)">Watford</a></li> 
+             <li><a href="/w/index.php?title=1978_Welwyn_Hatfield_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Welwyn Hatfield District Council election (page does not exist)">Welwyn Hatfield</a></li> 
+             <li><a href="/w/index.php?title=1978_West_Lancashire_District_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 West Lancashire District Council election (page does not exist)">West Lancashire</a></li> 
+             <li><a href="/w/index.php?title=1978_Winchester_City_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Winchester City Council election (page does not exist)">Winchester</a></li> 
+             <li><a href="/w/index.php?title=1978_Woking_Borough_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Woking Borough Council election (page does not exist)">Woking</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/1978_Scottish_regional_elections" title="1978 Scottish regional elections">Regional councils</a><br>(Scotland)</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=1978_Borders_Regional_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Borders Regional Council election (page does not exist)">Borders</a></li> 
+             <li><a href="/w/index.php?title=1978_Central_Regional_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Central Regional Council election (page does not exist)">Central</a></li> 
+             <li><a href="/w/index.php?title=1978_Dumfries_and_Galloway_Regional_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Dumfries and Galloway Regional Council election (page does not exist)">Dumfries and Galloway</a></li> 
+             <li><a href="/wiki/1978_Fife_Regional_Council_election" title="1978 Fife Regional Council election">Fife</a></li> 
+             <li><a href="/w/index.php?title=1978_Grampian_Regional_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Grampian Regional Council election (page does not exist)">Grampian</a></li> 
+             <li><a href="/wiki/1978_Highland_Regional_Council_election" title="1978 Highland Regional Council election">Highland</a></li> 
+             <li><a href="/wiki/1978_Lothian_Regional_Council_election" title="1978 Lothian Regional Council election">Lothian</a></li> 
+             <li><a href="/w/index.php?title=1978_Orkney_Islands_Area_Council_election&amp;action=edit&amp;redlink=1" class="new" title="1978 Orkney Islands Area Council election (page does not exist)">Orkney</a></li> 
+             <li><a href="/wiki/1978_Shetland_Islands_Area_Council_election" title="1978 Shetland Islands Area Council election">Shetland</a></li> 
+             <li><a href="/wiki/1978_Strathclyde_Regional_Council_election" title="1978 Strathclyde Regional Council election">Strathclyde</a></li> 
+             <li><a href="/wiki/1978_Tayside_Regional_Council_election" title="1978 Tayside Regional Council election">Tayside</a></li> 
+             <li><a href="/wiki/1978_Western_Isles_Area_Council_election" title="1978 Western Isles Area Council election">Western Isles</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr>
+         <td><a href="/wiki/File:Flag_of_England.svg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480"></a> <a href="/wiki/File:Vote_icon.svg" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/20px-Vote_icon.svg.png" decoding="async" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/40px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393"></a></td>
+         <td><i>This <a href="/wiki/Elections_in_England" class="mw-redirect" title="Elections in England">Elections in England</a> related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit">expanding it</a>.</i>
+          <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:England-election-stub" title="Template:England-election-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:England-election-stub" title="Template talk:England-election-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:England-election-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <!-- 
+NewPP limit report
+Parsed by mw1314
+Cached time: 20191023003259
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.332 seconds
+Real time usage: 0.451 seconds
+Preprocessor visited node count: 1444/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 191255/2097152 bytes
+Template argument size: 1065/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3225/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 3.03 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  281.956      1 -total
+ 29.83%   84.106      1 Template:Reflist
+ 25.58%   72.117      1 Template:Cite_web
+ 22.67%   63.922      3 Template:Navbox
+ 16.88%   47.589      2 Template:Empty_section
+ 15.04%   42.399      2 Template:Ambox
+ 13.75%   38.779      1 Template:London_elections
+ 13.20%   37.206      1 Template:Use_dmy_dates
+  9.21%   25.969      3 Template:Flagicon
+  7.45%   21.019      1 Template:Greater_London_elections
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:46267318-0!canonical and timestamp 20191023003259 and revision id 873849156
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;oldid=873849156">https://en.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;oldid=873849156</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Council_elections_in_the_London_Borough_of_Harrow" title="Category:Council elections in the London Borough of Harrow">Council elections in the London Borough of Harrow</a></li>
+       <li><a href="/wiki/Category:1978_London_Borough_council_elections" title="Category:1978 London Borough council elections">1978 London Borough council elections</a></li>
+       <li><a href="/wiki/Category:England_election_stubs" title="Category:England election stubs">England election stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_March_2015" title="Category:Use dmy dates from March 2015">Use dmy dates from March 2015</a></li>
+       <li><a href="/wiki/Category:Use_British_English_from_March_2015" title="Category:Use British English from March 2015">Use British English from March 2015</a></li>
+       <li><a href="/wiki/Category:Articles_to_be_expanded_from_March_2015" title="Category:Articles to be expanded from March 2015">Articles to be expanded from March 2015</a></li>
+       <li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li>
+       <li><a href="/wiki/Category:Articles_with_empty_sections_from_March_2015" title="Category:Articles with empty sections from March 2015">Articles with empty sections from March 2015</a></li>
+       <li><a href="/wiki/Category:All_articles_with_empty_sections" title="Category:All articles with empty sections">All articles with empty sections</a></li>
+       <li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1978+Harrow+London+Borough+Council+election" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1978+Harrow+London+Borough+Council+election" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/1978_Harrow_London_Borough_Council_election" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:1978_Harrow_London_Borough_Council_election" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/1978_Harrow_London_Borough_Council_election">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1978_Harrow_London_Borough_Council_election" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1978_Harrow_London_Borough_Council_election" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;oldid=873849156" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19787394" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1978_Harrow_London_Borough_Council_election&amp;id=873849156" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1978+Harrow+London+Borough+Council+election">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=1978+Harrow+London+Borough+Council+election&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19787394#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 15 December 2018, at 13:57<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1978_Harrow_London_Borough_Council_election&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.451","ppvisitednodes":{"value":1444,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":191255,"limit":2097152},"templateargumentsize":{"value":1065,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3225,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  281.956      1 -total"," 29.83%   84.106      1 Template:Reflist"," 25.58%   72.117      1 Template:Cite_web"," 22.67%   63.922      3 Template:Navbox"," 16.88%   47.589      2 Template:Empty_section"," 15.04%   42.399      2 Template:Ambox"," 13.75%   38.779      1 Template:London_elections"," 13.20%   37.206      1 Template:Use_dmy_dates","  9.21%   25.969      3 Template:Flagicon","  7.45%   21.019      1 Template:Greater_London_elections"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":3172136,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20191023003259","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1978 Harrow London Borough Council election","url":"https:\/\/en.wikipedia.org\/wiki\/1978_Harrow_London_Borough_Council_election","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19787394","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19787394","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-03-30T12:08:09Z","dateModified":"2018-12-15T13:57:03Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1264"});});</script>   
+ </body>
+</html>

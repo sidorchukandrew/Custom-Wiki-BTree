@@ -1,0 +1,412 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Honour of Richmond - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Honour_of_Richmond","wgTitle":"Honour of Richmond","wgCurRevisionId":878079299,"wgRevisionId":878079299,"wgArticleId":24761112,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from December 2009","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from July 2014","History of Yorkshire","Honours (feudal barony)","Richmond, North Yorkshire"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan",
+"Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Honour_of_Richmond","wgRelevantArticleId":24761112,"wgRequestId":"XboUFgpAMFUAAEWMvQcAAADX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5897196","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Honour_of_Richmond"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Honour_of_Richmond&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Honour_of_Richmond&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Honour_of_Richmond"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Honour_of_Richmond rootpage-Honour_of_Richmond skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Honour of Richmond</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article includes a 
+           <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but 
+           <b>its sources remain unclear</b> because it has 
+           <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.
+           <span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> 
+           <small class="date-container"><i>(<span class="date">December 2009</span>)</i></small>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The <b>Honour of Richmond</b> (or <a href="/wiki/English_feudal_barony" title="English feudal barony">English feudal barony</a> of Richmond) in north-west <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> was granted to Count <a href="/wiki/Alan_Rufus" title="Alan Rufus">Alan Rufus</a> (also known as Alain le Roux) by King <a href="/wiki/William_I_of_England" class="mw-redirect" title="William I of England">William the Conqueror</a> sometime during 1069 to 1071, although the date is uncertain. It was gifted as thanks for his services at the Conquest. The extensive district was previously <a href="/wiki/Feudal_land_tenure_in_England" title="Feudal land tenure in England">held</a> by <a href="/wiki/Edwin,_Earl_of_Mercia" title="Edwin, Earl of Mercia">Edwin, Earl of Mercia</a> who died in 1071. The district is probably mentioned in the <a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a> of 1086 but its limits are uncertain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p>
+      <p>The <a href="/wiki/Honour_(feudal_barony)" class="mw-redirect" title="Honour (feudal barony)">honour</a> comprised 60 <a href="/wiki/Knight%27s_fee" title="Knight's fee">knight's fees</a> and was one of the most important <a href="/wiki/Fiefdom" class="mw-redirect" title="Fiefdom">fiefdoms</a> in <a href="/wiki/Norman_dynasty" class="mw-redirect" title="Norman dynasty">Norman</a> <a href="/wiki/England" title="England">England</a>.<sup id="cite_ref-Butler_2-0" class="reference"><a href="#cite_note-Butler-2">[2]</a></sup> According to the 14th-century Genealogia of the lords of Richmond, Alan Rufus built a stronghold in the district. The buildings were later known as <a href="/wiki/Richmond_Castle" title="Richmond Castle">Richmond Castle</a> which is alluded to in the Domesday survey as forming a ‘castlery’.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Territory"><span class="tocnumber">1</span> <span class="toctext">Territory</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#List_of_feudal_barons_of_Richmond"><span class="tocnumber">2</span> <span class="toctext">List of feudal barons of Richmond</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Territory">Territory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit&amp;section=1" title="Edit section: Territory">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table align="right"> 
+       <tbody>
+        <tr> 
+         <td>
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:242px;">
+            <a href="/wiki/File:Honour_of_Richmond.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Honour_of_Richmond.jpg/240px-Honour_of_Richmond.jpg" decoding="async" width="240" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Honour_of_Richmond.jpg/360px-Honour_of_Richmond.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/Honour_of_Richmond.jpg 2x" data-file-width="467" data-file-height="374"></a> 
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a href="/wiki/File:Honour_of_Richmond.jpg" class="internal" title="Enlarge"></a>
+             </div>The composition of the Honour of Richmond in 1071
+            </div>
+           </div>
+          </div> </td> 
+         <td>
+          <div class="thumb tright">
+           <div class="thumbinner" style="width:142px;">
+            <a href="/wiki/File:Richmond_in_England.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Richmond_in_England.jpg/140px-Richmond_in_England.jpg" decoding="async" width="140" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Richmond_in_England.jpg/210px-Richmond_in_England.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Richmond_in_England.jpg/280px-Richmond_in_England.jpg 2x" data-file-width="485" data-file-height="599"></a> 
+            <div class="thumbcaption">
+             <div class="magnify">
+              <a href="/wiki/File:Richmond_in_England.jpg" class="internal" title="Enlarge"></a>
+             </div>The location of the Honour in England
+            </div>
+           </div>
+          </div> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The district consisted of three main land divisions; the <a href="/wiki/Wapentakes" class="mw-redirect" title="Wapentakes">wapentakes</a> of <a href="/wiki/Hang_West" title="Hang West">Hang</a>, of Gilling and of Hallikeld. The first two of these correspond to later medieval civil land divisions or wapentakes: the third is less easily defined. </p>
+      <p>The Gilling territory consisted mainly of land which lay between the <a href="/wiki/River_Tees" title="River Tees">River Tees</a> and the <a href="/wiki/River_Swale" title="River Swale">River Swale</a>, with the Tees forming the northern border which separated the land from that granted to the <a href="/wiki/Bishop_of_Durham" title="Bishop of Durham">Bishop of Durham</a>. The western border was the <a href="/wiki/Drainage_divide" title="Drainage divide">watershed</a> of the <a href="/wiki/Pennines" title="Pennines">Pennine Hills</a> and the southern border was the watershed between the <a href="/wiki/River_Ure" title="River Ure">River Ure</a> and the Swale. The <a href="/wiki/River_Wiske" title="River Wiske">River Wiske</a> formed the eastern border. The manor of <a href="/wiki/Gilling" title="Gilling">Gilling</a>, close to the boundary, was the <i><a href="/wiki/Caput" title="Caput">caput</a></i> of the barony until Count Alan moved it to <a href="/wiki/Richmond_Castle" title="Richmond Castle">Richmond Castle</a>. The division of Hang, or Hangshire, had the River Swale as its northern boundary; its western boundary was the Pennine watershed and its southern boundary was the watershed with the <a href="/wiki/River_Wharfe" title="River Wharfe">River Wharfe</a> and the <a href="/wiki/River_Nidd" title="River Nidd">River Nidd</a>. The eastern border followed small streams and minor landmarks from the previous watershed to the Swale. The wapentake meeting place was situated on the Hang Beck in <a href="/wiki/Finghall" title="Finghall">Finghall</a> parish. The third part of the territory, Hallikeld, consisted of the parishes lying between the <a href="/wiki/River_Ure" title="River Ure">River Ure</a> and the River Swale until their <a href="/wiki/Confluence" title="Confluence">confluence</a> at <a href="/wiki/Ellenthorpe" title="Ellenthorpe">Ellenthorpe</a>. </p>
+      <p>The Honour of Richmond, being 60&nbsp;km (37&nbsp;mi) from east to west and 45&nbsp;km (28&nbsp;mi) from north to south, comprised most of the land between the River Tees and the River Ure and ranged in its landscape from the bleak mountainous areas of the Pennines to the fertile lowlands of the <a href="/wiki/Vale_of_York" title="Vale of York">Vale of York</a>. </p>
+      <p>Richmond castle was in ruins by 1540 but was restored centuries later and is now a tourist attraction.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+      <h2><span class="mw-headline" id="List_of_feudal_barons_of_Richmond">List of feudal barons of Richmond</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit&amp;section=2" title="Edit section: List of feudal barons of Richmond">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The feudal barons of Richmond were usually referred to as Lords of Richmond. The Honour of Richmond was sometimes held separately from the titles <a href="/wiki/Earl_of_Richmond" title="Earl of Richmond">Earl of Richmond</a>, and later <a href="/wiki/Duke_of_Richmond" title="Duke of Richmond">Duke of Richmond</a>. Grants were sometimes partial, and sometimes included or excluded Richmond Castle as noted in the list below. The descent of the barony was as follows:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+      <ul>
+       <li><a href="/wiki/Alan_Rufus" title="Alan Rufus">Alan Rufus</a>, <a href="/wiki/Count_of_Brittany" class="mw-redirect" title="Count of Brittany">Count of Brittany</a> (d.1093), who died without progeny.</li> 
+       <li><a href="/wiki/Alan_the_Black" title="Alan the Black">Alan the Black</a> (d.1098), brother of Alan Rufus, who also died without progeny.</li> 
+       <li><a href="/wiki/Stephen,_Count_of_Tr%C3%A9guier" title="Stephen, Count of Tréguier">Stephen, Count of Tréguier</a> (d. 1135/6), brother.</li> 
+       <li><a href="/wiki/Alan,_1st_Earl_of_Richmond" title="Alan, 1st Earl of Richmond">Alan, 1st Earl of Richmond</a> (d.1146), (<i>alias</i> Alan The Black, or <i>le Noir</i>), younger son.</li> 
+       <li><a href="/wiki/Conan_IV,_Duke_of_Brittany" title="Conan IV, Duke of Brittany">Conan IV, Duke of Brittany</a> (d.1171), son, who left as his heir a daughter Constance (d.1201),<sup id="cite_ref-Sanders,_p.140_6-0" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> a ward of the king.</li> 
+       <li>Held in wardship by King <a href="/wiki/Henry_II_of_England" title="Henry II of England">Henry II</a> pending the marriage of his son Geoffrey to Constance, the daughter of Conan IV</li> 
+       <li><a href="/wiki/Constance,_Duchess_of_Brittany" title="Constance, Duchess of Brittany">Constance, Duchess of Brittany</a> (d.1201),<sup id="cite_ref-Sanders,_p.140_6-1" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> Conan's daughter and hereditary Countess of Richmond</li> 
+       <li><a href="/wiki/Geoffrey_II,_Duke_of_Brittany" title="Geoffrey II, Duke of Brittany">Geoffrey II, Duke of Brittany</a>(d.1186) first husband of Constance<sup id="cite_ref-Sanders,_p.140_6-2" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup></li> 
+       <li><a href="/wiki/Ranulf_de_Blondeville,_6th_Earl_of_Chester" title="Ranulf de Blondeville, 6th Earl of Chester">Ranulph, Earl of Chester</a> (d.1232), second husband of Constance, whom she married in 1188 and whom she divorced in 1199.<sup id="cite_ref-Sanders,_p.140_6-3" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[a]</a></sup></li> 
+       <li><a href="/wiki/Guy_of_Thouars" title="Guy of Thouars">Guy of Thouars</a> – third husband of Constance; forfeited to King John in 1203<sup id="cite_ref-Sanders,_p.140_6-4" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> upon taking up arms with the French to avenge the death of Arthur I</li> 
+       <li><a href="/wiki/Alix,_Duchess_of_Brittany" title="Alix, Duchess of Brittany">Alix, Duchess of Brittany</a> (d. 1221), Constance and Guy's elder daughter.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[b]</a></sup> 
+        <ul>
+         <li><a href="/wiki/Eleanor,_Fair_Maid_of_Brittany" title="Eleanor, Fair Maid of Brittany">Eleanor of Brittany</a>, Constance and Geoffrey's elder daughter.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[c]</a></sup> She ceased to be styled as Countess of Richmond in 1218.</li>
+        </ul></li> 
+       <li><a href="/wiki/Peter_I,_Duke_of_Brittany" title="Peter I, Duke of Brittany">Peter I, Duke of Brittany</a> (alias <i>Pierre Mauclerc</i>), the husband of Alix of Thouars and the son-in-law of Guy of Thouars and Constance of Brittany. He declined an offer of the Honour and the Earldom of Richmond from King John (1199–1216) due to his loyalty to the French King.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup> He received in 1218 from <a href="/wiki/William_Marshal,_1st_Earl_of_Pembroke" title="William Marshal, 1st Earl of Pembroke">William Marshal, 1st Earl of Pembroke</a> in name of King <a href="/wiki/Henry_III_of_England" title="Henry III of England">Henry III</a> a partial grant of the Honour, excepting 30 knight's fees south of the River Trent retained by the king,<sup id="cite_ref-Sanders,_p.140_6-5" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> His lands were forfeited to King Henry III when he paid homage to French King Louis IX. Thus his tenure of the barony varied according to his allegiance in the war between England and France.<sup id="cite_ref-Sanders,_p.140_6-6" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup></li> 
+       <li><a href="/wiki/Peter_II,_Count_of_Savoy" title="Peter II, Count of Savoy">Peter II, Count of Savoy</a>, popularly known as Earl of Richmond, to whom the barony was granted by King Henry III in 1240.<sup id="cite_ref-Sanders,_p.140_6-7" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> He sought and received a royal confirmation of his holding in 1262. He had felt his tenure at risk due to the negotiations for the marriage of Beatrice, daughter of King Henry III to <a href="/wiki/John_II,_Duke_of_Brittany" title="John II, Duke of Brittany">John</a>, son of <a href="/wiki/John_I,_Duke_of_Brittany" title="John I, Duke of Brittany">John I, Duke of Brittany</a> (d.1286), a part of which marriage settlement stipulated that his father the duke should receive French lands equal in value to the honour of Richmond.<sup id="cite_ref-Sanders,_p.140_6-8" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup> He lost control of the barony in 1264, although he received income from it until 1266, when the barony was granted to John of Brittany, husband of Beatrice.<sup id="cite_ref-Sanders,_p.140_6-9" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup></li> 
+       <li><a href="/wiki/John_II,_Duke_of_Brittany" title="John II, Duke of Brittany">John II, Duke of Brittany</a> (d.1305), husband of Princess Beatrice.<sup id="cite_ref-Sanders,_p.140_6-10" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup></li> 
+       <li><a href="/wiki/John_of_Brittany,_Earl_of_Richmond" title="John of Brittany, Earl of Richmond">John of Brittany, Earl of Richmond</a> (d.1334), son. He died unmarried without progeny.<sup id="cite_ref-Sanders,_p.140_6-11" class="reference"><a href="#cite_note-Sanders,_p.140-6">[6]</a></sup></li> 
+       <li><a href="/wiki/John_III,_Duke_of_Brittany" title="John III, Duke of Brittany">John III, Duke of Brittany</a> (1286–1341), nephew</li> 
+       <li><a href="/wiki/John_of_Montfort" title="John of Montfort">John de Montfort, Earl of Richmond</a> – upon his death, Earldom returned to the crown in 1342; it remained with the crown during most of the <a href="/wiki/Breton_War_of_Succession" class="mw-redirect" title="Breton War of Succession">Breton War of Succession</a> in part to ensure it would not fall into the hands of the King of France.</li> 
+       <li><a href="/wiki/John_of_Gaunt" title="John of Gaunt">John of Gaunt</a> – surrendered the Earldom and Honour, at the insistence of the King, to pursue Kingship of Castille</li> 
+       <li><a href="/wiki/John_IV,_Duke_of_Brittany" title="John IV, Duke of Brittany">John IV, Duke of Brittany</a>, son and heir of John of Montfort; forfeited twice, in 1381 (due to the First Treaty of Guerande) and 1384 upon paying homage to French King <a href="/wiki/Charles_VI_of_France" title="Charles VI of France">Charles VI</a>; the second forfeit represented the permanent loss of the Honour and the Earldom by the Dukes of Brittany.</li> 
+       <li>Anne of Bohemia</li> 
+       <li><a href="/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland" class="mw-redirect" title="Ralph de Neville, 1st Earl of Westmorland">Ralph de Neville, 1st Earl of Westmorland</a> – Honour held for life without peerage Earl of Richmond</li> 
+       <li><a href="/wiki/John_of_Lancaster,_1st_Duke_of_Bedford" title="John of Lancaster, 1st Duke of Bedford">John of Lancaster, 1st Duke of Bedford</a> and 1st Earl of Richmond</li> 
+       <li>reverted to the Crown (1435–1450)</li> 
+       <li>Ralph Neville, Earl of Westmoreland – partial grant of Richmond Castle in 1450</li> 
+       <li><a href="/wiki/Edmund_Tudor,_1st_Earl_of_Richmond" title="Edmund Tudor, 1st Earl of Richmond">Edmund Tudor, 1st Earl of Richmond</a> – father of Henry VII</li> 
+       <li><a href="/wiki/Henry_VII_of_England" title="Henry VII of England">Henry Tudor</a> – forfeited to Edward IV</li> 
+       <li><a href="/wiki/George_Plantagenet,_1st_Duke_of_Clarence" title="George Plantagenet, 1st Duke of Clarence">George Plantagenet, 1st Duke of Clarence</a> – granted Honour and castle without peerage Earl of Richmond by Edward IV in 1462</li> 
+       <li><a href="/wiki/Richard_III_of_England" title="Richard III of England">Richard, Duke of Gloucester</a> – retained upon becoming <a href="/wiki/Richard_III_of_England" title="Richard III of England">Richard III of England</a></li> 
+       <li><a href="/wiki/Henry_VII_of_England" title="Henry VII of England">Henry Tudor</a> – regained the Honour upon winning the crown of England in contest with Richard III; Honour merged with the Crown</li> 
+       <li>Held by members of Tudor and Stuart Dynasties</li> 
+       <li><a href="/wiki/Charles_Lennox,_1st_Duke_of_Richmond" title="Charles Lennox, 1st Duke of Richmond">Charles Lennox</a> – conferred on Lennox Family in 1675 by Charles Lennox's father <a href="/wiki/Charles_II_of_England" title="Charles II of England">Charles II</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: lower-alpha;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">However, Ranulph never ruled Richmond or Brittany during their marriage.</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">A charter made by Alix before her marriage to Peter I deals with the Honour of Richmond; Alix also styled herself <i><b>Countess of Richmond</b></i> before her husband received the Earldom from King Henry III. See Judith Everard and Michael Jones, <i>The Charters of Duchess Constance and Her Family (1171–1221)</i>, The Boydell Press, 1999, pp 169–171.</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Although King John allowed her to use the titles <i><b>Duchess of Brittany</b></i> and <i><b>Countess of Richmond</b></i>, she was imprisoned by English kings and never ruled. See Judith Everard and Michael Jones, <i>The Charters of Duchess Constance and Her Family (1171–1221)</i>, The Boydell Press, 1999, pp 164–165.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.british-history.ac.uk/vch/yorks/north/vol1/pp1-16">"THE HONOUR AND CASTLE OF RICHMOND"</a>. British History. 1 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2019</span>. <q>The date of the grant is uncertain, and no charter remains to bear witness to it. The most likely date in that case would seem to be 1069, when Edwin was still living ... If the evidence of the so-called charter is inaccurate on this point as on others the grant may have been delayed until after the death of Edwin in 1071.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+HONOUR+AND+CASTLE+OF+RICHMOND&amp;rft.pub=British+History&amp;rft.date=2016-03-01&amp;rft_id=https%3A%2F%2Fwww.british-history.ac.uk%2Fvch%2Fyorks%2Fnorth%2Fvol1%2Fpp1-16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonour+of+Richmond" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-Butler-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Butler_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Butler, Lawrence (2003). "4.The origins of the honour of Richmond and its castles". In Robert Liddiard (ed.). <i>Anglo Norman Castles</i>. Woodbridge, Suffolk: The Boydell Press. pp.&nbsp;91–95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-85115-904-4" title="Special:BookSources/0-85115-904-4"><bdi>0-85115-904-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=4.The+origins+of+the+honour+of+Richmond+and+its+castles&amp;rft.btitle=Anglo+Norman+Castles&amp;rft.place=Woodbridge%2C+Suffolk&amp;rft.pages=91-95&amp;rft.pub=The+Boydell+Press&amp;rft.date=2003&amp;rft.isbn=0-85115-904-4&amp;rft.aulast=Butler&amp;rft.aufirst=Lawrence&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonour+of+Richmond" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.british-history.ac.uk/vch/yorks/north/vol1/pp1-16">"THE HONOUR AND CASTLE OF RICHMOND"</a>. British History. 1 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2019</span>. <q>... the early poem which contains the first mention of it yet discovered says that William the Conqueror gave Count Alan Richmond 'a good castle fair and strong.' (fn. 259) This statement may, however, be due to poetic licence.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+HONOUR+AND+CASTLE+OF+RICHMOND&amp;rft.pub=British+History&amp;rft.date=2016-03-01&amp;rft_id=https%3A%2F%2Fwww.british-history.ac.uk%2Fvch%2Fyorks%2Fnorth%2Fvol1%2Fpp1-16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonour+of+Richmond" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.english-heritage.org.uk/visit/places/richmond-castle/history/">"HISTORY OF RICHMOND CASTLE"</a>. English Heritage. 1 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2019</span>. <q>By 1540 the castle was derelict, but it later became a popular tourist destination.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HISTORY+OF+RICHMOND+CASTLE&amp;rft.pub=English+Heritage&amp;rft.date=2016-03-01&amp;rft_id=https%3A%2F%2Fwww.english-heritage.org.uk%2Fvisit%2Fplaces%2Frichmond-castle%2Fhistory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonour+of+Richmond" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Sanders, I.J., English Baronies, A Study of their Origin and Descent 1086–1327, Oxford, 1960, pp.140–1, Barony of Richmond</span> </li> 
+         <li id="cite_note-Sanders,_p.140-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sanders,_p.140_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Sanders,_p.140_6-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text">Sanders, p.140</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><cite id="CITEREFHistoric_England1010627" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1010627">"Richmond Castle (1010627)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Richmond+Castle+%281010627%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1010627&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonour+of+Richmond" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></li>
+      </ul> 
+      <!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20191007123625
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.324 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 959/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17259/2097152 bytes
+Template argument size: 1580/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18290/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 4.39 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  384.122      1 -total
+ 41.87%  160.819      2 Template:Reflist
+ 32.04%  123.074      3 Template:Cite_web
+ 21.14%   81.220      1 Template:More_footnotes
+ 14.13%   54.295      1 Template:Ambox
+ 12.34%   47.396      2 Template:Cvt
+  9.37%   36.000      1 Template:Citation_needed
+  8.10%   31.099      1 Template:Fix
+  5.84%   22.418      1 Template:NHLE
+  5.22%   20.033      1 Template:Notes
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:24761112-0!canonical and timestamp 20191007123624 and revision id 878079299
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Honour_of_Richmond&amp;oldid=878079299">https://en.wikipedia.org/w/index.php?title=Honour_of_Richmond&amp;oldid=878079299</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:History_of_Yorkshire" title="Category:History of Yorkshire">History of Yorkshire</a></li>
+       <li><a href="/wiki/Category:Honours_(feudal_barony)" title="Category:Honours (feudal barony)">Honours (feudal barony)</a></li>
+       <li><a href="/wiki/Category:Richmond,_North_Yorkshire" title="Category:Richmond, North Yorkshire">Richmond, North Yorkshire</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2009" title="Category:Articles lacking in-text citations from December 2009">Articles lacking in-text citations from December 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Honour+of+Richmond" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Honour+of+Richmond" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Honour_of_Richmond" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Honour_of_Richmond" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Honour_of_Richmond">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Honour_of_Richmond&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Honour_of_Richmond" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Honour_of_Richmond" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Honour_of_Richmond&amp;oldid=878079299" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Honour_of_Richmond&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5897196" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Honour_of_Richmond&amp;id=878079299" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Honour+of+Richmond">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Honour+of+Richmond&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Honour_of_Richmond&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Enor_Richmond" title="Enor Richmond – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Honneur_de_Richmond" title="Honneur de Richmond – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Onore_di_Richmond" title="Onore di Richmond – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5897196#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 12 January 2019, at 21:47<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Honour_of_Richmond&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.436","ppvisitednodes":{"value":959,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17259,"limit":2097152},"templateargumentsize":{"value":1580,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18290,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  384.122      1 -total"," 41.87%  160.819      2 Template:Reflist"," 32.04%  123.074      3 Template:Cite_web"," 21.14%   81.220      1 Template:More_footnotes"," 14.13%   54.295      1 Template:Ambox"," 12.34%   47.396      2 Template:Cvt","  9.37%   36.000      1 Template:Citation_needed","  8.10%   31.099      1 Template:Fix","  5.84%   22.418      1 Template:NHLE","  5.22%   20.033      1 Template:Notes"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":4601275,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20191007123625","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Honour of Richmond","url":"https:\/\/en.wikipedia.org\/wiki\/Honour_of_Richmond","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5897196","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5897196","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-10-20T15:05:03Z","dateModified":"2019-01-12T21:47:24Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1250"});});</script>   
+ </body>
+</html>

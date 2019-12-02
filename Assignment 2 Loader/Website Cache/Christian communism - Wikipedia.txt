@@ -1,0 +1,1575 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Christian communism - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Christian_communism","wgTitle":"Christian communism","wgCurRevisionId":923027302,"wgRevisionId":923027302,"wgArticleId":383054,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","CS1 Spanish-language sources (es)","Wikipedia articles needing page number citations from January 2019","CS1 errors: missing periodical","Webarchive template wayback links","Use British English Oxford spelling from November 2017","Use dmy dates from March 2018","All articles with unsourced statements","Articles with unsourced statements from January 2019","Christian communism","Christian socialism","Communism","Types of socialism"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":[""
+,""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Christian_communism","wgRelevantArticleId":383054,"wgRequestId":"XbNmuwpAAD4AAHxBbYYAAACD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q625559",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Christian_communism"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Christian_communism&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Christian_communism&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Christian_communism"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Christian_communism rootpage-Christian_communism skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Christian communism</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tbody>
+        <tr>
+         <td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Communism" title="Category:Communism">a series</a> on</td>
+        </tr>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;"><a href="/wiki/Communism" title="Communism">Communism</a></th>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            Concepts
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Communist_society" title="Communist society">Communist society</a></li> 
+             <li><a href="/wiki/Social_revolution" title="Social revolution">Social revolution</a></li> 
+             <li><a href="/wiki/Anti-capitalism" title="Anti-capitalism">Anti-capitalism</a></li> 
+             <li><a href="/wiki/Class_conflict" title="Class conflict">Class struggle</a></li> 
+             <li><a href="/wiki/Class_consciousness" title="Class consciousness">Class consciousness</a></li> 
+             <li><a href="/wiki/Classless_society" title="Classless society">Classless society</a></li> 
+             <li><a href="/wiki/Collective_leadership" title="Collective leadership">Collective leadership</a></li> 
+             <li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li> 
+             <li><a href="/wiki/Common_ownership" title="Common ownership">Common ownership</a></li> 
+             <li><a href="/wiki/Commune" title="Commune">Commune</a></li> 
+             <li><a href="/wiki/Commune_(model_of_government)" title="Commune (model of government)">Commune (model of government)</a></li> 
+             <li><a href="/wiki/Free_association_(communism_and_anarchism)" class="mw-redirect" title="Free association (communism and anarchism)">Free association</a></li> 
+             <li><a href="/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs" title="From each according to his ability, to each according to his needs">From each according to his ability,<br>to each according to his needs</a></li> 
+             <li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li> 
+             <li><a href="/wiki/Planned_economy" title="Planned economy">Planned economy</a></li> 
+             <li><a href="/wiki/Proletarian_internationalism" title="Proletarian internationalism">Proletarian internationalism</a></li> 
+             <li><a href="/wiki/Labour_movement" title="Labour movement">Labour movement</a></li> 
+             <li><a href="/wiki/Stateless_society" title="Stateless society">Stateless society</a></li> 
+             <li><a href="/wiki/Wage_slavery" title="Wage slavery">Wage slavery</a></li> 
+             <li><a href="/wiki/Workers%27_self-management" title="Workers' self-management">Workers' self-management</a></li> 
+             <li><a href="/wiki/World_revolution" title="World revolution">World revolution</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            Aspects
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/History_of_communism" title="History of communism">History of communism</a></li> 
+             <li><a href="/wiki/Communist_revolution" title="Communist revolution">Communist revolution</a></li> 
+             <li><a href="/wiki/Communist_symbolism" title="Communist symbolism">Communist symbolism</a></li> 
+             <li><a href="/wiki/Communist_party" title="Communist party">Communist party</a></li> 
+             <li><a href="/wiki/Communist_state" title="Communist state">Communist state</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            <a href="/wiki/List_of_communist_ideologies" title="List of communist ideologies">Variants</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Pre-Marxist_communism" title="Pre-Marxist communism">Pre-Marxist</a> 
+              <ul>
+               <li><a href="/wiki/Utopian_socialism" title="Utopian socialism">Utopian socialism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Anarcho-communism" title="Anarcho-communism">Anarchist</a></li> 
+             <li><a href="/wiki/Marxism" title="Marxism">Marxism</a> 
+              <ul>
+               <li><a href="/wiki/Libertarian_Marxism" title="Libertarian Marxism">Libertarian</a></li> 
+               <li><a href="/wiki/Leninism" title="Leninism">Leninism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/World_communism" title="World communism">World</a></li> 
+             <li><a href="/wiki/National_communism" title="National communism">National</a></li> 
+             <li><a href="/wiki/War_communism" title="War communism">War</a></li> 
+             <li><a href="/wiki/Religious_communism" title="Religious communism">Religious</a> 
+              <ul>
+               <li><a class="mw-selflink selflink">Christian</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Primitive_communism" title="Primitive communism">Primitive</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            Internationals
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Communist_League" title="Communist League">Communist League</a></li> 
+             <li><a href="/wiki/International_Workingmen%27s_Association" title="International Workingmen's Association">First International</a></li> 
+             <li><a href="/wiki/Second_International" title="Second International">Second International</a></li> 
+             <li><a href="/wiki/Communist_International" title="Communist International">Third International</a></li> 
+             <li><a href="/wiki/Fourth_International" title="Fourth International">Fourth International</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            <a href="/wiki/Category:Communists" title="Category:Communists">People</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Thomas_More" title="Thomas More">Thomas More</a></li> 
+             <li><a href="/wiki/Tommaso_Campanella" title="Tommaso Campanella">Tommaso Campanella</a></li> 
+             <li><a href="/wiki/Fran%C3%A7ois-No%C3%ABl_Babeuf" title="François-Noël Babeuf">Gracchus Babeuf</a></li> 
+             <li><a href="/wiki/Robert_Owen" title="Robert Owen">Robert Owen</a></li> 
+             <li><a href="/wiki/Wilhelm_Weitling" title="Wilhelm Weitling">Wilhelm Weitling</a></li> 
+             <li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a></li> 
+             <li><a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Friedrich Engels</a></li> 
+             <li><a href="/wiki/%C3%89lis%C3%A9e_Reclus" title="Élisée Reclus">Élisée Reclus</a></li> 
+             <li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li> 
+             <li><a href="/wiki/Errico_Malatesta" title="Errico Malatesta">Errico Malatesta</a></li> 
+             <li><a href="/wiki/Rosa_Luxemburg" title="Rosa Luxemburg">Rosa Luxemburg</a></li> 
+             <li><a href="/wiki/Clara_Zetkin" title="Clara Zetkin">Clara Zetkin</a></li> 
+             <li><a href="/wiki/Karl_Liebknecht" title="Karl Liebknecht">Karl Liebknecht</a></li> 
+             <li><a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Vladimir Lenin</a></li> 
+             <li><a href="/wiki/Alexander_Berkman" title="Alexander Berkman">Alexander Berkman</a></li> 
+             <li><a href="/wiki/Emma_Goldman" title="Emma Goldman">Emma Goldman</a></li> 
+             <li><a href="/wiki/Sacco_and_Vanzetti" title="Sacco and Vanzetti">Sacco and Vanzetti</a></li> 
+             <li><a href="/wiki/Leon_Trotsky" title="Leon Trotsky">Leon Trotsky</a></li> 
+             <li><a href="/wiki/Nestor_Makhno" title="Nestor Makhno">Nestor Makhno</a></li> 
+             <li><a href="/wiki/Alexandra_Kollontai" title="Alexandra Kollontai">Alexandra Kollontai</a></li> 
+             <li><a href="/wiki/Antonio_Gramsci" title="Antonio Gramsci">Antonio Gramsci</a></li> 
+             <li><a href="/wiki/Joseph_Stalin" title="Joseph Stalin">Joseph Stalin</a></li> 
+             <li><a href="/wiki/Buenaventura_Durruti" title="Buenaventura Durruti">Buenaventura Durruti</a></li> 
+             <li><a href="/wiki/Antonie_Pannekoek" title="Antonie Pannekoek">Antonie Pannekoek</a></li> 
+             <li><a href="/wiki/Sylvia_Pankhurst" title="Sylvia Pankhurst">Sylvia Pankhurst</a></li> 
+             <li><a href="/wiki/Wilhelm_Reich" title="Wilhelm Reich">Wilhelm Reich</a></li> 
+             <li><a href="/wiki/Palmiro_Togliatti" title="Palmiro Togliatti">Palmiro Togliatti</a></li> 
+             <li><a href="/wiki/Ho_Chi_Minh" title="Ho Chi Minh">Ho Chi Minh</a></li> 
+             <li><a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a></li> 
+             <li><a href="/wiki/Josip_Broz_Tito" title="Josip Broz Tito">Josip Broz Tito</a></li> 
+             <li><a href="/wiki/Albert_Camus" title="Albert Camus">Albert Camus</a></li> 
+             <li><a href="/wiki/Herbert_Marcuse" title="Herbert Marcuse">Herbert Marcuse</a></li> 
+             <li><a href="/wiki/Jean-Paul_Sartre" title="Jean-Paul Sartre">Jean-Paul Sartre</a></li> 
+             <li><a href="/wiki/Enver_Hoxha" title="Enver Hoxha">Enver Hoxha</a></li> 
+             <li><a href="/wiki/Simone_de_Beauvoir" title="Simone de Beauvoir">Simone de Beauvoir</a></li> 
+             <li><a href="/wiki/Che_Guevara" title="Che Guevara">Che Guevara</a></li> 
+             <li><a href="/wiki/Pier_Paolo_Pasolini" title="Pier Paolo Pasolini">Pier Paolo Pasolini</a></li> 
+             <li><a href="/wiki/Kim_Il-sung" title="Kim Il-sung">Kim Il-sung</a></li> 
+             <li><a href="/wiki/Enrico_Berlinguer" title="Enrico Berlinguer">Enrico Berlinguer</a></li> 
+             <li><a href="/wiki/Cornelius_Castoriadis" title="Cornelius Castoriadis">Cornelius Castoriadis</a></li> 
+             <li><a href="/wiki/Guy_Debord" title="Guy Debord">Guy Debord</a></li> 
+             <li><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></li> 
+             <li><a href="/wiki/Fidel_Castro" title="Fidel Castro">Fidel Castro</a></li> 
+             <li><a href="/wiki/Subcomandante_Marcos" title="Subcomandante Marcos">Subcomandante Marcos</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            By region
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Communism_in_Colombia" title="Communism in Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Communism_in_France" title="Communism in France">France</a></li> 
+             <li><a href="/wiki/Communism_in_Kerala" title="Communism in Kerala">Kerala</a></li> 
+             <li><a href="/wiki/Communism_in_Korea" title="Communism in Korea">Korea</a></li> 
+             <li><a href="/wiki/Communism_in_Nepal" title="Communism in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Communism_in_Peru" title="Communism in Peru">Peru</a></li> 
+             <li><a href="/wiki/Communism_in_the_Philippines" title="Communism in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Communism_in_Poland" title="Communism in Poland">Poland</a></li> 
+             <li><a href="/wiki/Communism_in_Russia" title="Communism in Russia">Russia</a></li> 
+             <li><a href="/wiki/Communism_in_Sumatra" title="Communism in Sumatra">Sumatra</a></li> 
+             <li><a href="/wiki/Communism_in_Vietnam" title="Communism in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/List_of_communist_parties" title="List of communist parties">List of communist parties</a></li> 
+             <li><a href="/wiki/List_of_anti-capitalist_and_communist_parties_with_national_parliamentary_representation" title="List of anti-capitalist and communist parties with national parliamentary representation">List of anti-capitalist and communist parties<br>with national parliamentary representation</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            Anthem
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li>"<a href="/wiki/The_Internationale" title="The Internationale">The Internationale</a>"</li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #cc0000;background:transparent;text-align:center;">
+            Related topics
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a> 
+              <ul>
+               <li><a href="/wiki/Social_anarchism" title="Social anarchism">Social</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Socialism" title="Socialism">Socialism</a> 
+              <ul>
+               <li><a href="/wiki/Revolutionary_socialism" title="Revolutionary socialism">Revolutionary</a></li> 
+               <li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian</a></li> 
+               <li><a href="/wiki/Democratic_socialism" title="Democratic socialism">Democratic</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Revolution" title="Revolution">Revolution</a></li> 
+             <li><a href="/wiki/Anti-communism" title="Anti-communism">Anti-communism</a></li> 
+             <li><a href="/wiki/Anti_anti-communism" title="Anti anti-communism">Anti anti-communism</a></li> 
+             <li><a href="/wiki/Anti-communist_mass_killings" title="Anti-communist mass killings">Anti-communist mass killings</a></li> 
+             <li><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a></li> 
+             <li><a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">Anti-globalization movement</a></li> 
+             <li><a href="/wiki/Anti-nationalism" title="Anti-nationalism">Anti-nationalism</a></li> 
+             <li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li> 
+             <li><a href="/wiki/Communitarianism" title="Communitarianism">Communitarianism</a></li> 
+             <li><a href="/wiki/Crimes_against_humanity_under_communist_regimes" title="Crimes against humanity under communist regimes">Crimes against humanity<br>under communist regimes</a> (<a href="/wiki/Mass_killings_under_communist_regimes" title="Mass killings under communist regimes">Mass killings</a>)</li> 
+             <li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li> 
+             <li><a href="/wiki/Internationalism_(politics)" title="Internationalism (politics)">Internationalism</a></li> 
+             <li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li> 
+             <li><a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing politics</a> 
+              <ul>
+               <li><a href="/wiki/Old_Left" title="Old Left">Old Left</a></li> 
+               <li><a href="/wiki/New_Left" title="New Left">New Left</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Marx%27s_theory_of_alienation" title="Marx's theory of alienation">Marx's theory of alienation</a></li> 
+             <li><a href="/wiki/Red_Scare" title="Red Scare">Red Scare</a></li> 
+             <li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li> 
+             <li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist economics</a></li> 
+             <li><a href="/wiki/Socialist_mode_of_production" title="Socialist mode of production">Socialist mode of production</a></li> 
+             <li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalism</a></li> 
+             <li><a href="/wiki/Trade_union" title="Trade union">Trade union</a></li> 
+             <li><a href="/wiki/Worker_cooperative" title="Worker cooperative">Worker cooperative</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="hlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.15em;"> <a href="/wiki/File:Symbol-hammer-and-sickle.svg" class="image"><img alt="Symbol-hammer-and-sickle.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/16px-Symbol-hammer-and-sickle.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/24px-Symbol-hammer-and-sickle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/32px-Symbol-hammer-and-sickle.svg.png 2x" data-file-width="48" data-file-height="48"></a> <a href="/wiki/Portal:Communism" title="Portal:Communism">Communism portal</a></td>
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Communism" title="Template:Communism"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Communism" title="Template talk:Communism"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Communism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tbody>
+        <tr>
+         <td style="padding-top:0.4em;line-height:1.2em;padding-bottom:0.2em;">Part of a <a href="/wiki/Category:Socialism" title="Category:Socialism">series</a> on</td>
+        </tr>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:175%"><a href="/wiki/Christian_socialism" title="Christian socialism">Christian socialism</a></th>
+        </tr>
+        <tr>
+         <td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Cross_and_Sickle.png" class="image"><img alt="Cross and Sickle.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cross_and_Sickle.png/100px-Cross_and_Sickle.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cross_and_Sickle.png/150px-Cross_and_Sickle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cross_and_Sickle.png/200px-Cross_and_Sickle.png 2x" data-file-width="1000" data-file-height="1000"></a></td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Political concepts
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Liberation_theology" title="Liberation theology">Liberation theology</a></li> 
+             <li><a href="/wiki/Social_Christianity" class="mw-redirect" title="Social Christianity">Social Christianity</a></li> 
+             <li><a href="/wiki/Christian_socialism" title="Christian socialism">Christian socialism</a></li> 
+             <li><a class="mw-selflink selflink">Christian communism</a></li> 
+             <li><a href="/wiki/Popular_Front" class="mw-redirect" title="Popular Front">Popular Front</a></li> 
+             <li><a href="/wiki/Anti-racism" title="Anti-racism">Anti-racism</a></li> 
+             <li><a href="/wiki/Postcolonial_theology" title="Postcolonial theology">Postcolonial theology</a></li> 
+             <li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li> 
+             <li><a href="/wiki/Two_kingdoms_doctrine" title="Two kingdoms doctrine">Two kingdoms doctrine</a></li> 
+             <li><a href="/w/index.php?title=Tolstoyan_theology&amp;action=edit&amp;redlink=1" class="new" title="Tolstoyan theology (page does not exist)">Tolstoyan theology</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            People
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Hugo_Chavez" class="mw-redirect" title="Hugo Chavez">Hugo Chavez</a></li> 
+             <li><a href="/wiki/James_H._Cone" title="James H. Cone">James H. Cone</a></li> 
+             <li><a href="/wiki/Dorothy_Day" title="Dorothy Day">Dorothy Day</a></li> 
+             <li><a href="/wiki/Terry_Eagleton" title="Terry Eagleton">Terry Eagleton</a></li> 
+             <li><a href="/wiki/Paulo_Freire" title="Paulo Freire">Paulo Freire</a></li> 
+             <li><a href="/wiki/Martin_Luther_King" class="mw-redirect" title="Martin Luther King">Martin Luther King</a></li> 
+             <li><a href="/wiki/Jesse_Jackson" title="Jesse Jackson">Jesse Jackson</a></li> 
+             <li><a href="/wiki/Gustavo_Gutierrez" class="mw-redirect" title="Gustavo Gutierrez">Gustavo Gutierrez</a></li> 
+             <li><a href="/wiki/Evo_Morales" title="Evo Morales">Evo Morales</a></li> 
+             <li><a href="/wiki/Henri_Saint-Simon" class="mw-redirect" title="Henri Saint-Simon">Henri Saint-Simon</a></li> 
+             <li><a href="/wiki/Sophie_Scholl" title="Sophie Scholl">Sophie Scholl</a></li> 
+             <li><a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">Leo Tolstoy</a></li> 
+             <li><a href="/wiki/Cornel_West" title="Cornel West">Cornel West</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Major writings
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/The_Sermon_on_the_Mount" class="mw-redirect" title="The Sermon on the Mount">The Sermon on the Mount</a></li> 
+             <li><i><a href="/wiki/The_Kingdom_of_God_is_Within_You" class="mw-redirect" title="The Kingdom of God is Within You">The Kingdom of God is Within You</a></i></li> 
+             <li><i><a href="/wiki/Pedagogy_of_the_Oppressed" title="Pedagogy of the Oppressed">Pedagogy of the Oppressed</a></i></li> 
+             <li><i><a href="/wiki/A_Theology_of_Liberation" class="mw-redirect" title="A Theology of Liberation">A Theology of Liberation</a></i></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Organizations
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Catholic_Worker" title="Catholic Worker">Catholic Worker</a></li> 
+             <li><a href="/wiki/FSLN" class="mw-redirect" title="FSLN">FSLN</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Christian_socialism_sidebar" title="Template:Christian socialism sidebar"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Christian_socialism_sidebar" title="Template talk:Christian socialism sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Christian_socialism_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Christian communism</b> is a form of <a href="/wiki/Religious_communism" title="Religious communism">religious communism</a> based on <a href="/wiki/Christianity" title="Christianity">Christianity</a>. It is a theological and political theory based upon the view that the teachings of <a href="/wiki/Jesus_in_Christianity" title="Jesus in Christianity">Jesus Christ</a> compel <a href="/wiki/Christians" title="Christians">Christians</a> to support <a href="/wiki/Communism" title="Communism">communism</a> as the ideal <a href="/wiki/Social_system" title="Social system">social system</a>. Although there is no universal agreement on the exact date when Christian communism was founded, many Christian communists assert that evidence from the <a href="/wiki/Bible" title="Bible">Bible</a> (in the <a href="/wiki/Acts_of_the_Apostles" title="Acts of the Apostles">Acts of the Apostles</a>)<sup id="cite_ref-Bible_1-0" class="reference"><a href="#cite_note-Bible-1">[1]</a></sup> suggests that the first Christians, including the <a href="/wiki/Apostles" title="Apostles">apostles</a>, established their own small communist society in the years following Jesus' death and resurrection.<sup id="cite_ref-Bible_1-1" class="reference"><a href="#cite_note-Bible-1">[1]</a></sup> As such, many advocates of Christian communism argue that it was taught by Jesus and practiced by the apostles themselves.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Some independent historians confirm it.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-Montero2017_14-0" class="reference"><a href="#cite_note-Montero2017-14">[14]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Basis"><span class="tocnumber">1</span> <span class="toctext">Basis</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Controversy"><span class="tocnumber">2</span> <span class="toctext">Controversy</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Atheism_and_communism"><span class="tocnumber">2.1</span> <span class="toctext">Atheism and communism</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Establishing_Christian_communism"><span class="tocnumber">2.2</span> <span class="toctext">Establishing Christian communism</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Basis">Basis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=1" title="Edit section: Basis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+      <p> Christian communists regard biblical texts in Acts 2 and 4 as evidence that the first Christians lived in a communist society. </p>
+      <blockquote>
+       <p>Acts 2:44-45, "All who believed were together and had all things in common; 45 they would sell their possessions and goods and distribute the proceeds to all, as any had need."<br><br> Acts 4:32-35, "Now the whole group of those who believed were of one heart and soul, and no one claimed private ownership of any possessions, but everything they owned was held in common. ... 34 There was not a needy person among them, for as many as owned lands or houses sold them and brought the proceeds of what was sold. 35 They laid it at the apostles' feet, and it was distributed to each as any had need."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p>
+      </blockquote>
+      <p>Montero offers anthropological evidence that the practices recounted in Acts 4:32–35 were historical and were practiced widely and taken seriously during at least the first two centuries of Christianity.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </p>
+      <p>Other biblical evidence of <a href="/wiki/Anti-capitalism" title="Anti-capitalism">anti-capitalistic</a> belief-systems include Matthew 6:24: "No one can serve two masters. Either you will hate the one and love the other or you will be devoted to the one and despise the other. You cannot serve both God and money."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The slogan "Each according to his abilities" has biblical origins too. Act 11:29 states: "29 Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea". The phrase <a href="/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs" title="From each according to his ability, to each according to his needs">"To each according to his needs"</a> also has a biblical basis - Acts 4:35: "[...] to the emissaries to distribute to each according to his need". <i>Preaching</i> by Thomas Wharton Collens (1812-1879) describes biblical sources supporting a common-property society.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (January 2019)">page&nbsp;needed</span></a></i>]</sup> </p>
+      <p>Christian communism does not depend merely on the principles of the early apostles. In fact, Christian communists claim that <a href="/wiki/Anti-capitalist" class="mw-redirect" title="Anti-capitalist">anti-capitalist</a> ideals are deeply rooted in the Christian faith. While modern <a href="/wiki/Capitalism" title="Capitalism">capitalism</a> had not yet formed in the time of Christ, his message was overwhelmingly against the love of money (greed) and in support of the poor. Christian communists see the principles of Christ as staunchly anti-capitalist in nature. Since "the love of money is a root of all kinds of evil" (1 Tim 6:10 NRSV), it seems natural for Christians to oppose a social system founded - as Christian communists claim - entirely on the love of money. In fact, Christian opposition to the emergence of such a system largely delayed <a href="/wiki/History_of_capitalism" title="History of capitalism">capitalist development</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2019)">citation needed</span></a></i>]</sup> and capitalism did not gather popular support until <a href="/wiki/John_Calvin" title="John Calvin">John Calvin</a> (1509-1564) endorsed capitalist practice from a religious perspective.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The ideals of Christian communism are pre-Calvinist and as such seek to return Christianity to its anti-capitalist roots by progressing beyond it into <a href="/wiki/Socialism" title="Socialism">socialism</a> and finally to <a href="/wiki/Communism" title="Communism">communism</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2019)">citation needed</span></a></i>]</sup> </p> 
+      <h2><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=2" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Atheism_and_communism">Atheism and communism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=3" title="Edit section: Atheism and communism">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Contemporary communism, including contemporary Christian communism, owes much to <a href="/wiki/Marxism" title="Marxism">Marxist thought</a>—particularly <a href="/wiki/Marxian_economics" title="Marxian economics">Marxist economics</a>. Not all communists are in full agreement with Marxism, but it is difficult to find any communists today who do not agree at least with the Marxist critique of capitalism. Marxism includes a complex array of views that cover several different fields of human knowledge and one may easily distinguish between <a href="/wiki/Marxist_philosophy" title="Marxist philosophy">Marxist philosophy</a>, <a href="/wiki/Marxist_sociology" title="Marxist sociology">Marxist sociology</a> and Marxist economics. Marxist sociology and Marxist economics have no connection to religious issues and make no assertions about such things. On the other hand, Marxist philosophy is famously <a href="/wiki/Atheism" title="Atheism">atheistic</a>, although some Marxist scholars, both Christian and non-Christian, have insisted that Marxist philosophy and the philosophy of <a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a> and <a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Friedrich Engels</a> are significantly different from one another and that this difference needs recognition. In particular, Jose Porfirio Miranda found Marx and Engels to be consistently opposed to deterministic materialism and broadly sympathetic towards Christianity and towards the text of the Bible, although disbelieving in a supernatural deity.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> <a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Vladimir Lenin</a> also allowed Christians in the <a href="/wiki/Bolshevik_Party" class="mw-redirect" title="Bolshevik Party">Bolshevik Party</a>. </p> 
+      <h3><span class="mw-headline" id="Establishing_Christian_communism">Establishing Christian communism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=4" title="Edit section: Establishing Christian communism">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Jesus_Revolution.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jesus_Revolution.svg/220px-Jesus_Revolution.svg.png" decoding="async" width="220" height="236" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jesus_Revolution.svg/330px-Jesus_Revolution.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jesus_Revolution.svg/440px-Jesus_Revolution.svg.png 2x" data-file-width="719" data-file-height="772"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Jesus_Revolution.svg" class="internal" title="Enlarge"></a>
+         </div>Jesus as a revolutionary
+        </div>
+       </div>
+      </div> 
+      <p>There is also the question of how a <a href="/wiki/Communist_society" title="Communist society">communist society</a> should be actually achieved. While orthodox communists advocate a form of violent <a href="/wiki/Revolution" title="Revolution">revolution</a>, Christian communists almost universally insist on <a href="/wiki/Nonviolence" title="Nonviolence">nonviolent</a> means, such as <a href="/wiki/Nonviolent_resistance" title="Nonviolent resistance">passive resistance</a> or winning <a href="/wiki/Election" title="Election">elections</a>. Some groups are <a href="/wiki/Pacifism" title="Pacifism">pacifists</a>, such as the <a href="/wiki/Hutterites" title="Hutterites">Hutterites</a> and <a href="/wiki/Bruderhof_Communities" title="Bruderhof Communities">Bruderhof</a>, who regard all force as wrong, including forcing a new society on someone.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Regarding the issue of the <a href="/wiki/Nationalization" title="Nationalization">nationalization</a> of the <a href="/wiki/Means_of_production" title="Means of production">means of production</a>, Christian communists argue that capitalism itself is a form of institutionalized theft in the manner that capitalist owners exploit their workers by not paying them the full value of their labour. However, not all Christian communists seek to achieve large-scale social change. Some believe that rather than attempting to transform the politics and economics of an entire country, Christians should instead establish communism at a local or regional level only. </p>
+      <p>According to theologians such as Leonardo Boff, the Latin American branch of Christian communist <a href="/wiki/Liberation_theology" title="Liberation theology">liberation theology</a> is rooted in the concept that "prudence is the understanding of situations of radical crisis".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Among Christian communists, <a href="/wiki/Historical_materialism" title="Historical materialism">historical materialism</a> is utilized as a methodology of analysis to define the nature of the crisis in question as a product of political-economic dynamics and modalities derived from the workings of what is termed "the late capitalist/imperialist mode of production". According to this subset of liberation theology, the challenge for the Christian communist is then to define what it means (in context of "a concrete analysis of the concrete social reality") to affirm a "preferential option for the poor and oppressed" as <a href="/wiki/Praxis_(process)" title="Praxis (process)">praxis</a> (active theory)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> and as commanded by an <a href="/wiki/Ethics" title="Ethics">ethics</a> allegedly "rooted in the beatidic teachings of Jesus". Christian communist liberation theology is not about <a href="/wiki/Evangelism" title="Evangelism">evangelization</a> per se, but rather about developing an <a href="/wiki/Orthopraxis" class="mw-redirect" title="Orthopraxis">orthopraxis</a> (ethical action, i.e. the condition of coming to the light by doing the works of God)<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> that aims to reconcile the "beatidic ethics" of Jesus as espoused in the <a href="/wiki/Sermon_on_the_Mount" title="Sermon on the Mount">Sermon on the Mount</a> with existing social struggles against what is termed "<a href="/wiki/Neo-colonialism" class="mw-redirect" title="Neo-colonialism">neo-colonialism</a>" or "<a href="/wiki/Late_capitalism" title="Late capitalism">late capitalism</a>". Both Christian communism and liberation theology stress orthopraxis over <a href="/wiki/Orthodoxy" title="Orthodoxy">orthodoxy</a>. A narrative of the nature of contemporary social struggles is developed via materialist analysis utilizing historiographic concepts developed by Karl Marx. A concrete example are the Paraguayan <i>Sin Tierra</i> (landless) movement,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> who engage in direct land seizures and the establishment of socialized agricultural cooperative production in <i>asentamientos</i>. The contemporary Paraguayan <i>Sin Tierra</i> operate in a very similar manner as that of the reformation era <a href="/wiki/Diggers" title="Diggers">Diggers</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> For <a href="/wiki/Camilo_Torres_Restrepo" title="Camilo Torres Restrepo">Camilo Torres</a> (the founder of the <a href="/wiki/National_Liberation_Army_(Colombia)" title="National Liberation Army (Colombia)">Colombian guerrilla group ELN</a>),<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> developing this orthopraxis meant celebrating the <a href="/wiki/Eucharist_in_the_Catholic_Church" title="Eucharist in the Catholic Church">Catholic Eucharist</a> only among those engaged in armed struggle against the army of the Colombian state while fighting alongside them.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px"> 
+       <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold"> 
+        <li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:P_christianity.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/31px-P_christianity.svg.png" decoding="async" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/47px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/62px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360"></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></span></li> 
+        <li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/28px-Symbol-hammer-and-sickle.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/42px-Symbol-hammer-and-sickle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Symbol-hammer-and-sickle.svg/56px-Symbol-hammer-and-sickle.svg.png 2x" data-file-width="48" data-file-height="48"></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Communism" title="Portal:Communism">Communism portal</a></span></li>
+       </ul>
+      </div> 
+      <div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;"> 
+       <ul>
+        <li><a href="/wiki/Bruderhof_Communities" title="Bruderhof Communities">Bruderhof Communities</a></li> 
+        <li><a href="/wiki/Christian_anarchism" title="Christian anarchism">Christian anarchism</a></li> 
+        <li><a href="/wiki/Christian_egalitarianism" title="Christian egalitarianism">Christian egalitarianism</a></li> 
+        <li><a href="/wiki/Christian_materialism" title="Christian materialism">Christian materialism</a></li> 
+        <li><a href="/wiki/Christian_left" title="Christian left">Christian left</a></li> 
+        <li><a href="/wiki/Christian_socialism" title="Christian socialism">Christian socialism</a></li> 
+        <li><a href="/wiki/Christian_views_on_poverty_and_wealth" title="Christian views on poverty and wealth">Christian views on poverty and wealth</a></li> 
+        <li><a href="/wiki/%C3%89tienne_Cabet" title="Étienne Cabet">Étienne Cabet</a></li> 
+        <li><a href="/wiki/Fra_Dolcino" title="Fra Dolcino">Fra Dolcino</a></li> 
+        <li><a href="/wiki/Gerrard_Winstanley" title="Gerrard Winstanley">Gerrard Winstanley</a></li> 
+        <li><a href="/wiki/Harmony_Society" title="Harmony Society">Harmony Society</a></li> 
+        <li><a href="/wiki/Hutterites" title="Hutterites">Hutterites</a></li> 
+        <li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li> 
+        <li><a href="/wiki/Jesuit_reduction" title="Jesuit reduction">Jesuit reduction</a></li> 
+        <li><a href="/wiki/John_Goodwyn_Barmby" title="John Goodwyn Barmby">John Goodwyn Barmby</a></li> 
+        <li><a href="/wiki/League_of_the_Just" title="League of the Just">League of the Just</a></li> 
+        <li><a href="/wiki/M%C3%BCnster_Rebellion" class="mw-redirect" title="Münster Rebellion">Münster Rebellion</a></li> 
+        <li><a href="/wiki/Plymouth_Colony" title="Plymouth Colony">Plymouth Colony</a></li> 
+        <li><i><a href="/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism" title="The Protestant Ethic and the Spirit of Capitalism">The Protestant Ethic and the Spirit of Capitalism</a></i></li> 
+        <li><a href="/wiki/Shakers" title="Shakers">Shakers</a></li> 
+        <li><a href="/wiki/Terry_Eagleton" title="Terry Eagleton">Terry Eagleton</a></li> 
+        <li><a href="/wiki/Wilhelm_Weitling" title="Wilhelm Weitling">Wilhelm Weitling</a></li>
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+       <ol class="references"> 
+        <li id="cite_note-Bible-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bible_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bible_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Acts 2:44, 4:32–37; 5:1–12. Other verses are: Matthew 5:1–12, 6:24, Luke 3:11, 16:11, 2 Corinthians 8:13–15 and James 5:3.</span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">This is the standpoint of the <a href="/wiki/Orthodox_Marxism" title="Orthodox Marxism">orthodox Marxist</a> <cite class="citation book">Kautsky, Karl (1953) [1908]. <a rel="nofollow" class="external text" href="https://www.marxists.org/archive/kautsky/1908/christ/ch10.htm#s3">"IV.II. The Christian Idea of the Messiah. Jesus as a Rebel."</a>. <a rel="nofollow" class="external text" href="https://www.marxists.org/archive/kautsky/1908/christ/index.htm"><i>Foundations of Christianity</i></a>. Russell and Russell.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=IV.II.+The+Christian+Idea+of+the+Messiah.+Jesus+as+a+Rebel.&amp;rft.btitle=Foundations+of+Christianity&amp;rft.pub=Russell+and+Russell&amp;rft.date=1953&amp;rft.aulast=Kautsky&amp;rft.aufirst=Karl&amp;rft_id=http%3A%2F%2Fwww.marxists.org%2Farchive%2Fkautsky%2F1908%2Fchrist%2Fch10.htm%23s3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>: Christianity was the expression of <a href="/wiki/Class_conflict" title="Class conflict">class conflict</a> in Antiquity.</span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Gustav Bang <a rel="nofollow" class="external text" href="http://www.slp.org/pdf/others/crises_bang.pdf">Crises in European History</a> p. 24.</span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Lansford, Tom (2007). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=MjjTt-TITcUC&amp;pg=PA24&amp;lpg=PA24&amp;dq=apostles+communist&amp;source=bl&amp;ots=c-LonaZg7K&amp;sig=TiPALG62AWWVwwCcS8PCdiyW3l8&amp;hl=nl&amp;ei=4-9CTbTBCcvtOf2GlfsB&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CDgQ6AEwBDgK#v=onepage&amp;q=apostles%20communist&amp;f=false">"History of Communism"</a>. <i>Communism. Political Systems of the World</i>. Marshall Cavendish. pp.&nbsp;24–25<span class="reference-accessdate">. Retrieved <span class="nowrap">16 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=History+of+Communism&amp;rft.btitle=Communism.+Political+Systems+of+the+World&amp;rft.pages=24-25&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2007&amp;rft.aulast=Lansford&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DMjjTt-TITcUC%26pg%3DPA24%26lpg%3DPA24%26dq%3Dapostles%2Bcommunist%26source%3Dbl%26ots%3Dc-LonaZg7K%26sig%3DTiPALG62AWWVwwCcS8PCdiyW3l8%26hl%3Dnl%26ei%3D4-9CTbTBCcvtOf2GlfsB%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D5%26ved%3D0CDgQ6AEwBDgK%23v%3Donepage%26q%3Dapostles%2520communist%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">von Mises, Ludwig (1981) [1951]. <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=3GXi4MQQs3IC&amp;pg=PA424&amp;lpg=PA424&amp;dq=apostles+communist+acts&amp;source=bl&amp;ots=lp5PlSH2cT&amp;sig=8BsKuIFGHueLhuXwdomnRCLnoTQ&amp;hl=nl&amp;ei=GfJCTczjMoSbOpezlY0C&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;ved=0CF8Q6AEwCDge#v=onepage&amp;q=apostles%20communist%20acts&amp;f=false">"Christianity and Socialism"</a>. <i>Socialism</i>. New Heaven: Yale University Press. p.&nbsp;424<span class="reference-accessdate">. Retrieved <span class="nowrap">16 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Christianity+and+Socialism&amp;rft.btitle=Socialism&amp;rft.place=New+Heaven&amp;rft.pages=424&amp;rft.pub=Yale+University+Press&amp;rft.date=1981&amp;rft.aulast=von+Mises&amp;rft.aufirst=Ludwig&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3D3GXi4MQQs3IC%26pg%3DPA424%26lpg%3DPA424%26dq%3Dapostles%2Bcommunist%2Bacts%26source%3Dbl%26ots%3Dlp5PlSH2cT%26sig%3D8BsKuIFGHueLhuXwdomnRCLnoTQ%26hl%3Dnl%26ei%3DGfJCTczjMoSbOpezlY0C%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D9%26ved%3D0CF8Q6AEwCDge%23v%3Donepage%26q%3Dapostles%2520communist%2520acts%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.nl/books?id=zhoaAQAAIAAJ&amp;pg=PA502&amp;dq=ananias+punished+death+communism&amp;hl=nl&amp;ei=l3PITfm4LtGWOpz1sO0B&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8&amp;ved=0CEoQ6AEwBw#v=onepage&amp;q=ananias%20punished%20death%20communism&amp;f=false">"Rénan's Les Apôtres. Community life"</a>. <i>The London Quarterly and Holborn Review, Volume 26</i>. London. 1866 [April and July]. p.&nbsp;502<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=R%C3%A9nan%27s+Les+Ap%C3%B4tres.+Community+life&amp;rft.btitle=The+London+Quarterly+and+Holborn+Review%2C+Volume+26&amp;rft.place=London&amp;rft.pages=502&amp;rft.date=1866&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DzhoaAQAAIAAJ%26pg%3DPA502%26dq%3Dananias%2Bpunished%2Bdeath%2Bcommunism%26hl%3Dnl%26ei%3Dl3PITfm4LtGWOpz1sO0B%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D8%26ved%3D0CEoQ6AEwBw%23v%3Donepage%26q%3Dananias%2520punished%2520death%2520communism%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Unterbrink, Daniel T. (2004). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=AhBFPH864P4C&amp;pg=PA92&amp;dq=ananias+punished+death+communism&amp;hl=nl&amp;ei=_3bITYmIEomfOpzqqe4B&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CDcQ6AEwBDgK#v=onepage&amp;q=ananias%20punished%20death%20communism&amp;f=false">"The Dead Sea Scrolls"</a>. <i>Judas the Galilean</i>. Lincoln: iUniverse. p.&nbsp;92. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-595-77000-2" title="Special:BookSources/0-595-77000-2"><bdi>0-595-77000-2</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Dead+Sea+Scrolls&amp;rft.btitle=Judas+the+Galilean&amp;rft.place=Lincoln&amp;rft.pages=92&amp;rft.pub=iUniverse&amp;rft.date=2004&amp;rft.isbn=0-595-77000-2&amp;rft.aulast=Unterbrink&amp;rft.aufirst=Daniel+T.&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DAhBFPH864P4C%26pg%3DPA92%26dq%3Dananias%2Bpunished%2Bdeath%2Bcommunism%26hl%3Dnl%26ei%3D_3bITYmIEomfOpzqqe4B%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult%26resnum%3D5%26ved%3D0CDcQ6AEwBDgK%23v%3Donepage%26q%3Dananias%2520punished%2520death%2520communism%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Guthrie, Donald (1992) [1975]. <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=uts4VTUm1iEC&amp;pg=PA46&amp;dq=apostles+communist+acts&amp;hl=nl&amp;sa=X&amp;ei=HsW4UM-0IcK1hAeD6YCoDg&amp;ved=0CDsQ6AEwBA#v=onepage&amp;q=apostles%20communist%20acts&amp;f=false">"3. Early Problems. 15. Early Christian Communism"</a>. <i>The Apostles</i>. Grand Rapids, Michigan: Zondervan. p.&nbsp;46. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-310-25421-8" title="Special:BookSources/978-0-310-25421-8"><bdi>978-0-310-25421-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=3.+Early+Problems.+15.+Early+Christian+Communism&amp;rft.btitle=The+Apostles&amp;rft.place=Grand+Rapids%2C+Michigan&amp;rft.pages=46&amp;rft.pub=Zondervan&amp;rft.date=1992&amp;rft.isbn=978-0-310-25421-8&amp;rft.aulast=Guthrie&amp;rft.aufirst=Donald&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3Duts4VTUm1iEC%26pg%3DPA46%26dq%3Dapostles%2Bcommunist%2Bacts%26hl%3Dnl%26sa%3DX%26ei%3DHsW4UM-0IcK1hAeD6YCoDg%26ved%3D0CDsQ6AEwBA%23v%3Donepage%26q%3Dapostles%2520communist%2520acts%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Renan, Ernest (1869). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=knYRAAAAYAAJ&amp;pg=PA152&amp;dq=apostles+communist&amp;hl=nl&amp;sa=X&amp;ei=wcW4ULPoN8LDhAeD-4CYAg&amp;ved=0CD4Q6AEwBTgK#v=onepage&amp;q=apostles%20communist&amp;f=false">"VIII. First Persecution. Death of Stephen. Destruction of the First Church of Jerusalem"</a>. <i>Origins of Christianity</i>. II. The Apostles. New York: Carleton. p.&nbsp;152.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=VIII.+First+Persecution.+Death+of+Stephen.+Destruction+of+the+First+Church+of+Jerusalem&amp;rft.btitle=Origins+of+Christianity&amp;rft.place=New+York&amp;rft.pages=152&amp;rft.pub=Carleton&amp;rft.date=1869&amp;rft.aulast=Renan&amp;rft.aufirst=Ernest&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DknYRAAAAYAAJ%26pg%3DPA152%26dq%3Dapostles%2Bcommunist%26hl%3Dnl%26sa%3DX%26ei%3DwcW4ULPoN8LDhAeD-4CYAg%26ved%3D0CD4Q6AEwBTgK%23v%3Donepage%26q%3Dapostles%2520communist%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Ehrhardt, Arnold (1969). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=kAbZAAAAIAAJ&amp;pg=PA20&amp;dq=apostles+communist+calvin&amp;hl=nl&amp;sa=X&amp;ei=Lca4UMXPDtKGhQeGhIDADw&amp;ved=0CC8Q6AEwAA#v=onepage&amp;q=apostles%20communist%20calvin&amp;f=false">"St Peter and the Twelve"</a>. <i>The Acts of the Apostles</i>. Manchester: University of Manchester. The University Press. p.&nbsp;20. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0719003820" title="Special:BookSources/978-0719003820"><bdi>978-0719003820</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=St+Peter+and+the+Twelve&amp;rft.btitle=The+Acts+of+the+Apostles&amp;rft.place=Manchester&amp;rft.pages=20&amp;rft.pub=University+of+Manchester.+The+University+Press&amp;rft.date=1969&amp;rft.isbn=978-0719003820&amp;rft.aulast=Ehrhardt&amp;rft.aufirst=Arnold&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DkAbZAAAAIAAJ%26pg%3DPA20%26dq%3Dapostles%2Bcommunist%2Bcalvin%26hl%3Dnl%26sa%3DX%26ei%3DLca4UMXPDtKGhQeGhIDADw%26ved%3D0CC8Q6AEwAA%23v%3Donepage%26q%3Dapostles%2520communist%2520calvin%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Boer, Roland (2009). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=HIeLYNEq6zsC&amp;pg=PA120&amp;dq=apostles+communist+calvin&amp;hl=nl&amp;sa=X&amp;ei=Lca4UMXPDtKGhQeGhIDADw&amp;ved=0CDIQ6AEwAQ#v=onepage&amp;q=apostles%20communist%20calvin&amp;f=false">"Conclusion: What If? Calvin and the Spirit of Revolution. Bible"</a>. <i>Political Grace. The Revolutionary Theology of John Calvin</i>. Louisville, Kentucky: Westminster John Knox Press. p.&nbsp;120. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-664-23393-8" title="Special:BookSources/978-0-664-23393-8"><bdi>978-0-664-23393-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Conclusion%3A+What+If%3F+Calvin+and+the+Spirit+of+Revolution.+Bible&amp;rft.btitle=Political+Grace.+The+Revolutionary+Theology+of+John+Calvin&amp;rft.place=Louisville%2C+Kentucky&amp;rft.pages=120&amp;rft.pub=Westminster+John+Knox+Press&amp;rft.date=2009&amp;rft.isbn=978-0-664-23393-8&amp;rft.aulast=Boer&amp;rft.aufirst=Roland&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DHIeLYNEq6zsC%26pg%3DPA120%26dq%3Dapostles%2Bcommunist%2Bcalvin%26hl%3Dnl%26sa%3DX%26ei%3DLca4UMXPDtKGhQeGhIDADw%26ved%3D0CDIQ6AEwAQ%23v%3Donepage%26q%3Dapostles%2520communist%2520calvin%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Halteman Finger, Reta (2007). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=Z2RVoa4_qX8C&amp;pg=PA39&amp;dq=apostles+communist+acts&amp;hl=nl&amp;sa=X&amp;ei=XMe4UPXNNc-YhQf894HwBg&amp;ved=0CDgQ6AEwAw#v=onepage&amp;q=apostles%20communist%20acts&amp;f=false">"Reactions to Style and Redaction Criticism"</a>. <i>Of Widows and Meals. Communal Meals in the Book of Acts</i>. Cambridge, UK: Wm. B. Eerdmans Publishing Co. p.&nbsp;39. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8028-3053-1" title="Special:BookSources/978-0-8028-3053-1"><bdi>978-0-8028-3053-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Reactions+to+Style+and+Redaction+Criticism&amp;rft.btitle=Of+Widows+and+Meals.+Communal+Meals+in+the+Book+of+Acts&amp;rft.place=Cambridge%2C+UK&amp;rft.pages=39&amp;rft.pub=Wm.+B.+Eerdmans+Publishing+Co.&amp;rft.date=2007&amp;rft.isbn=978-0-8028-3053-1&amp;rft.aulast=Halteman+Finger&amp;rft.aufirst=Reta&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DZ2RVoa4_qX8C%26pg%3DPA39%26dq%3Dapostles%2Bcommunist%2Bacts%26hl%3Dnl%26sa%3DX%26ei%3DXMe4UPXNNc-YhQf894HwBg%26ved%3D0CDgQ6AEwAw%23v%3Donepage%26q%3Dapostles%2520communist%2520acts%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Ellicott, Charles John; Plumptre, Edward Hayes (1910). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=Htk8AAAAIAAJ&amp;pg=PA11&amp;dq=apostles+communist+acts&amp;hl=nl&amp;sa=X&amp;ei=XMe4UPXNNc-YhQf894HwBg&amp;ved=0CEQQ6AEwBw#v=onepage&amp;q=apostles%20communist%20acts&amp;f=false">"III. The Church in Jerusalem. I. Christian Communism"</a>. <i>The Acts of the Apostles</i>. London: Cassell.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=III.+The+Church+in+Jerusalem.+I.+Christian+Communism&amp;rft.btitle=The+Acts+of+the+Apostles&amp;rft.place=London&amp;rft.pub=Cassell&amp;rft.date=1910&amp;rft.aulast=Ellicott&amp;rft.aufirst=Charles+John&amp;rft.au=Plumptre%2C+Edward+Hayes&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3DHtk8AAAAIAAJ%26pg%3DPA11%26dq%3Dapostles%2Bcommunist%2Bacts%26hl%3Dnl%26sa%3DX%26ei%3DXMe4UPXNNc-YhQf894HwBg%26ved%3D0CEQQ6AEwBw%23v%3Donepage%26q%3Dapostles%2520communist%2520acts%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-Montero2017-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Montero2017_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Montero, Roman A. (2017). <a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/994706026"><i>All Things in Common The Economic Practices of the Early Christians</i></a>. Foster, Edgar G. Eugene: Wipf and Stock Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781532607912" title="Special:BookSources/9781532607912"><bdi>9781532607912</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/994706026">994706026</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=All+Things+in+Common+The+Economic+Practices+of+the+Early+Christians.&amp;rft.place=Eugene&amp;rft.pub=Wipf+and+Stock+Publishers&amp;rft.date=2017&amp;rft_id=info%3Aoclcnum%2F994706026&amp;rft.isbn=9781532607912&amp;rft.aulast=Montero&amp;rft.aufirst=Roman+A.&amp;rft_id=https%3A%2F%2Fwww.worldcat.org%2Foclc%2F994706026&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biblegateway.com/passage/?search=Acts+4%3A32-35&amp;version=NRSV">"Acts204:32-35 NRSV - - Bible Gateway"</a>. <i>www.biblegateway.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.biblegateway.com&amp;rft.atitle=Acts204%3A32-35+NRSV+-++-+Bible+Gateway&amp;rft_id=https%3A%2F%2Fwww.biblegateway.com%2Fpassage%2F%3Fsearch%3DActs%2B4%253A32-35%26version%3DNRSV&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"> <cite class="citation book">Montero, Roman A. (2017). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tU_dDgAAQBAJ"><i>All Things in Common: The Economic Practices of the Early Christians</i></a>. Eugene, Oregon: Wipf and Stock Publishers. p.&nbsp;5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781532607929" title="Special:BookSources/9781532607929"><bdi>9781532607929</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2019</span>. <q>I am going to argue that the accounts found in Acts 2:42-47 and Acts 4:32-37 describe historical economic practices found within the early Christian community; practices that were taken very seriously, which were widespread over different Christian communities around the Roman world, and which lasted for at least well into the second century. I am also going to argue that these economic practices were grounded in both Jewish and Christian theology and had precedent in Jewish tradition and practice; as well as the teachings of Jesus of Nazareth.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=All+Things+in+Common%3A+The+Economic+Practices+of+the+Early+Christians&amp;rft.place=Eugene%2C+Oregon&amp;rft.pages=5&amp;rft.pub=Wipf+and+Stock+Publishers&amp;rft.date=2017&amp;rft.isbn=9781532607929&amp;rft.aulast=Montero&amp;rft.aufirst=Roman+A.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtU_dDgAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.biblegateway.com/passage/?search=Matthew+6%253A24&amp;version=NIV">"Matthew 63A24 NIV - - Bible Gateway"</a>. <i>www.biblegateway.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.biblegateway.com&amp;rft.atitle=Matthew+63A24+NIV+-++-+Bible+Gateway&amp;rft_id=https%3A%2F%2Fwww.biblegateway.com%2Fpassage%2F%3Fsearch%3DMatthew%2B6%25253A24%26version%3DNIV&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"> <cite class="citation book">Miranda, José Porfirio (1988) [1981]. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=HMScIyWkD30C"><i>Comunismo en la Biblia</i></a>. Colección mínima (in Spanish). <b>79</b> (3 ed.). Mexico, D.F.: Siglo veintiuno editores. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9789682314865" title="Special:BookSources/9789682314865"><bdi>9789682314865</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Comunismo+en+la+Biblia&amp;rft.place=Mexico%2C+D.F.&amp;rft.series=Colecci%C3%B3n+m%C3%ADnima&amp;rft.edition=3&amp;rft.pub=Siglo+veintiuno+editores&amp;rft.date=1988&amp;rft.isbn=9789682314865&amp;rft.aulast=Miranda&amp;rft.aufirst=Jos%C3%A9+Porfirio&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHMScIyWkD30C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (January 2019)">page&nbsp;needed</span></a></i>]</sup> <cite class="citation book">Miranda, Jose Porfirio (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=9O9KAwAAQBAJ"><i>Communism in the Bible</i></a>. Translated by Barr, Robert R. Eugene, Oregon: Wipf and Stock Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781592444687" title="Special:BookSources/9781592444687"><bdi>9781592444687</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Communism+in+the+Bible&amp;rft.place=Eugene%2C+Oregon&amp;rft.pub=Wipf+and+Stock+Publishers&amp;rft.date=2004&amp;rft.isbn=9781592444687&amp;rft.aulast=Miranda&amp;rft.aufirst=Jose+Porfirio&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9O9KAwAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"> Compare: <cite class="citation journal">Osakue, Dawn. <a rel="nofollow" class="external text" href="https://www.academia.edu/1085120/Calvinist_Ethics_and_the_Rise_of_Capitalism">"Calvinist Ethics and the Rise of Capitalism"</a>. <q>After turning the convert into a capitalist, the Calvinist doctrine of predetermination then made him comfortable with the uneven distribution of wealth. [...] Weber's central thesis on the relationship between Calvinist ethics and the rise of capitalism is that the former directly led to, and sustained the growth of the latter.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Calvinist+Ethics+and+the+Rise+of+Capitalism&amp;rft.aulast=Osakue&amp;rft.aufirst=Dawn&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F1085120%2FCalvinist_Ethics_and_the_Rise_of_Capitalism&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Miranda, Jose Porfirio (1980), <i>Marx Against The Marxists: The Christian Humanism of Karl Marx</i>. SCM Press, London. 
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-334-00975-8" title="Special:BookSources/0-334-00975-8">0-334-00975-8</a></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news">Mangan, Lucy (25 July 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/tv-and-radio/2019/jul/25/inside-the-bruderhof-review-is-this-a-religious-stirring-i-feel">"Inside the Bruderhof review – is this a religious stirring I feel?"</a>. <i>The Guardian</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0261-3077">0261-3077</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Inside+the+Bruderhof+review+%E2%80%93+is+this+a+religious+stirring+I+feel%3F&amp;rft.date=2019-07-25&amp;rft.issn=0261-3077&amp;rft.aulast=Mangan&amp;rft.aufirst=Lucy&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2019%2Fjul%2F25%2Finside-the-bruderhof-review-is-this-a-religious-stirring-i-feel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://christlife.org/blog/learning-from-the-bruderhof-an-intentional-christian-community">"Learning from the Bruderhof: An Intentional Christian Community"</a>. <i>ChristLife</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ChristLife&amp;rft.atitle=Learning+from+the+Bruderhof%3A+An+Intentional+Christian+Community&amp;rft_id=https%3A%2F%2Fchristlife.org%2Fblog%2Flearning-from-the-bruderhof-an-intentional-christian-community&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20120908053921/http://www.redescristianas.net/2009/06/20/jesus-un-hombre-de-equilibrio-fantasia-cradora-y-originalidadleonardo-boff-teologo/">"Jesús, un hombre de equilibrio, fantasía cradora y originalidad##Leonardo Boff, teólogo"</a>. Redes Cristianas. 20 June 2009. Archived from <a rel="nofollow" class="external text" href="http://www.redescristianas.net/2009/06/20/jesus-un-hombre-de-equilibrio-fantasia-cradora-y-originalidadleonardo-boff-teologo/">the original</a> on 8 September 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jes%C3%BAs%2C+un+hombre+de+equilibrio%2C+fantas%C3%ADa+cradora+y+originalidad%23%23Leonardo+Boff%2C+te%C3%B3logo&amp;rft.pub=Redes+Cristianas&amp;rft.date=2009-06-20&amp;rft_id=http%3A%2F%2Fwww.redescristianas.net%2F2009%2F06%2F20%2Fjesus-un-hombre-de-equilibrio-fantasia-cradora-y-originalidadleonardo-boff-teologo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Praxis. <a rel="nofollow" class="external text" href="https://www.marxists.org/subject/praxis/index.htm">"The Praxis Group"</a>. Marxists.org<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Praxis+Group&amp;rft.pub=Marxists.org&amp;rft.au=Praxis&amp;rft_id=http%3A%2F%2Fwww.marxists.org%2Fsubject%2Fpraxis%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://sarumtheologian.wordpress.com/2009/05/15/how-might-liberation-theology-shape-a-christian-understanding-of-salvation/">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100306045740/http://sarumtheologian.wordpress.com/2009/05/15/how-might-liberation-theology-shape-a-christian-understanding-of-salvation/">Archived</a> March 6, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+        <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120119044610/http://www.okaraygua-paraguai.org/es/conozcanos.html">"MCP (Movimiento Campesino Paraguayo)"</a>. Okaraygua-paraguai.org. Archived from <a rel="nofollow" class="external text" href="http://www.okaraygua-paraguai.org/es/conozcanos.html">the original</a> on 19 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MCP+%28Movimiento+Campesino+Paraguayo%29&amp;rft.pub=Okaraygua-paraguai.org&amp;rft_id=http%3A%2F%2Fwww.okaraygua-paraguai.org%2Fes%2Fconozcanos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Sutherland, Donald R. <a rel="nofollow" class="external text" href="http://www.diggers.org/diggers/religion_winstanley.htm">"The Religion of Gerrard Winstanley and Digger Communism"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Religion+of+Gerrard+Winstanley+and+Digger+Communism&amp;rft.aulast=Sutherland&amp;rft.aufirst=Donald+R.&amp;rft_id=http%3A%2F%2Fwww.diggers.org%2Fdiggers%2Freligion_winstanley.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.diggers.org/rexroth_diggers.htm">"Rexroth"</a>. Diggers. 26 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rexroth&amp;rft.pub=Diggers&amp;rft.date=2011-11-26&amp;rft_id=http%3A%2F%2Fwww.diggers.org%2Frexroth_diggers.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eln-voces.com/">"Bienvenido/a a nuestra página Web&nbsp;– Ejército de Liberación Nacional"</a>. Eln-voces.com. 26 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bienvenido%2Fa+a+nuestra+p%C3%A1gina+Web+%E2%80%93+Ej%C3%A9rcito+de+Liberaci%C3%B3n+Nacional&amp;rft.pub=Eln-voces.com&amp;rft.date=2008-05-26&amp;rft_id=http%3A%2F%2Fwww.eln-voces.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/8417595.stm">"Colombia rebel groups Farc and ELN agree 'to unite<span class="cs1-kern-right">'</span>"</a>. BBC News. 17 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Colombia+rebel+groups+Farc+and+ELN+agree+%27to+unite%27&amp;rft.pub=BBC+News&amp;rft.date=2009-12-17&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2F8417595.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">McDermott, Jeremy (5 November 2009). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/8341093.stm">"Colombia's ELN rebels show new vigour"</a>. BBC News<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Colombia%27s+ELN+rebels+show+new+vigour&amp;rft.pub=BBC+News&amp;rft.date=2009-11-05&amp;rft.aulast=McDermott&amp;rft.aufirst=Jeremy&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2F8341093.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.filosofia.org/ave/001/a230.htm">"Camilo Torres Restrepo 1929–1966"</a>. Filosofia.org<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Camilo+Torres+Restrepo+1929%E2%80%931966&amp;rft.pub=Filosofia.org&amp;rft_id=http%3A%2F%2Fwww.filosofia.org%2Fave%2F001%2Fa230.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+communism" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=7" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/David_Chilton" title="David Chilton">David Chilton</a>. 1982, 1986. <i>Productive Christians in an Age of Guilt Manipulators.</i> Tyler, Texas: The Institute for Christian Economics. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-930464-38-9" title="Special:BookSources/0-930464-38-9">0-930464-38-9</a>. Available <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070515173146/http://s155777461.onlinehome.us/docs/21de_47e.htm">online for free</a>.</li> 
+       <li><a href="/wiki/John_Cyrus_Cort" title="John Cyrus Cort">John Cort</a>. <i>Christian Socialism: An informal history</i>.</li> 
+       <li><a rel="nofollow" class="external text" href="http://anglicanhistory.org/academic/brown1987/">Metacosmesis: The Christian Marxism of Frederic Hastings Smyth and the Society of the Catholic Commonwealth. By Terry Brown (1987)</a>.</li> 
+       <li>Montero, Roman A. 2017. <i>All Things in Common: The Economic Practices of the Early Christians.</i> Eugene, Oregon: Wipf &amp; Stock. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781532607912" title="Special:BookSources/9781532607912">9781532607912</a>.</li> 
+       <li>Myles, Robert J. 2019. <i>Class Struggle in the New Testament.</i> Lanham: Fortress Academic/Lexington Books.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_communism&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.slp.org/pdf/others/crises_bang.pdf">Crises In European History</a> Socialist Labor Party claims that the early Christian Church practiced "pure communism". pp.&nbsp;23–25 (PDF).</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.fordham.edu/halsall/mod/1650bradford.html">Modern History Sourcebook: William Bradford</a> From Bradford's journal <i>Of Plymouth Plantation.</i></li> 
+       <li><a rel="nofollow" class="external text" href="http://medicolegal.tripod.com/collenstwpmarch1868.htm">"Preaching".</a> March 1868. Judge Thomas Wharton Collens.</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Religion_and_politics" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Religion_and_politics" title="Template:Religion and politics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Religion_and_politics" title="Template talk:Religion and politics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Religion_and_politics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Religion_and_politics" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Religion_and_politics" class="mw-redirect" title="Religion and politics">Religion and politics</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="General_concepts" style="font-size:114%;margin:0 4em">
+                General concepts
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Anti-clericalism" title="Anti-clericalism">Anti-clericalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Anticlericalism_and_Freemasonry" title="Anticlericalism and Freemasonry">Anticlericalism and Freemasonry</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Caesaropapism" title="Caesaropapism">Caesaropapism</a></li> 
+                 <li><a href="/wiki/Clericalism" title="Clericalism">Clericalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Clerical_fascism" title="Clerical fascism">Clerical fascism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Confessionalism_(politics)" title="Confessionalism (politics)">Confessionalism</a></li> 
+                 <li><a href="/wiki/Divine_rule" class="mw-redirect" title="Divine rule">Divine rule</a></li> 
+                 <li><a href="/wiki/Engaged_Spirituality" title="Engaged Spirituality">Engaged Spirituality</a></li> 
+                 <li><a href="/wiki/Feminist_theology" title="Feminist theology">Feminist theology</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Thealogy" title="Thealogy">Thealogy</a></small></li> 
+                   <li><small><a href="/wiki/Womanist_theology" title="Womanist theology">Womanist theology</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Identity_politics" title="Identity politics">Identity politics</a></li> 
+                 <li><a href="/wiki/Political_religion" class="mw-redirect" title="Political religion">Political religion</a></li> 
+                 <li><a href="/wiki/Progressive_Reconstructionism" title="Progressive Reconstructionism">Progressive Reconstructionism</a></li> 
+                 <li><a href="/wiki/Religious_anarchism" class="mw-redirect" title="Religious anarchism">Religious anarchism</a></li> 
+                 <li><a href="/wiki/Anti-Masonry#Religious_anti-Masonry" title="Anti-Masonry">Religious anti-Masonry</a></li> 
+                 <li><a href="/wiki/Religious_anti-Zionism" title="Religious anti-Zionism">Religious anti-Zionism</a></li> 
+                 <li><a href="/wiki/Religious_communism" title="Religious communism">Religious communism</a></li> 
+                 <li><a href="/wiki/Religious_humanism" title="Religious humanism">Religious humanism</a></li> 
+                 <li><a href="/wiki/Religious_law" title="Religious law">Religious law</a></li> 
+                 <li><a href="/wiki/Religious_nationalism" title="Religious nationalism">Religious nationalism</a></li> 
+                 <li><a href="/wiki/Pacifism#Religious_attitudes" title="Pacifism">Religious pacifism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Religion_and_peacebuilding" title="Religion and peacebuilding">Religion and peacebuilding</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Religious_police" title="Religious police">Religious police</a></li> 
+                 <li><a href="/wiki/Religious_rejection_of_politics" title="Religious rejection of politics">Religious rejection of politics</a></li> 
+                 <li><a href="/wiki/Religious_segregation" title="Religious segregation">Religious segregation</a></li> 
+                 <li><a href="/wiki/Separatism#Religious" title="Separatism">Religious separatism</a></li> 
+                 <li><a href="/wiki/Religious_socialism" title="Religious socialism">Religious socialism</a></li> 
+                 <li><a href="/wiki/Religious_views_on_same-sex_marriage" title="Religious views on same-sex marriage">Religious views on same-sex marriage</a></li> 
+                 <li><a href="/wiki/Secularism" title="Secularism">Secularism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/La%C3%AFcit%C3%A9" title="Laïcité">Laïcité</a></small></li> 
+                   <li><small><a href="/wiki/Secular_religion" title="Secular religion">Secular religion</a></small></li> 
+                   <li><small><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spiritual_left" title="Spiritual left">Spiritual left</a></li> 
+                 <li><a href="/wiki/State_atheism" title="State atheism">State atheism</a></li> 
+                 <li><a href="/wiki/State_religion" title="State religion">State religion</a></li> 
+                 <li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li> 
+                 <li><a href="/wiki/Theonomy" title="Theonomy">Theonomy</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Christianity_and_politics" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Christianity_and_politics" title="Christianity and politics">Christianity and politics</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Blaine_Amendment" title="Blaine Amendment">Blaine Amendment</a></li> 
+                 <li><a href="/wiki/Christian_anarchism" title="Christian anarchism">Christian anarchism</a></li> 
+                 <li><a href="/wiki/Anti-communism#Catholics" title="Anti-communism">Christian anti-communism</a></li> 
+                 <li><a href="/wiki/Opposition_to_Freemasonry_within_Christianity" class="mw-redirect" title="Opposition to Freemasonry within Christianity">Christian anti-Masonry</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Papal_ban_of_Freemasonry" title="Papal ban of Freemasonry">Papal ban</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Anti-Zionism#Christian" title="Anti-Zionism">Christian anti-Zionism</a></li> 
+                 <li><a class="mw-selflink selflink">Christian communism</a></li> 
+                 <li><a href="/wiki/Corporatism#Christianity" title="Corporatism">Christian corporatism</a></li> 
+                 <li><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a></li> 
+                 <li><a href="/wiki/Christian_egalitarianism" title="Christian egalitarianism">Christian egalitarianism</a></li> 
+                 <li><a href="/wiki/Christian_views_on_environmentalism" title="Christian views on environmentalism">Christian environmentalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Evangelical_environmentalism" title="Evangelical environmentalism">Evangelical environmentalism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_fascism" class="mw-redirect" title="Christian fascism">Christian fascism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/German_Christians" title="German Christians">German Christians</a></small></li> 
+                   <li><small><a href="/wiki/National_Catholicism" title="National Catholicism">National Catholicism</a></small></li> 
+                   <li><small><a href="/wiki/Positive_Christianity" title="Positive Christianity">Positive Christianity</a></small></li> 
+                   <li><small><a href="/wiki/Protestant_Reich_Church" class="mw-redirect" title="Protestant Reich Church">Protestant Reich Church</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_feminism" title="Christian feminism">Christian feminism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Mormon_feminism" title="Mormon feminism">Mormon feminism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_humanism" title="Christian humanism">Christian humanism</a></li> 
+                 <li><a href="/wiki/Christian_law" class="mw-redirect" title="Christian law">Christian law</a></li> 
+                 <li><a href="/wiki/Christian_left" title="Christian left">Christian left</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Evangelical_left" title="Evangelical left">Evangelical left</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_libertarianism" title="Christian libertarianism">Christian libertarianism</a></li> 
+                 <li><a href="/wiki/Christian_pacifism" title="Christian pacifism">Christian pacifism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Peacemaking#Christianity" title="Peacemaking">Christian peacemaking</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_reconstructionism" title="Christian reconstructionism">Christian reconstructionism</a></li> 
+                 <li><a href="/wiki/Christian_republic" title="Christian republic">Christian republic</a></li> 
+                 <li><a href="/wiki/Christian_right" title="Christian right">Christian right</a></li> 
+                 <li><a href="/wiki/Christian_socialism" title="Christian socialism">Christian socialism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Christian_Socialism_in_Utah" class="mw-redirect" title="Christian Socialism in Utah">In Utah</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Christian_state" title="Christian state">Christian state</a></li> 
+                 <li><a href="/wiki/Christian_Zionism" title="Christian Zionism">Christian Zionism</a></li> 
+                 <li><a href="/wiki/Cisalpinism" title="Cisalpinism">Cisalpinism</a></li> 
+                 <li><a href="/wiki/Dominion_Theology" class="mw-redirect" title="Dominion Theology">Dominion Theology</a></li> 
+                 <li><a href="/wiki/Febronianism" title="Febronianism">Febronianism</a></li> 
+                 <li><a href="/wiki/Gallicanism" title="Gallicanism">Gallicanism</a></li> 
+                 <li><a href="/wiki/Liberation_theology" title="Liberation theology">Liberation theology</a></li> 
+                 <li><a href="/wiki/Papal_state" class="mw-redirect" title="Papal state">Papal state</a></li> 
+                 <li><a href="/wiki/Pillarisation" title="Pillarisation">Pillarisation</a></li> 
+                 <li><a href="/wiki/Political_Catholicism" class="mw-redirect" title="Political Catholicism">Political Catholicism</a></li> 
+                 <li><a href="/wiki/Relations_between_the_Catholic_Church_and_the_state" title="Relations between the Catholic Church and the state">Relations between the Catholic Church and the state</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Church%E2%80%93state_relations_in_Argentina" title="Church–state relations in Argentina">In Argentina</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Sphere_sovereignty" title="Sphere sovereignty">Sphere sovereignty</a></li> 
+                 <li><a href="/wiki/Subsidiarity_(Catholicism)" title="Subsidiarity (Catholicism)">Subsidiarity</a></li> 
+                 <li><a href="/wiki/Temporal_power_(papal)" class="mw-redirect" title="Temporal power (papal)">Temporal power</a></li> 
+                 <li><a href="/wiki/Theodemocracy" title="Theodemocracy">Theodemocracy</a></li> 
+                 <li><a href="/wiki/Ultramontanism" title="Ultramontanism">Ultramontanism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Neo-ultramontanism" title="Neo-ultramontanism">Neo-ultramontanism</a></small></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Islam_and_politics" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Political_aspects_of_Islam" title="Political aspects of Islam">Islam and politics</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Hui_pan-nationalism" title="Hui pan-nationalism">Hui pan-nationalism</a></li> 
+                 <li><a href="/wiki/Cairo_Declaration_on_Human_Rights_in_Islam" title="Cairo Declaration on Human Rights in Islam">Human Rights in Islam</a></li> 
+                 <li><a href="/wiki/Imamate" title="Imamate">Imamate</a></li> 
+                 <li><a href="/wiki/Islamic_anarchism" class="mw-redirect" title="Islamic anarchism">Islamic anarchism</a></li> 
+                 <li><a href="/wiki/Suppression_of_Freemasonry#Islamic_world" title="Suppression of Freemasonry">Islamic anti-Masonry</a></li> 
+                 <li><a href="/wiki/Anti-Zionism#Muslim" title="Anti-Zionism">Islamic anti-Zionism</a></li> 
+                 <li><a href="/wiki/Islamic_democracy" class="mw-redirect" title="Islamic democracy">Islamic democracy</a></li> 
+                 <li><a href="/wiki/Islamic_fascism" class="mw-redirect" title="Islamic fascism">Islamic fascism</a></li> 
+                 <li><a href="/wiki/Islamic_feminism" title="Islamic feminism">Islamic feminism</a></li> 
+                 <li><a href="/wiki/Sharia" title="Sharia">Sharia law</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Application_of_Islamic_law_by_country" title="Application of Islamic law by country">by country</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Islamic_nationalism" class="mw-redirect" title="Islamic nationalism">Islamic nationalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Pakistani_nationalism" title="Pakistani nationalism">In Pakistan</a></small></li> 
+                   <li><small><a href="/wiki/Muslim_nationalism_in_South_Asia" title="Muslim nationalism in South Asia">In South Asia</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Pacifism_in_Islam" title="Pacifism in Islam">Islamic pacifism</a></li> 
+                 <li><a href="/wiki/Islamic_republic" title="Islamic republic">Islamic republic</a></li> 
+                 <li><a href="/wiki/Islamic_socialism" title="Islamic socialism">Islamic socialism</a></li> 
+                 <li><a href="/wiki/Islamic_state" title="Islamic state">Islamic state</a></li> 
+                 <li><a href="/wiki/Muslim_supporters_of_Israel" title="Muslim supporters of Israel">Islamic Zionism</a></li> 
+                 <li><a href="/wiki/Islamism" title="Islamism">Islamism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Criticism_of_Islamism" title="Criticism of Islamism">Criticism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Islamization" title="Islamization">Islamization</a></li> 
+                 <li><a href="/wiki/Khilafat" class="mw-redirect" title="Khilafat">Khilafat</a></li> 
+                 <li><a href="/wiki/Petro-Islam" title="Petro-Islam">Petro-Islam</a></li> 
+                 <li><a href="/wiki/Political_quietism" class="mw-redirect" title="Political quietism">Political quietism</a></li> 
+                 <li><a href="/wiki/Taliban" title="Taliban">Taliban</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Talibanization" title="Talibanization">Talibanization</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Two-nation_theory" class="mw-redirect" title="Two-nation theory">Two-nation theory</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Judaism_and_politics" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Judaism_and_politics" title="Judaism and politics">Judaism and politics</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Halachic_state" title="Halachic state">Halachic state</a></li> 
+                 <li><a href="/wiki/Jewish_anarchism" title="Jewish anarchism">Jewish anarchism</a></li> 
+                 <li><a href="/wiki/Anti-Zionism#Jewish_anti-Zionism" title="Anti-Zionism">Jewish anti-Zionism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Haredim_and_Zionism" title="Haredim and Zionism">Haredim</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Jewish_Autonomism" title="Jewish Autonomism">Jewish Autonomism</a></li> 
+                 <li><a href="/wiki/Jewish_and_democratic_state" title="Jewish and democratic state">Jewish democracy</a></li> 
+                 <li>Jewish fascism 
+                  <ul>
+                   <li><small><a href="/wiki/Kahanism" title="Kahanism">Kahanism</a></small></li> 
+                   <li><small><a href="/wiki/Revisionist_Maximalism" title="Revisionist Maximalism">Revisionist Maximalism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Jewish_feminism" title="Jewish feminism">Jewish feminism</a></li> 
+                 <li><a href="/wiki/Jewish_law" class="mw-redirect" title="Jewish law">Jewish law</a></li> 
+                 <li><a href="/wiki/Jewish_left" title="Jewish left">Jewish left</a></li> 
+                 <li><a href="/wiki/Pacifism#Judaism" title="Pacifism">Jewish pacifism</a></li> 
+                 <li><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Jewish political movements</a></li> 
+                 <li><a href="/wiki/Jewish_right" class="mw-redirect" title="Jewish right">Jewish right</a></li> 
+                 <li><a href="/wiki/Jewish_secularism" title="Jewish secularism">Jewish secularism</a></li> 
+                 <li><a href="/wiki/Jewish_socialism" class="mw-redirect" title="Jewish socialism">Jewish socialism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Bundism" title="Bundism">Bundism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic Judaism</a></li> 
+                 <li><a href="/wiki/Poale_Zion" title="Poale Zion">Poale Zion</a></li> 
+                 <li><a href="/wiki/Religious_Zionism" title="Religious Zionism">Religious Zionism</a></li> 
+                 <li><a href="/wiki/World_Agudath_Israel" title="World Agudath Israel">World Agudath Israel</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Hinduism_and_politics" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Hindu_politics" class="mw-redirect" title="Hindu politics">Hinduism and politics</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akhand_Bharat" title="Akhand Bharat">Akhand Bharat</a></li> 
+                 <li><a href="/wiki/Feminism_in_India#Hindu_feminism" title="Feminism in India">Hindu feminism</a></li> 
+                 <li><a href="/wiki/Gandhism#Religion" title="Gandhism">Gandhism</a></li> 
+                 <li><a href="/wiki/Hindu_law" title="Hindu law">Hindu law</a></li> 
+                 <li><a href="/wiki/Neo-Vedanta" title="Neo-Vedanta">Hindu modernism</a></li> 
+                 <li><a href="/wiki/Hindu_nationalism" title="Hindu nationalism">Hindu nationalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Hindutva" title="Hindutva">Hindutva</a></small></li> 
+                   <li><small><a href="/wiki/Hindu_Rashtra" class="mw-redirect" title="Hindu Rashtra">Hindu Rashtra</a></small></li> 
+                   <li><small><a href="/wiki/Panun_Kashmir" title="Panun Kashmir">Panun Kashmir</a></small></li> 
+                   <li><small><a href="/wiki/Bangabhumi" title="Bangabhumi">Bangabhumi</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Hindu_revolution" title="Hindu revolution">Hindu revolution</a></li> 
+                 <li><a href="/wiki/Hindu_revivalism" class="mw-redirect" title="Hindu revivalism">Hindu revivalism</a></li> 
+                 <li><a href="/wiki/Religion_and_environmentalism#Hinduism" title="Religion and environmentalism">Hindu environmentalism</a></li> 
+                 <li><a href="/wiki/Integral_humanism_(India)" title="Integral humanism (India)">Integral humanism</a></li> 
+                 <li><a href="/wiki/Indigenous_Aryans" title="Indigenous Aryans">Indigenous Aryans</a></li> 
+                 <li><a href="/wiki/Rama#Rama_Rajya" title="Rama">Rama Rajya</a></li> 
+                 <li><a href="/wiki/Saffronisation" title="Saffronisation">Saffronisation</a></li> 
+                 <li><a href="/wiki/Shuddhi" title="Shuddhi">Shuddhi</a></li> 
+                 <li><a href="/wiki/Uniform_civil_code" title="Uniform civil code">Uniform civil code</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Buddhism_and_politics" style="font-size:114%;margin:0 4em">
+                Buddhism and politics
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Anti-communism#Buddhists" title="Anti-communism">Buddhists anti-communism</a></li> 
+                 <li><a href="/wiki/Buddhist_feminism" title="Buddhist feminism">Buddhist feminism</a></li> 
+                 <li><a href="/wiki/Buddhist_law" class="mw-redirect" title="Buddhist law">Buddhist law</a></li> 
+                 <li><a href="/wiki/Buddhist_modernism" title="Buddhist modernism">Buddhist modernism</a></li> 
+                 <li><a href="/wiki/Criticism_of_Buddhism#Nationalism" title="Criticism of Buddhism">Buddhist nationalism</a> 
+                  <ul>
+                   <li><small><a href="/wiki/969_Movement" title="969 Movement">969 Movement</a></small></li> 
+                   <li><small><a href="/wiki/Nichirenism" title="Nichirenism">Nichirenism</a></small></li> 
+                   <li><small><a href="/wiki/Sinhalese_Buddhist_nationalism" title="Sinhalese Buddhist nationalism">Sinhalese Buddhist nationalism</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Buddhist_socialism" title="Buddhist socialism">Buddhist socialism</a></li> 
+                 <li><a href="/wiki/Engaged_Buddhism" title="Engaged Buddhism">Engaged Buddhism</a></li> 
+                 <li><a href="/wiki/Humanistic_Buddhism" title="Humanistic Buddhism">Humanistic Buddhism</a></li> 
+                 <li><a href="/wiki/Secular_Buddhism" title="Secular Buddhism">Secular Buddhism</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Other" style="font-size:114%;margin:0 4em">
+                Other
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/American_civil_religion" title="American civil religion">American civil religion</a></li> 
+                 <li><a href="/wiki/Imperial_cult_(ancient_Rome)" class="mw-redirect" title="Imperial cult (ancient Rome)">Imperial cult</a> 
+                  <ul>
+                   <li><small><a href="/wiki/Religion_in_ancient_Rome" title="Religion in ancient Rome">Ancient Rome</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Gottgl%C3%A4ubig" title="Gottgläubig">Gottgläubig</a></li> 
+                 <li><a href="/wiki/Khalistan_movement" title="Khalistan movement">Khalistan movement</a></li> 
+                 <li><a href="/wiki/Reclaiming_(Neopaganism)" title="Reclaiming (Neopaganism)">Neopaganist feminism</a></li> 
+                 <li><a href="/wiki/Religious_aspects_of_Nazism" title="Religious aspects of Nazism">Religious aspects of Nazism</a> 
+                  <ul>
+                   <li><a href="/wiki/Creativity_(religion)" title="Creativity (religion)">Creativity (religion)</a></li> 
+                   <li><a href="/wiki/Nazi_Satanism" class="mw-redirect" title="Nazi Satanism">Nazi Satanism</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Personality_cult" class="mw-redirect" title="Personality cult">Personality cult</a></li> 
+                 <li><a href="/wiki/State_Shinto" title="State Shinto">State Shinto</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Christianity_and_politics" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Christianity_and_politics" title="Template:Christianity and politics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Christianity_and_politics" title="Template talk:Christianity and politics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Christianity_and_politics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Christianity_and_politics" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Christianity_and_politics" title="Christianity and politics">Christianity and politics</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_Christian_left&amp;#10;*_Christian_right"> 
+            <ul>
+             <li><b><a href="/wiki/Christian_left" title="Christian left">Christian left</a></b></li> 
+             <li><b><a href="/wiki/Christian_right" title="Christian right">Christian right</a></b></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Key concepts</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li> 
+             <li>"<a href="/wiki/Render_unto_Caesar" title="Render unto Caesar">Render unto Caesar</a>"</li> 
+             <li><a href="/wiki/Two_kingdoms_doctrine" title="Two kingdoms doctrine">Two kingdoms doctrine</a></li> 
+             <li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom of religion</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Movements</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Christian_anarchism" title="Christian anarchism">Christian anarchism</a></li> 
+             <li><a href="/wiki/Christian_democracy" title="Christian democracy">Christian democracy</a></li> 
+             <li><a href="/wiki/Clerical_fascism" title="Clerical fascism">Clerical fascism</a></li> 
+             <li><a href="/wiki/Communalism" title="Communalism">Communalism</a></li> 
+             <li><a class="mw-selflink selflink">Christian communism</a></li> 
+             <li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li> 
+             <li><a href="/wiki/Evangelical_left" title="Evangelical left">Evangelical left</a></li> 
+             <li><a href="/wiki/Christian_feminism" title="Christian feminism">Christian feminism</a></li> 
+             <li><a href="/wiki/Christian_libertarianism" title="Christian libertarianism">Christian libertarianism</a></li> 
+             <li><a href="/wiki/National_Catholicism" title="National Catholicism">National Catholicism</a></li> 
+             <li><a href="/wiki/Christian_pacifism" title="Christian pacifism">Christian pacifism</a></li> 
+             <li><a href="/wiki/Political_Catholicism" class="mw-redirect" title="Political Catholicism">Political Catholicism</a></li> 
+             <li><a href="/wiki/Christian_Reconstructionism" class="mw-redirect" title="Christian Reconstructionism">Christian Reconstructionism</a></li> 
+             <li><a href="/wiki/Christian_socialism" title="Christian socialism">Christian socialism</a></li> 
+             <li><a href="/wiki/Theodemocracy" title="Theodemocracy">Theodemocracy</a></li> 
+             <li><a href="/wiki/Christian_Zionism" title="Christian Zionism">Christian Zionism</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Issues</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion_and_Christianity" class="mw-redirect" title="Abortion and Christianity">Abortion</a></li> 
+             <li><a href="/wiki/Christianity_and_homosexuality" title="Christianity and homosexuality">Homosexuality</a></li> 
+             <li><a href="/wiki/Christian_views_on_poverty_and_wealth" title="Christian views on poverty and wealth">Poverty and wealth</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Theology</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Catholic_social_teaching" title="Catholic social teaching">Catholic social teaching</a></li> 
+             <li><a href="/wiki/Dominion_theology" title="Dominion theology">Dominion theology</a></li> 
+             <li><a href="/wiki/Liberation_theology" title="Liberation theology">Liberation theology</a></li> 
+             <li><a href="/wiki/Political_theology" title="Political theology">Political theology</a> 
+              <ul>
+               <li><a href="/wiki/Political_theology_in_China" title="Political theology in China">China</a></li> 
+               <li><a href="/wiki/Political_theology_in_the_Middle_East" title="Political theology in the Middle East">Middle East</a></li> 
+               <li><a href="/wiki/Political_theology_in_sub-Saharan_Africa" title="Political theology in sub-Saharan Africa">Sub-Saharan Africa</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Social_Gospel" title="Social Gospel">Social Gospel</a></li> 
+             <li><a href="/wiki/Symphonia_(theology)" title="Symphonia (theology)">Symphonia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Christian_state" title="Christian state">Christian state</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Caesaropapism" title="Caesaropapism">Caesaropapism</a></li> 
+             <li><a href="/wiki/Christian_republic" title="Christian republic">Christian republic</a></li> 
+             <li><a href="/wiki/Divine_right_of_kings" title="Divine right of kings">Divine right of kings</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Christianity_and_other_religions" title="Christianity and other religions">Christianity and other religions</a></li> 
+             <li><a href="/wiki/Civil_religion" title="Civil religion">Civil religion</a></li> 
+             <li><a href="/wiki/Political_science_of_religion" title="Political science of religion">Political science of religion</a></li> 
+             <li><a href="/wiki/State_religion" title="State religion">State religion</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Communism" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Communism" title="Template:Communism"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Communism" title="Template talk:Communism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Communism&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Communism" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Communism" title="Communism">Communism</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Communist_society" title="Communist society">Communist society</a></li> 
+             <li><a href="/wiki/Social_revolution" title="Social revolution">Social revolution</a></li> 
+             <li><a href="/wiki/Anti-capitalism" title="Anti-capitalism">Anti-capitalism</a></li> 
+             <li><a href="/wiki/Class_conflict" title="Class conflict">Class struggle</a></li> 
+             <li><a href="/wiki/Class_consciousness" title="Class consciousness">Class consciousness</a></li> 
+             <li><a href="/wiki/Classless_society" title="Classless society">Classless society</a></li> 
+             <li><a href="/wiki/Collective_leadership" title="Collective leadership">Collective leadership</a></li> 
+             <li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li> 
+             <li><a href="/wiki/Common_ownership" title="Common ownership">Common ownership</a></li> 
+             <li><a href="/wiki/Commune" title="Commune">Commune</a></li> 
+             <li><a href="/wiki/Commune_(model_of_government)" title="Commune (model of government)">Commune (model of government)</a></li> 
+             <li><a href="/wiki/Free_association_(communism_and_anarchism)" class="mw-redirect" title="Free association (communism and anarchism)">Free association</a></li> 
+             <li><a href="/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs" title="From each according to his ability, to each according to his needs">From each according to his ability, to each according to his needs</a></li> 
+             <li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li> 
+             <li><a href="/wiki/Planned_economy" title="Planned economy">Planned economy</a></li> 
+             <li><a href="/wiki/Proletarian_internationalism" title="Proletarian internationalism">Proletarian internationalism</a></li> 
+             <li><a href="/wiki/Labour_movement" title="Labour movement">Labour movement</a></li> 
+             <li><a href="/wiki/Stateless_society" title="Stateless society">Stateless society</a></li> 
+             <li><a href="/wiki/Wage_slavery" title="Wage slavery">Wage slavery</a></li> 
+             <li><a href="/wiki/Workers%27_self-management" title="Workers' self-management">Workers' self-management</a></li> 
+             <li><a href="/wiki/World_revolution" title="World revolution">World revolution</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Aspects</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_communism" title="History of communism">History of communism</a></li> 
+             <li><a href="/wiki/Communist_revolution" title="Communist revolution">Communist revolution</a></li> 
+             <li><a href="/wiki/Communist_symbolism" title="Communist symbolism">Communist symbolism</a></li> 
+             <li><a href="/wiki/Communist_party" title="Communist party">Communist party</a></li> 
+             <li><a href="/wiki/Communist_state" title="Communist state">Communist state</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_communist_ideologies" title="List of communist ideologies">Variants</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Pre-Marxist_communism" title="Pre-Marxist communism">Pre-Marxist</a> 
+              <ul>
+               <li><a href="/wiki/Utopian_socialism" title="Utopian socialism">Utopian socialism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Anarcho-communism" title="Anarcho-communism">Anarchist</a></li> 
+             <li><a href="/wiki/Marxism" title="Marxism">Marxism</a> 
+              <ul>
+               <li><a href="/wiki/Libertarian_Marxism" title="Libertarian Marxism">Libertarian</a></li> 
+               <li><a href="/wiki/Leninism" title="Leninism">Leninism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/World_communism" title="World communism">World</a></li> 
+             <li><a href="/wiki/National_communism" title="National communism">National</a></li> 
+             <li><a href="/wiki/War_communism" title="War communism">War</a></li> 
+             <li><a href="/wiki/Religious_communism" title="Religious communism">Religious</a> 
+              <ul>
+               <li><a class="mw-selflink selflink">Christian</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Primitive_communism" title="Primitive communism">Primitive</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Internationals</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Communist_League" title="Communist League">Communist League</a></li> 
+             <li><a href="/wiki/International_Workingmen%27s_Association" title="International Workingmen's Association">First International</a></li> 
+             <li><a href="/wiki/Second_International" title="Second International">Second International</a></li> 
+             <li><a href="/wiki/Communist_International" title="Communist International">Third International</a></li> 
+             <li><a href="/wiki/Fourth_International" title="Fourth International">Fourth International</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Communists" title="Category:Communists">People</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Thomas_More" title="Thomas More">Thomas More</a></li> 
+             <li><a href="/wiki/Tommaso_Campanella" title="Tommaso Campanella">Tommaso Campanella</a></li> 
+             <li><a href="/wiki/Fran%C3%A7ois-No%C3%ABl_Babeuf" title="François-Noël Babeuf">Gracchus Babeuf</a></li> 
+             <li><a href="/wiki/Robert_Owen" title="Robert Owen">Robert Owen</a></li> 
+             <li><a href="/wiki/Wilhelm_Weitling" title="Wilhelm Weitling">Wilhelm Weitling</a></li> 
+             <li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a></li> 
+             <li><a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Friedrich Engels</a></li> 
+             <li><a href="/wiki/%C3%89lis%C3%A9e_Reclus" title="Élisée Reclus">Élisée Reclus</a></li> 
+             <li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li> 
+             <li><a href="/wiki/Errico_Malatesta" title="Errico Malatesta">Errico Malatesta</a></li> 
+             <li><a href="/wiki/Rosa_Luxemburg" title="Rosa Luxemburg">Rosa Luxemburg</a></li> 
+             <li><a href="/wiki/Clara_Zetkin" title="Clara Zetkin">Clara Zetkin</a></li> 
+             <li><a href="/wiki/Karl_Liebknecht" title="Karl Liebknecht">Karl Liebknecht</a></li> 
+             <li><a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Vladimir Lenin</a></li> 
+             <li><a href="/wiki/Alexander_Berkman" title="Alexander Berkman">Alexander Berkman</a></li> 
+             <li><a href="/wiki/Emma_Goldman" title="Emma Goldman">Emma Goldman</a></li> 
+             <li><a href="/wiki/Sacco_and_Vanzetti" title="Sacco and Vanzetti">Sacco and Vanzetti</a></li> 
+             <li><a href="/wiki/Leon_Trotsky" title="Leon Trotsky">Leon Trotsky</a></li> 
+             <li><a href="/wiki/Nestor_Makhno" title="Nestor Makhno">Nestor Makhno</a></li> 
+             <li><a href="/wiki/Alexandra_Kollontai" title="Alexandra Kollontai">Alexandra Kollontai</a></li> 
+             <li><a href="/wiki/Antonio_Gramsci" title="Antonio Gramsci">Antonio Gramsci</a></li> 
+             <li><a href="/wiki/Joseph_Stalin" title="Joseph Stalin">Joseph Stalin</a></li> 
+             <li><a href="/wiki/Buenaventura_Durruti" title="Buenaventura Durruti">Buenaventura Durruti</a></li> 
+             <li><a href="/wiki/Antonie_Pannekoek" title="Antonie Pannekoek">Antonie Pannekoek</a></li> 
+             <li><a href="/wiki/Sylvia_Pankhurst" title="Sylvia Pankhurst">Sylvia Pankhurst</a></li> 
+             <li><a href="/wiki/Wilhelm_Reich" title="Wilhelm Reich">Wilhelm Reich</a></li> 
+             <li><a href="/wiki/Palmiro_Togliatti" title="Palmiro Togliatti">Palmiro Togliatti</a></li> 
+             <li><a href="/wiki/Ho_Chi_Minh" title="Ho Chi Minh">Ho Chi Minh</a></li> 
+             <li><a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a></li> 
+             <li><a href="/wiki/Josip_Broz_Tito" title="Josip Broz Tito">Josip Broz Tito</a></li> 
+             <li><a href="/wiki/Albert_Camus" title="Albert Camus">Albert Camus</a></li> 
+             <li><a href="/wiki/Herbert_Marcuse" title="Herbert Marcuse">Herbert Marcuse</a></li> 
+             <li><a href="/wiki/Jean-Paul_Sartre" title="Jean-Paul Sartre">Jean-Paul Sartre</a></li> 
+             <li><a href="/wiki/Enver_Hoxha" title="Enver Hoxha">Enver Hoxha</a></li> 
+             <li><a href="/wiki/Simone_de_Beauvoir" title="Simone de Beauvoir">Simone de Beauvoir</a></li> 
+             <li><a href="/wiki/Che_Guevara" title="Che Guevara">Che Guevara</a></li> 
+             <li><a href="/wiki/Pier_Paolo_Pasolini" title="Pier Paolo Pasolini">Pier Paolo Pasolini</a></li> 
+             <li><a href="/wiki/Kim_Il-sung" title="Kim Il-sung">Kim Il-sung</a></li> 
+             <li><a href="/wiki/Enrico_Berlinguer" title="Enrico Berlinguer">Enrico Berlinguer</a></li> 
+             <li><a href="/wiki/Cornelius_Castoriadis" title="Cornelius Castoriadis">Cornelius Castoriadis</a></li> 
+             <li><a href="/wiki/Guy_Debord" title="Guy Debord">Guy Debord</a></li> 
+             <li><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></li> 
+             <li><a href="/wiki/Fidel_Castro" title="Fidel Castro">Fidel Castro</a></li> 
+             <li><a href="/wiki/Subcomandante_Marcos" title="Subcomandante Marcos">Subcomandante Marcos</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">By region</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Communism_in_Colombia" title="Communism in Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Communism_in_France" title="Communism in France">France</a></li> 
+             <li><a href="/wiki/Communism_in_Kerala" title="Communism in Kerala">Kerala</a></li> 
+             <li><a href="/wiki/Communism_in_Korea" title="Communism in Korea">Korea</a></li> 
+             <li><a href="/wiki/Communism_in_Nepal" title="Communism in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Communism_in_Peru" title="Communism in Peru">Peru</a></li> 
+             <li><a href="/wiki/Communism_in_the_Philippines" title="Communism in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Communism_in_Poland" title="Communism in Poland">Poland</a></li> 
+             <li><a href="/wiki/Communism_in_Russia" title="Communism in Russia">Russia</a></li> 
+             <li><a href="/wiki/Communism_in_Sumatra" title="Communism in Sumatra">Sumatra</a></li> 
+             <li><a href="/wiki/Communism_in_Vietnam" title="Communism in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/List_of_communist_parties" title="List of communist parties">List of communist parties</a></li> 
+             <li><a href="/wiki/List_of_anti-capitalist_and_communist_parties_with_national_parliamentary_representation" title="List of anti-capitalist and communist parties with national parliamentary representation">List of anti-capitalist and communist parties with national parliamentary representation</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Anthem</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>"<a href="/wiki/The_Internationale" title="The Internationale">The Internationale</a>"</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related<br>topics</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a> 
+              <ul>
+               <li><a href="/wiki/Social_anarchism" title="Social anarchism">Social</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Socialism" title="Socialism">Socialism</a> 
+              <ul>
+               <li><a href="/wiki/Revolutionary_socialism" title="Revolutionary socialism">Revolutionary</a></li> 
+               <li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian</a></li> 
+               <li><a href="/wiki/Democratic_socialism" title="Democratic socialism">Democratic</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Revolution" title="Revolution">Revolution</a></li> 
+             <li><a href="/wiki/Anti-communism" title="Anti-communism">Anti-communism</a></li> 
+             <li><a href="/wiki/Anti_anti-communism" title="Anti anti-communism">Anti anti-communism</a></li> 
+             <li><a href="/wiki/Anti-communist_mass_killings" title="Anti-communist mass killings">Anti-communist mass killings</a></li> 
+             <li><a href="/wiki/Anti-fascism" title="Anti-fascism">Anti-fascism</a></li> 
+             <li><a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">Anti-globalization movement</a></li> 
+             <li><a href="/wiki/Anti-nationalism" title="Anti-nationalism">Anti-nationalism</a></li> 
+             <li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li> 
+             <li><a href="/wiki/Communitarianism" title="Communitarianism">Communitarianism</a></li> 
+             <li><a href="/wiki/Crimes_against_humanity_under_communist_regimes" title="Crimes against humanity under communist regimes">Crimes against humanity under communist regimes</a> (<a href="/wiki/Mass_killings_under_communist_regimes" title="Mass killings under communist regimes">Mass killings</a>)</li> 
+             <li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li> 
+             <li><a href="/wiki/Internationalism_(politics)" title="Internationalism (politics)">Internationalism</a></li> 
+             <li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li> 
+             <li><a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing politics</a> 
+              <ul>
+               <li><a href="/wiki/Old_Left" title="Old Left">Old Left</a></li> 
+               <li><a href="/wiki/New_Left" title="New Left">New Left</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Marx%27s_theory_of_alienation" title="Marx's theory of alienation">Marx's theory of alienation</a></li> 
+             <li><a href="/wiki/Red_Scare" title="Red Scare">Red Scare</a></li> 
+             <li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li> 
+             <li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist economics</a></li> 
+             <li><a href="/wiki/Socialist_mode_of_production" title="Socialist mode of production">Socialist mode of production</a></li> 
+             <li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalism</a></li> 
+             <li><a href="/wiki/Trade_union" title="Trade union">Trade union</a></li> 
+             <li><a href="/wiki/Worker_cooperative" title="Worker cooperative">Worker cooperative</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div>
+            <a href="/wiki/Portal:Communism" title="Portal:Communism">Portal</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1297
+Cached time: 20191025211811
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.616 seconds
+Real time usage: 0.828 seconds
+Preprocessor visited node count: 3311/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 181950/2097152 bytes
+Template argument size: 3892/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 100028/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.299/10.000 seconds
+Lua memory usage: 6.76 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  662.869      1 -total
+ 59.98%  397.587      1 Template:Reflist
+ 30.53%  202.399     15 Template:Cite_book
+ 11.75%   77.914      4 Template:Fix
+ 10.13%   67.135      2 Template:Page_needed
+  8.35%   55.359     11 Template:Cite_web
+  7.35%   48.699      3 Template:ISBN
+  6.86%   45.458      8 Template:Category_handler
+  6.30%   41.744      2 Template:Communism
+  6.01%   39.808      1 Template:Communism_sidebar
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:383054-0!canonical and timestamp 20191025211826 and revision id 923027302
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Christian_communism&amp;oldid=923027302">https://en.wikipedia.org/w/index.php?title=Christian_communism&amp;oldid=923027302</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Christian_communism" title="Category:Christian communism">Christian communism</a></li>
+       <li><a href="/wiki/Category:Christian_socialism" title="Category:Christian socialism">Christian socialism</a></li>
+       <li><a href="/wiki/Category:Communism" title="Category:Communism">Communism</a></li>
+       <li><a href="/wiki/Category:Types_of_socialism" title="Category:Types of socialism">Types of socialism</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li>
+       <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_January_2019" title="Category:Wikipedia articles needing page number citations from January 2019">Wikipedia articles needing page number citations from January 2019</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Use_British_English_Oxford_spelling_from_November_2017" title="Category:Use British English Oxford spelling from November 2017">Use British English Oxford spelling from November 2017</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2019" title="Category:Articles with unsourced statements from January 2019">Articles with unsourced statements from January 2019</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Christian+communism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Christian+communism" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Christian_communism" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Christian_communism" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Christian_communism">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Christian_communism&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Christian_communism&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Christian_communism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Christian_communism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Christian_communism&amp;oldid=923027302" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Christian_communism&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q625559" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Christian_communism&amp;id=923027302" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Christian+communism">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Christian+communism&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Christian_communism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D9%88%D8%B9%D9%8A%D8%A9_%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D8%A9" title="شيوعية مسيحية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A5%D1%80%D1%8B%D1%81%D1%86%D1%96%D1%8F%D0%BD%D1%81%D0%BA%D1%96_%D0%BA%D0%B0%D0%BC%D1%83%D0%BD%D1%96%D0%B7%D0%BC" title="Хрысціянскі камунізм – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Comunisme_cristi%C3%A0" title="Comunisme cristià – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/K%C5%99es%C5%A5ansk%C3%BD_komunismus" title="Křesťanský komunismus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Comunismo_cristiano" title="Comunismo cristiano – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Communisme_chr%C3%A9tien" title="Communisme chrétien – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8F%85%EA%B5%90_%EA%B3%B5%EC%82%B0%EC%A3%BC%EC%9D%98" title="기독교 공산주의 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%88%E0%A4%B8%E0%A4%BE%E0%A4%88_%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6" title="ईसाई साम्यवाद – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Comunismo_cristiano" title="Comunismo cristiano – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%95%D7%A0%D7%99%D7%96%D7%9D_%D7%A0%D7%95%D7%A6%D7%A8%D7%99" title="קומוניזם נוצרי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%90%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%99%E1%83%9D%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%96%E1%83%9B%E1%83%98" title="ქრისტიანული კომუნიზმი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kereszt%C3%A9ny_kommunizmus" title="Keresztény kommunizmus – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%80%E0%B4%AF_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%B8%E0%B4%82" title="ക്രിസ്തീയ കമ്മ്യൂണിസം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Christelijk_communisme" title="Christelijk communisme – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E5%85%B1%E7%94%A3%E4%B8%BB%E7%BE%A9" title="キリスト教共産主義 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kristen_kommunisme" title="Kristen kommunisme – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Komunizm_chrze%C5%9Bcija%C5%84ski" title="Komunizm chrześcijański – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Comunismo_crist%C3%A3o" title="Comunismo cristão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Comunism_cre%C8%99tin" title="Comunism creștin – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC" title="Христианский коммунизм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kres%C5%A5ansk%C3%BD_komunizmus" title="Kresťanský komunizmus – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%88%D1%9B%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%B0%D0%BC" title="Хришћански комунизам – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hri%C5%A1%C4%87anski_komunizam" title="Hrišćanski komunizam – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Comunismo_cristian" title="Comunismo cristian – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99%E5%85%B1%E7%94%A2%E4%B8%BB%E7%BE%A9" title="基督教共產主義 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q625559#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 October 2019, at 21:18<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Christian_communism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.828","ppvisitednodes":{"value":3311,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":181950,"limit":2097152},"templateargumentsize":{"value":3892,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":100028,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  662.869      1 -total"," 59.98%  397.587      1 Template:Reflist"," 30.53%  202.399     15 Template:Cite_book"," 11.75%   77.914      4 Template:Fix"," 10.13%   67.135      2 Template:Page_needed","  8.35%   55.359     11 Template:Cite_web","  7.35%   48.699      3 Template:ISBN","  6.86%   45.458      8 Template:Category_handler","  6.30%   41.744      2 Template:Communism","  6.01%   39.808      1 Template:Communism_sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.299","limit":"10.000"},"limitreport-memusage":{"value":7090253,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1297","timestamp":"20191025211811","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Christian communism","url":"https:\/\/en.wikipedia.org\/wiki\/Christian_communism","sameAs":"http:\/\/www.wikidata.org\/entity\/Q625559","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q625559","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-29T21:34:26Z","dateModified":"2019-10-25T21:18:26Z","headline":"form of religious communism based on Christianity"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1267"});});</script>   
+ </body>
+</html>

@@ -1,0 +1,914 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Beginning of human personhood - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Beginning_of_human_personhood","wgTitle":"Beginning of human personhood","wgCurRevisionId":923623948,"wgRevisionId":923623948,"wgArticleId":20433927,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template archiveis links","CS1 maint: uses editors parameter","Webarchive template wayback links","CS1 maint: extra punctuation","CS1 errors: missing periodical","Use dmy dates from June 2017","All articles with unsourced statements","Articles with unsourced statements from June 2013","Articles with unsourced statements from March 2019","Abortion","Medical ethics","Personhood"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames"
+:["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Beginning_of_human_personhood","wgRelevantArticleId":20433927,"wgRequestId":"XbiLjApAIDAAAGL5s7oAAAAI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4880499","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6b/Embryo%2C_8_cells.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beginning_of_human_personhood"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Beginning_of_human_personhood"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Beginning_of_human_personhood rootpage-Beginning_of_human_personhood skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Beginning of human personhood</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       For origins of humans as a species, see 
+       <a href="/wiki/Human_evolution" title="Human evolution">Human evolution</a>.
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Embryo,_8_cells.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Embryo%2C_8_cells.jpg/220px-Embryo%2C_8_cells.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Embryo%2C_8_cells.jpg/330px-Embryo%2C_8_cells.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Embryo%2C_8_cells.jpg/440px-Embryo%2C_8_cells.jpg 2x" data-file-width="640" data-file-height="480"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Embryo,_8_cells.jpg" class="internal" title="Enlarge"></a>
+         </div>
+         <a href="/wiki/Human_embryo" class="mw-redirect" title="Human embryo">Human embryo</a> at 8-cell stage
+        </div>
+       </div>
+      </div> 
+      <p>The <b>beginning of human personhood</b> is the moment when a <a href="/wiki/Human" title="Human">human</a> is first recognized as a <a href="/wiki/Person" title="Person">person</a>. There are differences of opinion as to the precise time when human <a href="/wiki/Personhood" title="Personhood">personhood</a> begins and the nature of that status. The issue arises in a number of fields including science, religion, philosophy, and law, and is most acute in debates relating to <a href="/wiki/Abortion_debate" title="Abortion debate">abortion</a>, <a href="/wiki/Stem_cell_controversy" title="Stem cell controversy">stem cell research</a>, <a href="/wiki/Reproductive_rights" title="Reproductive rights">reproductive rights</a>, and <a href="/wiki/Fetal_rights" title="Fetal rights">fetal rights</a>. </p>
+      <p>Traditionally, the concept of <a href="/wiki/Personhood" title="Personhood">personhood</a> has entailed the concept of <a href="/wiki/Soul_(spirit)" class="mw-redirect" title="Soul (spirit)">soul</a>, a <a href="/wiki/Metaphysics" title="Metaphysics">metaphysical</a> concept referring to a non-corporeal or extra-corporeal dimension of <a href="/wiki/Human_being" class="mw-redirect" title="Human being">human being</a>. However, in <a href="/wiki/Modernity" title="Modernity">modernity</a>, the concepts of <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a> and <a href="/wiki/Intersubjectivity" title="Intersubjectivity">intersubjectivity</a>, <a href="/wiki/Personhood" title="Personhood">personhood</a>, <a href="/wiki/Mind" title="Mind">mind</a>, and <a href="/wiki/Self" title="Self">self</a> have come to encompass a number of aspects of human being previously considered to be characteristics of the <a href="/wiki/Soul" title="Soul">soul</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> With regard to the beginning of human personhood, one historical question has been: when does the <a href="/wiki/Ensoulment" title="Ensoulment">soul enter the body</a>? In modern terms, the question could be put instead: at what point does the developing individual develop personhood or selfhood?<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>Related issues attached to the question of the beginning of human personhood include both the legal status, bodily integrity, and subjectivity of mothers<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and the philosophical concept of "natality" (i.e. "the distinctively human capacity to initiate a new beginning", which a new human life embodies).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Fertilization"><span class="tocnumber">1</span> <span class="toctext">Fertilization</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Philosophical_and_religious_perspectives"><span class="tocnumber">2</span> <span class="toctext">Philosophical and religious perspectives</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Fetal_personhood_in_law"><span class="tocnumber">3</span> <span class="toctext">Fetal personhood in law</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Ecclesiastical_courts"><span class="tocnumber">3.1</span> <span class="toctext">Ecclesiastical courts</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Common_law"><span class="tocnumber">3.2</span> <span class="toctext">Common law</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Implantation"><span class="tocnumber">3.3</span> <span class="toctext">Implantation</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Segmentation"><span class="tocnumber">3.4</span> <span class="toctext">Segmentation</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Brain_function_(brain_birth)"><span class="tocnumber">3.5</span> <span class="toctext">Brain function (brain birth)</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Fetal_viability"><span class="tocnumber">3.6</span> <span class="toctext">Fetal viability</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#Birth"><span class="tocnumber">3.7</span> <span class="toctext">Birth</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Other_markers"><span class="tocnumber">4</span> <span class="toctext">Other markers</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-12"><a href="#Individuation"><span class="tocnumber">4.1</span> <span class="toctext">Individuation</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Ethical_perspectives"><span class="tocnumber">5</span> <span class="toctext">Ethical perspectives</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#Legal_perspectives"><span class="tocnumber">6</span> <span class="toctext">Legal perspectives</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-15"><a href="#Ireland"><span class="tocnumber">6.1</span> <span class="toctext">Ireland</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#United_States"><span class="tocnumber">6.2</span> <span class="toctext">United States</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Fertilization">Fertilization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=1" title="Edit section: Fertilization">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Fertilization is the fusing of the gametes, that is a <a href="/wiki/Sperm" title="Sperm">sperm</a> cell and an <a href="/wiki/Ovum" class="mw-redirect" title="Ovum">ovum</a> (egg cell), to form a zygote. At this point, the zygote is <a href="/wiki/Gene" title="Gene">genetically</a> distinct from either of its parents. </p>
+      <p>Fertilization was not understood in ancient times. <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a> and <a href="/wiki/Augustus" title="Augustus">Augustus Caesar</a> were <a href="/wiki/Miraculous_births#Heroes_and_historical_figures" title="Miraculous births">reputed to have been conceived without fertilization</a> (<a href="/wiki/Miraculous_births" title="Miraculous births">virgin birth</a>). <a href="/wiki/Hippocrates" title="Hippocrates">Hippocrates</a> believed that the embryo was the product of male semen and a female factor. But <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> held that only male semen gave rise to an embryo, while the female only provided a place for the embryo to develop,<sup id="cite_ref-fertile_6-0" class="reference"><a href="#cite_note-fertile-6">[6]</a></sup> (a concept he acquired from the <a href="/wiki/Preformationism" title="Preformationism">preformationist</a> <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a>). <a href="/wiki/William_Harvey" title="William Harvey">William Harvey</a> refuted Aristotle's idea that <a href="/wiki/Menstruation" title="Menstruation">menstrual blood</a> could be <a href="/wiki/Aristotle%27s_biology#Inheritance" title="Aristotle's biology">involved in the formation</a> of a <a href="/wiki/Fetus" title="Fetus">fetus</a>, asserting that eggs from the female were somehow caused to become a fetus as a result of <a href="/wiki/Sexual_intercourse" title="Sexual intercourse">sexual intercourse</a>.<sup id="cite_ref-WHarvey_7-0" class="reference"><a href="#cite_note-WHarvey-7">[7]</a></sup> <a href="/wiki/Spermatozoon" title="Spermatozoon">Sperm</a> cells were discovered in 1677 by <a href="/wiki/Antonie_van_Leeuwenhoek" title="Antonie van Leeuwenhoek">Antonie van Leeuwenhoek</a>, who believed that Aristotle had been proven correct.<sup id="cite_ref-discover_8-0" class="reference"><a href="#cite_note-discover-8">[8]</a></sup> Some observers believed they could see an entirely pre-formed little human body in the head of a sperm.<sup id="cite_ref-religions_9-0" class="reference"><a href="#cite_note-religions-9">[9]</a></sup> The human <a href="/wiki/Egg_cell" title="Egg cell">ova</a> was first observed in 1827 by <a href="/wiki/Karl_Ernst_von_Baer" title="Karl Ernst von Baer">Karl Ernst von Baer</a>.<sup id="cite_ref-discover_8-1" class="reference"><a href="#cite_note-discover-8">[8]</a></sup> Only in 1876 did <a href="/wiki/Oscar_Hertwig" title="Oscar Hertwig">Oscar Hertwig</a> prove that fertilization is due to fusion of an egg and sperm cell.<sup id="cite_ref-fertile_6-1" class="reference"><a href="#cite_note-fertile-6">[6]</a></sup> </p>
+      <p>Some members of the medical community accept fertilization as the point at which life begins. Dr. Bradley M. Patten from the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> wrote in <i>Human Embryology</i> that the union of the sperm and the ovum "initiates the life of a new individual" beginning "a new individual life history." In the standard college <a href="/wiki/Text_book" class="mw-redirect" title="Text book">text book</a> <i>Psychology and Life</i>, Dr. Floyd L. Ruch wrote "At the time of conception, two living germ cells—the sperm from the father and the egg, or ovum, from the mother—unite to produce a new individual." Dr. Herbert Ratner wrote that "It is now of unquestionable certainty that a human being comes into existence precisely at the moment when the sperm combines with the egg." This certain knowledge, Ratner says, comes from the study of <a href="/wiki/Genetics" title="Genetics">genetics</a>. At fertilization, all of the genetic characteristics, such as the color of the eyes, "are laid down determinatively." James C. G. Conniff noted the prevalence of the above views in a study published by <i><a href="/wiki/The_New_York_Times_Magazine" title="The New York Times Magazine">The New York Times Magazine</a></i> in which he wrote, "At that moment conception takes place and, scientists generally agree, a new life begins—silent, secret, unknown."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>The view that life begins at fertilization reached acceptance from mainstream sources at one point. In 1967, <a href="/wiki/New_York_City_Department_of_Education" title="New York City Department of Education">New York City school</a> officials launched a large <a href="/wiki/Sex_education" title="Sex education">sex education</a> program. The fifth grade textbook stated "Human life begins when the sperm cells of the father and the egg cells of the mother unite. This union is referred to as fertilization. For fertilization to take place and a baby to begin growing, the sperm cell must come in direct contact with the egg cell." Similarly, a textbook used in <a href="/wiki/Evanston,_Illinois" title="Evanston, Illinois">Evanston, Illinois</a> stated: "Life begins when a sperm cell and an ovum (egg cell) unite."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Catholic philosopher <a href="/wiki/Peter_Kreeft" title="Peter Kreeft">Peter Kreeft</a> goes so far as to say:<sup id="cite_ref-:0_12-0" class="reference"><a href="#cite_note-:0-12">[12]</a></sup> </p> 
+      <blockquote>
+       <p>This is widely accepted still today and has been verified by the <a rel="nofollow" class="external text" href="https://www.princeton.edu/~prolife/articles/embryoquotes2.html">scientific community</a>.</p>
+      </blockquote> 
+      <p>"To begin with, scientifically something very radical occurs between the processes of gametogenesis and fertilization: the change from a simple part of one human being (i.e., a sperm) and a simple part of another human being (i.e., an oocyte,usually referred to as an "ovum" or "egg"), which simply possess "human life", to a new, genetically unique, newly existing, individual, whole living human being (a single-cell embryonic human zygote). That is, upon fertilization, parts of human beings have actually been transformed into something very different from what they were before; they have been changed into a single, whole human being. During the process of fertilization, the sperm and the oocyte cease to exist as such, and a new human being is produced. </p>
+      <p>To understand this, it should be remembered that each kind of living organism has a specific number and quality of chromosomes that are characteristic for each member of a species. (The number can vary only slightly if the organism is to survive.) For example, the characteristic number of chromosomes for a member of the human species is 46 (plus or minus, e.g., in human beings with Down's or Turner's syndromes). Every somatic (or, body) cell in a human being has this characteristic number of chromosomes. Even the early germ cells contain 46 chromosomes; it is only their mature forms - the sex gametes, or sperms and oocytes - which will later contain only 23 chromosomes each..1 Sperms and oocytes are derived from primitive germ cells in the developing fetus by means of the process known as "gametogenesis." Because each germ cell normally has 46 chromosomes, the process of "fertilization" can not take place until the total number of chromosomes in each germ cell are cut in half. This is necessary so that after their fusion at fertilization the characteristic number of chromosomes in a single individual member of the human species (46) can be maintained, otherwise we would end up with a monster of some sort."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p>
+      <p>Others have disputed this view. Law professor and ethicist Richard Stith has written that the proper word for the growth of a fetus is not construction, as of a house or car, but development, as of a (pre-digital-era) photograph or a tree sapling: </p> 
+      <blockquote>
+       <p>Human beings do develop. To think they are constructed is flatly erroneous.... We know with certainty that quickening is an illusion, that the child is developing from the beginning, not being made from the outside, for its form lies within it, in its active potency, in its activated DNA.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p>
+      </blockquote> 
+      <p>That a human individual's existence begins at fertilization is the accepted position of the <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Roman Catholic Church</a>, whose <a href="/wiki/Pontifical_Academy_for_Life" title="Pontifical Academy for Life">Pontifical Academy for Life</a> declared: "The moment that marks the beginning of the existence of a new 'human being' is constituted by the penetration of sperm into the <a href="/wiki/Oocyte" title="Oocyte">oocyte</a>. Fertilization promotes a series of linked events and transforms the egg cell into a '<a href="/wiki/Zygote" title="Zygote">zygote</a>'."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The <a href="/wiki/Congregation_for_the_Doctrine_of_the_Faith" title="Congregation for the Doctrine of the Faith">Congregation for the Doctrine of the Faith</a> also has stated and reaffirmed: "From the time that the ovum is fertilized, a new life is begun which is neither that of the father nor of the mother; it is rather the life of a new human being with his own growth."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Eastern Orthodox churches and most of the more conservative Protestant denominations also teach this view of life. </p> 
+      <h2><span class="mw-headline" id="Philosophical_and_religious_perspectives">Philosophical and religious perspectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=2" title="Edit section: Philosophical and religious perspectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Answers to the question of when human life begins and when personhood begins have varied among social contexts, and have changed with shifts in ethical and religious beliefs, sometimes as a result of advances in scientific knowledge; in general they have developed in parallel with attitudes to <a href="/wiki/Abortion_debate" title="Abortion debate">abortion</a><sup id="cite_ref-devbio_17-0" class="reference"><a href="#cite_note-devbio-17">[17]</a></sup> and to the use of <a href="/wiki/Infanticide" title="Infanticide">infanticide</a> as a means of reproductive control. </p>
+      <p>Since the zygote is genetically identical to the embryo, the fully formed fetus, and the baby, questioning the beginning of personhood could lead to an instance of the <a href="/wiki/Sorites_paradox" title="Sorites paradox">Sorites paradox</a>, also known as <i>the paradox of the heap</i>.<sup id="cite_ref-Sorites_JVI_18-0" class="reference"><a href="#cite_note-Sorites_JVI-18">[18]</a></sup> </p>
+      <p><a href="/wiki/Neil_Postman" title="Neil Postman">Neil Postman</a> has written that in pre-modern societies, the lives of children were not regarded as unique or valuable in the same way they are in modern societies, in part as a result of high <a href="/wiki/Infant_mortality" title="Infant mortality">infant mortality</a>. However, when childhood began to develop its own distinctive features (including graded schools to teach reading, children's stories, games, etc.) this view changed. According to Postman, "the custom of celebrating a child's birthday did not exist in America throughout most of the eighteenth century, and, in fact, the precise marking of a child's age in any way is a relatively recent cultural habit, no more than two hundred years old."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </p>
+      <p>Ancient writers held diverse views on the subject of the beginning of personhood, understood as the soul's entry or development in the human body. In <i>Panpsychism in the West</i>, David Skrbina noted the various kinds of soul envisioned by the early Greeks.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </p>
+      <p>Generally, the question of the ensoulment of the fetus revolved around the question of when the rational soul entered the body, whether it was an integral part of the bodily form and substance, or whether it was pre-existent and subject to <a href="/wiki/Reincarnation" title="Reincarnation">reincarnation</a> or <a href="/wiki/Pre-existence" title="Pre-existence">pre-existence</a>. </p>
+      <p><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> developed a theory of progressive ensoulment. In <i><a href="/wiki/On_the_Generation_of_Animals" class="mw-redirect" title="On the Generation of Animals">On the Generation of Animals</a></i>, he declared that the soul develops first a vegetative soul, then animal, and finally human, adding that abortions were permissible early in pregnancy, before certain biological processes began. He believed that the female substance was passive, the male active, and that it required time for the male substance to "animate" the whole.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </p>
+      <p><a href="/wiki/Hippocrates" title="Hippocrates">Hippocrates</a> and the <a href="/wiki/Pythagoreans" class="mw-redirect" title="Pythagoreans">Pythagoreans</a> stated that fertilization marked the beginning of a human life, and that the human soul was created at the time of fertilization. </p>
+      <p>According to <i><a href="/wiki/Hinduism_Today" title="Hinduism Today">Hinduism Today</a></i>, <a href="/wiki/Vedas" title="Vedas">Vedic literature</a> states that the soul enters the body at conception.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p>
+      <p>Concepts of <a href="/wiki/Pre-existence" title="Pre-existence">pre-existence</a> are found in various forms in Plato, Judaism, and Islam. </p>
+      <p>The Jewish <a href="/wiki/Talmud" title="Talmud">Talmud</a> holds that all life is precious but that a fetus is not a person, in the sense of termination of pregnancy being considered murder. If a woman's life is endangered by a pregnancy, an abortion is permitted. However, if the "greater part" of the fetus has emerged from the womb, then its life may not be taken even to save the woman's, <i>"because you cannot choose between one human life and another".</i><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </p>
+      <p>Some medieval <a href="/wiki/Christianity" title="Christianity">Christian</a> theologians, such as <a href="/wiki/Marsilio_Ficino" title="Marsilio Ficino">Marsilio Ficino</a>, held that <a href="/wiki/Ensoulment" title="Ensoulment">ensoulment</a> occurs when an infant takes its first breath of air. They cite, among other passages, Genesis 2:7, which reads: "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p>
+      <p>The Early Church held various views on the subject, primarily either the ensoulment at conception or delayed hominization. <a href="/wiki/Tertullian" title="Tertullian">Tertullian</a> held a view, <a href="/wiki/Traducianism" title="Traducianism">traducianism</a>, which was later condemned as heresy. This view held that the soul was derived from the parents and generated in parallel with the generation of the physical body. This viewpoint was deemed unsatisfactory by <a href="/wiki/St._Augustine" class="mw-redirect" title="St. Augustine">St. Augustine</a>, as it did not account for original sin. Basing himself on the Septuagint version of Exodus 21:22, he affirmed the Aristotelian view of delayed hominization. </p>
+      <p><a href="/wiki/St._Thomas_Aquinas" class="mw-redirect" title="St. Thomas Aquinas">St. Thomas Aquinas</a> and <a href="/wiki/St._Augustine_of_Hippo" class="mw-redirect" title="St. Augustine of Hippo">St. Augustine of Hippo</a> held the view that fetuses were "animated" (using Aristotle's term for ensoulment) near the 40th day after conception.<sup id="cite_ref-devbio_17-1" class="reference"><a href="#cite_note-devbio-17">[17]</a></sup> However, both held that abortion was always gravely wrong.<sup id="cite_ref-Fitzgerald,_1_25-0" class="reference"><a href="#cite_note-Fitzgerald,_1-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </p>
+      <p>In general, the soul was viewed as some kind of animating principle; and the human variety was referred to as the "rational soul". </p> 
+      <h2><span class="mw-headline" id="Fetal_personhood_in_law">Fetal personhood in law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=3" title="Edit section: Fetal personhood in law">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Ecclesiastical_courts">Ecclesiastical courts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=4" title="Edit section: Ecclesiastical courts">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Following the decline of the Roman Empire, <a href="/wiki/Ecclesiastical_courts" class="mw-redirect" title="Ecclesiastical courts">ecclesiastical courts</a> held wide jurisdiction throughout Europe. According to Donald DeMarco, PhD,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> the Church treated the killing of an unformed or "unanimated" fetus as a matter of "anticipated homicide", with a corresponding lesser penance required. In the <a href="/wiki/Catechism_of_the_Catholic_Church" title="Catechism of the Catholic Church">Catechism of the Catholic Church</a>, the following statement regarding the beginning of human life and personhood is provided: </p> 
+      <dl>
+       <dd>
+        Human life must be respected and protected absolutely from the moment of conception. From the first moment of his existence, a human being must be recognized as having the rights of a person - among which is the inviolable right of every innocent being to life.
+        <sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+       </dd>
+      </dl> 
+      <h3><span class="mw-headline" id="Common_law">Common law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=5" title="Edit section: Common law">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Although <a href="/wiki/Abortion_in_the_United_Kingdom" title="Abortion in the United Kingdom">abortion in the United Kingdom</a> was traditionally dealt with in the <a href="/wiki/Ecclesiastical_court" title="Ecclesiastical court">ecclesiastical courts</a>, English common law addressed the issue from 1115 on, beginning with first mention in <i><a href="/wiki/Leges_Henrici_Primi" title="Leges Henrici Primi">Leges Henrici Primi</a></i>. In this treatise, abortion, even of a "formed" fetus, was a "quasi-homicide", carrying a penalty of 10 years' penance. This was a much lesser penalty than would accrue to full homicide. With the exception of Bracton, later writers insisted that killing a fetus was "great misprision, and no murder", as formulated by <a href="/wiki/Sir_Edward_Coke" class="mw-redirect" title="Sir Edward Coke">Sir Edward Coke</a> in his <i><a href="/wiki/Institutes_of_the_Lawes_of_England" title="Institutes of the Lawes of England">Institutes of the Lawes of England</a></i>. Coke noted that the murder victim must have been "a reasonable creature <i>in rerum natura</i>", in accordance with the standards of <a href="/wiki/Murder_in_English_law" title="Murder in English law">murder in English law</a>. This formulation was repeated by <a href="/wiki/Sir_William_Blackstone" class="mw-redirect" title="Sir William Blackstone">Sir William Blackstone</a> in England and in <i><a href="/wiki/Bouvier%27s_Law_Dictionary" title="Bouvier's Law Dictionary">Bouvier's Law Dictionary</a></i> in the United States. </p>
+      <p>The reasonableness of the creature is of some considerable weight in the legal conception of personhood. Children are not considered full persons under the law until they reach the age of majority. </p>
+      <p>Nonetheless, children have been treated as persons with respect to bodily offences, beginning with <a href="/wiki/Offences_against_the_Person_Act_1828" class="mw-redirect" title="Offences against the Person Act 1828">Offences against the Person Act 1828</a>, although this protection did not prevent children from being sold by their parents, as in the <a href="/wiki/Eliza_Armstrong_case" title="Eliza Armstrong case">Eliza Armstrong case</a>, long after the slave trade had been abolished in England. </p>
+      <p>In addition, "a child <i><a href="/wiki/En_ventre_sa_mere" title="En ventre sa mere">en ventre sa mere</a></i>" (in utero) was regarded by common law as "in being," or "as born" when ensuring that wills and trusts do not run afoul of the <a href="/wiki/Rule_against_perpetuities" title="Rule against perpetuities">rule against perpetuities</a>; nine (or sometimes ten) months of gestation were allotted for this purpose.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> </p>
+      <p><br> </p> 
+      <h3><span class="mw-headline" id="Implantation">Implantation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=6" title="Edit section: Implantation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In his book <i><a href="/wiki/Aborting_America" class="mw-redirect" title="Aborting America">Aborting America</a>,</i> <a href="/wiki/Bernard_Nathanson" title="Bernard Nathanson">Bernard Nathanson</a> argued that implantation should be considered the point at which life begins.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </p> 
+      <blockquote> 
+       <p>Biochemically, this is when alpha announces its presence as part of the human community by means of its hormonal messages, which we now have the technology to receive. We also know biochemically that it is an independent organism distinct from the mother. [Note: in writing the book, "alpha" was Nathanson's term for any human before birth.] </p> 
+      </blockquote>
+      <p>In their book, <i>When Does Human Life Begin?</i>,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> John L. Merritt, MD and his son J. Lawrence Meritt II, MD, present the idea that if "the breath of life" (Genesis 2:7) is oxygen, then a <a href="/wiki/Blastocyst" title="Blastocyst">blastocyst</a> starts taking in the breath of life from the mother's blood the moment it successfully implants in her womb, which is about a week after fertilization. If the end-point to human life is the moment the body stops using oxygen, then it may follow that the corresponding starting-point is the moment the body starts using oxygen. </p>
+      <h3><span class="mw-headline" id="Segmentation">Segmentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=7" title="Edit section: Segmentation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Non-conjoined monozygotic twins form up to day 14 of embryonic development, but when twinning occurs after 14 days, the twins will likely be conjoined.<sup id="cite_ref-twinning_33-0" class="reference"><a href="#cite_note-twinning-33">[33]</a></sup> Some argue that an early embryo cannot be a person because "If every person is an individual, one cannot be divided from oneself."<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </p>
+      <p>However, Fr. Norman Ford stated that "the evidence would seem to indicate <i>not</i> that there is <i>no</i> individual at conception, but that there is at least one and possibly more."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Fr. Ford, in his 1988 book When Did I Begin?, was actually a famous proponent of the argument that embryos were NOT human individuals until reaching the stage where twinning is no longer possible. (June 2013)">citation needed</span></a></i>]</sup> He went on to support the idea that, similar to processes found in other species, one twin could be the parent of the other <a href="/wiki/Asexual_reproduction" title="Asexual reproduction">asexually</a>. Theodore Hall agreed with the plausibility of this explanation saying, "We wonder if the biological process in twinning isn't simply another example of how nature reproduces from other individuals without destroying that person's or persons' individuality."<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> </p> 
+      <h3><span id="Brain_function_.28brain_birth.29"></span><span class="mw-headline" id="Brain_function_(brain_birth)">Brain function (brain birth)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=8" title="Edit section: Brain function (brain birth)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In the years since the designation of brain death as a new criterion for death, attention has been directed towards the central role of the nervous system in a number of areas of ethical decision-making. The notion that there exists a neurological end-point to human life has led to efforts at defining a corresponding neurological starting-point. This latter quest has led to the concept of brain birth (or brain life), signifying the converse of <a href="/wiki/Brain_death" title="Brain death">brain death</a>. The quest for a neurological marker of the beginning of human personhood owes its impetus to the perceived symmetry between processes at the beginning and end of life, thus if brain function is a criterion used to determine the medical death of a person, it should also be the criterion for its beginning. </p>
+      <p>Just as there are two types of brain death - whole brain death (which refers to the irreversible cessation of function of both the <a href="/wiki/Brain_stem" class="mw-redirect" title="Brain stem">brain stem</a> and higher parts of the brain) and higher brain death (destruction of the cerebral hemispheres alone, with possible retention of brain stem function), there are two types of brain birth (based on their reversal) - brain stem birth at the first appearance of brain waves in lower brain (brain stem) at 6–8 weeks of gestation, and higher brain birth, at the first appearance of brain waves in higher brain (<a href="/wiki/Cerebral_cortex" title="Cerebral cortex">cerebral cortex</a>) at 22–24 weeks of gestation.<sup id="cite_ref-Jones1998_36-0" class="reference"><a href="#cite_note-Jones1998-36">[36]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Fetal_viability">Fetal viability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=9" title="Edit section: Fetal viability">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:352px;">
+        <a href="/wiki/File:Abortion_Laws.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abortion_Laws.svg/350px-Abortion_Laws.svg.png" decoding="async" width="350" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abortion_Laws.svg/525px-Abortion_Laws.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abortion_Laws.svg/700px-Abortion_Laws.svg.png 2x" data-file-width="512" data-file-height="263"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Abortion_Laws.svg" class="internal" title="Enlarge"></a>
+         </div>
+         <p>International status of <a href="/wiki/Abortion_law" title="Abortion law">abortion law</a></p> 
+         <p>UN 2013 report on abortion law.<sup id="cite_ref-UN2013info_37-0" class="reference"><a href="#cite_note-UN2013info-37">[37]</a></sup></p> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #3465a4; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Legal on request
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #73d216; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Legal for maternal life, health, mental health, 
+          <a href="/wiki/Pregnancy_from_rape" title="Pregnancy from rape">rape</a> and/or fetal defects, and also for socioeconomic factors
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #edd400; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Illegal with exception for maternal life, health, mental health and/or rape, and also for fetal defects
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #c17d11; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Illegal with exception for maternal life, health and/or mental health, and also for rape
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f57900; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Illegal with exception for maternal life, health, and/or mental health
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #cc0000; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Illegal with exception for maternal life
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #2e3436; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;Illegal with no exceptions
+         </div> 
+         <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column">
+          <span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #b9b9b9; color:black; font-size:100%; text-align:center;">&nbsp;</span>&nbsp;No information
+          <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+         </div>
+        </div>
+       </div>
+      </div> 
+      <p>"Until the fetus is viable, any rights granted to it may come at the expense of the pregnant woman, simply because the fetus cannot survive except within the woman's body. Upon viability, the pregnancy can be terminated, as by a <a href="/wiki/C-section" class="mw-redirect" title="C-section">c-section</a> or <a href="/wiki/Induced_labor" class="mw-redirect" title="Induced labor">induced labor</a>, with the fetus surviving to become a newborn infant. Several groups believe that abortion before viability is acceptable, but is unacceptable after" is the perspective of Planned Parenthood, a major abortion provider.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> In some countries, early abortions are legal in all circumstances, but <a href="/wiki/Late-term_abortion" class="mw-redirect" title="Late-term abortion">late-term abortions</a> are limited to circumstances where there is a clear medical need. While there is no sharp limit of development, gestational age, or weight at which a human fetus automatically becomes viable,<sup id="cite_ref-developinghuman_42-0" class="reference"><a href="#cite_note-developinghuman-42">[42]</a></sup> a 2013 study found that "While only a small proportion of births occur before 24 completed weeks of gestation (about 1 per 1000), survival is rare and most of them are either <a href="/wiki/Fetal_death" class="mw-redirect" title="Fetal death">fetal deaths</a> or live births followed by a neonatal death." <sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Birth">Birth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=10" title="Edit section: Birth">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>While, at one end of the ideological spectrum, some believe human personhood begins at fertilization, at the other end of the spectrum others believe that as long as the fetus is still inside the body of the woman (whether it is viable or not), it does not have any rights of its own.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Other_markers">Other markers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=11" title="Edit section: Other markers">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>There are also other ideas of when personhood is achieved: </p> 
+      <ul>
+       <li>at <a href="/wiki/Ensoulment" title="Ensoulment">ensoulment</a></li> 
+       <li>at "formation" – an early concept of bodily development (see <a href="/wiki/Preformationism" title="Preformationism">Preformationism</a>).</li> 
+       <li>at the emergence of consciousness</li> 
+       <li>at the emergence of rationality (see <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Kant</a>)</li>
+      </ul> 
+      <p>Human personhood may also be seen as a work-in-progress, with the beginning being a <a href="/wiki/Continuum_(theory)" class="mw-redirect" title="Continuum (theory)">continuum</a> rather than a strict point in time.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Individuation">Individuation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=12" title="Edit section: Individuation">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Philosophers such as <a href="/wiki/Aquinas" class="mw-redirect" title="Aquinas">Aquinas</a> use the concept of <a href="/wiki/Individuation" title="Individuation">individuation</a>. In regard to the <a href="/wiki/Abortion_debate" title="Abortion debate">abortion debate</a>, they argue that abortion is not permissible from the point at which individual human identity is realised. <a href="/wiki/Anthony_Kenny" title="Anthony Kenny">Anthony Kenny</a> argues that this can be derived from everyday beliefs and language and one can legitimately say "if my mother had had an abortion six months into her pregnancy, she would have killed me" then one can reasonably infer that at six months the "me" in question would have been an existing person with a valid claim to life. Since division of the zygote into twins through the process of <a href="/wiki/Twins" class="mw-redirect" title="Twins">monozygotic twinning</a> can occur until the fourteenth day of pregnancy, Kenny argues that individual identity is obtained at this point and thus abortion is not permissible after two weeks.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Ethical_perspectives">Ethical perspectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=13" title="Edit section: Ethical perspectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The distinction in <a href="/wiki/Value_(ethics)" title="Value (ethics)">ethical value</a> between existing persons and <a href="/wiki/Potential_future_person" class="mw-redirect" title="Potential future person">potential future persons</a> has been questioned.<sup id="cite_ref-hare1975p212-213_47-0" class="reference"><a href="#cite_note-hare1975p212-213-47">[47]</a></sup> Subsequently, it has been argued that contraception and even the decision not to procreate at all could be regarded as immoral on a similar basis as <a href="/wiki/Abortion" title="Abortion">abortion</a>.<sup id="cite_ref-warren1977_48-0" class="reference"><a href="#cite_note-warren1977-48">[48]</a></sup> Subsequently, any marker of the beginning of human personhood doesn't necessarily mark where it is ethically right or wrong to assist or intervene. In a <a href="/wiki/Consequentialism" title="Consequentialism">consequentialistic</a> point of view, an assisting or intervening action may be regarded as basically equivalent whether it is performed before, during or after the creation of a human being, because the end result would basically be the same, that is, the existence or non-existence of that human being. In a view holding value in bringing potential persons into existence, it has been argued to be justified to perform abortion of an <a href="/wiki/Unintended_pregnancy" title="Unintended pregnancy">unintended pregnancy</a> in favor for conceiving a new child later in better conditions.<sup id="cite_ref-Savulescu2002_49-0" class="reference"><a href="#cite_note-Savulescu2002-49">[49]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Legal_perspectives">Legal perspectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=14" title="Edit section: Legal perspectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Ireland">Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=15" title="Edit section: Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main articles: 
+       <a href="/wiki/Eighth_Amendment_of_the_Constitution_of_Ireland" title="Eighth Amendment of the Constitution of Ireland">Eighth Amendment of the Constitution of Ireland</a> and 
+       <a href="/wiki/Abortion_in_the_Republic_of_Ireland" title="Abortion in the Republic of Ireland">Abortion in the Republic of Ireland</a>
+      </div> 
+      <p>The 1983 <a href="/wiki/Eighth_Amendment_of_the_Constitution_of_Ireland" title="Eighth Amendment of the Constitution of Ireland">Eight Amendment</a> granted the full right to life, and personhood, to any "unborn". As such, abortion was banned in nearly all cases, except to save the life of the mother. This was <a href="/wiki/Thirty-sixth_Amendment_of_the_Constitution_Bill_2018" class="mw-redirect" title="Thirty-sixth Amendment of the Constitution Bill 2018">repealed</a> on 25 May 2018 by a 66% voting margin, with abortion becoming legal on 1 January 2019.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2019)">citation needed</span></a></i>]</sup> </p> 
+      <h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=16" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In its 1885 decision <i><a href="/wiki/McArthur_v._Scott" title="McArthur v. Scott">McArthur v. Scott</a></i>, the US Supreme Court affirmed the common law principle that a child in its mother's womb can be regarded as "in being" for the purpose of resolving a dispute about wills and trusts.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> </p>
+      <p>In 1973, <a href="/wiki/Harry_Blackmun" title="Harry Blackmun">Harry Blackmun</a> wrote the court opinion for <i><a href="/wiki/Roe_v._Wade" title="Roe v. Wade">Roe v. Wade</a></i>, saying "We need not resolve the difficult question of when life begins. When those trained in the respective disciplines of medicine, philosophy, and theology are unable to arrive at any consensus, the judiciary, at this point in the development of man's knowledge, is not in a position to speculate." </p>
+      <p>In 2002, the <a href="/wiki/Born-Alive_Infants_Protection_Act" title="Born-Alive Infants Protection Act">Born-Alive Infants Protection Act</a> was enacted, which ensures that the legal concepts of <i>person, baby, infant,</i> and <i>child</i> include those which have been born alive in the course of a miscarriage or abortion, regardless of development, gestational age, or whether the placenta and umbilical cord are still attached. This law makes no comment on personhood in utero but ensures that no person after birth is characterized as not a person.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup> </p>
+      <p>In 2003, the <a href="/wiki/Partial-Birth_Abortion_Ban_Act" title="Partial-Birth Abortion Ban Act">Partial-Birth Abortion Ban Act</a> was enacted, which prohibits an abortion if <i>"either the entire baby's head is outside the body of the mother, or any part of the baby's trunk past the navel is outside the body of the mother."</i><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> </p>
+      <p>In 2004, President <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a> signed the <a href="/wiki/Unborn_Victims_of_Violence_Act" title="Unborn Victims of Violence Act">Unborn Victims of Violence Act</a> into law.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup> The law effectively extends personhood status<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup> to a "<i>child in utero at any stage of development, who is carried in the womb</i>"<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> if they are targeted, injured or killed during the commission of any of over 60 listed violent crimes. The law also prohibits the prosecutions of "<i>any person for conduct relating</i>" to a legally consented to abortion. </p>
+      <p>Today, 38 U.S. States legally recognize a human fetus or "unborn child" as a crime victim, at least for the purpose of <a href="/wiki/Homicide" title="Homicide">homicide</a> or <a href="/wiki/Feticide" class="mw-redirect" title="Feticide">feticide</a> laws.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> According to progressive media watchdog <a href="/wiki/Media_Matters_for_America" title="Media Matters for America">Media Matters for America</a>, "Further, a prenatal personhood measure might subject a woman who suffers a pregnancy-related complication or a miscarriage to criminal investigations and possibly jail time for homicide, manslaughter or reckless endangerment. And because so many laws use the terms "persons" or "people," a prenatal personhood measure could affect large numbers of a state's laws, changing the application of thousands of laws and resulting in unforeseeable, unintended, and absurd consequences." <sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> </p>
+      <p>In the United States, the 1992 <a href="/wiki/United_States_Supreme_Court" class="mw-redirect" title="United States Supreme Court">United States Supreme Court</a> case of <i><a href="/wiki/Planned_Parenthood_v._Casey" title="Planned Parenthood v. Casey">Planned Parenthood v. Casey</a></i> held that a law cannot place legal restrictions imposing an <a href="/wiki/Undue_burden_standard" title="Undue burden standard">undue burden</a> for "the purpose or effect of placing a substantial obstacle in the path of a woman seeking an abortion of a nonviable fetus."<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup> This standard was also upheld in the Supreme Court case of <i><a href="/wiki/Whole_Woman%27s_Health_v._Hellerstedt" title="Whole Woman's Health v. Hellerstedt">Whole Woman's Health v. Hellerstedt</a></i> (2016) in which several <a href="/wiki/Texas" title="Texas">Texas</a> restrictions were struck down.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Beginning_of_pregnancy_controversy" title="Beginning of pregnancy controversy">Beginning of pregnancy controversy</a></li> 
+       <li><a href="/wiki/Ensoulment" title="Ensoulment">Ensoulment</a></li> 
+       <li><a href="/wiki/Human" title="Human">Human</a></li> 
+       <li><a href="/wiki/Human_life_(disambiguation)" class="mw-redirect mw-disambig" title="Human life (disambiguation)">Human life (disambiguation)</a></li> 
+       <li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal rights</a></li> 
+       <li><a href="/wiki/Abortion_debate" title="Abortion debate">Abortion debate</a> 
+        <ul>
+         <li><a href="/wiki/Philosophical_aspects_of_the_abortion_debate" title="Philosophical aspects of the abortion debate">Philosophical aspects of the abortion debate</a></li>
+        </ul></li> 
+       <li><a href="/wiki/Reincarnation" title="Reincarnation">Reincarnation</a></li> 
+       <li><a href="/wiki/Traducianism" title="Traducianism">Traducianism</a></li> 
+       <li><a href="/wiki/Sorites_paradox" title="Sorites paradox">Sorites paradox</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Charles_Taylor_(philosopher)" title="Charles Taylor (philosopher)">Charles Taylor</a>, <i>Sources of the Self: The Making of Modern Identity</i>, Harvard University Press, 1992.</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a>, <i>The Hermeneutics of the Subject</i>, New York: Picador, 2005.</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The question could also be put historically. The concept of "personhood" is of fairly recent vintage, and cannot be found in the 1828 edition of <a rel="nofollow" class="external text" href="http://1828.mshaffer.com/">1828 edition of Webster's American Dictionary of the English Language</a>, nor even as late as <a rel="nofollow" class="external text" href="http://machaut.uchicago.edu/websters">1913</a> <a rel="nofollow" class="external text" href="https://archive.is/20120710101105/http://machaut.uchicago.edu/websters">Archived</a> 10 July 2012 at <a href="/wiki/Archive.today" title="Archive.today">Archive.today</a>. A search in dictionaries and encyclopedia for the term "personhood" generally redirects to "person". The American Heritage Dictionary at Yahoo has: "The state or condition of being a person, especially having those qualities that confer distinct individuality."</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Susan_Bordo" title="Susan Bordo">Susan Bordo</a>, "Are Mothers Persons?", <i>Unbearable Weight: Feminism, Western Culture and the Body</i>, Berkeley and Los Angeles, CA: University of California Press, 2003, 71-97.</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Nikolas_Kompridis" title="Nikolas Kompridis">Nikolas Kompridis</a>, "The Idea of a New Beginning: A romantic source of normativity and freedom," <i>Philosophical Romanticism</i>, New York: Routledge, 2006, 48-49.</span> </li> 
+         <li id="cite_note-fertile-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-fertile_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fertile_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Clift, Dean; Schuh, Melina (2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4021448">"Restarting life: Fertilization and the transition from meiosis to mitosis"</a>. <i>Nature Reviews Molecular Cell Biology</i>. <b>14</b> (9): 549–562. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnrm3643">10.1038/nrm3643</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4021448">4021448</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23942453">23942453</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Reviews+Molecular+Cell+Biology&amp;rft.atitle=Restarting+life%3A+Fertilization+and+the+transition+from+meiosis+to+mitosis&amp;rft.volume=14&amp;rft.issue=9&amp;rft.pages=549-562&amp;rft.date=2013&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4021448&amp;rft_id=info%3Apmid%2F23942453&amp;rft_id=info%3Adoi%2F10.1038%2Fnrm3643&amp;rft.aulast=Clift&amp;rft.aufirst=Dean&amp;rft.au=Schuh%2C+Melina&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4021448&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-WHarvey-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-WHarvey_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pbs.org/wgbh/nova/genome/her_har.html">"1578-1657 A.D. William Harvey"</a>. <i>Understanding Heredity</i>. <a href="/wiki/Nova_(American_TV_series)" class="mw-redirect" title="Nova (American TV series)">Nova online</a>. 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Understanding+Heredity&amp;rft.atitle=1578-1657+A.D.+William+Harvey&amp;rft.date=2001&amp;rft_id=https%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fnova%2Fgenome%2Fher_har.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-discover-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-discover_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-discover_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Cobb, M (2012). "An Amazing 10 Years: The Discovery of Egg and Sperm in the 17th Century". <i>Reproduction in Domestic Animals</i>. <b>47</b>: 2–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1439-0531.2012.02105.x">10.1111/j.1439-0531.2012.02105.x</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22827343">22827343</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reproduction+in+Domestic+Animals&amp;rft.atitle=An+Amazing+10+Years%3A+The+Discovery+of+Egg+and+Sperm+in+the+17th+Century&amp;rft.volume=47&amp;rft.pages=2-6&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1439-0531.2012.02105.x&amp;rft_id=info%3Apmid%2F22827343&amp;rft.aulast=Cobb&amp;rft.aufirst=M&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-religions-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-religions_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Neaves, William (2017). "The status of the human embryo in various religions". <i>Development</i>. <b>144</b> (14): 2541–2543. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1242%2Fdev.151886">10.1242/dev.151886</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/28720650">28720650</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Development&amp;rft.atitle=The+status+of+the+human+embryo+in+various+religions&amp;rft.volume=144&amp;rft.issue=14&amp;rft.pages=2541-2543&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1242%2Fdev.151886&amp;rft_id=info%3Apmid%2F28720650&amp;rft.aulast=Neaves&amp;rft.aufirst=William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Rice, Charles (1969). <i>The Vanishing Right to Live</i>. Garden City, NY: Doubleday &amp; Company, Inc. pp.&nbsp;29–31.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Vanishing+Right+to+Live&amp;rft.place=Garden+City%2C+NY&amp;rft.pages=29-31&amp;rft.pub=Doubleday+%26+Company%2C+Inc.&amp;rft.date=1969&amp;rft.au=Rice%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Rice, Charles (1969). <i>The Vanishing Right to Live</i>. Garden City, NY: Doubleday &amp; Company, Inc. pp.&nbsp;31–32.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Vanishing+Right+to+Live&amp;rft.place=Garden+City%2C+NY&amp;rft.pages=31-32&amp;rft.pub=Doubleday+%26+Company%2C+Inc.&amp;rft.date=1969&amp;rft.au=Rice%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-:0-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kreeft, Peter (March 2007). <a rel="nofollow" class="external text" href="http://www.peterkreeft.com/audio/19_prolife-philosophy/prolife-philosophy_transcription.htm">"Pro-Life Philosophy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090409042718/http://www.peterkreeft.com/audio/19_prolife-philosophy/prolife-philosophy_transcription.htm">Archived</a> from the original on 9 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pro-Life+Philosophy&amp;rft.date=2007-03&amp;rft.au=Kreeft%2C+Peter&amp;rft_id=http%3A%2F%2Fwww.peterkreeft.com%2Faudio%2F19_prolife-philosophy%2Fprolife-philosophy_transcription.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.princeton.edu/~prolife/articles/wdhbb.html">"When Do Human Beings Begin?"</a>. <i>www.princeton.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.princeton.edu&amp;rft.atitle=When+Do+Human+Beings+Begin%3F&amp;rft_id=https%3A%2F%2Fwww.princeton.edu%2F~prolife%2Farticles%2Fwdhbb.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Stith, Richard, "Arguing with Pro-Choicers." Written 4 November 2006. Accessed 2 September 2013. <a rel="nofollow" class="external autonumber" href="http://www.firstthings.com/onthesquare/2006/11/stith-arguing-with-pro-choicer">[1]</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Pontifical_Academy_for_Life" title="Pontifical Academy for Life">Pontifical Academy for Life</a> (22 March 2006). <a rel="nofollow" class="external text" href="https://translate.google.com/translate?js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.vatican.va%2Froman_curia%2Fpontifical_academies%2Facdlife%2Fdocuments%2Frc_pont-acd_life_doc_20060322_xii-gen-assembly-final_sp.html&amp;sl=es&amp;tl=en&amp;history_state0=">"Final Declaration of the General Assembly XII"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Final+Declaration+of+the+General+Assembly+XII&amp;rft.date=2006-03-22&amp;rft.au=Pontifical+Academy+for+Life&amp;rft_id=https%3A%2F%2Ftranslate.google.com%2Ftranslate%3Fjs%3Dy%26prev%3D_t%26hl%3Den%26ie%3DUTF-8%26u%3Dhttp%253A%252F%252Fwww.vatican.va%252Froman_curia%252Fpontifical_academies%252Facdlife%252Fdocuments%252Frc_pont-acd_life_doc_20060322_xii-gen-assembly-final_sp.html%26sl%3Des%26tl%3Den%26history_state0%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html">Instruction on respect for human life in its origin and on the dignity of procreation: Replies to certain questions of the day</a>, I, 1. The cited document adds: "The Magisterium has not expressly committed itself to an affirmation of a philosophical nature (on the moment of appearance of a spiritual soul) but it constantly reaffirms the moral condemnation of any kind of procured abortion."</span> </li> 
+         <li id="cite_note-devbio-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-devbio_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-devbio_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gilbert, Scott F. (2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090406045953/http://8e.devbio.com/article.php?id=162">"When Does Human Life Begin?"</a>. <i>DevBio</i>. Archived from <a rel="nofollow" class="external text" href="http://8e.devbio.com/article.php?id=162">the original</a> on 6 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DevBio&amp;rft.atitle=When+Does+Human+Life+Begin%3F&amp;rft.date=2006&amp;rft.aulast=Gilbert&amp;rft.aufirst=Scott+F.&amp;rft_id=http%3A%2F%2F8e.devbio.com%2Farticle.php%3Fid%3D162&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Sorites_JVI-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sorites_JVI_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kerckhove, Lee F; Waller, Sara (1998). "Fetal Personhood and the Sorites Paradox". <i>The Journal of Value Inquiry</i>. <b>32</b> (2): 175–189. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1023%2Fa%3A1004375726894">10.1023/a:1004375726894</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Value+Inquiry&amp;rft.atitle=Fetal+Personhood+and+the+Sorites+Paradox&amp;rft.volume=32&amp;rft.issue=2&amp;rft.pages=175-189&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1023%2Fa%3A1004375726894&amp;rft.aulast=Kerckhove&amp;rft.aufirst=Lee+F&amp;rft.au=Waller%2C+Sara&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Neil Postman, <i>The Disappearance of Childhood</i>, New York: Vintage, 1994, xi.</span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/David_Skrbina" class="mw-redirect" title="David Skrbina">Skrbina, David F.</a> (2005). <i>Panpsychism in the West</i>. <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780262195225" title="Special:BookSources/9780262195225"><bdi>9780262195225</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Panpsychism+in+the+West&amp;rft.pub=MIT+Press&amp;rft.date=2005&amp;rft.isbn=9780262195225&amp;rft.aulast=Skrbina&amp;rft.aufirst=David+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>. <a rel="nofollow" class="external text" href="http://ebooks.adelaide.edu.au/a/aristotle/generation/book2.html"><i>On the Generation of Animals</i></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On+the+Generation+of+Animals&amp;rft.au=Aristotle&amp;rft_id=http%3A%2F%2Febooks.adelaide.edu.au%2Fa%2Faristotle%2Fgeneration%2Fbook2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="http://www.hinduismtoday.com/modules/smartsection/item.php?itemid=338">"Hindus In America Speak out on Abortion Issues"</a>. <i><a href="/wiki/Hinduism_Today" title="Hinduism Today">Hinduism Today</a></i>. September 1985.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hinduism+Today&amp;rft.atitle=Hindus+In+America+Speak+out+on+Abortion+Issues&amp;rft.date=1985-09&amp;rft_id=http%3A%2F%2Fwww.hinduismtoday.com%2Fmodules%2Fsmartsection%2Fitem.php%3Fitemid%3D338&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Rich, Tracey R (1999). <a rel="nofollow" class="external text" href="http://www.jewfaq.org/sex.htm">"Abortion"</a>. <i>Kosher Sex</i>. Judaism 101. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081217181056/http://www.jewfaq.org/sex.htm">Archived</a> from the original on 17 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Kosher+Sex&amp;rft.atitle=Abortion&amp;rft.date=1999&amp;rft.aulast=Rich&amp;rft.aufirst=Tracey+R&amp;rft_id=http%3A%2F%2Fwww.jewfaq.org%2Fsex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Martin, Ernest L.; David Sielaff (February 2005). <a rel="nofollow" class="external text" href="http://www.askelm.com/doctrine/d050201.htm">"3. What constitutes a human being in the biblical definition?"</a>. <i>Abortion and the Bible</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081202073330/http://www.askelm.com/doctrine/d050201.htm">Archived</a> from the original on 2 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Abortion+and+the+Bible&amp;rft.atitle=3.+What+constitutes+a+human+being+in+the+biblical+definition%3F&amp;rft.date=2005-02&amp;rft.aulast=Martin&amp;rft.aufirst=Ernest+L.&amp;rft.au=David+Sielaff&amp;rft_id=http%3A%2F%2Fwww.askelm.com%2Fdoctrine%2Fd050201.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Fitzgerald,_1-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fitzgerald,_1_25-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Bauerschmidt, John C. (1999). "Abortion". In Allan D. Fitzgerald (ed.) (eds.). <i>Augustine Through the Ages: An Encyclopedia</i>. Wm. B. Eerdmans Publishing. p.&nbsp;1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780802838438" title="Special:BookSources/9780802838438"><bdi>9780802838438</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abortion&amp;rft.btitle=Augustine+Through+the+Ages%3A+An+Encyclopedia&amp;rft.pages=1&amp;rft.pub=Wm.+B.+Eerdmans+Publishing&amp;rft.date=1999&amp;rft.isbn=9780802838438&amp;rft.aulast=Bauerschmidt&amp;rft.aufirst=John+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses editors parameter (<a href="/wiki/Category:CS1_maint:_uses_editors_parameter" title="Category:CS1 maint: uses editors parameter">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">"Quick Questions" (1993) This Rock, 4(5) [online], available: <a rel="nofollow" class="external free" href="http://www.catholic.com/thisrock/1993/9305qq.asp">http://www.catholic.com/thisrock/1993/9305qq.asp</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100901052948/http://www.catholic.com/thisrock/1993/9305qq.asp">Archived</a> 1 September 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (accessed 7/22/2011).</span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">"Quick Questions" (1991) This Rock, 2(3) [online], available: <a rel="nofollow" class="external free" href="http://www.catholic.com/thisrock/1991/9108qq.asp">http://www.catholic.com/thisrock/1991/9108qq.asp</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110418102352/http://www.catholic.com/thisrock/1991/9108qq.asp">Archived</a> 18 April 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (accessed 7/22/2011).</span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Donald DeMarco, PhD, <a rel="nofollow" class="external text" href="http://www.catholicculture.org/culture/library/view.cfm?id=3362&amp;CFID=52448371&amp;CFTOKEN=98913006">The Roman Catholic Church and Abortion: An Historical Perspective - Part II</a></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.vatican.va/archive/ENG0015/__P7Z.HTM#-2C6">[2]</a> Paragraph 2270</span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation book">Gray, John Chipman (1915). <a rel="nofollow" class="external text" href="https://books.google.com/?id=63xG4oBiVnAC&amp;pg=PA1&amp;dq=rule+against+perpetuities#v=onepage&amp;q=ventre&amp;f=false"><i>The Rule Against Perpetuities</i></a>. Boston: Little, Brown and Company. p.&nbsp;196. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-58477-307-8" title="Special:BookSources/978-1-58477-307-8"><bdi>978-1-58477-307-8</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2017</span>. <q>Whatever may have formerly been the law, it is now generally agreed that a child <i>en vetre sa mere</i> is to be considered as born, when it is to be for its benefit to be so considered.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Rule+Against+Perpetuities&amp;rft.place=Boston&amp;rft.pages=196&amp;rft.pub=Little%2C+Brown+and+Company&amp;rft.date=1915&amp;rft.isbn=978-1-58477-307-8&amp;rft.aulast=Gray&amp;rft.aufirst=John+Chipman&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D63xG4oBiVnAC%26pg%3DPA1%26dq%3Drule%2Bagainst%2Bperpetuities%23v%3Donepage%26q%3Dventre%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book">Nathanson, Bernard N. M.D.; Ostling, Richard N. (1979). <i>Aborting America</i>. Garden City, NY: Doubleday &amp; Company, Inc. p.&nbsp;216.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aborting+America&amp;rft.place=Garden+City%2C+NY&amp;rft.pages=216&amp;rft.pub=Doubleday+%26+Company%2C+Inc&amp;rft.date=1979&amp;rft.au=Nathanson%2C+Bernard+N.+M.D.&amp;rft.au=Ostling%2C+Richard+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation book">Merritt, I &amp; II, John (2012). <i>When Does Human Life Begin?</i>. Crystal Clear Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-985-36100-6" title="Special:BookSources/978-0-985-36100-6"><bdi>978-0-985-36100-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=When+Does+Human+Life+Begin%3F&amp;rft.pub=Crystal+Clear+Books&amp;rft.date=2012&amp;rft.isbn=978-0-985-36100-6&amp;rft.aulast=Merritt%2C+I+%26+II&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-twinning-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-twinning_33-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hall, Judith G (2003). "Twinning". <i>The Lancet</i>. <b>362</b> (9385): 735–743. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fs0140-6736%2803%2914237-7">10.1016/s0140-6736(03)14237-7</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12957099">12957099</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Lancet&amp;rft.atitle=Twinning&amp;rft.volume=362&amp;rft.issue=9385&amp;rft.pages=735-743&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2Fs0140-6736%2803%2914237-7&amp;rft_id=info%3Apmid%2F12957099&amp;rft.aulast=Hall&amp;rft.aufirst=Judith+G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation book">Bullough, Bonnie; Bullough, Vern L. (1994). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=y5HFtMkmFMYC&amp;pg=PA89&amp;lpg=PA89&amp;source=web&amp;ots=qGTodkZOBi&amp;sig=UJmmHPr-RdUwERcSxlANfPnspbY&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=8&amp;ct=result#PPA89,M1">"Catholic Attitudes Toward Sexuality:Abortion"</a>. <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/humansexuality00arie"><i>Human sexuality: an encyclopedia</i></a></span>. New York: Garland Pub. p.&nbsp;89. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8240-7972-7" title="Special:BookSources/978-0-8240-7972-7"><bdi>978-0-8240-7972-7</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Catholic+Attitudes+Toward+Sexuality%3AAbortion&amp;rft.btitle=Human+sexuality%3A+an+encyclopedia&amp;rft.place=New+York&amp;rft.pages=89&amp;rft.pub=Garland+Pub&amp;rft.date=1994&amp;rft.isbn=978-0-8240-7972-7&amp;rft.au=Bullough%2C+Bonnie&amp;rft.au=Bullough%2C+Vern+L.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dy5HFtMkmFMYC%26pg%3DPA89%26lpg%3DPA89%26source%3Dweb%26ots%3DqGTodkZOBi%26sig%3DUJmmHPr-RdUwERcSxlANfPnspbY%26hl%3Den%26sa%3DX%26oi%3Dbook_result%26resnum%3D8%26ct%3Dresult%23PPA89%2CM1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation book">Rice, Charles (1990). <i>No Exception: A Pro-Life Imperative</i>. Notre Dame, IN: Tyholland Press. pp.&nbsp;66–67.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=No+Exception%3A+A+Pro-Life+Imperative&amp;rft.place=Notre+Dame%2C+IN&amp;rft.pages=66-67&amp;rft.pub=Tyholland+Press&amp;rft.date=1990&amp;rft.au=Rice%2C+Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Jones1998-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jones1998_36-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jones, D G (1998). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377672">"The problematic symmetry between brain birth and brain death"</a>. <i>Journal of Medical Ethics</i>. <b>24</b> (4): 237–242. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1136%2Fjme.24.4.237">10.1136/jme.24.4.237</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1377672">1377672</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Medical+Ethics&amp;rft.atitle=The+problematic+symmetry+between+brain+birth+and+brain+death&amp;rft.volume=24&amp;rft.issue=4&amp;rft.pages=237-242&amp;rft.date=1998&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377672&amp;rft_id=info%3Adoi%2F10.1136%2Fjme.24.4.237&amp;rft.aulast=Jones&amp;rft.aufirst=D+G&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1377672&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-UN2013info-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN2013info_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.un.org/en/development/desa/population/publications/pdf/policy/WorldAbortionPolicies2013/WorldAbortionPolicies2013_WallChart.pdf">"World Abortion Policies 2013"</a> <span class="cs1-format">(PDF)</span>. United Nations Department of Economic and Social Affairs, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Abortion+Policies+2013&amp;rft.pub=United+Nations+Department+of+Economic+and+Social+Affairs%2C+Population+Division&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fdevelopment%2Fdesa%2Fpopulation%2Fpublications%2Fpdf%2Fpolicy%2FWorldAbortionPolicies2013%2FWorldAbortionPolicies2013_WallChart.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/2007_Abortion_Policies_Chart/2007_WallChart.xls">World Abortion Policies 2007</a>, United Nations, Department of Economic and Social Affairs, Population Division.</span> </li> 
+         <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation news">CNN, Debra Goldschmidt and Ashley Strickland,. <a rel="nofollow" class="external text" href="https://www.cnn.com/2015/08/04/health/planned-parenthood-by-the-numbers/index.html">"Planned Parenthood: Fast facts and revealing numbers"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=Planned+Parenthood%3A+Fast+facts+and+revealing+numbers&amp;rft.aulast=CNN&amp;rft.aufirst=Debra+Goldschmidt+and+Ashley+Strickland%2C&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2015%2F08%2F04%2Fhealth%2Fplanned-parenthood-by-the-numbers%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra punctuation (<a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jatlaoui, Tara C; Shah, Jill; Mandel, Michele G; Krashin, Jamie W; Suchdev, Danielle B; Jamieson, Denise J; Pazol, Karen (2017). "Abortion Surveillance — United States, 2014". <i>MMWR. Surveillance Summaries</i>. <b>66</b> (24): 1–48. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.15585%2Fmmwr.ss6624a1">10.15585/mmwr.ss6624a1</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/29166366">29166366</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MMWR.+Surveillance+Summaries&amp;rft.atitle=Abortion+Surveillance+%E2%80%94+United+States%2C+2014&amp;rft.volume=66&amp;rft.issue=24&amp;rft.pages=1-48&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.15585%2Fmmwr.ss6624a1&amp;rft_id=info%3Apmid%2F29166366&amp;rft.aulast=Jatlaoui&amp;rft.aufirst=Tara+C&amp;rft.au=Shah%2C+Jill&amp;rft.au=Mandel%2C+Michele+G&amp;rft.au=Krashin%2C+Jamie+W&amp;rft.au=Suchdev%2C+Danielle+B&amp;rft.au=Jamieson%2C+Denise+J&amp;rft.au=Pazol%2C+Karen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">Prepared by The Alan Guttmacher Institute for Planned Parenthood Federation of America (May 1997). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071119055725/http://www.ppacca.org/site/pp.asp?c=kuJYJeO4F&amp;b=139571">"Abortion and Fetal Viability"</a>. Planned Parenthood Affiliates of California. Archived from <a rel="nofollow" class="external text" href="http://www.ppacca.org/site/pp.asp?c=kuJYJeO4F&amp;b=139571">the original</a> on 19 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">6 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Abortion+and+Fetal+Viability&amp;rft.pub=Planned+Parenthood+Affiliates+of+California&amp;rft.date=1997-05&amp;rft.au=Prepared+by+The+Alan+Guttmacher+Institute+for+Planned+Parenthood+Federation+of+America&amp;rft_id=http%3A%2F%2Fwww.ppacca.org%2Fsite%2Fpp.asp%3Fc%3DkuJYJeO4F%26b%3D139571&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-developinghuman-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-developinghuman_42-0">^</a></b></span> <span class="reference-text">Moore, Keith and Persaud, T. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dbRpAAAAMAAJ&amp;q=%22Prematurity+is+one+of+the+most+common+causes+of+morbidity%22&amp;dq=%22Prematurity+is+one+of+the+most+common+causes+of+morbidity%22&amp;ei=lPzISYHyK4mqMqTGzOwN&amp;pgis=1"><i>The Developing Human: Clinically Oriented Embryology</i></a>, p. 103 (Saunders 2003).</span> </li> 
+         <li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mohangoo, Ashna D; Blondel, Béatrice; Gissler, Mika; Velebil, Petr; MacFarlane, Alison; Zeitlin, Jennifer; Euro-Peristat Scientific Committee (2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3658983">"International Comparisons of Fetal and Neonatal Mortality Rates in High-Income Countries: Should Exclusion Thresholds be Based on Birth Weight or Gestational Age?"</a>. <i>PLOS ONE</i>. <b>8</b> (5): e64869. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2013PLoSO...864869M">2013PLoSO...864869M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1371%2Fjournal.pone.0064869">10.1371/journal.pone.0064869</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3658983">3658983</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23700489">23700489</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLOS+ONE&amp;rft.atitle=International+Comparisons+of+Fetal+and+Neonatal+Mortality+Rates+in+High-Income+Countries%3A+Should+Exclusion+Thresholds+be+Based+on+Birth+Weight+or+Gestational+Age%3F&amp;rft.volume=8&amp;rft.issue=5&amp;rft.pages=e64869&amp;rft.date=2013&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3658983&amp;rft_id=info%3Apmid%2F23700489&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0064869&amp;rft_id=info%3Abibcode%2F2013PLoSO...864869M&amp;rft.aulast=Mohangoo&amp;rft.aufirst=Ashna+D&amp;rft.au=Blondel%2C+B%C3%A9atrice&amp;rft.au=Gissler%2C+Mika&amp;rft.au=Velebil%2C+Petr&amp;rft.au=MacFarlane%2C+Alison&amp;rft.au=Zeitlin%2C+Jennifer&amp;rft.au=Euro-Peristat+Scientific+Committee&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3658983&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rubenfeld, Jed (1991). <a rel="nofollow" class="external text" href="https://digitalcommons.law.yale.edu/fss_papers/1568">"On the Legal Status of the Proposition that 'Life Begins at Conception<span class="cs1-kern-right">'</span>"</a>. <i>Faculty Scholarship Series</i>. <b>1568</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Faculty+Scholarship+Series&amp;rft.atitle=On+the+Legal+Status+of+the+Proposition+that+%27Life+Begins+at+Conception%27&amp;rft.volume=1568&amp;rft.date=1991&amp;rft.aulast=Rubenfeld&amp;rft.aufirst=Jed&amp;rft_id=https%3A%2F%2Fdigitalcommons.law.yale.edu%2Ffss_papers%2F1568&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.seminarianlifelink.org/articles/maritain.htm">Human Being and Human Person: Jacques Maritain's Notion of the Person in the Contemporary Setting</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100702111117/http://www.seminarianlifelink.org/articles/maritain.htm">Archived</a> 2 July 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Francesco E.M. Giordano, General Studies in the Humanities 345. The University of Chicago. Professor Bernard Schumacher, PhD. 15 November 2001</span> </li> 
+         <li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">A. Kenny, Reason and Religion: Essays in Philosophical Theology (Oxford: Basil Blackwell), 1987</span> </li> 
+         <li id="cite_note-hare1975p212-213-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-hare1975p212-213_47-0">^</a></b></span> <span class="reference-text">Page 212 and 213 in: <cite class="citation journal">Hare, R. M. (1975). "Abortion and the Golden Rule". <i>Philosophy and Public Affairs</i>. <b>4</b> (3): 201–222. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2265083">2265083</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophy+and+Public+Affairs&amp;rft.atitle=Abortion+and+the+Golden+Rule&amp;rft.volume=4&amp;rft.issue=3&amp;rft.pages=201-222&amp;rft.date=1975&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2265083&amp;rft.aulast=Hare&amp;rft.aufirst=R.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-warren1977-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-warren1977_48-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Warren, Mary Anne (1977). "Do Potential People Have Moral Rights?". <i>Canadian Journal of Philosophy</i>. <b>7</b> (2): 275–289. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F00455091.1977.10717018">10.1080/00455091.1977.10717018</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&nbsp;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/40230690">40230690</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Canadian+Journal+of+Philosophy&amp;rft.atitle=Do+Potential+People+Have+Moral+Rights%3F&amp;rft.volume=7&amp;rft.issue=2&amp;rft.pages=275-289&amp;rft.date=1977&amp;rft_id=info%3Adoi%2F10.1080%2F00455091.1977.10717018&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F40230690&amp;rft.aulast=Warren&amp;rft.aufirst=Mary+Anne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-Savulescu2002-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Savulescu2002_49-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Savulescu, J (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1733572">"Abortion, embryo destruction and the future of value argument"</a>. <i>J Med Ethics</i>. <b>28</b> (3): 133–135. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1136%2Fjme.28.3.133">10.1136/jme.28.3.133</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&nbsp;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1733572">1733572</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12042393">12042393</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Med+Ethics&amp;rft.atitle=Abortion%2C+embryo+destruction+and+the+future+of+value+argument&amp;rft.volume=28&amp;rft.issue=3&amp;rft.pages=133-135&amp;rft.date=2002&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1733572&amp;rft_id=info%3Apmid%2F12042393&amp;rft_id=info%3Adoi%2F10.1136%2Fjme.28.3.133&amp;rft.aulast=Savulescu&amp;rft.aufirst=J&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1733572&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://supreme.justia.com/cases/federal/us/113/340/case.html">"McArthur v. Scott 113 U.S. 340 (1885)"</a>. U.S. Supreme Court: 113 U.S. 381–382. <q>II. To come within the rule of the common law against perpetuities, the estate...must be one which...is to vest upon the happening of a contingency which may be possibility not take place within a life or lives in being (treating a child in its mother's womb as in being) and twenty-one years afterwards.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=McArthur+v.+Scott+113+U.S.+340+%281885%29&amp;rft.pages=113+U.S.+381-382&amp;rft_id=https%3A%2F%2Fsupreme.justia.com%2Fcases%2Ffederal%2Fus%2F113%2F340%2Fcase.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/08/20020805-6.html">"President Signs Born-Alive Infants Protection Act Remarks by the President in Signing of H.R. 2175, Born Alive Infants Protection Act"</a>. <i>Office of the Press Secretary, George W. Bush Administration (2002)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Office+of+the+Press+Secretary%2C+George+W.+Bush+Administration+%282002%29&amp;rft.atitle=President+Signs+Born-Alive+Infants+Protection+Act+Remarks+by+the+President+in+Signing+of+H.R.+2175%2C+Born+Alive+Infants+Protection+Act&amp;rft_id=https%3A%2F%2Fgeorgewbush-whitehouse.archives.gov%2Fnews%2Freleases%2F2002%2F08%2F20020805-6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.congress.gov/bill/107th-congress/house-bill/2175">"H.R.2175 — 107th Congress (2001-2002) "Born-Alive Infants Protection Act<span class="cs1-kern-right">"</span>"</a>. <i>www.congress.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.congress.gov&amp;rft.atitle=H.R.2175+%E2%80%94+107th+Congress+%282001-2002%29+%22Born-Alive+Infants+Protection+Act%22&amp;rft_id=https%3A%2F%2Fwww.congress.gov%2Fbill%2F107th-congress%2Fhouse-bill%2F2175&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081129195414/http://www.nrlc.org//abortion/pba/partial_birth_abortion_Ban_act_final_language.htm">"Partial-Birth Abortion Ban Act of 2003"</a>. National Right to Life. 3 April 2003. Archived from <a rel="nofollow" class="external text" href="http://www.nrlc.org/abortion/pba/partial_birth_abortion_Ban_act_final_language.htm">the original</a> on 29 November 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Partial-Birth+Abortion+Ban+Act+of+2003&amp;rft.pub=National+Right+to+Life&amp;rft.date=2003-04-03&amp;rft_id=http%3A%2F%2Fwww.nrlc.org%2Fabortion%2Fpba%2Fpartial_birth_abortion_Ban_act_final_language.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"><br> <cite class="citation web"><a rel="nofollow" class="external text" href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=108_cong_bills&amp;docid=f:h760rh.txt.pdf">"Partial-Birth Abortion Ban Act of 2003"</a> <span class="cs1-format">(PDF)</span>. U.S. Government Printing Office. 3 April 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Partial-Birth+Abortion+Ban+Act+of+2003&amp;rft.pub=U.S.+Government+Printing+Office&amp;rft.date=2003-04-03&amp;rft_id=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3D108_cong_bills%26docid%3Df%3Ah760rh.txt.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation web">18 U.S. CODE § 1841, U.S. Code. <a rel="nofollow" class="external text" href="https://www.law.cornell.edu/uscode/text/18/1841">"PROTECTION OF UNBORN CHILDREN"</a>. <i>U.S. Code</i>. Cornell University<span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=U.S.+Code&amp;rft.atitle=PROTECTION+OF+UNBORN+CHILDREN&amp;rft.aulast=18+U.S.+CODE+%C2%A7+1841&amp;rft.aufirst=U.S.+Code&amp;rft_id=https%3A%2F%2Fwww.law.cornell.edu%2Fuscode%2Ftext%2F18%2F1841&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1257&amp;context=crsj">The Unborn Victims of Violence Act and its Impact on Reproductive Rights</a></span> </li> 
+         <li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://news.findlaw.com/hdocs/docs/abortion/unbornbill32504.html">[3]</a> Text of Unborn Victims of Violence Act.</span> </li> 
+         <li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ncsl.org/research/health/fetal-homicide-state-laws.aspx">[4]</a> "National Conference of State Legislatures - State Fetal Homicide Laws."</span> </li> 
+         <li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.mediamatters.org/blog/2013/04/09/wsj-ignores-extremist-personhood-implications-i/193551">"WSJ Ignores Extremist "Personhood" Implications In Kansas Anti-Reproductive Rights Bill"</a>. <i>Media Matters for America</i>. 9 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Media+Matters+for+America&amp;rft.atitle=WSJ+Ignores+Extremist+%22Personhood%22+Implications+In+Kansas+Anti-Reproductive+Rights+Bill&amp;rft.date=2013-04-09&amp;rft_id=https%3A%2F%2Fwww.mediamatters.org%2Fblog%2F2013%2F04%2F09%2Fwsj-ignores-extremist-personhood-implications-i%2F193551&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text">Casey, 505 U.S. at 877.</span> </li> 
+         <li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-us-canada-36641063">"Strict Texas abortion law struck down"</a>. 27 June 2016 – via www.bbc.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Strict+Texas+abortion+law+struck+down&amp;rft.date=2016-06-27&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-36641063&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeginning+of+human+personhood" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Abortion" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Abortion" title="Template:Abortion"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Abortion" title="Template talk:Abortion"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Abortion&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Abortion" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Abortion" title="Abortion">Abortion</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Main topics</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_abortion" title="History of abortion">History of abortion</a></li> 
+             <li><a href="/wiki/Category:Methods_of_abortion" title="Category:Methods of abortion">Methods of abortion</a></li> 
+             <li><a href="/wiki/Abortion_debate" title="Abortion debate">Abortion debate</a></li> 
+             <li><a href="/wiki/Abortion_law" title="Abortion law">Abortion law</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Movements</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion-rights_movements" title="Abortion-rights movements">Abortion-rights movements</a></li> 
+             <li><a href="/wiki/Anti-abortion_movement" title="Anti-abortion movement">Anti-abortion movements</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Issues</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Abortion_and_mental_health" title="Abortion and mental health">Abortion and mental health</a></li> 
+             <li><a class="mw-selflink selflink">Beginning of human personhood</a></li> 
+             <li><a href="/wiki/Beginning_of_pregnancy_controversy" title="Beginning of pregnancy controversy">Beginning of pregnancy controversy</a></li> 
+             <li><a href="/wiki/Abortion%E2%80%93breast_cancer_hypothesis" title="Abortion–breast cancer hypothesis">Abortion-breast cancer hypothesis</a></li> 
+             <li><a href="/wiki/Anti-abortion_violence" title="Anti-abortion violence">Anti-abortion violence</a></li> 
+             <li><a href="/wiki/Abortion_under_communism" title="Abortion under communism">Abortion under communism</a></li> 
+             <li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li> 
+             <li><a href="/wiki/Crisis_pregnancy_center" title="Crisis pregnancy center">Crisis pregnancy center</a></li> 
+             <li><a href="/wiki/Ethical_aspects_of_abortion" class="mw-redirect" title="Ethical aspects of abortion">Ethical aspects of abortion</a></li> 
+             <li><a href="/wiki/Eugenics" title="Eugenics">Eugenics</a></li> 
+             <li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal rights</a></li> 
+             <li><a href="/wiki/Forced_abortion" title="Forced abortion">Forced abortion</a></li> 
+             <li><a href="/wiki/Genetics_and_abortion" title="Genetics and abortion">Genetics and abortion</a></li> 
+             <li><a href="/wiki/Late-term_abortion" class="mw-redirect" title="Late-term abortion">Late-term abortion</a></li> 
+             <li><a href="/wiki/Legalized_abortion_and_crime_effect" title="Legalized abortion and crime effect">Legalized abortion and crime effect</a></li> 
+             <li><a href="/wiki/Libertarian_perspectives_on_abortion" title="Libertarian perspectives on abortion">Libertarian perspectives on abortion</a></li> 
+             <li><a href="/wiki/Limit_of_viability" class="mw-redirect" title="Limit of viability">Limit of viability</a></li> 
+             <li><a href="/wiki/Men%27s_rights" class="mw-redirect" title="Men's rights">Men's rights</a></li> 
+             <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Minors and abortion</a></li> 
+             <li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li> 
+             <li><a href="/wiki/Paternal_rights_and_abortion" title="Paternal rights and abortion">Paternal rights and abortion</a></li> 
+             <li><a href="/wiki/Philosophical_aspects_of_the_abortion_debate" title="Philosophical aspects of the abortion debate">Philosophical aspects of the abortion debate</a></li> 
+             <li><a href="/wiki/Prenatal_development" title="Prenatal development">Prenatal development</a></li> 
+             <li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Reproductive rights</a></li> 
+             <li><a href="/wiki/Self-induced_abortion" title="Self-induced abortion">Self-induced abortion</a></li> 
+             <li><a href="/wiki/Sex-selective_abortion" title="Sex-selective abortion">Sex-selective abortion</a></li> 
+             <li><a href="/wiki/Sidewalk_counseling" title="Sidewalk counseling">Sidewalk counseling</a></li> 
+             <li><a href="/wiki/Societal_attitudes_towards_abortion" title="Societal attitudes towards abortion">Societal attitudes towards abortion</a></li> 
+             <li><a href="/wiki/Toxic_abortion" title="Toxic abortion">Toxic abortion</a></li> 
+             <li><a href="/wiki/Unsafe_abortion" title="Unsafe abortion">Unsafe abortion</a></li> 
+             <li><a href="/wiki/Women%27s_rights" title="Women's rights">Women's rights</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">By country</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Algeria" title="Abortion in Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Angola" title="Abortion in Angola">Angola</a></li> 
+                 <li><a href="/wiki/Abortion_in_Benin" title="Abortion in Benin">Benin</a></li> 
+                 <li><a href="/wiki/Abortion_in_Botswana" title="Abortion in Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Burkina_Faso" title="Abortion in Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Abortion_in_Burundi" title="Abortion in Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cameroon" title="Abortion in Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cape_Verde" title="Abortion in Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Central_African_Republic" title="Abortion in the Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_Chad" title="Abortion in Chad">Chad</a></li> 
+                 <li><a href="/wiki/Abortion_in_Egypt" title="Abortion in Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ghana" title="Abortion in Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kenya" title="Abortion in Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Abortion_in_Namibia" title="Abortion in Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nigeria" title="Abortion in Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Abortion_in_South_Africa" title="Abortion in South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/Abortion_in_Uganda" title="Abortion in Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Abortion_in_Zimbabwe" title="Abortion in Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Asia</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Afghanistan" title="Abortion in Afghanistan">Afghanistan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Armenia" title="Abortion in Armenia">Armenia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Azerbaijan" title="Abortion in Azerbaijan">Azerbaijan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bahrain" title="Abortion in Bahrain">Bahrain</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bangladesh" title="Abortion in Bangladesh">Bangladesh</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bhutan" title="Abortion in Bhutan">Bhutan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Brunei" title="Abortion in Brunei">Brunei</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cambodia" title="Abortion in Cambodia">Cambodia</a></li> 
+                 <li><a href="/wiki/Abortion_in_China" title="Abortion in China">China</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cyprus" title="Abortion in Cyprus">Cyprus</a></li> 
+                 <li><a href="/wiki/Abortion_in_East_Timor" title="Abortion in East Timor">East Timor</a></li> 
+                 <li><a href="/wiki/Abortion_in_Georgia_(country)" title="Abortion in Georgia (country)">Georgia</a></li> 
+                 <li><a href="/wiki/Abortion_in_India" title="Abortion in India">India</a></li> 
+                 <li><a href="/wiki/Abortion_in_Iran" title="Abortion in Iran">Iran</a></li> 
+                 <li><a href="/wiki/Abortion_in_Israel" title="Abortion in Israel">Israel</a></li> 
+                 <li><a href="/wiki/Abortion_in_Japan" title="Abortion in Japan">Japan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kazakhstan" title="Abortion in Kazakhstan">Kazakhstan</a></li> 
+                 <li><a href="/wiki/Abortion_in_South_Korea" title="Abortion in South Korea">South Korea</a></li> 
+                 <li><a href="/wiki/Abortion_in_Malaysia" title="Abortion in Malaysia">Malaysia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nepal" title="Abortion in Nepal">Nepal</a></li> 
+                 <li><a href="/wiki/Abortion_in_Northern_Cyprus" title="Abortion in Northern Cyprus">Northern Cyprus</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Philippines" title="Abortion in the Philippines">Philippines</a></li> 
+                 <li><a href="/wiki/Abortion_in_Qatar" title="Abortion in Qatar">Qatar</a></li> 
+                 <li><a href="/wiki/Abortion_in_Saudi_Arabia" title="Abortion in Saudi Arabia">Saudi Arabia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Turkey" title="Abortion in Turkey">Turkey</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_Arab_Emirates" class="mw-redirect" title="Abortion in the United Arab Emirates">United Arab Emirates</a></li> 
+                 <li><a href="/wiki/Abortion_in_Vietnam" title="Abortion in Vietnam">Vietnam</a></li> 
+                 <li><a href="/wiki/Abortion_in_Yemen" title="Abortion in Yemen">Yemen</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Europe</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Albania" title="Abortion in Albania">Albania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Andorra" title="Abortion in Andorra">Andorra</a></li> 
+                 <li><a href="/wiki/Abortion_in_Austria" title="Abortion in Austria">Austria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Belarus" title="Abortion in Belarus">Belarus</a></li> 
+                 <li><a href="/wiki/Abortion_in_Belgium" title="Abortion in Belgium">Belgium</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bosnia_and_Herzegovina" title="Abortion in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bulgaria" title="Abortion in Bulgaria">Bulgaria</a></li> 
+                 <li><a href="/wiki/Abortion_in_Croatia" title="Abortion in Croatia">Croatia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Czech_Republic" class="mw-redirect" title="Abortion in Czech Republic">Czech Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_Denmark" title="Abortion in Denmark">Denmark</a></li> 
+                 <li><a href="/wiki/Abortion_in_Estonia" title="Abortion in Estonia">Estonia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Finland" title="Abortion in Finland">Finland</a></li> 
+                 <li><a href="/wiki/Abortion_in_France" title="Abortion in France">France</a></li> 
+                 <li><a href="/wiki/Abortion_in_Germany" title="Abortion in Germany">Germany</a></li> 
+                 <li><a href="/wiki/Abortion_in_Greece" title="Abortion in Greece">Greece</a></li> 
+                 <li><a href="/wiki/Abortion_in_Hungary" title="Abortion in Hungary">Hungary</a></li> 
+                 <li><a href="/wiki/Abortion_in_Iceland" title="Abortion in Iceland">Iceland</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Republic_of_Ireland" title="Abortion in the Republic of Ireland">Ireland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Italy" title="Abortion in Italy">Italy</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kazakhstan" title="Abortion in Kazakhstan">Kazakhstan</a></li> 
+                 <li><a href="/wiki/Abortion_in_Latvia" title="Abortion in Latvia">Latvia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Liechtenstein" title="Abortion in Liechtenstein">Liechtenstein</a></li> 
+                 <li><a href="/wiki/Abortion_in_Lithuania" title="Abortion in Lithuania">Lithuania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Luxembourg" title="Abortion in Luxembourg">Luxembourg</a></li> 
+                 <li><a href="/wiki/Abortion_in_Malta" title="Abortion in Malta">Malta</a></li> 
+                 <li><a href="/wiki/Abortion_in_Moldova" title="Abortion in Moldova">Moldova</a></li> 
+                 <li><a href="/wiki/Abortion_in_Monaco" title="Abortion in Monaco">Monaco</a></li> 
+                 <li><a href="/wiki/Abortion_in_Montenegro" title="Abortion in Montenegro">Montenegro</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Netherlands" title="Abortion in the Netherlands">Netherlands</a></li> 
+                 <li><a href="/wiki/Abortion_in_North_Macedonia" title="Abortion in North Macedonia">North Macedonia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Norway" title="Abortion in Norway">Norway</a></li> 
+                 <li><a href="/wiki/Abortion_in_Poland" title="Abortion in Poland">Poland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Portugal" title="Abortion in Portugal">Portugal</a></li> 
+                 <li><a href="/wiki/Abortion_in_Romania" title="Abortion in Romania">Romania</a></li> 
+                 <li><a href="/wiki/Abortion_in_Russia" title="Abortion in Russia">Russia</a></li> 
+                 <li><a href="/wiki/Abortion_in_San_Marino" title="Abortion in San Marino">San Marino</a></li> 
+                 <li><a href="/wiki/Abortion_in_Serbia" title="Abortion in Serbia">Serbia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Slovakia" title="Abortion in Slovakia">Slovakia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Slovenia" title="Abortion in Slovenia">Slovenia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Spain" title="Abortion in Spain">Spain</a></li> 
+                 <li><a href="/wiki/Abortion_in_Sweden" title="Abortion in Sweden">Sweden</a></li> 
+                 <li><a href="/wiki/Abortion_in_Switzerland" title="Abortion in Switzerland">Switzerland</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ukraine" title="Abortion in Ukraine">Ukraine</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_Kingdom" title="Abortion in the United Kingdom">United Kingdom</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">North America</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Belize" title="Abortion in Belize">Belize</a></li> 
+                 <li><a href="/wiki/Abortion_in_Canada" title="Abortion in Canada">Canada</a></li> 
+                 <li><a href="/wiki/Abortion_in_Costa_Rica" title="Abortion in Costa Rica">Costa Rica</a></li> 
+                 <li><a href="/wiki/Abortion_in_Cuba" title="Abortion in Cuba">Cuba</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Dominican_Republic" title="Abortion in the Dominican Republic">Dominican Republic</a></li> 
+                 <li><a href="/wiki/Abortion_in_El_Salvador" title="Abortion in El Salvador">El Salvador</a></li> 
+                 <li><a href="/wiki/Abortion_in_Guatemala" title="Abortion in Guatemala">Guatemala</a></li> 
+                 <li><a href="/wiki/Abortion_in_Mexico" title="Abortion in Mexico">Mexico</a></li> 
+                 <li><a href="/wiki/Abortion_in_Nicaragua" title="Abortion in Nicaragua">Nicaragua</a></li> 
+                 <li><a href="/wiki/Abortion_in_Panama" title="Abortion in Panama">Panama</a></li> 
+                 <li><a href="/wiki/Abortion_in_Trinidad_and_Tobago" title="Abortion in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_United_States" title="Abortion in the United States">United States</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Oceania</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Australia" title="Abortion in Australia">Australia</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Federated_States_of_Micronesia" title="Abortion in the Federated States of Micronesia">Micronesia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Fiji" title="Abortion in Fiji">Fiji</a></li> 
+                 <li><a href="/wiki/Abortion_in_Kiribati" title="Abortion in Kiribati">Kiribati</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Marshall_Islands" title="Abortion in the Marshall Islands">Marshall Islands</a></li> 
+                 <li><a href="/wiki/Abortion_in_New_Zealand" title="Abortion in New Zealand">New Zealand</a></li> 
+                 <li><a href="/wiki/Abortion_in_Papua_New_Guinea" title="Abortion in Papua New Guinea">Papua New Guinea</a></li> 
+                 <li><a href="/wiki/Abortion_in_Samoa" title="Abortion in Samoa">Samoa</a></li> 
+                 <li><a href="/wiki/Abortion_in_the_Solomon_Islands" title="Abortion in the Solomon Islands">Solomon Islands</a></li> 
+                 <li><a href="/wiki/Abortion_in_Tonga" title="Abortion in Tonga">Tonga</a></li> 
+                 <li><a href="/wiki/Abortion_in_Tuvalu" title="Abortion in Tuvalu">Tuvalu</a></li> 
+                 <li><a href="/wiki/Abortion_in_Vanuatu" title="Abortion in Vanuatu">Vanuatu</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">South America</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Argentina" title="Abortion in Argentina">Argentina</a></li> 
+                 <li><a href="/wiki/Abortion_in_Bolivia" title="Abortion in Bolivia">Bolivia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Brazil" title="Abortion in Brazil">Brazil</a></li> 
+                 <li><a href="/wiki/Abortion_in_Chile" title="Abortion in Chile">Chile</a></li> 
+                 <li><a href="/wiki/Abortion_in_Colombia" title="Abortion in Colombia">Colombia</a></li> 
+                 <li><a href="/wiki/Abortion_in_Ecuador" title="Abortion in Ecuador">Ecuador</a></li> 
+                 <li><a href="/wiki/Abortion_in_Guyana" title="Abortion in Guyana">Guyana</a></li> 
+                 <li><a href="/wiki/Abortion_in_Paraguay" title="Abortion in Paraguay">Paraguay</a></li> 
+                 <li><a href="/wiki/Abortion_in_Peru" title="Abortion in Peru">Peru</a></li> 
+                 <li><a href="/wiki/Abortion_in_Suriname" title="Abortion in Suriname">Suriname</a></li> 
+                 <li><a href="/wiki/Abortion_in_Uruguay" title="Abortion in Uruguay">Uruguay</a></li> 
+                 <li><a href="/wiki/Abortion_in_Venezuela" title="Abortion in Venezuela">Venezuela</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Abortion_law" title="Abortion law">Law</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Category:Abortion_case_law" title="Category:Abortion case law">Case law</a></li> 
+             <li><a href="/wiki/Category:Abortion_constitutional_law" title="Category:Abortion constitutional law">Constitutional law</a></li> 
+             <li><a href="/wiki/History_of_abortion#Legal:_History_of_abortion_law" title="History of abortion">History of abortion law</a></li> 
+             <li><a href="/wiki/Abortion_law#National_laws" title="Abortion law">Laws by country</a></li> 
+             <li><a href="/wiki/Legal_protection_of_access_to_abortion" title="Legal protection of access to abortion">Buffer zones</a></li> 
+             <li><a href="/wiki/Conscientious_objection_to_abortion" title="Conscientious objection to abortion">Conscientious objection</a></li> 
+             <li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal protection</a></li> 
+             <li><a href="/wiki/Heartbeat_bill" title="Heartbeat bill">Heartbeat bills</a></li> 
+             <li><a href="/wiki/Informed_consent#Abortion" title="Informed consent">Informed consent</a></li> 
+             <li><a href="/wiki/Late-term_abortion#Legal_restrictions_on_later_abortion" class="mw-redirect" title="Late-term abortion">Late-term restrictions</a></li> 
+             <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Parental involvement</a></li> 
+             <li><a href="/wiki/Paternal_rights_and_abortion#Men_and_abortion_in_law" title="Paternal rights and abortion">Spousal consent</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Methods</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Vacuum_aspiration" title="Vacuum aspiration">Vacuum aspiration</a></li> 
+             <li><a href="/wiki/Dilation_and_evacuation" title="Dilation and evacuation">Dilation and evacuation</a></li> 
+             <li><a href="/wiki/Dilation_and_curettage" title="Dilation and curettage">Dilation and curettage</a></li> 
+             <li><a href="/wiki/Intact_dilation_and_extraction" title="Intact dilation and extraction">Intact D&amp;X</a></li> 
+             <li><a href="/wiki/Hysterotomy_abortion" title="Hysterotomy abortion">Hysterotomy</a></li> 
+             <li><a href="/wiki/Instillation_abortion" title="Instillation abortion">Instillation</a></li> 
+             <li><a href="/wiki/Menstrual_extraction" title="Menstrual extraction">Menstrual extraction</a></li> 
+             <li><a href="/wiki/Abortifacient" title="Abortifacient">Abortifacient drugs</a> 
+              <ul>
+               <li><a href="/wiki/Methotrexate" title="Methotrexate">Methotrexate</a></li> 
+               <li><a href="/wiki/Mifepristone" title="Mifepristone">Mifepristone</a></li> 
+               <li><a href="/wiki/Misoprostol" title="Misoprostol">Misoprostol</a></li> 
+               <li><a href="/wiki/Oxytocin" title="Oxytocin">Oxytocin</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Self-induced_abortion" title="Self-induced abortion">Self-induced abortion</a></li> 
+             <li><a href="/wiki/Unsafe_abortion" title="Unsafe abortion">Unsafe abortion</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_and_abortion" title="Religion and abortion">Religion</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Buddhism_and_abortion" title="Buddhism and abortion">Buddhism</a></li> 
+             <li><a href="/wiki/Christianity_and_abortion" title="Christianity and abortion">Christianity</a> 
+              <ul>
+               <li><a href="/wiki/Catholic_Church_and_abortion" title="Catholic Church and abortion">Catholicism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Hinduism_and_abortion" title="Hinduism and abortion">Hinduism</a></li> 
+             <li><a href="/wiki/Islam_and_abortion" title="Islam and abortion">Islam</a></li> 
+             <li><a href="/wiki/Judaism_and_abortion" title="Judaism and abortion">Judaism</a></li> 
+             <li><a href="/wiki/Scientology_and_abortion" title="Scientology and abortion">Scientology</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Abortion" title="Category:Abortion">Category</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1339
+Cached time: 20191029185638
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.644 seconds
+Real time usage: 0.812 seconds
+Preprocessor visited node count: 2778/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 134082/2097152 bytes
+Template argument size: 2106/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 136906/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.357/10.000 seconds
+Lua memory usage: 5.99 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  684.365      1 -total
+ 67.82%  464.116      1 Template:Reflist
+ 33.93%  232.185     13 Template:Cite_journal
+ 12.04%   82.397     15 Template:Cite_web
+ 10.63%   72.761      2 Template:Citation_needed
+  9.78%   66.919      2 Template:Fix
+  8.09%   55.375      9 Template:Cite_book
+  5.05%   34.527      4 Template:Category_handler
+  4.70%   32.197      1 Template:Abortion
+  4.66%   31.923      2 Template:Navbox
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:20433927-0!canonical and timestamp 20191029185649 and revision id 923623948
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Beginning_of_human_personhood&amp;oldid=923623948">https://en.wikipedia.org/w/index.php?title=Beginning_of_human_personhood&amp;oldid=923623948</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Abortion" title="Category:Abortion">Abortion</a></li>
+       <li><a href="/wiki/Category:Medical_ethics" title="Category:Medical ethics">Medical ethics</a></li>
+       <li><a href="/wiki/Category:Personhood" title="Category:Personhood">Personhood</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_uses_editors_parameter" title="Category:CS1 maint: uses editors parameter">CS1 maint: uses editors parameter</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">CS1 maint: extra punctuation</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_June_2017" title="Category:Use dmy dates from June 2017">Use dmy dates from June 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2019" title="Category:Articles with unsourced statements from March 2019">Articles with unsourced statements from March 2019</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Beginning+of+human+personhood" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Beginning+of+human+personhood" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Beginning_of_human_personhood" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Beginning_of_human_personhood" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Beginning_of_human_personhood">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Beginning_of_human_personhood" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Beginning_of_human_personhood" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Beginning_of_human_personhood&amp;oldid=923623948" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Beginning_of_human_personhood&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4880499" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Beginning_of_human_personhood&amp;id=923623948" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beginning+of+human+personhood">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Beginning+of+human+personhood&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Beginning_of_human_personhood&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Beginn_des_Menschseins" title="Beginn des Menschseins – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E3%81%AE%E5%A7%8B%E6%9C%9F" title="人の始期 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4880499#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 29 October 2019, at 18:56<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Beginning_of_human_personhood&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.812","ppvisitednodes":{"value":2778,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":134082,"limit":2097152},"templateargumentsize":{"value":2106,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":136906,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  684.365      1 -total"," 67.82%  464.116      1 Template:Reflist"," 33.93%  232.185     13 Template:Cite_journal"," 12.04%   82.397     15 Template:Cite_web"," 10.63%   72.761      2 Template:Citation_needed","  9.78%   66.919      2 Template:Fix","  8.09%   55.375      9 Template:Cite_book","  5.05%   34.527      4 Template:Category_handler","  4.70%   32.197      1 Template:Abortion","  4.66%   31.923      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.357","limit":"10.000"},"limitreport-memusage":{"value":6280242,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20191029185638","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Beginning of human personhood","url":"https:\/\/en.wikipedia.org\/wiki\/Beginning_of_human_personhood","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4880499","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4880499","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-11-27T20:59:16Z","dateModified":"2019-10-29T18:56:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Embryo%2C_8_cells.jpg","headline":"opinion as to the precise time when human personhood begins"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1327"});});</script>   
+ </body>
+</html>

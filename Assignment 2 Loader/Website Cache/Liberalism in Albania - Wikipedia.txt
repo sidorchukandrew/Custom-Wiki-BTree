@@ -1,0 +1,901 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Liberalism in Albania - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Liberalism_in_Albania","wgTitle":"Liberalism in Albania","wgCurRevisionId":531206999,"wgRevisionId":531206999,"wgArticleId":874963,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from September 2008","All articles lacking sources","Wikipedia articles needing context from October 2009","All Wikipedia articles needing context","Wikipedia introduction cleanup from October 2009","All pages needing cleanup","All stub articles","Liberalism by country","Politics of Albania","Liberalism stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Liberalism_in_Albania","wgRelevantArticleId":874963,"wgRequestId":"Xbj3GApAIDAAALyZtnkAAABY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6540885","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Liberalism_in_Albania"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Liberalism_in_Albania"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Liberalism_in_Albania rootpage-Liberalism_in_Albania skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Liberalism in Albania</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article 
+           <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.
+           <span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> 
+           <small class="date-container"><i>(<span class="date">September 2008</span>)</i></small>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tbody>
+        <tr>
+         <td style="padding-top:0.4em;line-height:1.2em">Part of a <a href="/wiki/Category:Liberalism" title="Category:Liberalism">series</a> on</td>
+        </tr>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding-bottom:0;font-size:200%;font-weight:normal;colour:black"><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></th>
+        </tr>
+        <tr>
+         <td style="padding:0.2em 0 0.4em"><a href="/wiki/Political_colour#Yellow" title="Political colour#Yellow"><img alt="Yellow flag waving.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/75px-Yellow_flag_waving.svg.png" decoding="async" width="75" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/113px-Yellow_flag_waving.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/150px-Yellow_flag_waving.svg.png 2x" data-file-width="249" data-file-height="268"></a></td>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            <a href="/wiki/History_of_liberalism" title="History of liberalism">History</a>
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Age_of_Enlightenment" title="Age of Enlightenment">Age of Enlightenment</a></li> 
+             <li><a href="/wiki/List_of_liberal_theorists" title="List of liberal theorists">List of liberal theorists</a> (contributions to liberal theory)</li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Ideas
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Civil_and_political_rights" title="Civil and political rights">Civil and political rights</a></li> 
+             <li><a href="/wiki/Cultural_liberalism" title="Cultural liberalism">Cultural liberalism</a></li> 
+             <li><a href="/wiki/Liberal_democracy" title="Liberal democracy">Democracy</a></li> 
+             <li><a href="/wiki/Democratic_capitalism" title="Democratic capitalism">Democratic capitalism</a></li> 
+             <li><a href="/wiki/Economic_freedom" title="Economic freedom">Economic freedom</a></li> 
+             <li><a href="/wiki/Economic_liberalism" title="Economic liberalism">Economic liberalism</a></li> 
+             <li><a href="/wiki/Egalitarianism" title="Egalitarianism">Egalitarianism</a></li> 
+             <li><a href="/wiki/Free_market" title="Free market">Free market</a></li> 
+             <li><a href="/wiki/Free_trade" title="Free trade">Free trade</a></li> 
+             <li><a href="/wiki/Freedom_of_the_press" title="Freedom of the press">Freedom of the press</a></li> 
+             <li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom of religion</a></li> 
+             <li><a href="/wiki/Freedom_of_speech" title="Freedom of speech">Freedom of speech</a></li> 
+             <li><a href="/wiki/Gender_equality" title="Gender equality">Gender equality</a></li> 
+             <li><a href="/wiki/Harm_principle" title="Harm principle">Harm principle</a></li> 
+             <li><a href="/wiki/Internationalism_(politics)" title="Internationalism (politics)">Internationalism</a></li> 
+             <li><i><a href="/wiki/Laissez-faire" title="Laissez-faire">Laissez-faire</a></i></li> 
+             <li><a href="/wiki/Liberty" title="Liberty">Liberty</a></li> 
+             <li><a href="/wiki/Market_economy" title="Market economy">Market economy</a></li> 
+             <li><a href="/wiki/Natural_and_legal_rights" class="mw-redirect" title="Natural and legal rights">Natural and legal rights</a></li> 
+             <li><a href="/wiki/Negative_liberty" title="Negative liberty">Negative</a>/<a href="/wiki/Positive_liberty" title="Positive liberty">positive liberty</a></li> 
+             <li><a href="/wiki/Non-aggression_Principle" class="mw-redirect" title="Non-aggression Principle">Non-aggression Principle</a></li> 
+             <li><a href="/wiki/Open_society" title="Open society">Open society</a></li> 
+             <li><a href="/wiki/Permissive_society" title="Permissive society">Permissive society</a></li> 
+             <li><a href="/wiki/Private_property" title="Private property">Private property</a></li> 
+             <li><a href="/wiki/Rule_of_law" title="Rule of law">Rule of law</a></li> 
+             <li><a href="/wiki/Secularism" title="Secularism">Secularism</a></li> 
+             <li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li> 
+             <li><a href="/wiki/Social_contract" title="Social contract">Social contract</a></li> 
+             <li><a href="/wiki/Welfare_state" title="Welfare state">Welfare state</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Schools of thought
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Anarcho-capitalism" title="Anarcho-capitalism">Anarcho-capitalism</a></li> 
+             <li><a href="/wiki/Classical_liberalism" title="Classical liberalism">Classical liberalism</a> 
+              <ul>
+               <li><a href="/wiki/Radicalism_(historical)" title="Radicalism (historical)">Radical liberalism</a> 
+                <ul>
+                 <li><a href="/wiki/Left-libertarianism" title="Left-libertarianism">Left-libertarianism</a> 
+                  <ul>
+                   <li><a href="/wiki/Geolibertarianism" title="Geolibertarianism">Geolibertarianism</a></li>
+                  </ul></li>
+                </ul></li> 
+               <li><a href="/wiki/Right-libertarianism" title="Right-libertarianism">Right-libertarianism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Conservative_liberalism" title="Conservative liberalism">Conservative liberalism</a></li> 
+             <li><a href="/wiki/Democratic_liberalism" title="Democratic liberalism">Democratic liberalism</a></li> 
+             <li><a href="/wiki/Green_liberalism" title="Green liberalism">Green liberalism</a></li> 
+             <li><a href="/wiki/Liberal_autocracy" title="Liberal autocracy">Liberal autocracy</a></li> 
+             <li><a href="/wiki/Liberal_Catholicism" title="Liberal Catholicism">Liberal Catholicism</a></li> 
+             <li><a href="/wiki/Liberal_conservatism" title="Liberal conservatism">Liberal conservatism</a></li> 
+             <li><a href="/wiki/Liberal_feminism" title="Liberal feminism">Liberal feminism</a> 
+              <ul>
+               <li><a href="/wiki/Equity_feminism" title="Equity feminism">Equity feminism</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Liberal_internationalism" title="Liberal internationalism">Liberal internationalism</a></li> 
+             <li><a href="/wiki/Civic_nationalism" title="Civic nationalism">Liberal nationalism</a></li> 
+             <li><a href="/wiki/Liberal_socialism" title="Liberal socialism">Liberal socialism</a> 
+              <ul>
+               <li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Muscular_liberalism" title="Muscular liberalism">Muscular liberalism</a></li> 
+             <li><a href="/wiki/Neoliberalism" title="Neoliberalism">Neoliberalism</a></li> 
+             <li><a href="/wiki/National_liberalism" title="National liberalism">National liberalism</a></li> 
+             <li><a href="/wiki/Ordoliberalism" title="Ordoliberalism">Ordoliberalism</a></li> 
+             <li><a href="/wiki/Radical_centrism" title="Radical centrism">Radical centrism</a></li> 
+             <li><a href="/wiki/Religious_liberalism" title="Religious liberalism">Religious liberalism</a> 
+              <ul>
+               <li><a href="/wiki/Liberal_Christianity" title="Liberal Christianity">Christian</a></li> 
+               <li><a href="/wiki/Liberalism_and_progressivism_within_Islam" title="Liberalism and progressivism within Islam">Islamic</a></li> 
+               <li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Jewish</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Secular_liberalism" title="Secular liberalism">Secular liberalism</a></li> 
+             <li><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a></li> 
+             <li><a href="/wiki/Technoliberalism" title="Technoliberalism">Technoliberalism</a></li> 
+             <li><a href="/wiki/Third_Way" title="Third Way">Third Way</a></li> 
+             <li><a href="/wiki/Whiggism" title="Whiggism">Whiggism</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            <a href="/wiki/List_of_liberal_theorists" title="List of liberal theorists">People</a>
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Lord_Acton" class="mw-redirect" title="Lord Acton">Lord Acton</a></li> 
+             <li><a href="/wiki/Rifa%27a_al-Tahtawi" title="Rifa'a al-Tahtawi">Rifa'a al-Tahtawi</a></li> 
+             <li><a href="/wiki/%C3%89mile_Chartier" title="Émile Chartier">Alain</a></li> 
+             <li><a href="/wiki/Juan_Bautista_Alberdi" title="Juan Bautista Alberdi">Juan Bautista Alberdi</a></li> 
+             <li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">Jean le Rond d'Alembert</a></li> 
+             <li><a href="/wiki/Chu_Anping" title="Chu Anping">Chu Anping</a></li> 
+             <li><a href="/wiki/Matthew_Arnold" title="Matthew Arnold">Matthew Arnold</a></li> 
+             <li><a href="/wiki/Raymond_Aron" title="Raymond Aron">Raymond Aron</a></li> 
+             <li><a href="/wiki/Prosper_de_Barante" class="mw-redirect" title="Prosper de Barante">Prosper de Barante</a></li> 
+             <li><a href="/wiki/Fr%C3%A9d%C3%A9ric_Bastiat" title="Frédéric Bastiat">Frédéric Bastiat</a></li> 
+             <li><a href="/wiki/Jeremy_Bentham" title="Jeremy Bentham">Jeremy Bentham</a></li> 
+             <li><a href="/wiki/Isaiah_Berlin" title="Isaiah Berlin">Isaiah Berlin</a></li> 
+             <li><a href="/wiki/William_Beveridge" title="William Beveridge">William Beveridge</a></li> 
+             <li><a href="/wiki/Norberto_Bobbio" title="Norberto Bobbio">Norberto Bobbio</a></li> 
+             <li><a href="/wiki/Lujo_Brentano" title="Lujo Brentano">Lujo Brentano</a></li> 
+             <li><a href="/wiki/John_Bright" title="John Bright">John Bright</a></li> 
+             <li><a href="/wiki/Victor_de_Broglie_(1785%E2%80%931870)" title="Victor de Broglie (1785–1870)">Victor de Broglie</a></li> 
+             <li><a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke</a></li> 
+             <li><a href="/wiki/Karel_%C4%8Capek" title="Karel Čapek">Karel Čapek</a></li> 
+             <li><a href="/wiki/Ernst_Cassirer" title="Ernst Cassirer">Ernst Cassirer</a></li> 
+             <li><a href="/wiki/Boris_Chicherin" title="Boris Chicherin">Boris Chicherin</a></li> 
+             <li><a href="/wiki/Anders_Chydenius" title="Anders Chydenius">Anders Chydenius</a></li> 
+             <li><a href="/wiki/Richard_Cobden" title="Richard Cobden">Richard Cobden</a></li> 
+             <li><a href="/wiki/R._G._Collingwood" title="R. G. Collingwood">R. G. Collingwood</a></li> 
+             <li><a href="/wiki/Marquis_de_Condorcet" title="Marquis de Condorcet">Marquis de Condorcet</a></li> 
+             <li><a href="/wiki/Benjamin_Constant" title="Benjamin Constant">Benjamin Constant</a></li> 
+             <li><a href="/wiki/Benedetto_Croce" title="Benedetto Croce">Benedetto Croce</a></li> 
+             <li><a href="/wiki/Vincenzo_Cuoco" title="Vincenzo Cuoco">Vincenzo Cuoco</a></li> 
+             <li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">Jean le Rond d'Alembert</a></li> 
+             <li><a href="/wiki/Ralf_Dahrendorf" title="Ralf Dahrendorf">Ralf Dahrendorf</a></li> 
+             <li><a href="/wiki/Guido_De_Ruggiero" title="Guido De Ruggiero">Guido De Ruggiero</a></li> 
+             <li><a href="/wiki/Antoine_Destutt_de_Tracy" title="Antoine Destutt de Tracy">Antoine Destutt de Tracy</a></li> 
+             <li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li> 
+             <li><a href="/wiki/A._V._Dicey" title="A. V. Dicey">A. V. Dicey</a></li> 
+             <li><a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a></li> 
+             <li><a href="/wiki/Denis_Diderot" title="Denis Diderot">Denis Diderot</a></li> 
+             <li><a href="/wiki/Zhang_Dongsun" title="Zhang Dongsun">Zhang Dongsun</a></li> 
+             <li><a href="/wiki/Charles_Dunoyer" title="Charles Dunoyer">Charles Dunoyer</a></li> 
+             <li><a href="/wiki/Ronald_Dworkin" title="Ronald Dworkin">Ronald Dworkin</a></li> 
+             <li><a href="/wiki/Ahmed_Lutfi_el-Sayed" title="Ahmed Lutfi el-Sayed">Ahmed Lutfi el-Sayed</a></li> 
+             <li><a href="/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson">Ralph Waldo Emerson</a></li> 
+             <li><a href="/wiki/J%C3%B3zsef_E%C3%B6tv%C3%B6s" title="József Eötvös">József Eötvös</a></li> 
+             <li><a href="/wiki/Karl-Hermann_Flach" title="Karl-Hermann Flach">Karl-Hermann Flach</a></li> 
+             <li><a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></li> 
+             <li><a href="/wiki/John_Kenneth_Galbraith" title="John Kenneth Galbraith">John Kenneth Galbraith</a></li> 
+             <li><a href="/wiki/William_Lloyd_Garrison" title="William Lloyd Garrison">William Lloyd Garrison</a></li> 
+             <li><a href="/wiki/David_Lloyd_George" title="David Lloyd George">David Lloyd George</a></li> 
+             <li><a href="/wiki/William_Ewart_Gladstone" title="William Ewart Gladstone">William Ewart Gladstone</a></li> 
+             <li><a href="/wiki/Piero_Gobetti" title="Piero Gobetti">Piero Gobetti</a></li> 
+             <li><a href="/wiki/Francisco_Lu%C3%ADs_Gomes" title="Francisco Luís Gomes">Francisco Luís Gomes</a></li> 
+             <li><a href="/wiki/John_Gray_(philosopher)" title="John Gray (philosopher)">John Gray</a></li> 
+             <li><a href="/wiki/Thomas_Hill_Green" title="Thomas Hill Green">Thomas Hill Green</a></li> 
+             <li><a href="/wiki/Fran%C3%A7ois_Guizot" title="François Guizot">François Guizot</a></li> 
+             <li><a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Friedrich Hayek</a></li> 
+             <li><a href="/wiki/Auberon_Herbert" title="Auberon Herbert">Auberon Herbert</a></li> 
+             <li><a href="/wiki/Thomas_Hobbes" title="Thomas Hobbes">Thomas Hobbes</a></li> 
+             <li><a href="/wiki/Leonard_Hobhouse" title="Leonard Hobhouse">Leonard Hobhouse</a></li> 
+             <li><a href="/wiki/John_A._Hobson" class="mw-redirect" title="John A. Hobson">John A. Hobson</a></li> 
+             <li><a href="/wiki/Baron_d%27Holbach" title="Baron d'Holbach">Baron d'Holbach</a></li> 
+             <li><a href="/wiki/Qin_Hui_(historian)" title="Qin Hui (historian)">Qin Hui</a></li> 
+             <li><a href="/wiki/Wilhelm_von_Humboldt" title="Wilhelm von Humboldt">Wilhelm von Humboldt</a></li> 
+             <li><a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a></li> 
+             <li><a href="/wiki/Zef_Jubani" title="Zef Jubani">Zef Jubani</a></li> 
+             <li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li> 
+             <li><a href="/wiki/Hans_Kelsen" title="Hans Kelsen">Hans Kelsen</a></li> 
+             <li><a href="/wiki/Nam%C4%B1k_Kemal" title="Namık Kemal">Namık Kemal</a></li> 
+             <li><a href="/wiki/John_Maynard_Keynes" title="John Maynard Keynes">John Maynard Keynes</a></li> 
+             <li><a href="/wiki/Adamantios_Korais" title="Adamantios Korais">Adamantios Korais</a></li> 
+             <li><a href="/wiki/Will_Kymlicka" title="Will Kymlicka">Will Kymlicka</a></li> 
+             <li><a href="/wiki/Alphonse_de_Lamartine" title="Alphonse de Lamartine">Alphonse de Lamartine</a></li> 
+             <li><a href="/wiki/Mariano_Jos%C3%A9_de_Larra" title="Mariano José de Larra">Mariano José de Larra</a></li> 
+             <li><a href="/wiki/William_Edward_Hartpole_Lecky" title="William Edward Hartpole Lecky">W. E. H. Lecky</a></li> 
+             <li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li> 
+             <li><a href="/wiki/Thomas_Babington_Macaulay" title="Thomas Babington Macaulay">Thomas Babington Macaulay</a></li> 
+             <li><a href="/wiki/Salvador_de_Madariaga" title="Salvador de Madariaga">Salvador de Madariaga</a></li> 
+             <li><a href="/wiki/James_Madison" title="James Madison">James Madison</a></li> 
+             <li><a href="/wiki/Harriet_Martineau" title="Harriet Martineau">Harriet Martineau</a></li> 
+             <li><a href="/wiki/Minoo_Masani" title="Minoo Masani">Minoo Masani</a></li> 
+             <li><a href="/wiki/Jules_Michelet" title="Jules Michelet">Jules Michelet</a></li> 
+             <li><a href="/wiki/Janusz_Korwin-Mikke" title="Janusz Korwin-Mikke">Janusz Korwin-Mikke</a></li> 
+             <li><a href="/wiki/James_Mill" title="James Mill">James Mill</a></li> 
+             <li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li> 
+             <li><a href="/wiki/John_Milton" title="John Milton">John Milton</a></li> 
+             <li><a href="/wiki/Ludwig_von_Mises" title="Ludwig von Mises">Ludwig von Mises</a></li> 
+             <li><a href="/wiki/Donald_Barkly_Molteno" title="Donald Barkly Molteno">Donald Barkly Molteno</a></li> 
+             <li><a href="/wiki/Theodor_Mommsen" title="Theodor Mommsen">Theodor Mommsen</a></li> 
+             <li><a href="/wiki/Leo_Chiozza_Money" title="Leo Chiozza Money">Leo Chiozza Money</a></li> 
+             <li><a href="/wiki/Charles_de_Montalembert" class="mw-redirect" title="Charles de Montalembert">Charles de Montalembert</a></li> 
+             <li><a href="/wiki/Montesquieu" title="Montesquieu">Montesquieu</a></li> 
+             <li><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Luis_Mora" title="José María Luis Mora">José María Luis Mora</a></li> 
+             <li><a href="/wiki/Chantal_Mouffe" title="Chantal Mouffe">Chantal Mouffe</a></li> 
+             <li><a href="/wiki/Dadabhai_Naoroji" title="Dadabhai Naoroji">Dadabhai Naoroji</a></li> 
+             <li><a href="/wiki/Friedrich_Naumann" title="Friedrich Naumann">Friedrich Naumann</a></li> 
+             <li><a href="/wiki/Robert_Nozick" title="Robert Nozick">Robert Nozick</a></li> 
+             <li><a href="/wiki/Martha_Nussbaum" title="Martha Nussbaum">Martha Nussbaum</a></li> 
+             <li><a href="/wiki/Bertil_Ohlin" title="Bertil Ohlin">Bertil Ohlin</a></li> 
+             <li><a href="/wiki/Jos%C3%A9_Ortega_y_Gasset" title="José Ortega y Gasset">José Ortega y Gasset</a></li> 
+             <li><a href="/wiki/Thomas_Paine" title="Thomas Paine">Thomas Paine</a></li> 
+             <li><a href="/wiki/Alan_Paton" title="Alan Paton">Alan Paton</a></li> 
+             <li><a href="/wiki/Karl_Popper" title="Karl Popper">Karl Popper</a></li> 
+             <li><a href="/wiki/Richard_Price" title="Richard Price">Richard Price</a></li> 
+             <li><a href="/wiki/Joseph_Priestley" title="Joseph Priestley">Joseph Priestley</a></li> 
+             <li><a href="/wiki/Guillermo_Prieto" title="Guillermo Prieto">Guillermo Prieto</a></li> 
+             <li><a href="/wiki/Fran%C3%A7ois_Quesnay" title="François Quesnay">François Quesnay</a></li> 
+             <li><a href="/wiki/Ignacio_Ram%C3%ADrez" title="Ignacio Ramírez">Ignacio Ramírez</a></li> 
+             <li><a href="/wiki/Walther_Rathenau" title="Walther Rathenau">Walther Rathenau</a></li> 
+             <li><a href="/wiki/John_Rawls" title="John Rawls">John Rawls</a></li> 
+             <li><a href="/wiki/Joseph_Raz" title="Joseph Raz">Joseph Raz</a></li> 
+             <li><a href="/wiki/Ernest_Renan" title="Ernest Renan">Ernest Renan</a></li> 
+             <li><a href="/wiki/Charles_Renouvier" title="Charles Renouvier">Charles Renouvier</a></li> 
+             <li><a href="/wiki/David_Ricardo" title="David Ricardo">David Ricardo</a></li> 
+             <li><a href="/wiki/Wilhelm_R%C3%B6pke" title="Wilhelm Röpke">Wilhelm Röpke</a></li> 
+             <li><a href="/wiki/Richard_Rorty" title="Richard Rorty">Richard Rorty</a></li> 
+             <li><a href="/wiki/Antonio_Rosmini" title="Antonio Rosmini">Antonio Rosmini</a></li> 
+             <li><a href="/wiki/Carlo_Rosselli" title="Carlo Rosselli">Carlo Rosselli</a></li> 
+             <li><a href="/wiki/Jean-Jacques_Rousseau" title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a></li> 
+             <li><a href="/wiki/Domingo_Faustino_Sarmiento" title="Domingo Faustino Sarmiento">Domingo Faustino Sarmiento</a></li> 
+             <li><a href="/wiki/Jean-Baptiste_Say" title="Jean-Baptiste Say">Jean-Baptiste Say</a></li> 
+             <li><a href="/wiki/Ahmed_Lutfi_el-Sayed" title="Ahmed Lutfi el-Sayed">Ahmed Lutfi el-Sayed</a></li> 
+             <li><a href="/wiki/Amartya_Sen" title="Amartya Sen">Amartya Sen</a></li> 
+             <li><a href="/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury" title="Anthony Ashley-Cooper, 3rd Earl of Shaftesbury">Shaftesbury</a></li> 
+             <li><a href="/wiki/Li_Shenzhi" title="Li Shenzhi">Li Shenzhi</a></li> 
+             <li><a href="/wiki/Hu_Shih" title="Hu Shih">Hu Shih</a></li> 
+             <li><a href="/wiki/Judith_Shklar" class="mw-redirect" title="Judith Shklar">Judith Shklar</a></li> 
+             <li><a href="/wiki/Algernon_Sidney" title="Algernon Sidney">Algernon Sidney</a></li> 
+             <li><a href="/wiki/Emmanuel_Joseph_Siey%C3%A8s" title="Emmanuel Joseph Sieyès">Emmanuel Joseph Sieyès</a></li> 
+             <li><a href="/wiki/%C4%B0brahim_%C5%9Einasi" title="İbrahim Şinasi">İbrahim Şinasi</a></li> 
+             <li><a href="/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi" title="Jean Charles Léonard de Sismondi">Jean Charles Léonard de Sismondi</a></li> 
+             <li><a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a></li> 
+             <li><a href="/wiki/Hernando_de_Soto_Polar" title="Hernando de Soto Polar">Hernando de Soto Polar</a></li> 
+             <li><a href="/wiki/Herbert_Spencer" title="Herbert Spencer">Herbert Spencer</a></li> 
+             <li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li> 
+             <li><a href="/wiki/Germaine_de_Sta%C3%ABl" title="Germaine de Staël">Germaine de Staël</a></li> 
+             <li><a href="/wiki/William_Graham_Sumner" title="William Graham Sumner">William Graham Sumner</a></li> 
+             <li><a href="/wiki/Rifa%27a_al-Tahtawi" title="Rifa'a al-Tahtawi">Rifa'a al-Tahtawi</a></li> 
+             <li><a href="/wiki/Augustin_Thierry" title="Augustin Thierry">Augustin Thierry</a></li> 
+             <li><a href="/wiki/Johan_Rudolph_Thorbecke" title="Johan Rudolph Thorbecke">Johan Rudolph Thorbecke</a></li> 
+             <li><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></li> 
+             <li><a href="/wiki/Alexis_de_Tocqueville" title="Alexis de Tocqueville">Alexis de Tocqueville</a></li> 
+             <li><a href="/wiki/Ernst_Troeltsch" title="Ernst Troeltsch">Ernst Troeltsch</a></li> 
+             <li><a href="/wiki/Anne_Robert_Jacques_Turgot" title="Anne Robert Jacques Turgot">Anne Robert Jacques Turgot</a></li> 
+             <li><a href="/wiki/Abel-Fran%C3%A7ois_Villemain" title="Abel-François Villemain">Abel-François Villemain</a></li> 
+             <li><a href="/wiki/Voltaire" title="Voltaire">Voltaire</a></li> 
+             <li><a href="/wiki/Lester_Frank_Ward" title="Lester Frank Ward">Lester Frank Ward</a></li> 
+             <li><a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a></li> 
+             <li><a href="/wiki/Mary_Wollstonecraft" title="Mary Wollstonecraft">Mary Wollstonecraft</a></li> 
+             <li><a href="/wiki/Tao_Xingzhi" title="Tao Xingzhi">Tao Xingzhi</a></li> 
+             <li><a href="/wiki/Mar%C3%ADa_Zambrano" title="María Zambrano">María Zambrano</a></li> 
+             <li><a href="/wiki/Gu_Zhun" title="Gu Zhun">Gu Zhun</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Organizations
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Africa_Liberal_Network" title="Africa Liberal Network">Africa Liberal Network</a></li> 
+             <li><a href="/wiki/Alliance_of_Liberals_and_Democrats_for_Europe" title="Alliance of Liberals and Democrats for Europe">Alliance of Liberals<br>and Democrats for Europe</a></li> 
+             <li><a href="/wiki/Alliance_of_Liberals_and_Democrats_for_Europe_Party" title="Alliance of Liberals and Democrats for Europe Party">Alliance of Liberals<br>and Democrats for Europe Party</a></li> 
+             <li><a href="/wiki/Arab_Liberal_Federation" title="Arab Liberal Federation">Arab Liberal Federation</a></li> 
+             <li><a href="/wiki/Council_of_Asian_Liberals_and_Democrats" title="Council of Asian Liberals and Democrats">Council of Asian Liberals and Democrats</a></li> 
+             <li><a href="/wiki/European_Democratic_Party" title="European Democratic Party">European Democratic Party</a></li> 
+             <li><a href="/wiki/European_Liberal_Youth" title="European Liberal Youth">European Liberal Youth</a></li> 
+             <li><a href="/wiki/European_Party_for_Individual_Liberty" title="European Party for Individual Liberty">European Party for Individual Liberty</a></li> 
+             <li><a href="/wiki/International_Alliance_of_Libertarian_Parties" title="International Alliance of Libertarian Parties">International Alliance of Libertarian Parties</a></li> 
+             <li><a href="/wiki/International_Federation_of_Liberal_Youth" title="International Federation of Liberal Youth">International Federation of Liberal Youth</a></li> 
+             <li><a href="/wiki/Liberal_International" title="Liberal International">Liberal International</a></li> 
+             <li><a href="/wiki/Liberal_Network_for_Latin_America" title="Liberal Network for Latin America">Liberal Network for Latin America</a></li> 
+             <li><a href="/wiki/Category:Liberal_parties" title="Category:Liberal parties">Liberal parties</a></li> 
+             <li><a href="/wiki/Liberal_South_East_European_Network" title="Liberal South East European Network">Liberal South East European Network</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            <a href="/wiki/Liberalism_by_country" title="Liberalism by country">Regional variants</a>
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Liberalism_in_Europe" title="Liberalism in Europe">Europe</a></li> 
+             <li><a href="/wiki/Liberalism_and_conservatism_in_Latin_America" title="Liberalism and conservatism in Latin America">Latin America</a></li> 
+             <li><a class="mw-selflink selflink">Albania</a></li> 
+             <li><a href="/wiki/Liberalism_in_Armenia" title="Liberalism in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Australia" title="Liberalism in Australia">Australia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Austria" title="Liberalism in Austria">Austria</a></li> 
+             <li><a href="/wiki/Liberalism_in_Belgium" title="Liberalism in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Liberalism_in_Bolivia" title="Liberalism in Bolivia">Bolivia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Brazil" title="Liberalism in Brazil">Brazil</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Bulgaria" title="Liberalism and radicalism in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Liberalism_in_Canada" title="Liberalism in Canada">Canada</a></li> 
+             <li><a href="/wiki/Liberalism_in_China" title="Liberalism in China">China</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Chile" title="Liberalism and radicalism in Chile">Chile</a></li> 
+             <li><a href="/wiki/Liberalism_in_Colombia" title="Liberalism in Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Croatia" title="Liberalism in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Cuba" title="Liberalism in Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Liberalism_in_Cyprus" title="Liberalism in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_Czech_lands" title="Liberalism in the Czech lands">Czech lands</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Denmark" title="Liberalism and radicalism in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Ecuador" title="Liberalism and radicalism in Ecuador">Ecuador</a></li> 
+             <li><a href="/wiki/Liberalism_in_Egypt" title="Liberalism in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Liberalism_and_centrism_in_Estonia" title="Liberalism and centrism in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Liberalism_and_centrism_in_Finland" title="Liberalism and centrism in Finland">Finland</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_France" title="Liberalism and radicalism in France">France</a></li> 
+             <li><a href="/wiki/Liberalism_in_Germany" title="Liberalism in Germany">Germany</a></li> 
+             <li><a href="/wiki/Liberalism_in_Greece" title="Liberalism in Greece">Greece</a></li> 
+             <li><a href="/wiki/Liberalism_in_Honduras" title="Liberalism in Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Liberalism_in_Hong_Kong" title="Liberalism in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Hungary" title="Liberalism and radicalism in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Liberalism_and_centrism_in_Iceland" title="Liberalism and centrism in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Liberalism_in_India" title="Liberalism in India">India</a></li> 
+             <li><a href="/wiki/Liberalism_in_Iran" title="Liberalism in Iran">Iran</a></li> 
+             <li><a href="/wiki/Liberalism_in_Israel" title="Liberalism in Israel">Israel</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Italy" title="Liberalism and radicalism in Italy">Italy</a></li> 
+             <li><a href="/wiki/Liberalism_in_Japan" title="Liberalism in Japan">Japan</a></li> 
+             <li><a href="/wiki/Liberalism_in_Latvia" title="Liberalism in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Lithuania" title="Liberalism in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Liberalism_in_Luxembourg" title="Liberalism in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_Republic_of_Macedonia" class="mw-redirect" title="Liberalism in the Republic of Macedonia">Macedonia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Mexico" title="Liberalism in Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Liberalism_in_Moldova" title="Liberalism in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Liberalism_in_Montenegro" title="Liberalism in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_Netherlands" title="Liberalism in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Historic_liberalism_in_New_Zealand" title="Historic liberalism in New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Liberalism_in_Nicaragua" title="Liberalism in Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Liberalism_in_Nigeria" title="Liberalism in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Liberalism_in_Norway" title="Liberalism in Norway">Norway</a></li> 
+             <li><a href="/wiki/Liberalism_in_Panama" title="Liberalism in Panama">Panama</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Paraguay" title="Liberalism and radicalism in Paraguay">Paraguay</a></li> 
+             <li><a href="/wiki/Liberalism_in_Peru" title="Liberalism in Peru">Peru</a></li> 
+             <li><a href="/wiki/Liberal_Party_(Philippines)" title="Liberal Party (Philippines)">Philippines</a></li> 
+             <li><a href="/wiki/Liberalism_in_Poland" title="Liberalism in Poland">Poland</a></li> 
+             <li><a href="/wiki/Liberalism_in_Portugal" title="Liberalism in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Romania" title="Liberalism and radicalism in Romania">Romania</a></li> 
+             <li><a href="/wiki/Liberalism_in_Russia" title="Liberalism in Russia">Russia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Senegal" title="Liberalism in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Liberalism_in_Serbia" title="Liberalism in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Slovakia" title="Liberalism in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Slovenia" title="Liberalism in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Spain" title="Liberalism and radicalism in Spain">Spain</a></li> 
+             <li><a href="/wiki/Liberalism_in_South_Africa" title="Liberalism in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Liberalism_in_South_Korea" title="Liberalism in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Liberalism_and_centrism_in_Sweden" title="Liberalism and centrism in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Liberalism_and_radicalism_in_Switzerland" title="Liberalism and radicalism in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Liberalism_in_Taiwan" title="Liberalism in Taiwan">Taiwan</a></li> 
+             <li><a href="/wiki/Liberalism_in_Thailand" title="Liberalism in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Liberalism_in_Tunisia" title="Liberalism in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Turkey" title="Liberalism in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Liberalism_in_Ukraine" title="Liberalism in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_United_Kingdom" title="Liberalism in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_United_States" title="Liberalism in the United States">United States</a> 
+              <ul>
+               <li><a href="/wiki/Libertarianism_in_the_United_States" title="Libertarianism in the United States">Classical</a></li> 
+               <li><a href="/wiki/Modern_liberalism_in_the_United_States" title="Modern liberalism in the United States">Modern</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Liberalism_in_Uruguay" title="Liberalism in Uruguay">Uruguay</a></li> 
+             <li><a href="/wiki/Liberal_Party_(Venezuela)" title="Liberal Party (Venezuela)">Venezuela</a></li> 
+             <li><a href="/wiki/Liberalism_in_Zimbabwe" title="Liberalism in Zimbabwe">Zimbabwe</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">
+            Related topics
+           </div>
+           <div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"> 
+            <ul>
+             <li><a href="/wiki/Political_views_of_American_academics" title="Political views of American academics">Bias in academia</a></li> 
+             <li><a href="/wiki/Media_bias" title="Media bias">Bias in the media</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"> 
+          <ul>
+           <li><a href="/wiki/File:Yellow_flag_waving.svg" class="image"><img alt="Yellow flag waving.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/15px-Yellow_flag_waving.svg.png" decoding="async" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/22px-Yellow_flag_waving.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yellow_flag_waving.svg/30px-Yellow_flag_waving.svg.png 2x" data-file-width="249" data-file-height="268"></a> <a href="/wiki/Portal:Liberalism" title="Portal:Liberalism">Liberalism portal</a></li> 
+           <li><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/16px-A_coloured_voting_box.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/24px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160"></a> <a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+          <div class="plainlinks hlist navbar mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Liberalism_sidebar" title="Template:Liberalism sidebar"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Liberalism_sidebar" title="Template talk:Liberalism sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Liberalism_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>This article gives an overview of <b>liberalism in <a href="/wiki/Albania" title="Albania">Albania</a></b>. It is limited to <a href="/wiki/Liberalism" title="Liberalism">liberal</a> <a href="/wiki/Political_party" title="Political party">parties</a> with substantial support, mainly proved by having had a representation in parliament. The sign ⇒ denotes another party in that scheme. For inclusion in this scheme it isn't necessary so that parties labeled themselves as a liberal party. </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Democratic_Party"><span class="tocnumber">2.1</span> <span class="toctext">Democratic Party</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Democratic_Alliance_Party"><span class="tocnumber">2.2</span> <span class="toctext">Democratic Alliance Party</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Liberal_leaders"><span class="tocnumber">3</span> <span class="toctext">Liberal leaders</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Context plainlinks metadata ambox ambox-style ambox-Context" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article 
+           <b>provides insufficient context for those unfamiliar with the subject</b>.
+           <span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;action=edit">improve the article</a> by <a href="/wiki/Wikipedia:Writing_better_articles#Provide_context_for_the_reader" title="Wikipedia:Writing better articles">providing more context for the reader</a>.</span> 
+           <small class="date-container"><i>(<span class="date">October 2009</span>)</i></small>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>A form of radical liberalism was dominant shortly after independence, but became oppressed. After the restoration of democracy in the 1990s, liberalism was and is only a weak political factor. Two parties could be considered to embrace liberal values: the <a href="/wiki/Democratic_Alliance_Party_(Albania)" title="Democratic Alliance Party (Albania)">Democratic Alliance Party</a> (<i>Partia Aleanca Demokratike</i>, member <a href="/wiki/Liberal_International" title="Liberal International">LI</a>, <a href="/wiki/Alliance_of_Liberals_and_Democrats_for_Europe_Party" title="Alliance of Liberals and Democrats for Europe Party">ELDR</a>) and the <a href="/wiki/Unity_for_Human_Rights_Party" title="Unity for Human Rights Party">Unity for Human Rights Party</a> (<i>Partia Bashkimi për të Drejtat e Njeriut</i>), which is the party of the ethnic minorities. </p> 
+      <h3><span class="mw-headline" id="Democratic_Party">Democratic Party</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=3" title="Edit section: Democratic Party">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>1924: The democratic faction of the <i>Popular Party</i> (Partia Popullore), led by <a href="/wiki/Fan_S._Noli" class="mw-redirect" title="Fan S. Noli">Stylian Fan Noli</a> seceded and established the liberal <b>Democratic Party</b> (<i>Parti Demokratike</i>).</li> 
+       <li>1924: The party is banned by the dictatorship</li>
+      </ul> 
+      <h3><span class="mw-headline" id="Democratic_Alliance_Party">Democratic Alliance Party</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=4" title="Edit section: Democratic Alliance Party">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>1992: A liberal faction of the conservative <a href="/wiki/Democratic_Party_of_Albania" title="Democratic Party of Albania">Democratic Party of Albania</a> (<i>Partia Demokratike e Shqipërisë</i>) seceded to form the present-day <b><a href="/wiki/Democratic_Alliance_Party_(Albania)" title="Democratic Alliance Party (Albania)">Democratic Alliance Party</a></b> (<i>Partia Aleanca Demokratike</i>) </p> 
+      <h2><span class="mw-headline" id="Liberal_leaders">Liberal leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=5" title="Edit section: Liberal leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Fan_S._Noli" class="mw-redirect" title="Fan S. Noli">Stylian Fan Noli</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/History_of_Albania" title="History of Albania">History of Albania</a></li> 
+       <li><a href="/wiki/Politics_of_Albania" title="Politics of Albania">Politics of Albania</a></li> 
+       <li><a href="/wiki/List_of_political_parties_in_Albania" title="List of political parties in Albania">List of political parties in Albania</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Liberalism_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Liberalism_in_Europe" title="Template:Liberalism in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Liberalism_in_Europe" title="Template talk:Liberalism in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Liberalism_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Liberalism_in_Europe" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Liberalism_in_Europe" title="Liberalism in Europe">Liberalism in Europe </a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Albania</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Andorra&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Andorra (page does not exist)">Andorra</a></li> 
+             <li><a href="/wiki/Liberalism_in_Armenia" title="Liberalism in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Austria" title="Liberalism in Austria">Austria</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Azerbaijan&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Azerbaijan (page does not exist)">Azerbaijan</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Belarus&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Belarus (page does not exist)">Belarus</a></li> 
+             <li><a href="/wiki/Liberalism_in_Belgium" title="Liberalism in Belgium">Belgium</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Bosnia and Herzegovina (page does not exist)">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Liberalism_in_Bulgaria" class="mw-redirect" title="Liberalism in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Liberalism_in_Croatia" title="Liberalism in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Cyprus" title="Liberalism in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_Czech_Republic" class="mw-redirect" title="Liberalism in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Liberalism_in_Denmark" class="mw-redirect" title="Liberalism in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Liberalism_in_Estonia" class="mw-redirect" title="Liberalism in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Finland" class="mw-redirect" title="Liberalism in Finland">Finland</a></li> 
+             <li><a href="/wiki/Liberalism_in_France" class="mw-redirect" title="Liberalism in France">France</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Georgia_(country)&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Georgia (country) (page does not exist)">Georgia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Germany" title="Liberalism in Germany">Germany</a></li> 
+             <li><a href="/wiki/Liberalism_in_Greece" title="Liberalism in Greece">Greece</a></li> 
+             <li><a href="/wiki/Liberalism_in_Hungary" class="mw-redirect" title="Liberalism in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Liberalism_in_Iceland" class="mw-redirect" title="Liberalism in Iceland">Iceland</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_the_Republic_of_Ireland&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in the Republic of Ireland (page does not exist)">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Liberalism_in_Italy" class="mw-redirect" title="Liberalism in Italy">Italy</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Kazakhstan&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Kazakhstan (page does not exist)">Kazakhstan</a></li> 
+             <li><a href="/wiki/Liberalism_in_Latvia" title="Liberalism in Latvia">Latvia</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Liechtenstein&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Liechtenstein (page does not exist)">Liechtenstein</a></li> 
+             <li><a href="/wiki/Liberalism_in_Lithuania" title="Liberalism in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Liberalism_in_Luxembourg" title="Liberalism in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Malta&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Malta (page does not exist)">Malta</a></li> 
+             <li><a href="/wiki/Liberalism_in_Moldova" title="Liberalism in Moldova">Moldova</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Monaco&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Monaco (page does not exist)">Monaco</a></li> 
+             <li><a href="/wiki/Liberalism_in_Montenegro" title="Liberalism in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_Netherlands" title="Liberalism in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Liberalism_in_North_Macedonia" title="Liberalism in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Norway" title="Liberalism in Norway">Norway</a></li> 
+             <li><a href="/wiki/Liberalism_in_Poland" title="Liberalism in Poland">Poland</a></li> 
+             <li><a href="/wiki/Liberalism_in_Portugal" title="Liberalism in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Liberalism_in_Romania" class="mw-redirect" title="Liberalism in Romania">Romania</a></li> 
+             <li><a href="/wiki/Liberalism_in_Russia" title="Liberalism in Russia">Russia</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_San_Marino&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in San Marino (page does not exist)">San Marino</a></li> 
+             <li><a href="/wiki/Liberalism_in_Serbia" title="Liberalism in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Slovakia" title="Liberalism in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Slovenia" title="Liberalism in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Liberalism_in_Spain" class="mw-redirect" title="Liberalism in Spain">Spain</a></li> 
+             <li><a href="/wiki/Liberalism_in_Sweden" class="mw-redirect" title="Liberalism in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Liberalism_in_Switzerland" class="mw-redirect" title="Liberalism in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Liberalism_in_Turkey" title="Liberalism in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Liberalism_in_Ukraine" title="Liberalism in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Liberalism_in_the_United_Kingdom" title="Liberalism in the United Kingdom">United Kingdom</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Liberalism_in_Abkhazia&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Abkhazia (page does not exist)">Abkhazia</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_the_Republic_of_Artsakh&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in the Republic of Artsakh (page does not exist)">Artsakh</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Northern_Cyprus&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Northern Cyprus (page does not exist)">Northern Cyprus</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_South_Ossetia&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in South Ossetia (page does not exist)">South Ossetia</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Transnistria&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Transnistria (page does not exist)">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Liberalism_in_%C3%85land&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Åland (page does not exist)">Åland</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_the_Faroe_Islands&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in the Faroe Islands (page does not exist)">Faroe Islands</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Gibraltar&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Gibraltar (page does not exist)">Gibraltar</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Guernsey&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Guernsey (page does not exist)">Guernsey</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_the_Isle_of_Man&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in the Isle of Man (page does not exist)">Isle of Man</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Jersey (page does not exist)">Jersey</a></li> 
+             <li><a href="/w/index.php?title=Liberalism_in_Svalbard&amp;action=edit&amp;redlink=1" class="new" title="Liberalism in Svalbard (page does not exist)">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr>
+         <td><a href="/wiki/File:JohnLocke.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/30px-JohnLocke.png" decoding="async" width="30" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/45px-JohnLocke.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/60px-JohnLocke.png 2x" data-file-width="984" data-file-height="1138"></a></td>
+         <td><i>This <a href="/wiki/Liberalism" title="Liberalism">liberalism</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;action=edit">expanding it</a>.</i>
+          <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Liberal-stub" title="Template:Liberal-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Liberal-stub" title="Template talk:Liberal-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Liberal-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <!-- 
+NewPP limit report
+Parsed by mw1309
+Cached time: 20191030015454
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.348 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 11157/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84827/2097152 bytes
+Template argument size: 5848/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 3.26 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  325.607      1 -total
+ 58.13%  189.289      1 Template:Liberalism_in_Europe
+ 57.50%  187.216      1 Template:Europe_topic
+ 54.74%  178.238      1 Template:Navbox
+ 46.95%  152.873     49 Template:Iso2country
+ 23.59%   76.822      1 Template:Unreferenced
+ 15.87%   51.671     49 Template:Iso2country/data
+ 14.73%   47.953      2 Template:Ambox
+ 11.24%   36.590      1 Template:Liberalism_sidebar
+  9.73%   31.693      1 Template:Sidebar_with_collapsible_lists
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:874963-0!canonical and timestamp 20191030015454 and revision id 531206999
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;oldid=531206999">https://en.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;oldid=531206999</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Liberalism_by_country" title="Category:Liberalism by country">Liberalism by country</a></li>
+       <li><a href="/wiki/Category:Politics_of_Albania" title="Category:Politics of Albania">Politics of Albania</a></li>
+       <li><a href="/wiki/Category:Liberalism_stubs" title="Category:Liberalism stubs">Liberalism stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_lacking_sources_from_September_2008" title="Category:Articles lacking sources from September 2008">Articles lacking sources from September 2008</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_context_from_October_2009" title="Category:Wikipedia articles needing context from October 2009">Wikipedia articles needing context from October 2009</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_needing_context" title="Category:All Wikipedia articles needing context">All Wikipedia articles needing context</a></li>
+       <li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_October_2009" title="Category:Wikipedia introduction cleanup from October 2009">Wikipedia introduction cleanup from October 2009</a></li>
+       <li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Liberalism+in+Albania" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Liberalism+in+Albania" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Liberalism_in_Albania" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Liberalism_in_Albania" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Liberalism_in_Albania">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Liberalism_in_Albania" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Liberalism_in_Albania" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Liberalism_in_Albania&amp;oldid=531206999" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Liberalism_in_Albania&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6540885" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Liberalism_in_Albania&amp;id=531206999" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Liberalism+in+Albania">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Liberalism+in+Albania&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Liberalism_in_Albania&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6540885#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 4 January 2013, at 03:57<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Liberalism_in_Albania&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.424","ppvisitednodes":{"value":11157,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84827,"limit":2097152},"templateargumentsize":{"value":5848,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  325.607      1 -total"," 58.13%  189.289      1 Template:Liberalism_in_Europe"," 57.50%  187.216      1 Template:Europe_topic"," 54.74%  178.238      1 Template:Navbox"," 46.95%  152.873     49 Template:Iso2country"," 23.59%   76.822      1 Template:Unreferenced"," 15.87%   51.671     49 Template:Iso2country/data"," 14.73%   47.953      2 Template:Ambox"," 11.24%   36.590      1 Template:Liberalism_sidebar","  9.73%   31.693      1 Template:Sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":3417298,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1309","timestamp":"20191030015454","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Liberalism in Albania","url":"https:\/\/en.wikipedia.org\/wiki\/Liberalism_in_Albania","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6540885","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6540885","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-03T08:10:06Z","dateModified":"2013-01-04T03:57:06Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1327"});});</script>   
+ </body>
+</html>

@@ -1,0 +1,463 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Lista za Rijeku - Lista per Fiume - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lista_za_Rijeku_-_Lista_per_Fiume","wgTitle":"Lista za Rijeku - Lista per Fiume","wgCurRevisionId":903977369,"wgRevisionId":903977369,"wgArticleId":18903393,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from April 2015","All articles lacking reliable references","Articles containing Croatian-language text","Articles containing Italian-language text","All stub articles","Political parties established in 2006","Regionalist parties in Croatia","2006 establishments in Croatia","Southern European political party stubs","Croatia politics stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":[""
+,"January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lista_za_Rijeku_-_Lista_per_Fiume","wgRelevantArticleId":18903393,"wgRequestId":"Xbr9SApAIEIAAGmzB5EAAADO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lista_za_Rijeku","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":
+"/wiki/Lista_za_Rijeku_-_Lista_per_Fiume","wgWikibaseItemId":"Q1609679","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/d/de/Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lista_za_Rijeku_-_Lista_per_Fiume"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Lista_za_Rijeku_-_Lista_per_Fiume"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lista_za_Rijeku_-_Lista_per_Fiume rootpage-Lista_za_Rijeku_-_Lista_per_Fiume skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Lista za Rijeku - Lista per Fiume</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">&nbsp;&nbsp;(Redirected from <a href="/w/index.php?title=Lista_za_Rijeku&amp;redirect=no" class="mw-redirect" title="Lista za Rijeku">Lista za Rijeku</a>)</span>
+    </div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Primary_sources plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article 
+           <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.
+           <span class="hide-when-compact"> Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> 
+           <small class="date-container"><i>(<span class="date">April 2015</span>)</i></small>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox vcard" style="width:22em">
+       <tbody>
+        <tr>
+         <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;">
+          <div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #545AA7; border-bottom:2px solid #545AA7; line-height: 1;">
+           <div style="display:inline;" class="fn org">
+            Lista za Rijeku - Lista per Fiume
+           </div>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" class="logo" style="text-align:center;padding-top:.4em;padding-bottom:.3em;"><a href="/wiki/File:Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg" class="image"><img alt="Lista za Rijeku - Lista per Fiume logo.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg/180px-Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg" decoding="async" width="180" height="139" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg/270px-Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/de/Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg/360px-Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg 2x" data-file-width="398" data-file-height="307"></a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="line-height:1.3em;">Leader</th>
+         <td class="agent" style="line-height:1.3em;"><a href="/w/index.php?title=Danko_%C5%A0vorini%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Danko Švorinić (page does not exist)">Danko Švorinić</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="line-height:1.3em;">Founded</th>
+         <td style="line-height:1.3em;">2006</td>
+        </tr>
+        <tr>
+         <th scope="row" style="line-height:1.3em;">Headquarters</th>
+         <td class="label" style="line-height:1.3em;"><a href="/wiki/Rijeka" title="Rijeka">Rijeka</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th>
+         <td class="category" style="line-height:1.3em;"><a href="/wiki/Autonomism" title="Autonomism">Autonomism</a><br><a href="/wiki/Social_progressivism" class="mw-redirect" title="Social progressivism">Social progressivism</a><br><a href="/wiki/Social_liberalism" title="Social liberalism">Social liberalism</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="line-height:1.3em;"><a href="/wiki/European_political_party" title="European political party">European affiliation</a></th>
+         <td class="category" style="line-height:1.3em;"><a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;line-height:1.3em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.listazarijeku.com">www<wbr>.listazarijeku<wbr>.com</a></span></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;padding-top:0;">
+          <div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #545AA7;">
+           <ul>
+            <li><a href="/wiki/Politics_of_Croatia" title="Politics of Croatia">Politics of Croatia</a></li>
+            <li><a href="/wiki/List_of_political_parties_in_Croatia" title="List of political parties in Croatia">Political parties</a></li>
+            <li><a href="/wiki/Elections_in_Croatia" title="Elections in Croatia">Elections</a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The <b><i lang="hr" title="Croatian language text">Lista za Rijeku</i> - <i lang="it" title="Italian language text">Lista per Fiume</i></b> (meaning <i>List for <a href="/wiki/Rijeka" title="Rijeka">Rijeka</a></i> in <a href="/wiki/Croatian_language" title="Croatian language">Croatian</a> and <a href="/wiki/Italian_language" title="Italian language">Italian</a>) is a regional political party with strong local-patriotic, autonomous and progressive-liberal tendencies, based in the city of Rijeka, <a href="/wiki/Croatia" title="Croatia">Croatia</a> (known as Fiume in Italian). Founded in 2006, the party is active primarily within the confines of the city of Rijeka and the boroughs surrounding it (the so-called Rijeka ring). Its main aim is to achieve increased authority and development for the regional and local government through the retention of 70% of the locally collected taxes, which currently go to the <a href="/wiki/Croatian_government" class="mw-redirect" title="Croatian government">central government</a> in <a href="/wiki/Zagreb" title="Zagreb">Zagreb</a>. The party also advocates a high level of <a href="/wiki/Self-governance" title="Self-governance">autonomy</a> for city of Rijeka and the surrounding areas. </p>
+      <p>The current party president is <a href="/w/index.php?title=Danko_%C5%A0vorini%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Danko Švorinić (page does not exist)">Danko Švorinić</a>, and its governing body is a 9-member presidency council. </p>
+      <p>The party has two members in the Rijeka city council (receiving 6% of the vote in the <a href="/wiki/2013_Croatian_local_elections" title="2013 Croatian local elections">local elections of 2013</a>) and 8 elected councilors in city district councils. </p>
+      <p>Since 2010, Lista za Rijeku - Lista per Fiume is a full member of the <a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a>. </p> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.listazarijeku.com">Official website</a></span></span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_European_Free_Alliance" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Members_of_the_European_Free_Alliance" title="Template:Members of the European Free Alliance"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Members_of_the_European_Free_Alliance" title="Template talk:Members of the European Free Alliance"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Members_of_the_European_Free_Alliance&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_European_Free_Alliance" style="font-size:114%;margin:0 4em">
+            Members of the 
+            <a href="/wiki/European_Free_Alliance" title="European Free Alliance">European Free Alliance</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Elected to the<br><a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Flemish_Alliance" title="New Flemish Alliance">Nieuw-Vlaamse Alliantie</a></li> 
+             <li><a href="/wiki/For_Human_Rights_in_United_Latvia" class="mw-redirect" title="For Human Rights in United Latvia">For Human Rights in United Latvia</a>†</li> 
+             <li><a href="/wiki/Party_of_the_Corsican_Nation" title="Party of the Corsican Nation">Party of the Corsican Nation</a></li> 
+             <li><a href="/wiki/Plaid_Cymru" title="Plaid Cymru">Plaid Cymru</a></li> 
+             <li><a href="/wiki/Republican_Left_of_Catalonia" title="Republican Left of Catalonia">Republican Left of Catalonia</a></li> 
+             <li><a href="/wiki/Scottish_National_Party" title="Scottish National Party">Scottish National Party</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other members</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Andalusian_Party" title="Andalusian Party">Andalusian Party</a></li> 
+             <li><a href="/wiki/Aralar_Party" class="mw-redirect" title="Aralar Party">Aralar Party</a></li> 
+             <li><a href="/wiki/Autonomy_Liberty_Participation_Ecology" title="Autonomy Liberty Participation Ecology">Autonomy Liberty Participation Ecology</a></li> 
+             <li><a href="/wiki/Bavaria_Party" title="Bavaria Party">Bavaria Party</a></li> 
+             <li><a href="/wiki/Catalan_Unity" title="Catalan Unity">Catalan Unity</a></li> 
+             <li><a href="/wiki/Chunta_Aragonesista" title="Chunta Aragonesista">Chunta Aragonesista</a></li> 
+             <li><a href="/wiki/Democratic_Party_of_Artsakh" title="Democratic Party of Artsakh">Democratic Party of Artsakh</a></li> 
+             <li><a href="/wiki/Eusko_Alkartasuna" title="Eusko Alkartasuna">Eusko Alkartasuna</a></li> 
+             <li><a href="/wiki/Frisian_National_Party" title="Frisian National Party">Frisian National Party</a></li> 
+             <li><a href="/wiki/Future_of_%C3%85land" title="Future of Åland">Future of Åland</a></li> 
+             <li><a href="/wiki/Galician_Nationalist_Bloc" title="Galician Nationalist Bloc">Galician Nationalist Bloc</a></li> 
+             <li><a href="/w/index.php?title=Hungarian_Christian_Democratic_Association&amp;action=edit&amp;redlink=1" class="new" title="Hungarian Christian Democratic Association (page does not exist)">Hungarian Christian Democratic Association</a></li> 
+             <li><a href="/wiki/Liga_Veneta_Repubblica" title="Liga Veneta Repubblica">Liga Veneta Repubblica</a></li> 
+             <li><a href="/wiki/List_for_Fiume" class="mw-redirect" title="List for Fiume">List for Fiume</a></li> 
+             <li><a href="/wiki/Lusatian_Alliance" title="Lusatian Alliance">Lusatian Alliance</a></li> 
+             <li><a href="/wiki/Majorca_Socialist_Party" class="mw-redirect" title="Majorca Socialist Party">Majorca Socialist Party</a></li> 
+             <li><a href="/wiki/Mebyon_Kernow" title="Mebyon Kernow">Mebyon Kernow</a></li> 
+             <li><a href="/wiki/Moravan%C3%A9" title="Moravané">Moravané</a></li> 
+             <li><a href="/wiki/Occitan_Party" title="Occitan Party">Occitan Party</a></li> 
+             <li><a href="/wiki/Unser_Land" title="Unser Land">Our Land</a></li> 
+             <li><a href="/wiki/Rainbow_(political_party)" class="mw-redirect" title="Rainbow (political party)">Rainbow</a></li> 
+             <li><a href="/wiki/Sardinian_Action_Party" title="Sardinian Action Party">Sardinian Action Party</a></li> 
+             <li><a href="/wiki/Savoy_Region_Movement" title="Savoy Region Movement">Savoy Region Movement</a></li> 
+             <li><a href="/wiki/Savoyan_League" title="Savoyan League">Savoyan League</a></li> 
+             <li><a href="/wiki/Silesian_Autonomy_Movement" title="Silesian Autonomy Movement">Silesian Autonomy Movement</a></li> 
+             <li><a href="/wiki/Slovene_Union" title="Slovene Union">Slovene Union</a></li> 
+             <li><a href="/wiki/South_Schleswig_Voters%27_Association" title="South Schleswig Voters' Association">South Schleswig Voters' Association</a></li> 
+             <li><a href="/wiki/South_Tyrolean_Freedom" title="South Tyrolean Freedom">South Tyrolean Freedom</a></li> 
+             <li><a href="/wiki/Die_Friesen" title="Die Friesen">The Frisians</a></li> 
+             <li><a href="/wiki/United_Macedonian_Organization_Ilinden%E2%80%93Pirin" title="United Macedonian Organization Ilinden–Pirin">United Macedonian Organization Ilinden–Pirin</a></li> 
+             <li><a href="/wiki/Unity_List_(Austria)" title="Unity List (Austria)">Unity List</a></li> 
+             <li><a href="/wiki/Unvaniezh_Demokratel_Breizh" title="Unvaniezh Demokratel Breizh">Unvaniezh Demokratel Breizh</a></li> 
+             <li><a href="/wiki/Valencian_Nationalist_Bloc" title="Valencian Nationalist Bloc">Valencian Nationalist Bloc</a></li> 
+             <li>The <a href="/wiki/Yorkshire_Party" title="Yorkshire Party">Yorkshire Party</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Observers</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Hungarian_People%27s_Party_of_Transylvania" title="Hungarian People's Party of Transylvania">Hungarian People's Party of Transylvania</a></li> 
+             <li><a href="/wiki/Latvian_Russian_Union" title="Latvian Russian Union">Latvian Russian Union</a></li> 
+             <li><a href="/wiki/New_Canaries" title="New Canaries">New Canaries</a></li> 
+             <li><a href="/wiki/Party_of_Friendship,_Equality_and_Peace" title="Party of Friendship, Equality and Peace">Party of Friendship, Equality and Peace</a></li> 
+             <li><a href="/wiki/Pro_Lombardy_Independence" title="Pro Lombardy Independence">Pro Lombardy Independence</a></li> 
+             <li><a href="/wiki/The_Other_South" title="The Other South">The Other South</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr>
+         <td><a href="/wiki/File:Red_Checkmark.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/25px-Red_Checkmark.svg.png" decoding="async" width="25" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/38px-Red_Checkmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_Checkmark.svg/50px-Red_Checkmark.svg.png 2x" data-file-width="227" data-file-height="283"></a></td>
+         <td><i>This article about a Croatian political party is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=edit">expanding it</a>.</i>
+          <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Croatia-party-stub" title="Template:Croatia-party-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Croatia-party-stub" title="Template talk:Croatia-party-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Croatia-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20191023190025
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.320 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 1126/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26665/2097152 bytes
+Template argument size: 862/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 9.98 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  396.397      1 -total
+ 38.65%  153.202      2 Template:Lang
+ 32.72%  129.686      1 Template:Infobox_political_party
+ 28.96%  114.808      1 Template:Infobox
+ 16.24%   64.387      1 Template:Primary_sources
+ 11.40%   45.184     23 Template:If_empty
+  9.75%   38.641      1 Template:Ambox
+  7.10%   28.137      1 Template:Br_separated_entries
+  5.33%   21.141      1 Template:Official_website
+  4.49%   17.785      1 Template:Unbulleted_list
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:18903393-0!canonical and timestamp 20191023190025 and revision id 903977369
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;oldid=903977369">https://en.wikipedia.org/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;oldid=903977369</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Political_parties_established_in_2006" title="Category:Political parties established in 2006">Political parties established in 2006</a></li>
+       <li><a href="/wiki/Category:Regionalist_parties_in_Croatia" title="Category:Regionalist parties in Croatia">Regionalist parties in Croatia</a></li>
+       <li><a href="/wiki/Category:2006_establishments_in_Croatia" title="Category:2006 establishments in Croatia">2006 establishments in Croatia</a></li>
+       <li><a href="/wiki/Category:Southern_European_political_party_stubs" title="Category:Southern European political party stubs">Southern European political party stubs</a></li>
+       <li><a href="/wiki/Category:Croatia_politics_stubs" title="Category:Croatia politics stubs">Croatia politics stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_lacking_reliable_references_from_April_2015" title="Category:Articles lacking reliable references from April 2015">Articles lacking reliable references from April 2015</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Croatian-language_text" title="Category:Articles containing Croatian-language text">Articles containing Croatian-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lista+za+Rijeku+-+Lista+per+Fiume" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lista+za+Rijeku+-+Lista+per+Fiume" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Lista_za_Rijeku_-_Lista_per_Fiume" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Lista_za_Rijeku_-_Lista_per_Fiume" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Lista_za_Rijeku_-_Lista_per_Fiume">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lista_za_Rijeku_-_Lista_per_Fiume" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lista_za_Rijeku_-_Lista_per_Fiume" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;oldid=903977369" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1609679" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lista_za_Rijeku_-_Lista_per_Fiume&amp;id=903977369" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lista+za+Rijeku+-+Lista+per+Fiume">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lista+za+Rijeku+-+Lista+per+Fiume&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Lista_per_Fiume" title="Lista per Fiume – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Lista_za_Rijeku" title="Lista za Rijeku – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lista_per_Fiume" title="Lista per Fiume – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1609679#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 29 June 2019, at 05:16<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lista_za_Rijeku_-_Lista_per_Fiume&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.436","ppvisitednodes":{"value":1126,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26665,"limit":2097152},"templateargumentsize":{"value":862,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  396.397      1 -total"," 38.65%  153.202      2 Template:Lang"," 32.72%  129.686      1 Template:Infobox_political_party"," 28.96%  114.808      1 Template:Infobox"," 16.24%   64.387      1 Template:Primary_sources"," 11.40%   45.184     23 Template:If_empty","  9.75%   38.641      1 Template:Ambox","  7.10%   28.137      1 Template:Br_separated_entries","  5.33%   21.141      1 Template:Official_website","  4.49%   17.785      1 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":10469701,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20191023190025","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lista za Rijeku - Lista per Fiume","url":"https:\/\/en.wikipedia.org\/wiki\/Lista_za_Rijeku_-_Lista_per_Fiume","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1609679","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1609679","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-08-17T15:23:31Z","dateModified":"2019-06-29T05:16:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/de\/Lista_za_Rijeku_-_Lista_per_Fiume_logo.jpg","headline":"regionalist political party in Rijeka, Croatia"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1329"});});</script>   
+ </body>
+</html>

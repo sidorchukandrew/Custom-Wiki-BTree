@@ -1,0 +1,684 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>The Blue Ribbon SoundWorks - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Blue_Ribbon_SoundWorks","wgTitle":"The Blue Ribbon SoundWorks","wgCurRevisionId":653149230,"wgRevisionId":653149230,"wgArticleId":16948325,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Companies disestablished in 1995","Defunct computer companies of the United States","Digital audio","Microsoft acquisitions","Technological company stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"The_Blue_Ribbon_SoundWorks","wgRelevantArticleId":16948325,"wgRequestId":"XbX7YwpAIDEAALXt@5EAAADC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4929677","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":
+"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Blue_Ribbon_SoundWorks"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/The_Blue_Ribbon_SoundWorks"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Blue_Ribbon_SoundWorks rootpage-The_Blue_Ribbon_SoundWorks skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">The Blue Ribbon SoundWorks</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox vcard" style="width:22em">
+       <caption class="fn org">
+        The Blue Ribbon SoundWorks
+       </caption>
+       <tbody>
+        <tr>
+         <th scope="row" style="padding-right:0.5em;">
+          <div style="padding:0.1em 0;line-height:1.2em;">
+           <a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a>
+          </div></th>
+         <td class="category" style="line-height:1.35em;">Subsidiary of <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.5em;">Founded</th>
+         <td style="line-height:1.35em;"><a href="/wiki/United_States" title="United States">United States</a></td>
+        </tr>
+        <tr>
+         <th scope="row" style="padding-right:0.5em;">Headquarters</th>
+         <td class="label" style="line-height:1.35em;"><a href="/wiki/United_States" title="United States">United States</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>The Blue Ribbon SoundWorks</b> was a <a href="/wiki/Software" title="Software">software</a> company in the <a href="/wiki/United_States" title="United States">United States</a>. The company produced several <a href="/wiki/Digital_audio" title="Digital audio">digital audio</a> products for the <a href="/wiki/Amiga" title="Amiga">Amiga</a>, including Bars &amp; Pipes, a <a href="/wiki/Music_sequencer" title="Music sequencer">sequencer</a> described by <a href="/wiki/Sound_on_Sound" title="Sound on Sound">Sound on Sound</a> as "the ultimate in Amiga sequencing",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and SuperJAM!, a music composition tool.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Blue Ribbon also produced the One Stop Music Shop, a hardware <a href="/wiki/MIDI" title="MIDI">MIDI</a> interface and synthesizer based on the <a href="/wiki/E-mu_Proteus" title="E-mu Proteus">E-mu Proteus</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Other early products included Who! What! When! Where!, a <a href="/wiki/Personal_information_manager" title="Personal information manager">personal information manager</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> It was founded by Melissa Jordan Grey and Todor Fay, who went on to found <a rel="nofollow" class="external text" href="http://www.newblueinc.com">NewBlue</a>, a video technology company. </p>
+      <p>Blue Ribbon was acquired by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> in 1995, and Microsoft subsequently merged Blue Ribbon's technology with <a href="/wiki/DirectSound" title="DirectSound">DirectSound</a>.<sup id="cite_ref-acq_5-0" class="reference"><a href="#cite_note-acq-5">[5]</a></sup> After the acquisition, Microsoft made Blue Ribbon's Amiga products available for free download on <a href="/wiki/CompuServe" title="CompuServe">CompuServe</a> while discontinuing official support.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Austin, Paul (July 1994). <a rel="nofollow" class="external text" href="http://www.soundonsound.com/sos/1994_articles/jul94/amiganotes.html">"Bars&amp;Pipes Professional 2.5"</a>. <i><a href="/wiki/Sound_on_Sound" title="Sound on Sound">Sound on Sound</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sound+on+Sound&amp;rft.atitle=Bars%26Pipes+Professional+2.5&amp;rft.date=1994-07&amp;rft.aulast=Austin&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.soundonsound.com%2Fsos%2F1994_articles%2Fjul94%2Famiganotes.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sears, David (September 1992). <a rel="nofollow" class="external text" href="http://www.atarimagazines.com/compute/issue144/A20_SuperJAM.php">"SuperJAM!"</a>. <i><a href="/wiki/Compute!" title="Compute!">Compute!</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Compute%21&amp;rft.atitle=SuperJAM%21&amp;rft.date=1992-09&amp;rft.aulast=Sears&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.atarimagazines.com%2Fcompute%2Fissue144%2FA20_SuperJAM.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amiga.resource.cx/exp/onestopmusicshop">"One Stop Music Shop"</a>. <i>Amiga Hardware Database</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amiga+Hardware+Database&amp;rft.atitle=One+Stop+Music+Shop&amp;rft_id=http%3A%2F%2Famiga.resource.cx%2Fexp%2Fonestopmusicshop&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pcmuseum.ca/details.asp?id=38900&amp;type=software">"Who! What! When! Where! v1.2"</a>. <i>Personal Computer Museum</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Personal+Computer+Museum&amp;rft.atitle=Who%21+What%21+When%21+Where%21+v1.2&amp;rft_id=http%3A%2F%2Fwww.pcmuseum.ca%2Fdetails.asp%3Fid%3D38900%26type%3Dsoftware&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-acq-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-acq_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.microsoft.com/investor/Stock/AcquisitonHistory/All/default.aspx">"Microsoft Investor Relations - Acquisitions"</a>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft+Investor+Relations+-+Acquisitions&amp;rft.pub=Microsoft&amp;rft_id=http%3A%2F%2Fwww.microsoft.com%2Finvestor%2FStock%2FAcquisitonHistory%2FAll%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Trenn, Dhomas (February 1998). "Sound Lab Shareware Round-Up". <i><a href="/wiki/CU_Amiga" class="mw-redirect" title="CU Amiga">CU Amiga</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CU+Amiga&amp;rft.atitle=Sound+Lab+Shareware+Round-Up&amp;rft.date=1998-02&amp;rft.aulast=Trenn&amp;rft.aufirst=Dhomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Blue+Ribbon+SoundWorks" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Microsoft" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Microsoft" title="Template:Microsoft"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Microsoft" title="Template talk:Microsoft"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Microsoft&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Microsoft" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_History&amp;#10;*_Outline"> 
+            <ul>
+             <li><a href="/wiki/History_of_Microsoft" title="History of Microsoft">History</a></li> 
+             <li><a href="/wiki/Outline_of_Microsoft" title="Outline of Microsoft">Outline</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">People</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Founders</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li> 
+                 <li><a href="/wiki/Paul_Allen" title="Paul Allen">Paul Allen</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Board of directors</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/John_W._Thompson" title="John W. Thompson">John W. Thompson</a> (Chairman)</li> 
+                 <li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li> 
+                 <li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li> 
+                 <li><a href="/wiki/Charles_Noski" title="Charles Noski">Charles Noski</a></li> 
+                 <li><a href="/wiki/Helmut_Panke" title="Helmut Panke">Helmut Panke</a></li> 
+                 <li><a href="/wiki/John_W._Stanton" title="John W. Stanton">John W. Stanton</a></li> 
+                 <li><a href="/wiki/Reid_Hoffman" title="Reid Hoffman">Reid Hoffman</a></li> 
+                 <li><a href="/wiki/Sandi_Peterson" title="Sandi Peterson">Sandi Peterson</a></li> 
+                 <li><a href="/wiki/Penny_Pritzker" title="Penny Pritzker">Penny Pritzker</a></li> 
+                 <li><a href="/wiki/Charles_Scharf" title="Charles Scharf">Charles Scharf</a></li> 
+                 <li><a href="/wiki/Arne_Sorenson" title="Arne Sorenson">Arne Sorenson</a></li> 
+                 <li><a href="/wiki/Padmasree_Warrior" title="Padmasree Warrior">Padmasree Warrior</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Senior leadership team</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li> 
+                 <li><a href="/wiki/Scott_Guthrie" title="Scott Guthrie">Scott Guthrie</a></li> 
+                 <li><a href="/wiki/Amy_Hood" title="Amy Hood">Amy Hood</a> (CFO)</li> 
+                 <li><a href="/wiki/Harry_Shum" title="Harry Shum">Harry Shum</a></li> 
+                 <li><a href="/wiki/Phil_Spencer_(business_executive)" title="Phil Spencer (business executive)">Phil Spencer</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Corporate VPs</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Joe_Belfiore" title="Joe Belfiore">Joe Belfiore</a></li> 
+                 <li><a href="/wiki/Richard_Rashid" title="Richard Rashid">Richard Rashid</a> (SVP)</li> 
+                 <li><a href="/wiki/S._Somasegar" title="S. Somasegar">S. Somasegar</a> (SVP)</li> 
+                 <li><a href="/wiki/C%C3%A9sar_Cernuda" title="César Cernuda">César Cernuda</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Microsoft_logo_(2012).svg" class="image"><img alt="Microsoft logo (2012).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/100px-Microsoft_logo_%282012%29.svg.png" decoding="async" width="100" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/150px-Microsoft_logo_%282012%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/200px-Microsoft_logo_%282012%29.svg.png 2x" data-file-width="512" data-file-height="109"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Products</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_hardware" title="Microsoft hardware">Hardware</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_HoloLens" title="Microsoft HoloLens">HoloLens</a></li> 
+                 <li><a href="/wiki/Microsoft_Surface" title="Microsoft Surface">Surface</a> 
+                  <ul>
+                   <li><a href="/wiki/Microsoft_Surface_Hub" class="mw-redirect" title="Microsoft Surface Hub">Hub</a></li> 
+                   <li><a href="/wiki/Microsoft_Surface_Go" title="Microsoft Surface Go">Go</a></li> 
+                   <li><a href="/wiki/Microsoft_Surface_Laptop" class="mw-redirect" title="Microsoft Surface Laptop">Laptop</a></li> 
+                   <li><a href="/wiki/Microsoft_Surface_Pro" class="mw-redirect" title="Microsoft Surface Pro">Pro</a></li> 
+                   <li><a href="/wiki/Microsoft_Surface_Studio" class="mw-redirect" title="Microsoft Surface Studio">Studio</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Xbox" title="Xbox">Xbox</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Microsoft_operating_systems" title="List of Microsoft operating systems">Operating systems</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></li> 
+                 <li><a href="/wiki/Xbox_One_system_software" title="Xbox One system software">Xbox OS</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Microsoft_software" title="List of Microsoft software">Software</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office</a> 
+                  <ul>
+                   <li><a href="/wiki/Office_365" title="Office 365">Office 365</a></li> 
+                   <li><a href="/wiki/Microsoft_Office_mobile_apps" title="Microsoft Office mobile apps">Mobile</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Microsoft_Servers" title="Microsoft Servers">Servers</a></li> 
+                 <li><a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Web properties</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_Azure" title="Microsoft Azure">Azure</a></li> 
+                 <li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li> 
+                 <li><a href="/wiki/Channel_9_(Microsoft)" title="Channel 9 (Microsoft)">Channel 9</a></li> 
+                 <li><a href="/wiki/CodePlex" title="CodePlex">CodePlex</a></li> 
+                 <li><a href="/wiki/Microsoft_Developer_Network" title="Microsoft Developer Network">Developer Network</a></li> 
+                 <li><a href="/wiki/Microsoft_Docs" title="Microsoft Docs">Docs</a></li> 
+                 <li><a href="/wiki/MSN" title="MSN">MSN</a></li> 
+                 <li><a href="/wiki/Mixer_(website)" class="mw-redirect" title="Mixer (website)">Mixer</a></li> 
+                 <li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office.com</a></li> 
+                 <li><a href="/wiki/OneDrive" title="OneDrive">OneDrive</a></li> 
+                 <li><a href="/wiki/Outlook.com" title="Outlook.com">Outlook.com</a></li> 
+                 <li><a href="/wiki/Microsoft_Store_(digital)" title="Microsoft Store (digital)">Store</a></li> 
+                 <li><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></li> 
+                 <li><a href="/wiki/Microsoft_Translator" title="Microsoft Translator">Translator</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Company</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Conferences</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Build_(developer_conference)" title="Build (developer conference)">Build</a></li> 
+                 <li><a href="/wiki/Microsoft_Inspire" title="Microsoft Inspire">Inspire</a></li> 
+                 <li><a href="/wiki/MIX_(Microsoft)" title="MIX (Microsoft)">MIX</a></li> 
+                 <li><a href="/wiki/Professional_Developers_Conference" title="Professional Developers Conference">PDC</a></li> 
+                 <li><a href="/wiki/Microsoft_Ignite" title="Microsoft Ignite">TechEd</a></li> 
+                 <li><a href="/wiki/Windows_Hardware_Engineering_Conference" title="Windows Hardware Engineering Conference">WinHEC</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Divisions</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_engineering_groups" title="Microsoft engineering groups">Engineering groups</a> 
+                  <ul>
+                   <li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Mobile</a></li> 
+                   <li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype unit</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Microsoft_Digital_Crimes_Unit" title="Microsoft Digital Crimes Unit">Digital Crimes Unit</a></li> 
+                 <li><a href="/wiki/Microsoft_Garage" title="Microsoft Garage">Garage</a></li> 
+                 <li><a href="/wiki/Microsoft_Press" title="Microsoft Press">Press</a></li> 
+                 <li><a href="/wiki/Microsoft_Research" title="Microsoft Research">Research</a></li> 
+                 <li><a href="/wiki/.NET_Foundation" title=".NET Foundation">.NET Foundation</a></li> 
+                 <li><a href="/wiki/Outercurve_Foundation" title="Outercurve Foundation">Outercurve Foundation</a></li> 
+                 <li><a href="/wiki/Xbox_Game_Studios" title="Xbox Game Studios">Xbox Game Studios</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Estates</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Microsoft_Redmond_campus" title="Microsoft Redmond campus">Microsoft Redmond campus</a></li> 
+                 <li><a href="/wiki/Tieto_Keilalahti_Campus" title="Tieto Keilalahti Campus">Microsoft Talo</a></li> 
+                 <li><a href="/wiki/Microsoft_Algeria" title="Microsoft Algeria">Microsoft Algeria</a></li> 
+                 <li><a href="/wiki/Microsoft_Egypt" title="Microsoft Egypt">Microsoft Egypt</a></li> 
+                 <li><a href="/wiki/Microsoft_India" title="Microsoft India">Microsoft India</a></li> 
+                 <li><a href="/wiki/Microsoft_Japan" title="Microsoft Japan">Microsoft Japan</a></li> 
+                 <li><a href="/wiki/Microsoft_Theater" title="Microsoft Theater">Microsoft Theater</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Campaigns</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Where_do_you_want_to_go_today%3F" title="Where do you want to go today?">Where do you want to go today?</a></i> (1994)</li> 
+             <li><i><a href="/wiki/Champagne_(advertisement)" title="Champagne (advertisement)">Champagne</a></i> (2002)</li> 
+             <li><i><a href="/wiki/Mojave_Experiment" title="Mojave Experiment">Mojave Experiment</a></i> (2006)</li> 
+             <li><i><a href="/wiki/I%27m_a_PC" title="I'm a PC">I'm a PC</a></i> (2008)</li> 
+             <li><i><a href="/wiki/Scroogled" title="Scroogled">Scroogled</a></i> (2012)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Criticism_of_Microsoft" title="Criticism of Microsoft">Criticism</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bundling_of_Microsoft_Windows" title="Bundling of Microsoft Windows">Bundling of Microsoft Windows</a></li> 
+             <li><a href="/wiki/Office_Assistant" title="Office Assistant">Clippy</a></li> 
+             <li><a href="/wiki/ILoo#Reaction" title="ILoo">iLoo</a></li> 
+             <li><a href="/wiki/Internet_Explorer#Security_vulnerabilities" title="Internet Explorer">Internet Explorer</a></li> 
+             <li><a href="/wiki/Microsoft_Bob" title="Microsoft Bob">Microsoft Bob</a></li> 
+             <li><a href="/wiki/NSAKEY" title="NSAKEY">_NSAKEY</a></li> 
+             <li><a href="/wiki/Criticism_of_Microsoft_Windows" title="Criticism of Microsoft Windows">Windows</a> 
+              <ul>
+               <li><a href="/wiki/Criticism_of_Windows_XP" title="Criticism of Windows XP">XP</a></li> 
+               <li><a href="/wiki/Criticism_of_Windows_Vista" title="Criticism of Windows Vista">Vista</a></li> 
+               <li><a href="/wiki/Criticism_of_Windows_10" title="Criticism of Windows 10">10</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_litigation" title="Microsoft litigation">Litigation</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Alcatel-Lucent_v._Microsoft_Corp." title="Alcatel-Lucent v. Microsoft Corp.">Alcatel-Lucent v. Microsoft</a></i></li> 
+             <li><i><a href="/wiki/Apple_Computer,_Inc._v._Microsoft_Corp." title="Apple Computer, Inc. v. Microsoft Corp.">Apple v. Microsoft</a></i></li> 
+             <li><a href="/wiki/Microsoft_Corp._v._Commission" title="Microsoft Corp. v. Commission">European Union Microsoft competition case</a></li> 
+             <li><i><a href="/wiki/Microsoft_Corp._v._Lindows.com,_Inc." title="Microsoft Corp. v. Lindows.com, Inc.">Microsoft v. Lindows</a></i></li> 
+             <li><i><a href="/wiki/Microsoft_v._MikeRoweSoft" title="Microsoft v. MikeRoweSoft">Microsoft v. MikeRoweSoft</a></i></li> 
+             <li><i><a href="/wiki/Microsoft_Corp._v._Shah" title="Microsoft Corp. v. Shah">Microsoft v. Shah</a></i></li> 
+             <li><i><a href="/wiki/United_States_v._Microsoft_Corp." title="United States v. Microsoft Corp.">United States v. Microsoft</a></i> (2001 antitrust case)</li> 
+             <li><a href="/wiki/Microsoft_Corp._v._United_States" title="Microsoft Corp. v. United States"><i>Microsoft Ireland</i> case</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_mergers_and_acquisitions_by_Microsoft" title="List of mergers and acquisitions by Microsoft">Acquisitions</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Wunderlist" title="Wunderlist">6Wunderkinder</a></li> 
+             <li><a href="/wiki/Altamira_Software" title="Altamira Software">Altamira Software</a></li> 
+             <li><a href="/wiki/AltspaceVR" title="AltspaceVR">AltspaceVR</a></li> 
+             <li><a href="/wiki/AQuantive" title="AQuantive">aQuantive</a></li> 
+             <li><a href="/wiki/Microsoft_Amalga" title="Microsoft Amalga">Azyxxi</a></li> 
+             <li><a class="mw-selflink selflink">The Blue Ribbon SoundWorks</a></li> 
+             <li><a href="/wiki/Mixer_(website)" class="mw-redirect" title="Mixer (website)">Beam</a></li> 
+             <li><a href="/wiki/Bungie" title="Bungie">Bungie</a></li> 
+             <li><a href="/wiki/Calista_Technologies" title="Calista Technologies">Calista Technologies</a></li> 
+             <li><a href="/wiki/Colloquis" title="Colloquis">Colloquis</a></li> 
+             <li><a href="/wiki/Connectix" title="Connectix">Connectix</a></li> 
+             <li><a href="/wiki/Consumers_Software" title="Consumers Software">Consumers Software</a></li> 
+             <li><a href="/wiki/Danger_Inc." title="Danger Inc.">Danger</a></li> 
+             <li><a href="/wiki/MSN_Travel" title="MSN Travel">Farecast</a></li> 
+             <li><a href="/wiki/FASA_Studio" title="FASA Studio">FASA Studio</a></li> 
+             <li><a href="/wiki/Microsoft_Development_Center_Norway" title="Microsoft Development Center Norway">Fast Search &amp; Transfer</a></li> 
+             <li><a href="/wiki/Firefly_(website)" title="Firefly (website)">Firefly</a></li> 
+             <li><a href="/wiki/Forethought,_Inc." title="Forethought, Inc.">Forethought</a></li> 
+             <li><a href="/wiki/Windows_Defender" title="Windows Defender">GIANT Company Software</a></li> 
+             <li><a href="/wiki/GitHub" title="GitHub">GitHub</a></li> 
+             <li><a href="/wiki/GreenButton" title="GreenButton">GreenButton</a></li> 
+             <li><a href="/wiki/Groove_Networks" title="Groove Networks">Groove Networks</a></li> 
+             <li><a href="/wiki/High_Heat_Major_League_Baseball" title="High Heat Major League Baseball">High Heat Major League Baseball</a></li> 
+             <li><a href="/wiki/Outlook.com" title="Outlook.com">Hotmail</a></li> 
+             <li><a href="/wiki/Jellyfish.com" title="Jellyfish.com">Jellyfish.com</a></li> 
+             <li><a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a></li> 
+             <li><a href="/wiki/LinkExchange" title="LinkExchange">LinkExchange</a></li> 
+             <li><a href="/wiki/Lionhead_Studios" title="Lionhead Studios">Lionhead Studios</a></li> 
+             <li><a href="/wiki/Maluuba" title="Maluuba">Maluuba</a></li> 
+             <li><a href="/wiki/Massive_Incorporated" title="Massive Incorporated">Massive Incorporated</a></li> 
+             <li><a href="/wiki/MileIQ" title="MileIQ">Mobile Data Labs</a></li> 
+             <li><a href="/wiki/Mojang" title="Mojang">Mojang</a></li> 
+             <li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Nokia Devices and Services</a></li> 
+             <li><a href="/wiki/Windows_Live_Toolbar#Onfolio" title="Windows Live Toolbar">Onfolio</a></li> 
+             <li><a href="/wiki/Pando_Networks" title="Pando Networks">Pando Networks</a></li> 
+             <li><a href="/wiki/Perceptive_Pixel" title="Perceptive Pixel">Perceptive Pixel</a></li> 
+             <li><a href="/wiki/PlaceWare" title="PlaceWare">PlaceWare</a></li> 
+             <li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li> 
+             <li><a href="/wiki/ProClarity" title="ProClarity">ProClarity</a></li> 
+             <li><a href="/wiki/Rare_(company)" title="Rare (company)">Rare</a></li> 
+             <li><a href="/wiki/Revolution_Analytics" title="Revolution Analytics">Revolution Analytics</a></li> 
+             <li><a href="/wiki/ScreenTonic" title="ScreenTonic">ScreenTonic</a></li> 
+             <li><a href="/wiki/Secure_Islands" title="Secure Islands">Secure Islands</a></li> 
+             <li><a href="/wiki/Simplygon" title="Simplygon">Simplygon</a></li> 
+             <li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype</a></li> 
+             <li><a href="/wiki/Sunrise_Calendar" title="Sunrise Calendar">Sunrise Atelier</a></li> 
+             <li><a href="/wiki/SwiftKey" title="SwiftKey">SwiftKey</a></li> 
+             <li><a href="/wiki/Sysinternals" title="Sysinternals">Winternals Software</a></li> 
+             <li><a href="/wiki/Teleo" title="Teleo">Teleo</a></li> 
+             <li><a href="/wiki/Havok_(company)" title="Havok (company)">Telekinesys Research</a></li> 
+             <li><a href="/wiki/Tellme_Networks" title="Tellme Networks">Tellme Networks</a></li> 
+             <li><a href="/wiki/Twisted_Pixel_Games" title="Twisted Pixel Games">Twisted Pixel Games</a></li> 
+             <li><a href="/wiki/Vermeer_Technologies" title="Vermeer Technologies">Vermeer Technologies</a></li> 
+             <li><a href="/wiki/Visio_Corporation" title="Visio Corporation">Visio Corporation</a></li> 
+             <li><a href="/wiki/Flux_(software)" title="Flux (software)">Vivaty</a></li> 
+             <li><a href="/wiki/VoloMetrix" title="VoloMetrix">VoloMetrix</a></li> 
+             <li><a href="/wiki/NetShow" title="NetShow">VXtreme</a></li> 
+             <li><a href="/wiki/MSN_TV" title="MSN TV">WebTV Networks</a></li> 
+             <li><a href="/wiki/Xamarin" title="Xamarin">Xamarin</a></li> 
+             <li><a href="/wiki/Yammer" title="Yammer">Yammer</a></li> 
+             <li><a href="/wiki/Yupi" title="Yupi">Yupi</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Microsoft" title="Category:Microsoft">Category</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr>
+         <td><a href="/wiki/File:Crystal128-memory.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal128-memory.svg/30px-Crystal128-memory.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal128-memory.svg/45px-Crystal128-memory.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal128-memory.svg/60px-Crystal128-memory.svg.png 2x" data-file-width="192" data-file-height="192"></a></td>
+         <td><i>This technology article about a corporation or company is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=edit">expanding it</a>.</i>
+          <div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Tech-company-stub" title="Template:Tech-company-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Tech-company-stub" title="Template talk:Tech-company-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tech-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20191021195418
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.276 seconds
+Real time usage: 0.379 seconds
+Preprocessor visited node count: 961/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58148/2097152 bytes
+Template argument size: 329/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16873/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3.85 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.682      1 -total
+ 43.18%  131.997      1 Template:Reflist
+ 37.15%  113.553      1 Template:Infobox_Company
+ 33.29%  101.774      3 Template:Cite_journal
+ 31.33%   95.784      1 Template:Infobox
+ 13.93%   42.571      4 Template:Navbox
+ 12.54%   38.333      1 Template:Microsoft
+  5.35%   16.340      1 Template:Tech-company-stub
+  5.05%   15.450      3 Template:Cite_web
+  4.91%   15.001      1 Template:Br_separated_entries
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:16948325-0!canonical and timestamp 20191021195417 and revision id 653149230
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;oldid=653149230">https://en.wikipedia.org/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;oldid=653149230</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Companies_disestablished_in_1995" title="Category:Companies disestablished in 1995">Companies disestablished in 1995</a></li>
+       <li><a href="/wiki/Category:Defunct_computer_companies_of_the_United_States" title="Category:Defunct computer companies of the United States">Defunct computer companies of the United States</a></li>
+       <li><a href="/wiki/Category:Digital_audio" title="Category:Digital audio">Digital audio</a></li>
+       <li><a href="/wiki/Category:Microsoft_acquisitions" title="Category:Microsoft acquisitions">Microsoft acquisitions</a></li>
+       <li><a href="/wiki/Category:Technological_company_stubs" title="Category:Technological company stubs">Technological company stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Blue+Ribbon+SoundWorks" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Blue+Ribbon+SoundWorks" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/The_Blue_Ribbon_SoundWorks" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:The_Blue_Ribbon_SoundWorks" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/The_Blue_Ribbon_SoundWorks">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Blue_Ribbon_SoundWorks" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Blue_Ribbon_SoundWorks" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;oldid=653149230" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4929677" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Blue_Ribbon_SoundWorks&amp;id=653149230" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Blue+Ribbon+SoundWorks">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=The+Blue+Ribbon+SoundWorks&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4929677#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 23 March 2015, at 12:41<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Blue_Ribbon_SoundWorks&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.379","ppvisitednodes":{"value":961,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58148,"limit":2097152},"templateargumentsize":{"value":329,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16873,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  305.682      1 -total"," 43.18%  131.997      1 Template:Reflist"," 37.15%  113.553      1 Template:Infobox_Company"," 33.29%  101.774      3 Template:Cite_journal"," 31.33%   95.784      1 Template:Infobox"," 13.93%   42.571      4 Template:Navbox"," 12.54%   38.333      1 Template:Microsoft","  5.35%   16.340      1 Template:Tech-company-stub","  5.05%   15.450      3 Template:Cite_web","  4.91%   15.001      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":4038326,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20191021195418","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Blue Ribbon SoundWorks","url":"https:\/\/en.wikipedia.org\/wiki\/The_Blue_Ribbon_SoundWorks","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4929677","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4929677","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-15T18:44:39Z","dateModified":"2015-03-23T12:41:56Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1328"});});</script>   
+ </body>
+</html>

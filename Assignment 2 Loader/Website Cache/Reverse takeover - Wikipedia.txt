@@ -1,0 +1,618 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Reverse takeover - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Reverse_takeover","wgTitle":"Reverse takeover","wgCurRevisionId":905257299,"wgRevisionId":905257299,"wgArticleId":1672188,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles lacking in-text citations from December 2008","All articles lacking in-text citations","Articles needing additional references from January 2008","All articles needing additional references","Articles with multiple maintenance issues","Mergers and acquisitions"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",
+"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reverse_takeover","wgRelevantArticleId":1672188,"wgRequestId":"XbmUrQpAAEUAAF8eZMgAAAAS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1020015","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":
+"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.35.0-wmf.3"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reverse_takeover"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Reverse_takeover&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Reverse_takeover&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Reverse_takeover"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]--> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Reverse_takeover rootpage-Reverse_takeover skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Reverse takeover</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav"></div> 
+    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> 
+    <a class="mw-jump-link" href="#p-search">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Acquisition of a parent company by its child
+      </div>
+      <table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+            <b>This article has multiple issues.</b> Please help 
+            <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Reverse_takeover&amp;action=edit">improve it</a></b> or discuss these issues on the 
+            <b><a href="/wiki/Talk:Reverse_takeover" title="Talk:Reverse takeover">talk page</a></b>. 
+            <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small> 
+            <div class="mw-collapsible-content" style="margin-top: 0.3em;"> 
+             <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48">
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  This article includes a 
+                  <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but 
+                  <b>its sources remain unclear</b> because it has 
+                  <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.
+                  <span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> 
+                  <small class="date-container"><i>(<span class="date">December 2008</span>)</i></small>
+                  <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table> 
+             <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  This article 
+                  <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.
+                  <span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Reverse_takeover&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Reverse+takeover%22">"Reverse takeover"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Reverse+takeover%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Reverse+takeover%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Reverse+takeover%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Reverse+takeover%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Reverse+takeover%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> 
+                  <small class="date-container"><i>(<span class="date">January 2008</span>)</i></small>
+                  <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table> 
+            </div> 
+           </div>
+           <small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>A <b>reverse takeover</b> or <b>reverse merger takeover</b> (reverse <a href="/wiki/Initial_public_offering" title="Initial public offering">IPO</a>) is the acquisition of a <a href="/wiki/Public_company" title="Public company">public company</a> by a <a href="/wiki/Private_company" class="mw-redirect" title="Private company">private company</a> so that the private company can bypass the lengthy and complex process of going public.<sup id="cite_ref-ReverseMergers_1-0" class="reference"><a href="#cite_note-ReverseMergers-1">[1]</a></sup> The transaction typically requires reorganization of capitalization of the acquiring company.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sometimes, conversely, the private company is bought by the public listed company through an asset swap and share issue.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <div id="toc" class="toc">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2>Contents</h2>
+        <span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Process"><span class="tocnumber">1</span> <span class="toctext">Process</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Benefits"><span class="tocnumber">2</span> <span class="toctext">Benefits</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Drawbacks"><span class="tocnumber">3</span> <span class="toctext">Drawbacks</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Future_financing"><span class="tocnumber">4</span> <span class="toctext">Future financing</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Process">Process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=1" title="Edit section: Process">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In a reverse takeover, shareholders of the private company purchase control of the public <a href="/wiki/Shell_(corporation)" class="mw-redirect" title="Shell (corporation)">shell company</a> and then merge it with the private company. The publicly traded corporation is called a "shell" since all that exists of the original company is its organizational structure. The private company shareholders receive a substantial majority of the shares of the public company and control of its <a href="/wiki/Board_of_directors" title="Board of directors">board of directors</a>. The transaction can be accomplished within weeks. </p>
+      <p>The transaction involves the private and shell company exchanging information on each other, negotiating the merger terms, and signing a share exchange agreement. At the closing, the shell company issues a substantial majority of its shares and board control to the shareholders of the private company. The private company's shareholders pay for the shell company by contributing their shares in the private company to the shell company that they now control. This share exchange and change of control completes the reverse takeover, transforming the formerly privately held company into a publicly held company. </p>
+      <p>In the United States, if the shell is an <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">SEC</a>-registered company, the private company does not go through an expensive and time-consuming review with state and federal regulators because this process was completed beforehand with the public company. However, a comprehensive disclosure document containing audited financial statements and significant legal disclosures is required by the <a href="/wiki/U.S._Securities_and_Exchange_Commission" title="U.S. Securities and Exchange Commission">Securities and Exchange Commission</a> for reporting issuers. The disclosure is filed on Form 8-K and is filed immediately upon completion of the reverse merger transaction. </p> 
+      <h2><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=2" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The advantages of public trading status include the possibility of commanding a higher price for a later offering of the company's securities. Going public through a reverse takeover allows a privately held company to become publicly held at a lesser cost, and with less <a href="/wiki/Stock_dilution" title="Stock dilution">stock dilution</a> than through an <a href="/wiki/Initial_public_offering" title="Initial public offering">initial public offering</a> (IPO). While the process of going public and raising capital is combined in an IPO, in a reverse takeover, these two functions are separate. A company can go public without raising additional capital. Separating these two functions greatly simplifies the process. </p>
+      <p>In addition, a reverse takeover is less susceptible to <a href="/wiki/Financial_markets" class="mw-redirect" title="Financial markets">market</a> conditions. Conventional IPOs are risky for companies to undertake because the deal relies on market conditions, over which senior management has little control. If the market is off, the underwriter may pull the offering. The market also does not need to plunge wholesale. If a company in registration participates in an industry that's making unfavorable headlines, investors may shy away from the deal. In a reverse takeover, since the deal rests solely between those controlling the public and private companies, market conditions have little bearing on the situation. </p>
+      <p>The process for a conventional IPO can last for a year or more. When a company transitions from an entrepreneurial venture to a public company fit for outside ownership, how time is spent by strategic managers can be beneficial or detrimental. Time spent in meetings and drafting sessions related to an IPO can have a disastrous effect on the growth upon which the offering is predicated, and may even nullify it. In addition, during the many months it takes to put an IPO together, market conditions can deteriorate, making the completion of an IPO unfavorable. By contrast, a reverse takeover can be completed in as little as thirty days. </p>
+      <p>A 2013 study by Charles Lee of <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> found that: "Chinese reverse mergers performed much better than their reputation" and had performed better than other similar sized publicly traded companies in the same industrial sector.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Drawbacks">Drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=3" title="Edit section: Drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Reverse takeovers always come with some history and some shareholders. Sometimes this history can be bad and manifest itself in the form of currently sloppy records, pending lawsuits and other unforeseen liabilities. Additionally, these shells may sometimes come with angry or deceitful shareholders who are anxious to "dump" their stock at the first chance they get. </p>
+      <p>One way the acquiring or surviving company can safeguard against the "dump" after the takeover is consummated is by requiring a lockup on the shares owned by the group from which they are purchasing the public shell. Other shareholders that have held stock as investors in the company being acquired pose no threat in a dump scenario because the number of shares they hold is not significant. </p>
+      <p>On June 9, 2011, the United States <a href="/wiki/Securities_and_Exchange_Commission" class="mw-redirect" title="Securities and Exchange Commission">Securities and Exchange Commission</a> issued an investor bulletin cautioning investors about investing in reverse mergers, stating that they may be prone to fraud and other abuses.<sup id="cite_ref-ReverseMergers_1-1" class="reference"><a href="#cite_note-ReverseMergers-1">[1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>Reverse mergers may have other drawbacks. Private-company CEOs may be naive and inexperienced in the world of publicly traded companies unless they have past experience as an officer or director of a public company. In addition, reverse merger transactions only introduce liquidity to a previously private stock if there is bona fide public interest in the company. A comprehensive investor relations and investor marketing program may be an indirect cost of a reverse merger. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Future_financing">Future financing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=4" title="Edit section: Future financing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The greater number of financing options available to publicly held companies is a primary reason to undergo a reverse takeover. These financing options include: </p> 
+      <ul>
+       <li>The issuance of additional stock in a secondary offering.</li> 
+       <li>An exercise of warrants, where stockholders have the right to purchase additional shares in a company at predetermined prices. When many shareholders with warrants exercise their option to purchase additional shares, the company receives an infusion of capital.</li> 
+       <li>Other investors are more likely to invest in a company via a private offering of stock when a mechanism to sell their stock is in place should the company be successful.</li>
+      </ul> 
+      <p>In addition, the now-publicly held company obtains the benefits of public trading of its securities: </p> 
+      <ul>
+       <li>Increased liquidity of company stock.</li> 
+       <li>Possible higher company <a href="/wiki/Valuation_(finance)" title="Valuation (finance)">valuation.</a></li> 
+       <li>Greater access to capital markets.</li> 
+       <li>Ability to acquire other companies through stock transactions.</li> 
+       <li>Ability to use stock incentive plans to attract and retain employees.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=5" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In all of these cases—except for that of <a href="/wiki/US_Airways" title="US Airways">US Airways</a> and <a href="/wiki/America_West_Airlines" title="America West Airlines">America West Airlines</a>—shareholders of the acquiree controlled the resulting entity. With US Airways and America West Airlines, US Airways creditors (not shareholders) were left with control. </p> 
+      <ul>
+       <li>The corporate shell of REO Motor Car Company (whose sole asset was a tax loss carryover), in what amounted to a reverse "hostile" takeover, was forced by dissident shareholders to acquire a small publicly traded company, Nuclear Consultants. Eventually this company became the modern-day <a href="/wiki/Nucor" title="Nucor">Nucor</a>.</li> 
+       <li><a href="/wiki/ValuJet_Airlines" title="ValuJet Airlines">ValuJet Airlines</a> was acquired by AirWays Corp. to form <a href="/wiki/AirTran_Holdings" title="AirTran Holdings">AirTran Holdings</a>, with the goal of shedding the tarnished reputation of the former.</li> 
+       <li><a href="/wiki/A%C3%A9rospatiale" title="Aérospatiale">Aérospatiale</a> was acquired by <a href="/wiki/Matra" title="Matra">Matra</a> to form <a href="/wiki/A%C3%A9rospatiale-Matra" title="Aérospatiale-Matra">Aérospatiale-Matra</a>, with the goal of taking the former, a state-owned company, public.</li> 
+       <li>The game company <a href="/wiki/Atari" title="Atari">Atari</a> was acquired by <a href="/wiki/JT_Storage" title="JT Storage">JT Storage</a>, as marriage of convenience.<sup id="cite_ref-atarijts_7-0" class="reference"><a href="#cite_note-atarijts-7">[7]</a></sup></li> 
+       <li><a href="/wiki/US_Airways" title="US Airways">US Airways</a> was acquired by <a href="/wiki/America_West_Airlines" title="America West Airlines">America West Airlines</a>, with the goal of removing the former from <a href="/wiki/Chapter_11_bankruptcy" class="mw-redirect" title="Chapter 11 bankruptcy">Chapter 11 bankruptcy</a>.</li> 
+       <li>The <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a> was acquired by Archipelago Holdings to form <a href="/wiki/NYSE_Group" class="mw-redirect" title="NYSE Group">NYSE Group</a>, with the goal of taking the former, a <a href="/wiki/Mutual_company" class="mw-redirect" title="Mutual company">mutual company</a>, public.</li> 
+       <li><a href="/wiki/Citadel_Media" class="mw-redirect" title="Citadel Media">ABC Radio</a> was acquired by <a href="/wiki/Citadel_Broadcasting_Corporation" class="mw-redirect" title="Citadel Broadcasting Corporation">Citadel Broadcasting Corporation</a>, with the goal of spinning the former off from its parent, <a href="/wiki/Disney" class="mw-redirect" title="Disney">Disney</a>.</li> 
+       <li><a href="/wiki/CBS_Radio" title="CBS Radio">CBS Radio</a> was acquired by <a href="/wiki/Entercom" title="Entercom">Entercom</a>, with the goal of spinning the former off from its parent, <a href="/wiki/CBS_Corporation" title="CBS Corporation">CBS Corporation</a></li> 
+       <li><a href="/wiki/Frederick%27s_of_Hollywood" title="Frederick's of Hollywood">Frederick's of Hollywood</a> parent FOH Holdings was acquired by apparel maker <a href="/wiki/Movie_Star" title="Movie Star">Movie Star</a> in order to take the larger lingerie maker public.<sup id="cite_ref-reuters_20061219_8-0" class="reference"><a href="#cite_note-reuters_20061219-8">[8]</a></sup></li> 
+       <li><a href="/wiki/Eddie_Stobart" title="Eddie Stobart">Eddie Stobart</a> in a reverse takeover with <a href="/wiki/Westbury_Property_Fund" class="mw-redirect" title="Westbury Property Fund">Westbury Property Fund</a> allowing transport by ship, road, rail, or boat to and within the UK, using only one company.</li> 
+       <li><a href="/wiki/Clearwire" title="Clearwire">Clearwire</a> acquired <a href="/wiki/Sprint_Corporation" title="Sprint Corporation">Sprint</a>'s <a href="/wiki/Xohm" title="Xohm">Xohm</a> division, taking the former company's name and with Sprint holding a controlling stake, leaving the resulting company publicly traded.</li> 
+       <li><a href="/wiki/T-Mobile_US" title="T-Mobile US">T-Mobile US</a> which was called T-Mobile USA, Inc. at the time acquired <a href="/wiki/MetroPCS" class="mw-redirect" title="MetroPCS">MetroPCS</a> and after the merger was completed changed the company name to T-Mobile US and began trading on the New York Stock Exchange as TMUS.</li> 
+       <li>When the <a href="/wiki/Holland_America_Line" title="Holland America Line">Holland America Line</a> (HAL) was sold to <a href="/wiki/Carnival_Corporation_%26_plc" title="Carnival Corporation &amp; plc">Carnival Corporation &amp; plc</a> in 1989, the former owners (the Van der Vorm family) put the proceeds in an investment company (HAL Investments), using the <a href="/wiki/Cruise_line" title="Cruise line">cruise line</a>'s former Dutch listing to go public.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Capital_formation" title="Capital formation">Capital formation</a></li> 
+       <li><a href="/wiki/Initial_public_offering" title="Initial public offering">Initial public offering</a></li> 
+       <li><a href="/wiki/Private_company" class="mw-redirect" title="Private company">Private company</a></li> 
+       <li><a href="/wiki/Public_company" title="Public company">Public company</a></li> 
+       <li><a href="/wiki/Private_investment_in_public_equity" title="Private investment in public equity">Private investment in public equity</a></li> 
+       <li><a href="/wiki/Limited_company" title="Limited company">Limited company</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-ReverseMergers-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReverseMergers_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReverseMergers_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/investor/alerts/reversemergers.pdf">"Investor Bulletin: Reverse Mergers"</a> <span class="cs1-format">(PDF)</span>. U.S. SEC Office of Investor Education and Advocacy. June 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Investor+Bulletin%3A+Reverse+Mergers&amp;rft.pub=U.S.+SEC+Office+of+Investor+Education+and+Advocacy&amp;rft.date=2011-06&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2Finvestor%2Falerts%2Freversemergers.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.investopedia.com/terms/r/reversetakeover.asp">"Reverse Takeover (RTO) Definition | Investopedia"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Reverse+Takeover+%28RTO%29+Definition+%7C+Investopedia&amp;rft_id=http%3A%2F%2Fwww.investopedia.com%2Fterms%2Fr%2Freversetakeover.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Goh, Brenda. <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-yto-m-a-dayang-trands-idUSKCN0WO1XD">"Alibaba-backed courier YTO Express to list via $2.7 billion reverse..."</a> <i>reuters.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reuters.com&amp;rft.atitle=Alibaba-backed+courier+YTO+Express+to+list+via+%242.7+billion+reverse...&amp;rft.aulast=Goh&amp;rft.aufirst=Brenda&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-yto-m-a-dayang-trands-idUSKCN0WO1XD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Andrews, Edmund L. (14 November 2014). <a rel="nofollow" class="external text" href="http://www.gsb.stanford.edu/news/headlines/charles-lee-chinese-reverse-mergers-performed-better-than-their-reputation-suggested">"Charles Lee: Chinese Reverse Mergers Performed Better Than Their Reputation Suggested"</a>. <a href="/wiki/Stanford_Graduate_School_of_Business" title="Stanford Graduate School of Business">Stanford Graduate School of Business</a>. Retrieved 11 September 2014.</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Gallu, Joshua (June 9, 2011). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/2011-06-09/-reverse-merger-stocks-may-be-prone-to-fraud-abuse-sec-says-in-warning.html">"<span class="cs1-kern-left">'</span>Reverse-Merger' Stocks May Be Prone to Fraud, Abuse, SEC Says in Warning"</a>. <i>Bloomberg</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg&amp;rft.atitle=%E2%80%98Reverse-Merger%27+Stocks+May+Be+Prone+to+Fraud%2C+Abuse%2C+SEC+Says+in+Warning&amp;rft.date=2011-06-09&amp;rft.aulast=Gallu&amp;rft.aufirst=Joshua&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2011-06-09%2F-reverse-merger-stocks-may-be-prone-to-fraud-abuse-sec-says-in-warning.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.investopedia.com/articles/stocks/09/introduction-reverse-mergers.asp">"Reverse Mergers: The Pros And Cons"</a>. <i>Investopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Investopedia&amp;rft.atitle=Reverse+Mergers%3A+The+Pros+And+Cons&amp;rft_id=http%3A%2F%2Fwww.investopedia.com%2Farticles%2Fstocks%2F09%2Fintroduction-reverse-mergers.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-atarijts-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-atarijts_7-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBloomberg_Business_NEws1996" class="citation">Bloomberg Business NEws (February 14, 1996), <a rel="nofollow" class="external text" href="https://query.nytimes.com/gst/fullpage.html?res=9A0CE5DB1239F937A25751C0A960958260">"Atari Agrees To Merge With Disk-Drive Maker"</a>, <i>New York Times</i>, p.&nbsp;1</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Atari+Agrees+To+Merge+With+Disk-Drive+Maker&amp;rft.pages=1&amp;rft.date=1996-02-14&amp;rft.au=Bloomberg+Business+NEws&amp;rft_id=https%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9A0CE5DB1239F937A25751C0A960958260&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReverse+takeover" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"></span> </li> 
+         <li id="cite_note-reuters_20061219-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-reuters_20061219_8-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="https://www.usatoday.com/money/industries/retail/2006-12-19-fredericks_x.htm">Frederick's of Hollywood goes public with merger</a>." <a href="/wiki/Reuters" title="Reuters">Reuters</a>. December 19, 2006.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>William K. Sjostrom, Jr., <a rel="nofollow" class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1028651">The Truth About Reverse Mergers</a>, Entrepreneurial Business Law Journal</li> 
+       <li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=_Ix_n0tfnMs&amp;list=UUGwuxdEeCf0TIA2RbPOj-8g&amp;index=393">Are Chinese Reverse Mergers Toxic?</a>, Prof. Charles Lee, <i><a href="/wiki/Stanford_Graduate_School_of_Business" title="Stanford Graduate School of Business">Stanford Graduate School of Business</a></i></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Corporate_finance_and_investment_banking" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div class="plainlinks hlist navbar mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Corporate_finance_and_investment_banking" title="Template:Corporate finance and investment banking"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Corporate_finance_and_investment_banking" title="Template talk:Corporate finance and investment banking"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Corporate_finance_and_investment_banking&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Corporate_finance_and_investment_banking" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Corporate_finance" title="Corporate finance">Corporate finance</a> and 
+            <a href="/wiki/Investment_banking" title="Investment banking">investment banking</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a href="/wiki/Capital_structure" title="Capital structure">Capital structure</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Convertible_bond" title="Convertible bond">Convertible debt</a></li> 
+             <li><a href="/wiki/Exchangeable_bond" title="Exchangeable bond">Exchangeable debt</a></li> 
+             <li><a href="/wiki/Mezzanine_capital" title="Mezzanine capital">Mezzanine debt</a></li> 
+             <li><a href="/wiki/Pari_passu" title="Pari passu">Pari passu</a></li> 
+             <li><a href="/wiki/Preferred_stock" title="Preferred stock">Preferred equity</a></li> 
+             <li><a href="/wiki/Second_lien_loan" title="Second lien loan">Second lien debt</a></li> 
+             <li><a href="/wiki/Senior_debt" title="Senior debt">Senior debt</a></li> 
+             <li><a href="/wiki/Secured_loan" title="Secured loan">Senior secured debt</a></li> 
+             <li><a href="/wiki/Shareholder_loan" title="Shareholder loan">Shareholder loan</a></li> 
+             <li><a href="/wiki/Stock" title="Stock">Stock</a></li> 
+             <li><a href="/wiki/Subordinated_debt" title="Subordinated debt">Subordinated debt</a></li> 
+             <li><a href="/wiki/Warrant_(finance)" title="Warrant (finance)">Warrant</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Wall_Street_Sign_NYC.jpg" class="image"><img alt="Wall Street" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/90px-Wall_Street_Sign_NYC.jpg" decoding="async" width="90" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/135px-Wall_Street_Sign_NYC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wall_Street_Sign_NYC.jpg/180px-Wall_Street_Sign_NYC.jpg 2x" data-file-width="4000" data-file-height="3000"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;">Transactions<br><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(terms/conditions)</span></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Stock" title="Stock">Equity offerings</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/At-the-market_offering" title="At-the-market offering">At-the-market offering</a></li> 
+                 <li><a href="/wiki/Book_building" title="Book building">Book building</a></li> 
+                 <li><a href="/wiki/Bookrunner" title="Bookrunner">Bookrunner</a></li> 
+                 <li><a href="/wiki/Bought_deal" title="Bought deal">Bought deal</a></li> 
+                 <li><a href="/wiki/Bought_out_deal" title="Bought out deal">Bought out deal</a></li> 
+                 <li><a href="/wiki/Corporate_spin-off" title="Corporate spin-off">Corporate spin-off</a></li> 
+                 <li><a href="/wiki/Equity_carve-out" title="Equity carve-out">Equity carve-out</a></li> 
+                 <li><a href="/wiki/Follow-on_offering" title="Follow-on offering">Follow-on offering</a></li> 
+                 <li><a href="/wiki/Greenshoe" title="Greenshoe">Greenshoe</a> 
+                  <ul>
+                   <li><a href="/wiki/Reverse_greenshoe" title="Reverse greenshoe">Reverse</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Initial_public_offering" title="Initial public offering">Initial public offering</a></li> 
+                 <li><a href="/wiki/Private_placement" title="Private placement">Private placement</a></li> 
+                 <li><a href="/wiki/Public_offering" title="Public offering">Public offering</a></li> 
+                 <li><a href="/wiki/Rights_issue" title="Rights issue">Rights issue</a></li> 
+                 <li><a href="/wiki/Seasoned_equity_offering" title="Seasoned equity offering">Seasoned equity offering</a></li> 
+                 <li><a href="/wiki/Secondary_market_offering" title="Secondary market offering">Secondary market offering</a></li> 
+                 <li><a href="/wiki/Underwriting" title="Underwriting">Underwriting</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Mergers and<br>acquisitions</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Buy_side" title="Buy side">Buy side</a></li> 
+                 <li><a href="/wiki/Control_premium" title="Control premium">Control premium</a></li> 
+                 <li><a href="/wiki/Demerger" title="Demerger">Demerger</a></li> 
+                 <li><a href="/wiki/Divestment" title="Divestment">Divestment</a></li> 
+                 <li><a href="/wiki/Drag-along_right" title="Drag-along right">Drag-along right</a></li> 
+                 <li><a href="/wiki/Management_due_diligence" title="Management due diligence">Management due diligence</a></li> 
+                 <li><a href="/wiki/Managerial_entrenchment" class="mw-redirect" title="Managerial entrenchment">Managerial entrenchment</a></li> 
+                 <li><a href="/wiki/Minority_discount" title="Minority discount">Minority discount</a></li> 
+                 <li><a href="/wiki/Pitch_book" title="Pitch book">Pitch book</a></li> 
+                 <li><a href="/wiki/Pre-emption_right" title="Pre-emption right">Pre-emption right</a></li> 
+                 <li><a href="/wiki/Proxy_fight" title="Proxy fight">Proxy fight</a></li> 
+                 <li><a href="/wiki/Post-merger_integration" title="Post-merger integration">Post-merger integration</a></li> 
+                 <li><a href="/wiki/Sell_side" title="Sell side">Sell side</a></li> 
+                 <li><a href="/wiki/Shareholder_rights_plan" title="Shareholder rights plan">Shareholder rights plan</a></li> 
+                 <li><a href="/wiki/Special-purpose_entity" title="Special-purpose entity">Special-purpose entity</a></li> 
+                 <li><a href="/wiki/Special_situation" title="Special situation">Special situation</a></li> 
+                 <li><a href="/wiki/Squeeze-out" title="Squeeze-out">Squeeze-out</a></li> 
+                 <li><a href="/wiki/Staggered_board_of_directors" class="mw-redirect" title="Staggered board of directors">Staggered board of directors</a></li> 
+                 <li><a href="/wiki/Stock_swap" title="Stock swap">Stock swap</a></li> 
+                 <li><a href="/wiki/Super-majority_amendment" class="mw-redirect" title="Super-majority amendment">Super-majority amendment</a></li> 
+                 <li><a href="/wiki/Tag-along_right" title="Tag-along right">Tag-along right</a></li> 
+                 <li><a href="/wiki/Takeover" title="Takeover">Takeover</a> 
+                  <ul>
+                   <li><a class="mw-selflink selflink">Reverse</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Tender_offer" title="Tender offer">Tender offer</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em;"><a href="/wiki/Leverage_(finance)" title="Leverage (finance)">Leverage</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Debt_restructuring" title="Debt restructuring">Debt restructuring</a></li> 
+                 <li><a href="/wiki/Debtor-in-possession_financing" title="Debtor-in-possession financing">Debtor-in-possession financing</a></li> 
+                 <li><a href="/wiki/Financial_sponsor" title="Financial sponsor">Financial sponsor</a></li> 
+                 <li><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged buyout</a></li> 
+                 <li><a href="/wiki/Leveraged_recapitalization" title="Leveraged recapitalization">Leveraged recapitalization</a></li> 
+                 <li><a href="/wiki/High-yield_debt" title="High-yield debt">High-yield debt</a></li> 
+                 <li><a href="/wiki/Private_equity" title="Private equity">Private equity</a></li> 
+                 <li><a href="/wiki/Project_finance" title="Project finance">Project finance</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%;line-height:1.3em; text-align:left;"><a href="/wiki/Valuation_(finance)" title="Valuation (finance)">Valuation</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Accretion/dilution_analysis" title="Accretion/dilution analysis">Accretion/dilution analysis</a></li> 
+             <li><a href="/wiki/Adjusted_present_value" title="Adjusted present value">Adjusted present value</a></li> 
+             <li><a href="/wiki/Associate_company" title="Associate company">Associate company</a></li> 
+             <li><a href="/wiki/Business_valuation" title="Business valuation">Business valuation</a></li> 
+             <li><a href="/wiki/Conglomerate_discount" title="Conglomerate discount">Conglomerate discount</a></li> 
+             <li><a href="/wiki/Cost_of_capital" title="Cost of capital">Cost of capital</a> 
+              <ul>
+               <li><a href="/wiki/Weighted_average_cost_of_capital" title="Weighted average cost of capital">Weighted average</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Discounted_cash_flow" title="Discounted cash flow">Discounted cash flow</a></li> 
+             <li><a href="/wiki/Economic_value_added" title="Economic value added">Economic value added</a></li> 
+             <li><a href="/wiki/Enterprise_value" title="Enterprise value">Enterprise value</a></li> 
+             <li><a href="/wiki/Fairness_opinion" title="Fairness opinion">Fairness opinion</a></li> 
+             <li><a href="/wiki/Financial_modeling" title="Financial modeling">Financial modeling</a></li> 
+             <li><a href="/wiki/Free_cash_flow" title="Free cash flow">Free cash flow</a> 
+              <ul>
+               <li><a href="/wiki/Free_cash_flow_to_equity" title="Free cash flow to equity">Free cash flow to equity</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Market_value_added" title="Market value added">Market value added</a></li> 
+             <li><a href="/wiki/Minority_interest" title="Minority interest">Minority interest</a></li> 
+             <li><a href="/wiki/Modigliani%E2%80%93Miller_theorem" title="Modigliani–Miller theorem">Modigliani–Miller theorem</a></li> 
+             <li><a href="/wiki/Net_present_value" title="Net present value">Net present value</a></li> 
+             <li><a href="/wiki/Pure_play#Pure_play_method" title="Pure play">Pure play</a></li> 
+             <li><a href="/wiki/Real_options_valuation" title="Real options valuation">Real options</a></li> 
+             <li><a href="/wiki/Residual_income_valuation" title="Residual income valuation">Residual income</a></li> 
+             <li><a href="/wiki/Stock_valuation" title="Stock valuation">Stock valuation</a></li> 
+             <li><a href="/wiki/Sum-of-the-parts_analysis" title="Sum-of-the-parts analysis">Sum-of-the-parts analysis</a></li> 
+             <li><a href="/wiki/Tax_shield" title="Tax shield">Tax shield</a></li> 
+             <li><a href="/wiki/Terminal_value_(finance)" title="Terminal value (finance)">Terminal value</a></li> 
+             <li><a href="/wiki/Valuation_using_multiples" title="Valuation using multiples">Valuation using multiples</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div> 
+            <ul>
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/List_of_investment_banks" title="List of investment banks">List of investment banks</a></li> 
+             <li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Outline_of_finance" title="Outline of finance">Outline of finance</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20191013004839
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.308 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 796/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65054/2097152 bytes
+Template argument size: 8594/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18940/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 4.38 MB/50 MB
+--> 
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  370.219      1 -total
+ 52.30%  193.631      3 Template:Ambox
+ 38.42%  142.245      1 Template:Reflist
+ 34.95%  129.376      1 Template:Multiple_issues
+ 29.14%  107.884      4 Template:Cite_web
+ 15.30%   56.658      1 Template:Refimprove
+ 12.38%   45.845      1 Template:Short_description
+ 12.04%   44.577      1 Template:Corporate_finance_and_investment_banking
+ 11.87%   43.954      1 Template:Find_sources_mainspace
+ 11.62%   43.009      2 Template:Navbox
+--> 
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:1672188-0!canonical and timestamp 20191013004838 and revision id 905257299
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reverse_takeover&amp;oldid=905257299">https://en.wikipedia.org/w/index.php?title=Reverse_takeover&amp;oldid=905257299</a>"
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Mergers_and_acquisitions" title="Category:Mergers and acquisitions">Mergers and acquisitions</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2008" title="Category:Articles lacking in-text citations from December 2008">Articles lacking in-text citations from December 2008</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2008" title="Category:Articles needing additional references from January 2008">Articles needing additional references from January 2008</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">Personal tools</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">Not logged in</li>
+      <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Reverse+takeover" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Reverse+takeover" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Reverse_takeover" title="View the content page [c]" accesskey="c">Article</a></span></li>
+       <li id="ca-talk"><span><a href="/wiki/Talk:Reverse_takeover" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">Views</h3> 
+      <ul> 
+       <li id="ca-view" class="collapsible selected"><span><a href="/wiki/Reverse_takeover">Read</a></span></li>
+       <li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Reverse_takeover&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Reverse_takeover&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>More</span></h3> 
+      <ul class="menu"> 
+      </ul> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="Special:Search" name="title">
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+       <li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label"> 
+     <h3 id="p-interaction-label">Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">Tools</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Reverse_takeover" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Reverse_takeover" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Reverse_takeover&amp;oldid=905257299" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Reverse_takeover&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1020015" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reverse_takeover&amp;id=905257299" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reverse+takeover">Create a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Reverse+takeover&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Reverse_takeover&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/B%C3%B6rsenmantel" title="Börsenmantel – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B5%D8%A7%D8%AD%D8%A8_%D9%85%D8%B9%DA%A9%D9%88%D8%B3" title="تصاحب معکوس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Reverse_listing" title="Reverse listing – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%80%86%E3%81%95%E5%90%88%E4%BD%B5" title="逆さ合併 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Обратное поглощение – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Omv%C3%A4nt_f%C3%B6rv%C3%A4rv" title="Omvänt förvärv – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ti%E1%BA%BFp_qu%E1%BA%A3n_ng%C6%B0%E1%BB%A3c" title="Tiếp quản ngược – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%80%9F%E6%AE%BC%E4%B8%8A%E5%B8%82" title="借殼上市 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1020015#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 July 2019, at 23:30<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Reverse_takeover&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </div> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.446","ppvisitednodes":{"value":796,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":65054,"limit":2097152},"templateargumentsize":{"value":8594,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18940,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  370.219      1 -total"," 52.30%  193.631      3 Template:Ambox"," 38.42%  142.245      1 Template:Reflist"," 34.95%  129.376      1 Template:Multiple_issues"," 29.14%  107.884      4 Template:Cite_web"," 15.30%   56.658      1 Template:Refimprove"," 12.38%   45.845      1 Template:Short_description"," 12.04%   44.577      1 Template:Corporate_finance_and_investment_banking"," 11.87%   43.954      1 Template:Find_sources_mainspace"," 11.62%   43.009      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":4592052,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20191013004839","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Reverse takeover","url":"https:\/\/en.wikipedia.org\/wiki\/Reverse_takeover","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1020015","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1020015","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-30T23:57:08Z","dateModified":"2019-07-07T23:30:01Z","headline":"acquisition of a parent company by its child"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1274"});});</script>   
+ </body>
+</html>
